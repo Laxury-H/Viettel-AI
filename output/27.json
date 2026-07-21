@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "text": "hội chứng turner",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      48,
+      64
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      87,
+      100
+    ]
+  },
+  {
+    "text": "Ung thư đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      146,
+      163
+    ]
+  },
+  {
+    "text": "Thuyên tắc phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      178,
+      193
+    ]
+  },
+  {
+    "text": "coumadin",
+    "type": "THUỐC",
+    "candidates": [
+      "202421"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      204,
+      212
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      412,
+      419
+    ]
+  },
+  {
+    "text": "Cảm giác có đờm ở cổ họng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      470,
+      495
+    ]
+  },
+  {
+    "text": "Cần phải ho nó ra",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      502,
+      519
+    ]
+  },
+  {
+    "text": "albuterolipratropium nebs x2",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1018,
+      1046
+    ]
+  },
+  {
+    "text": "metoprolol 5mg iv x2",
+    "type": "THUỐC",
+    "candidates": [
+      "6918"
+    ],
+    "assertions": [],
+    "position": [
+      1053,
+      1073
+    ]
+  }
+]

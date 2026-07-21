@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "text": "vàng da không đau",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      118,
+      135
+    ]
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      138,
+      142
+    ]
+  },
+  {
+    "text": "giãn đường dẫn mật trong gan ở ống mật chủ 15 mm tại mức tuyến tụy",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      311,
+      377
+    ]
+  },
+  {
+    "text": "khối phình to 2 cm ở nhúm tá tràng lớn với gợi ý về một khối khối u lân cận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      438,
+      513
+    ]
+  },
+  {
+    "text": "một chỗ hẹp đơn lẻ được thấy, dài 7 mm ở một phần ba dưới của ống mật chủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      516,
+      589
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tuyến, biệt hóa vừa phải đến kém",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      653,
+      701
+    ]
+  },
+  {
+    "text": "u ác của đầu tuỵ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1387,
+      1403
+    ]
+  },
+  {
+    "text": "tăng các xét nghiệm chức năng gan",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      181,
+      214
+    ]
+  },
+  {
+    "text": "bilirubin",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      218,
+      227
+    ]
+  }
+]

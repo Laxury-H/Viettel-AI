@@ -1,1 +1,62 @@
-[]
+[
+  {
+    "text": "vết thương thấu bụng giữa bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      37,
+      71
+    ]
+  },
+  {
+    "text": "vết thương thấu bụng giữa bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      95,
+      129
+    ]
+  },
+  {
+    "text": "ổn định về mặt huyết động",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      167,
+      192
+    ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct) sọ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      257,
+      285
+    ]
+  },
+  {
+    "text": "độ dày niêm mạc xoang hàm dày lên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      305,
+      338
+    ]
+  },
+  {
+    "text": "nội soi ổ bụng chẩn đoán",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      438,
+      462
+    ]
+  }
+]

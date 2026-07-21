@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "text": "FNA của một nốt sần tuyến giáp phải có cấu trúc vi nang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      74,
+      129
+    ]
+  },
+  {
+    "text": "đau vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      156,
+      177
+    ]
+  },
+  {
+    "text": "siêu âm cho thấy sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      220,
+      244
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt bỏ tuyến giáp toàn bộ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      292,
+      328
+    ]
+  },
+  {
+    "text": "cắt túi mật nội soi",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      259,
+      278
+    ]
+  }
+]

@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "text": "Bệnh túi thừa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      53,
+      66
+    ]
+  },
+  {
+    "text": "colace",
+    "type": "THUỐC",
+    "candidates": [
+      "82000"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      175,
+      181
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      230,
+      238
+    ]
+  },
+  {
+    "text": "đau hố chậu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      295,
+      306
+    ]
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      355,
+      362
+    ]
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "candidates": [
+      "202433"
+    ],
+    "assertions": [],
+    "position": [
+      618,
+      625
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      772,
+      780
+    ]
+  },
+  {
+    "text": "thiếu máu hồng cầu nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1366,
+      1388
+    ]
+  },
+  {
+    "text": "viêm túi mật cấp tính không biến chứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1567,
+      1605
+    ]
+  }
+]

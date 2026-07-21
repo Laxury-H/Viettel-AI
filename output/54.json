@@ -1,1 +1,188 @@
-[]
+[
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "candidates": [
+      "11124"
+    ],
+    "assertions": [],
+    "position": [
+      298,
+      308
+    ]
+  },
+  {
+    "text": "ceftazidime",
+    "type": "THUỐC",
+    "candidates": [
+      "2191"
+    ],
+    "assertions": [],
+    "position": [
+      311,
+      322
+    ]
+  },
+  {
+    "text": "amiodarone",
+    "type": "THUỐC",
+    "candidates": [
+      "703"
+    ],
+    "assertions": [],
+    "position": [
+      325,
+      335
+    ]
+  },
+  {
+    "text": "thay thế bicarbonate",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      338,
+      358
+    ]
+  },
+  {
+    "text": "tái phát u ác trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2892,
+      2916
+    ]
+  },
+  {
+    "text": "ung thư biểu mô tế bào thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      66,
+      93
+    ]
+  },
+  {
+    "text": "cắt bỏ một phần thận phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      98,
+      123
+    ]
+  },
+  {
+    "text": "cắt bỏ tuyến thượng thận phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      212,
+      241
+    ]
+  },
+  {
+    "text": "DC cardioversion",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      244,
+      260
+    ]
+  },
+  {
+    "text": "suy thận cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      479,
+      491
+    ]
+  },
+  {
+    "text": "tái phát u ác trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      39,
+      63
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1633,
+      1642
+    ]
+  },
+  {
+    "text": "phân và máu trong trực tràng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1645,
+      1673
+    ]
+  },
+  {
+    "text": "viêm phổi thuỳ, không đặc hiệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      655,
+      685
+    ]
+  },
+  {
+    "text": "rung nhĩ điển hình kèm theo đáp ứng thất nhanh và rối loạn huyết động",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      815,
+      884
+    ]
+  },
+  {
+    "text": "rối loạn cân bằng kiềm toan phối hợp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      977,
+      1013
+    ]
+  },
+  {
+    "text": "sưng, sưng nhẹ, đau nhẹ ở mắt cá chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1825,
+      1867
+    ]
+  }
+]

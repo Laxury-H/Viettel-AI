@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "text": "Bệnh bạch cầu dòng tủy mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      57,
+      88
+    ]
+  },
+  {
+    "text": "tăng cholesterol máu đơn thuần",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      95,
+      125
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      132,
+      145
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "candidates": [
+      "282386"
+    ],
+    "assertions": [],
+    "position": [
+      190,
+      197
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "type": "THUỐC",
+    "candidates": [
+      "519"
+    ],
+    "assertions": [],
+    "position": [
+      239,
+      250
+    ]
+  },
+  {
+    "text": "Thuốc giảm đau",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      293,
+      307
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      363,
+      370
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      515,
+      542
+    ]
+  }
+]

@@ -11,17 +11,11 @@ INPUT_DIR = r"d:\Project\Viettel AI\input\input"
 OUTPUT_DIR = r"d:\Project\Viettel AI\output"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Initialize Gemini Client
+# Initialize Groq API Key
 import dotenv
 dotenv.load_dotenv(r"d:\Project\Game\Lax's Studio\.env")
 
-API_KEYS = [os.environ[k] for k in os.environ if k.startswith("GEMINI_API_KEY") and os.environ[k].strip()]
-current_key_idx = 0
-
-def get_client():
-    if not API_KEYS:
-        return None
-    return genai.Client(api_key=API_KEYS[current_key_idx])
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "").strip()
 
 def get_rxnorm_cui(drug_string):
     """Query RxNorm API to get CUI for a drug string."""
@@ -51,7 +45,9 @@ def get_rxnorm_cui(drug_string):
     return None
 
 def extract_entities(text):
-    global current_key_idx
+    if not GROQ_API_KEY:
+        print("GROQ_API_KEY not found.")
+        return []
     
     prompt = """
     You are an expert medical entity extractor. Analyze the following medical text and extract all entities of the following types:
@@ -70,39 +66,40 @@ def extract_entities(text):
       }
     ]
     
-    Make sure the "text" field is an EXACT match of the text found in the input.
+    Make sure the "text" field is an EXACT match of the text found in the input. ONLY output the JSON array, no markdown formatting.
     """
     
-    max_retries = len(API_KEYS) if API_KEYS else 1
-    attempts = 0
-    
-    while attempts < max_retries:
-        client = get_client()
-        if not client:
+    try:
+        headers = {
+            "Authorization": f"Bearer {GROQ_API_KEY}",
+            "Content-Type": "application/json"
+        }
+        data = {
+            "model": "llama-3.3-70b-versatile",
+            "messages": [
+                {"role": "system", "content": prompt},
+                {"role": "user", "content": "Text:\n" + text}
+            ],
+            "response_format": {"type": "json_object"}
+        }
+        
+        # We wrap the prompt since json_object requires the prompt to specify outputting a JSON object.
+        # So we wrap the array in an object {"data": [...]}
+        data["messages"][0]["content"] += "\nOutput JSON object with a 'data' key containing the array."
+        
+        response = requests.post("https://api.groq.com/openai/v1/chat/completions", headers=headers, json=data, timeout=30)
+        
+        if response.status_code == 200:
+            res_json = response.json()
+            content = res_json["choices"][0]["message"]["content"]
+            parsed = json.loads(content)
+            return parsed.get("data", [])
+        else:
+            print("Groq API error:", response.text)
             return []
-            
-        try:
-            response = client.models.generate_content(
-                model='gemini-2.5-flash',
-                contents=[prompt, "Text:\n" + text],
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json",
-                )
-            )
-            return json.loads(response.text)
-        except Exception as e:
-            error_msg = str(e)
-            if "429" in error_msg or "RESOURCE_EXHAUSTED" in error_msg or "quota" in error_msg.lower():
-                print(f"Key {current_key_idx + 1} exhausted quota. Switching to next key...")
-                current_key_idx = (current_key_idx + 1) % len(API_KEYS)
-                attempts += 1
-                time.sleep(2) # brief pause before retry
-            else:
-                print(f"Error during extraction: {e}")
-                return []
-    
-    print("All keys exhausted or failed.")
-    return []
+    except Exception as e:
+        print(f"Error during extraction: {e}")
+        return []
 
 def process_file(file_path, output_path):
     # Skip if already successfully processed (file exists and is not empty array)

@@ -1,1 +1,154 @@
-[]
+[
+  {
+    "text": "Bệnh thận đa nang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      41,
+      58
+    ]
+  },
+  {
+    "text": "phẫu thuật tái tạo niệu quản trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      127,
+      160
+    ]
+  },
+  {
+    "text": "azathioprine",
+    "type": "THUỐC",
+    "candidates": [
+      "1256"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      208,
+      220
+    ]
+  },
+  {
+    "text": "prograf",
+    "type": "THUỐC",
+    "candidates": [
+      "196463"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      233,
+      240
+    ]
+  },
+  {
+    "text": "5mg bid",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      262,
+      269
+    ]
+  },
+  {
+    "text": "1mg bid",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      273,
+      280
+    ]
+  },
+  {
+    "text": "cellcept",
+    "type": "THUỐC",
+    "candidates": [
+      "152633"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      294,
+      302
+    ]
+  },
+  {
+    "text": "Suy thận ngày càng nặng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      386,
+      409
+    ]
+  },
+  {
+    "text": "tiêu chảy đáng kể",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      626,
+      643
+    ]
+  },
+  {
+    "text": "uống kém",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      665,
+      673
+    ]
+  },
+  {
+    "text": "Suy thận",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1271,
+      1279
+    ]
+  },
+  {
+    "text": "virus bk",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1438,
+      1446
+    ]
+  },
+  {
+    "text": "Bệnh thận đa nang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      41,
+      58
+    ]
+  }
+]

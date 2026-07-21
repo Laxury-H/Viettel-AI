@@ -1,1 +1,120 @@
-[]
+[
+  {
+    "text": "klonopin",
+    "type": "THUỐC",
+    "candidates": [
+      "202585"
+    ],
+    "assertions": [],
+    "position": [
+      46,
+      54
+    ]
+  },
+  {
+    "text": "clonidine",
+    "type": "THUỐC",
+    "candidates": [
+      "2599"
+    ],
+    "assertions": [],
+    "position": [
+      54,
+      63
+    ]
+  },
+  {
+    "text": "suboxone",
+    "type": "THUỐC",
+    "candidates": [
+      "352990"
+    ],
+    "assertions": [],
+    "position": [
+      435,
+      443
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      244,
+      258
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      726,
+      734
+    ]
+  },
+  {
+    "text": "tăng hoạt động và giảm nhu cầu ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      816,
+      850
+    ]
+  },
+  {
+    "text": "ý nghĩ tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1057,
+      1069
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      660,
+      672
+    ]
+  },
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1100,
+      1105
+    ]
+  },
+  {
+    "text": "hoảng sợ",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1106,
+      1114
+    ]
+  },
+  {
+    "text": "hoang tưởng như đang chiếm khí oxy của người khác",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      1121,
+      1170
+    ]
+  }
+]

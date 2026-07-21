@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "text": "bệnh động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      34,
+      53
+    ]
+  },
+  {
+    "text": "bệnh lý thần kinh ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      55,
+      83
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      160,
+      167
+    ]
+  },
+  {
+    "text": "khó thở tăng",
+    "type": "TRIỆU_CHỨNG",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      199,
+      211
+    ]
+  },
+  {
+    "text": "bệnh ba thân động mạch vành nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      650,
+      690
+    ]
+  },
+  {
+    "text": "rối loạn chức năng thất trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      589,
+      617
+    ]
+  },
+  {
+    "text": "giảm chức năng tâm thu thất trái nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      534,
+      579
+    ]
+  },
+  {
+    "text": "đặt stent phủ thuốc (DES)",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [
+      783,
+      808
+    ]
+  }
+]
