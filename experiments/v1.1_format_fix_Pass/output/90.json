@@ -1,0 +1,26 @@
+[
+  {
+    "text": "giọng khàn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [37, 47]
+  },
+  {
+    "text": "tổn thương dây thanh quản",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [51, 76]
+  },
+  {
+    "text": "tổn thương dây thanh quản",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [113, 138]
+  },
+  {
+    "text": "nạo vét tổn thương dây thanh quản",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [202, 235]
+  }
+]

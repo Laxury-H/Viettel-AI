@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Ung thư vú di căn ER+/HER2−",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [49, 76]
+  },
+  {
+    "text": "weekly taxol",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [98, 110]
+  },
+  {
+    "text": "fulvestrant",
+    "type": "THUỐC",
+    "candidates": ["282357"],
+    "assertions": [],
+    "position": [114, 125]
+  },
+  {
+    "text": "đau bụng vùng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [181, 207]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [318, 326]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [328, 331]
+  },
+  {
+    "text": "đi ngoài phân lỏng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [341, 359]
+  },
+  {
+    "text": "compazine",
+    "type": "THUỐC",
+    "candidates": ["203546"],
+    "assertions": [],
+    "position": [764, 773]
+  },
+  {
+    "text": "aleven",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [777, 783]
+  },
+  {
+    "text": "morphineoral",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [812, 824]
+  },
+  {
+    "text": "lorazepam",
+    "type": "THUỐC",
+    "candidates": ["6470"],
+    "assertions": [],
+    "position": [829, 838]
+  }
+]

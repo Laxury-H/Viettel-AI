@@ -1,0 +1,94 @@
+[
+  {
+    "text": "Đái tháo đường típ 1",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [48, 68]
+  },
+  {
+    "text": "viêm thần kinh ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [83, 108]
+  },
+  {
+    "text": "Viêm gan virus C",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [115, 131]
+  },
+  {
+    "text": "Tăng áp động mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [143, 165]
+  },
+  {
+    "text": "U lympho không hodgkin tế bàoB lớn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [189, 223]
+  },
+  {
+    "text": "methadone",
+    "type": "THUỐC",
+    "candidates": ["6813"],
+    "assertions": ["isHistorical"],
+    "position": [360, 369]
+  },
+  {
+    "text": "lasix",
+    "type": "THUỐC",
+    "candidates": ["202991"],
+    "assertions": ["isHistorical"],
+    "position": [383, 388]
+  },
+  {
+    "text": "Phù chân trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [453, 466]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [470, 477]
+  },
+  {
+    "text": "Phù chân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [453, 461]
+  },
+  {
+    "text": "khó khăn trong việc tự chăm sóc bản thân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [534, 574]
+  },
+  {
+    "text": "Loét 2 bàn chân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [851, 866]
+  },
+  {
+    "text": "chảy dịch vàng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [868, 882]
+  },
+  {
+    "text": "hoại tử đen",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [889, 900]
+  },
+  {
+    "text": "Loét bàn chân nhiễm trùng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [938, 963]
+  }
+]

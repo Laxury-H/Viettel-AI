@@ -1,0 +1,56 @@
+[
+  {
+    "text": "đau bụng dữ dội",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [37, 52]
+  },
+  {
+    "text": "chướng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [136, 147]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [150, 157]
+  },
+  {
+    "text": "mất ăn ngon",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [160, 171]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [412, 415]
+  },
+  {
+    "text": "nhịp tim nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [418, 432]
+  },
+  {
+    "text": "suy thận cấp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [476, 488]
+  },
+  {
+    "text": "bất thường điện giải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [491, 511]
+  },
+  {
+    "text": "viêm túi mật thủng cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [578, 605]
+  }
+]

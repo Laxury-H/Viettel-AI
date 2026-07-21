@@ -1,0 +1,57 @@
+[
+  {
+    "text": "u cơ trơn tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [39, 56]
+  },
+  {
+    "text": "iron",
+    "type": "THUỐC",
+    "candidates": ["90176"],
+    "assertions": ["isHistorical"],
+    "position": [104, 108]
+  },
+  {
+    "text": "đau bụng dưới",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [165, 178]
+  },
+  {
+    "text": "chảy máu nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [182, 196]
+  },
+  {
+    "text": "lower abdominal pain",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [228, 248]
+  },
+  {
+    "text": "siêu âm",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [312, 319]
+  },
+  {
+    "text": "huyết cầu tố",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [352, 364]
+  },
+  {
+    "text": "u xơ tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [542, 554]
+  },
+  {
+    "text": "cắt bỏ u xơ tử cung",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [535, 554]
+  }
+]

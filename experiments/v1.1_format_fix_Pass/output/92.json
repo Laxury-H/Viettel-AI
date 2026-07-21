@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Nhiễm trùng đường tiết niệu kháng thuốc",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [45, 84]
+  },
+  {
+    "text": "theo dõi đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [129, 152]
+  },
+  {
+    "text": "tăng bạch cầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [243, 256]
+  },
+  {
+    "text": "lơ mơ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [415, 420]
+  },
+  {
+    "text": "Bạch cầu tăng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [472, 485]
+  }
+]

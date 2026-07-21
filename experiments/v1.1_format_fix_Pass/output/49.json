@@ -1,0 +1,51 @@
+[
+  {
+    "text": "cảm giác có khối lồi trong âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [143, 176]
+  },
+  {
+    "text": "căng tức vùng âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [286, 306]
+  },
+  {
+    "text": "tiểu buốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [373, 382]
+  },
+  {
+    "text": "khô âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [506, 516]
+  },
+  {
+    "text": "ra huyết âm đạo lượng ít",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [553, 577]
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [497, 504]
+  },
+  {
+    "text": "vòng pessary",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": ["isHistorical"],
+    "position": [890, 902]
+  },
+  {
+    "text": "khối sa lồi ra âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [613, 634]
+  }
+]

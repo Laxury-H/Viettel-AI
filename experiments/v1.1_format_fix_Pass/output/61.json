@@ -1,0 +1,20 @@
+[
+  {
+    "text": "đau vùng xương bánh chè – đùi phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "position": [73, 107]
+  },
+  {
+    "text": "đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [202, 218]
+  },
+  {
+    "text": "thay đổi thoái hóa nghiêm trọng của khớp bánh chè đùi phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1083, 1141]
+  }
+]

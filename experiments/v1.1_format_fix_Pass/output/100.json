@@ -1,0 +1,95 @@
+[
+  {
+    "text": "tăng calci máu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [61, 75]
+  },
+  {
+    "text": "U ác của đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [123, 141]
+  },
+  {
+    "text": "cường cận giáp nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [148, 174]
+  },
+  {
+    "text": "Xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [181, 197]
+  },
+  {
+    "text": "cơn đau thắt ngực ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [204, 229]
+  },
+  {
+    "text": "tăng calci máu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [275, 289]
+  },
+  {
+    "text": "tăng calci máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [316, 330]
+  },
+  {
+    "text": "ngất xỉu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "position": [504, 512]
+  },
+  {
+    "text": "nhồi máu cũ nhỏ ở vỏ não đỉnh trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [796, 830]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [895, 903]
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "candidates": ["4917"],
+    "assertions": [],
+    "position": [996, 1009]
+  },
+  {
+    "text": "đau ở sau đầu và cổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1053, 1072]
+  },
+  {
+    "text": "nhồi máu cũ nhỏ ở vỏ não đỉnh trái",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [1341, 1375]
+  },
+  {
+    "text": "Laxis 20mg",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [1441, 1451]
+  },
+  {
+    "text": "Natriclori 0.9 %",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [1486, 1502]
+  }
+]

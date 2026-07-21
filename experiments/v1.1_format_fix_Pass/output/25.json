@@ -1,0 +1,32 @@
+[
+  {
+    "text": "tách thành động mạch chủ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [48, 72]
+  },
+  {
+    "text": "liệt hai chân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "position": [89, 102]
+  },
+  {
+    "text": "rung động tại vị trí lỗ rò",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [274, 300]
+  },
+  {
+    "text": "Rò động - tĩnh mạch đùi phải do thủ thuật can thiệp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [335, 386]
+  },
+  {
+    "text": "tăng kích thước",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [394, 409]
+  }
+]

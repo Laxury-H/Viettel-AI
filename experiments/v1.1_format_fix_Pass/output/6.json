@@ -1,0 +1,39 @@
+[
+  {
+    "text": "Nghẽn tắc và hẹp động mạch cảnh",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [50, 81]
+  },
+  {
+    "text": "hẹp động mạch cảnh",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [277, 295]
+  },
+  {
+    "text": "hẹp nặng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [357, 365]
+  },
+  {
+    "text": "tăng rõ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [404, 411]
+  },
+  {
+    "text": "siêu âm Doppler động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [235, 260]
+  },
+  {
+    "text": "can thiệp tái thông động mạch cảnh",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [467, 501]
+  }
+]

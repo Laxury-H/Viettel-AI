@@ -1,0 +1,32 @@
+[
+  {
+    "text": "chuyển dạ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [27, 36]
+  },
+  {
+    "text": "Thai 41 tuần",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [45, 57]
+  },
+  {
+    "text": "cơn co tử cung",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [101, 115]
+  },
+  {
+    "text": "thai máy tốt (FM +)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [118, 137]
+  },
+  {
+    "text": "chưa vỡ ối/rỉ ối (LOF -)",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [170, 194]
+  }
+]

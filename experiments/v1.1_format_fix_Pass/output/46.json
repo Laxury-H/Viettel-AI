@@ -1,0 +1,57 @@
+[
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [59, 72]
+  },
+  {
+    "text": "R BK-pop đến DP BPG",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [122, 141]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [213, 224]
+  },
+  {
+    "text": "huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [261, 269]
+  },
+  {
+    "text": "đi khập khiễng cách quãng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [284, 309]
+  },
+  {
+    "text": "tắc hẹp 80% động mạch thận trái L",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [393, 426]
+  },
+  {
+    "text": "chụp cắt lớp vi tính (ct)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [487, 512]
+  },
+  {
+    "text": "chụp mạch máu thận",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [586, 604]
+  },
+  {
+    "text": "stent",
+    "type": "THUỐC",
+    "candidates": [],
+    "assertions": [],
+    "position": [611, 616]
+  }
+]

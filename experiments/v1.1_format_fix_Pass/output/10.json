@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Đờm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [107, 110]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [113, 115]
+  },
+  {
+    "text": "đau bụng quặn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [126, 139]
+  },
+  {
+    "text": "tiêu chảy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [142, 151]
+  },
+  {
+    "text": "đi ngoài ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [162, 177]
+  },
+  {
+    "text": "không tăng cân nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [180, 200]
+  },
+  {
+    "text": "cea (kháng nguyên ung thư phôi) tăng nhẹ lên 4.9",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [247, 295]
+  },
+  {
+    "text": "tổn thương t2",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [466, 479]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [553, 563]
+  },
+  {
+    "text": "khối u trực tràng với hình ảnh của một u ác trực tràng đáng kể",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [625, 687]
+  },
+  {
+    "text": "u tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [718, 725]
+  },
+  {
+    "text": "phân giai đoạn phẫu thuật với tem",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [740, 773]
+  }
+]

@@ -1,0 +1,274 @@
+[
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [48, 61]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [68, 81]
+  },
+  {
+    "text": "bệnh tim mạch do xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [104, 137]
+  },
+  {
+    "text": "Nhồi máu cơ tim gần đây",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [142, 165]
+  },
+  {
+    "text": "rung nhĩ kịch phát",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [172, 190]
+  },
+  {
+    "text": "tăng sản tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [197, 221]
+  },
+  {
+    "text": "đã phẫu thuật TURP",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [263, 281]
+  },
+  {
+    "text": "metoprolol (reduced from 50mg to 25mg daily)",
+    "type": "THUỐC",
+    "candidates": ["6918"],
+    "assertions": ["isHistorical"],
+    "position": [354, 398]
+  },
+  {
+    "text": "desmopressin",
+    "type": "THUỐC",
+    "candidates": ["3251"],
+    "assertions": ["isHistorical"],
+    "position": [405, 417]
+  },
+  {
+    "text": "Rối loạn dáng đi với nhiều lần ngã",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [491, 525]
+  },
+  {
+    "text": "ngã với gãy cổ xương đùi di lệch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [643, 675]
+  },
+  {
+    "text": "gãy cổ xương đùi di lệch",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [898, 922]
+  },
+  {
+    "text": "Đau ở hông phải khi cử động và thay đổi tư thế",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [954, 1000]
+  },
+  {
+    "text": "ngã do cơ học",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1145, 1158]
+  },
+  {
+    "text": "Chấn thương tù ở Chi dưới phải (RLE)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1173, 1209]
+  },
+  {
+    "text": "vết thương hở phần khác của chi dưới",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1216, 1252]
+  },
+  {
+    "text": "chấn thương đầu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [1276, 1291]
+  },
+  {
+    "text": "mất ý thức",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isHistorical"],
+    "position": [1297, 1307]
+  },
+  {
+    "text": "mất vận động vùng đỉnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1438, 1460]
+  },
+  {
+    "text": "tim to",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1570, 1576]
+  },
+  {
+    "text": "tràn dịch màng tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1578, 1596]
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1598, 1625]
+  },
+  {
+    "text": "thoát vị hoành nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1627, 1645]
+  },
+  {
+    "text": "thay đổi khí phế thủng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1647, 1669]
+  },
+  {
+    "text": "xẹp phổi hai đáy",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [1674, 1690]
+  },
+  {
+    "text": "Đau ở hông phải khi cử động và thay đổi tư thế",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [954, 1000]
+  },
+  {
+    "text": "tim to",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2097, 2103]
+  },
+  {
+    "text": "tràn dịch màng tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2105, 2123]
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2125, 2152]
+  },
+  {
+    "text": "thoát vị hoành nhỏ",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2154, 2172]
+  },
+  {
+    "text": "thay đổi khí phế thủng",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2174, 2196]
+  },
+  {
+    "text": "xẹp phổi hai đáy",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2198, 2214]
+  },
+  {
+    "text": "khuyết tật toàn bộ, không hồi phục, kích thước vừa phải ở thành dưới gần mấu",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2252, 2328]
+  },
+  {
+    "text": "EF30",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2392, 2396]
+  },
+  {
+    "text": "mất vận động vùng đỉnh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2398, 2420]
+  },
+  {
+    "text": "hở van ba lá vừa-nặng (mod-severe TR)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2422, 2459]
+  },
+  {
+    "text": "hở van hai lá/van động mạch chủ nhẹ (mild ARMR)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2463, 2510]
+  },
+  {
+    "text": "Gãy xương hông phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2517, 2536]
+  },
+  {
+    "text": "gãy cổ xương đùi phải",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2538, 2559]
+  },
+  {
+    "text": "lún đầu dưới",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2561, 2573]
+  },
+  {
+    "text": "đã phẫu thuật TURP (Transurethral Resection of the Prostate)",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [2747, 2807]
+  },
+  {
+    "text": "Nhồi máu cơ tim vùng vách liên thất, mạn tính và đỉnh",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [2847, 2900]
+  },
+  {
+    "text": "rung nhĩ kịch phát liên tục kể từ Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": [],
+    "position": [2907, 2956]
+  },
+  {
+    "text": "tiểu đêm nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2963, 2977]
+  },
+  {
+    "text": "tăng sản tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "assertions": ["isHistorical"],
+    "position": [2983, 3007]
+  }
+]
