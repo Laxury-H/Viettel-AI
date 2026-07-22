@@ -8,8 +8,8 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 # Configuration
-INPUT_DIR = "input/input"
-OUTPUT_DIR = "output"
+INPUT_DIR = r"d:\Project\Viettel AI\data\raw\input_turn2_vong1\input"
+OUTPUT_DIR = r"d:\Project\Viettel AI\output_turn2"
 MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
