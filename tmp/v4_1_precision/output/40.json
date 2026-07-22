@@ -293,23 +293,5 @@
       1886,
       1900
     ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1949,
-      1953
-    ]
-  },
-  {
-    "text": "30",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1969,
-      1971
-    ]
   }
 ]

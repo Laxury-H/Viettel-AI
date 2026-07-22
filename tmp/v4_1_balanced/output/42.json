@@ -397,24 +397,6 @@
     ]
   },
   {
-    "text": "spo2",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1582,
-      1586
-    ]
-  },
-  {
-    "text": "93%",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1605,
-      1608
-    ]
-  },
-  {
     "text": "bạch cầu",
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],

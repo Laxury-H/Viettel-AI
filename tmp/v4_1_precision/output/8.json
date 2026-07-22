@@ -78,6 +78,20 @@
     ]
   },
   {
+    "text": "hội chứng nghiện rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F10.20"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      323,
+      344
+    ]
+  },
+  {
     "text": "Lú lẫn",
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

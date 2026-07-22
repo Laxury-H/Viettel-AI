@@ -90,57 +90,12 @@
     ]
   },
   {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      806,
-      814
-    ]
-  },
-  {
-    "text": "Huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      899,
-      907
-    ]
-  },
-  {
     "text": "lo âu",
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "position": [
       986,
       991
-    ]
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1007,
-      1015
-    ]
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1111,
-      1119
-    ]
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1210,
-      1218
     ]
   },
   {

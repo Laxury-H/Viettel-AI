@@ -103,6 +103,24 @@
     ]
   },
   {
+    "text": "M",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      414,
+      415
+    ]
+  },
+  {
+    "text": "70 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      417,
+      423
+    ]
+  },
+  {
     "text": "Thời gian prothrombin",
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],

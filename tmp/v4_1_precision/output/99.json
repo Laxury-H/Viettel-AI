@@ -105,6 +105,15 @@
     ]
   },
   {
+    "text": "90",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      446,
+      448
+    ]
+  },
+  {
     "text": "biến đổi ý thức",
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -217,7 +226,7 @@
     "text": "Cơn tim nhanh nhĩ",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "I47.1"
+      "I47.19"
     ],
     "assertions": [],
     "position": [

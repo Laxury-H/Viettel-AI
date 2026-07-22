@@ -320,6 +320,7 @@
     "text": "Bệnh thủy đậu/Zona",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
+      "B01.9",
       "B02.9"
     ],
     "assertions": [],

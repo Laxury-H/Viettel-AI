@@ -319,6 +319,15 @@
     ]
   },
   {
+    "text": "nhịp tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1047,
+      1055
+    ]
+  },
+  {
     "text": "67 lần/phút",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
@@ -343,6 +352,24 @@
     "position": [
       1078,
       1089
+    ]
+  },
+  {
+    "text": "độ bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1091,
+      1105
+    ]
+  },
+  {
+    "text": "100%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1106,
+      1110
     ]
   },
   {

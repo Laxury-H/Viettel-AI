@@ -90,15 +90,6 @@
     ]
   },
   {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      806,
-      814
-    ]
-  },
-  {
     "text": "Suy thận mạn giai đoạn V",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
@@ -196,48 +187,12 @@
     ]
   },
   {
-    "text": "Huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1289,
-      1297
-    ]
-  },
-  {
     "text": "lo âu",
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
     "position": [
       1376,
       1381
-    ]
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1397,
-      1405
-    ]
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1501,
-      1509
-    ]
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1600,
-      1608
     ]
   }
 ]

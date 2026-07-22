@@ -372,7 +372,7 @@
     "text": "gãy xương",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "T14.8XXA"
+      "S92.901A"
     ],
     "assertions": [
       "isNegated"
@@ -400,7 +400,7 @@
     "text": "huyết khối tĩnh mạch sâu",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "I82.409"
+      "I82.401"
     ],
     "assertions": [
       "isNegated"
@@ -414,7 +414,7 @@
     "text": "DVT",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "I82.409"
+      "I82.401"
     ],
     "assertions": [
       "isNegated"

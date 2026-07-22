@@ -123,20 +123,20 @@
     ]
   },
   {
-    "text": "SPO2",
+    "text": "độ bão hòa oxy",
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "position": [
-      566,
-      570
+      550,
+      564
     ]
   },
   {
-    "text": "92 %",
+    "text": "88-92 %",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "assertions": [],
     "position": [
-      578,
+      575,
       582
     ]
   },
@@ -336,15 +336,6 @@
     "position": [
       1034,
       1041
-    ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1135,
-      1139
     ]
   },
   {

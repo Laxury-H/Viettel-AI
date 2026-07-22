@@ -14,7 +14,7 @@
     "text": "trầm cảm",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "F32.9"
+      "F32.A"
     ],
     "assertions": [
       "isHistorical"
@@ -42,7 +42,7 @@
     "text": "trầm cảm",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "F32.9"
+      "F32.A"
     ],
     "assertions": [
       "isNegated"

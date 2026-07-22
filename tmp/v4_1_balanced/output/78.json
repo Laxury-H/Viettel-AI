@@ -112,15 +112,6 @@
     ]
   },
   {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1063,
-      1071
-    ]
-  },
-  {
     "text": "chảy máu mũi",
     "type": "TRIỆU_CHỨNG",
     "assertions": [],

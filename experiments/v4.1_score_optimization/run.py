@@ -603,6 +603,25 @@ def medication_candidates(surface: str, defaults: list[str]) -> list[str]:
     return defaults
 
 
+def diagnosis_candidates(text: str, span: Span, defaults: list[str]) -> list[str]:
+    """Apply context-specific ICD-10-CM mappings without changing the span."""
+    surface = NormalizedText.normalize_alias(text[span.start : span.end])
+    context = NormalizedText.normalize_alias(
+        text[max(0, span.start - 150) : min(len(text), span.end + 150)]
+    )
+    if surface == "trầm cảm" and re.search(r"\bgiai đoạn trầm cảm\b", context):
+        return ["F32.9"]
+    if surface == "gãy xương" and re.search(
+        r"\b(?:x-?quang|bàn chân)[^.;\n]{0,80}\b(?:phải|gãy xương)\b", context
+    ):
+        return ["S92.901A"]
+    if surface in {"huyết khối tĩnh mạch sâu", "dvt"} and re.search(
+        r"\b(?:bên|chân|chi dưới)\s+phải\b", context
+    ):
+        return ["I82.401"]
+    return defaults
+
+
 def _line_context(text: str, start: int, end: int) -> tuple[str, str, str]:
     """Return normalized text before, on, and after an occurrence's line."""
     line_start = text.rfind("\n", 0, start) + 1
@@ -755,6 +774,8 @@ def find_codebook_entities(
                 if entity_type == "THUỐC":
                     span = extend_medication_span(text, span)
                     entity_candidates = medication_candidates(text[span.start : span.end], candidates)
+                elif entity_type == "CHẨN_ĐOÁN":
+                    entity_candidates = diagnosis_candidates(text, span, candidates)
                 else:
                     entity_candidates = candidates
                 entities.append(
@@ -926,6 +947,55 @@ def result_span_before(text: str, start: int) -> Span | None:
     return None
 
 
+def vital_result_spans(
+    text: str,
+    span: Span,
+    vital_kind: str,
+    value_pattern: str,
+) -> list[Span]:
+    """Extract a vital result only when it is directly linked to its name.
+
+    This deliberately avoids the generic 18-character look-ahead used for
+    laboratory prose.  That generic search used to turn ``tĩnh mạch 750cc``
+    into a pulse of 750 and could attach a heart rate to the following blood
+    pressure label.
+    """
+    window = text[span.end : min(len(text), span.end + 72)]
+    boundary = re.search(r"[;\r\n]", window)
+    if boundary:
+        window = window[: boundary.start()]
+
+    if vital_kind == "blood_pressure":
+        single = re.match(
+            r"(?ix)^[ \t]+tâm[ \t]+(?:thu|trương)[ \t]*(?::|=|là)?[ \t]*"
+            r"(?P<value>\d{2,3}(?:[ \t]*mmhg)?)",
+            window,
+        )
+        if single:
+            return [
+                Span(
+                    span.end + single.start("value"),
+                    span.end + single.end("value"),
+                )
+            ]
+
+    linked = re.match(
+        rf"(?ix)^[ \t]*(?:\([^\r\n;)]{{1,45}}\)[ \t]*)?"
+        rf"(?:(?::|=|là|ở[ \t]+mức|đo[ \t]+được|ghi[ \t]+nhận|"
+        rf"từ|cao[ \t]+nhất[ \t]+khoảng)[ \t]*)?"
+        rf"(?P<value>{value_pattern})",
+        window,
+    )
+    if not linked:
+        return []
+    return [
+        Span(
+            span.end + linked.start("value"),
+            span.end + linked.end("value"),
+        )
+    ]
+
+
 def find_labs(
     text: str,
     normalized: NormalizedText,
@@ -936,6 +1006,7 @@ def find_labs(
     result_spans: set[tuple[int, int]] = set()
     for entry in LAB_TEST_PATTERNS:
         custom = entry.get("value_pattern") if isinstance(entry, dict) else None
+        vital_kind = entry.get("vital_kind") if isinstance(entry, dict) else None
         for alias in aliases_from(entry):
             literal_spans = list(
                 normalized.literal_spans(
@@ -955,10 +1026,30 @@ def find_labs(
                     continue
                 if normalized_alias == "ph" and text[span.start : span.end] not in {"pH", "PH"}:
                     continue
-                values = result_spans_after(text, span.end, custom)
-                before = result_span_before(text, span.start)
-                if before is not None:
-                    values.append(before)
+                if vital_kind:
+                    raw_alias = text[span.start : span.end]
+                    prefix = NormalizedText.normalize_alias(
+                        text[max(0, span.start - 18) : span.start]
+                    )
+                    if normalized_alias == "mạch" and re.search(
+                        r"\b(?:tĩnh|động|tim)\s*$", prefix
+                    ):
+                        continue
+                    if normalized_alias == "m" and (
+                        raw_alias != "M"
+                        or not re.match(r"[ \t]*:", text[span.end : span.end + 4])
+                    ):
+                        continue
+                    values = vital_result_spans(text, span, vital_kind, custom or r"\d+")
+                    # A vital-sign name without a directly linked measurement
+                    # is usually educational prose, not a performed test.
+                    if not values:
+                        continue
+                else:
+                    values = result_spans_after(text, span.end, custom)
+                    before = result_span_before(text, span.start)
+                    if before is not None:
+                        values.append(before)
                 if normalized_alias in AMBIGUOUS_LAB_ALIASES:
                     nearby = NormalizedText.normalize_alias(
                         text[max(0, span.start - 45) : min(len(text), span.end + 45)]

@@ -164,6 +164,24 @@
     ]
   },
   {
+    "text": "M",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      532,
+      533
+    ]
+  },
+  {
+    "text": "82 ck/ph",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      535,
+      543
+    ]
+  },
+  {
     "text": "HA",
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],

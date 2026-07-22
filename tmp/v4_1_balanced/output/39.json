@@ -130,7 +130,7 @@
     "text": "nhịp nhanh trên thất",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "I47.1"
+      "I47.10"
     ],
     "assertions": [
       "isHistorical"
@@ -305,24 +305,6 @@
     ]
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1874,
-      1878
-    ]
-  },
-  {
-    "text": "750",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "assertions": [],
-    "position": [
-      1879,
-      1882
-    ]
-  },
-  {
     "text": "Viêm phổi bệnh viện",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
@@ -350,7 +332,7 @@
     "text": "nhịp nhanh trên thất",
     "type": "CHẨN_ĐOÁN",
     "candidates": [
-      "I47.1"
+      "I47.10"
     ],
     "assertions": [],
     "position": [

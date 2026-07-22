@@ -111,6 +111,42 @@
     ]
   },
   {
+    "text": "Thiếu canxi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E58"
+    ],
+    "assertions": [],
+    "position": [
+      997,
+      1008
+    ]
+  },
+  {
+    "text": "loãng xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M81.0"
+    ],
+    "assertions": [],
+    "position": [
+      1044,
+      1055
+    ]
+  },
+  {
+    "text": "sâu răng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K02.9"
+    ],
+    "assertions": [],
+    "position": [
+      1057,
+      1065
+    ]
+  },
+  {
     "text": "Hôi miệng",
     "type": "TRIỆU_CHỨNG",
     "assertions": [],
@@ -126,6 +162,18 @@
     "position": [
       1110,
       1128
+    ]
+  },
+  {
+    "text": "thiếu hụt vitamin K",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E56.1"
+    ],
+    "assertions": [],
+    "position": [
+      1150,
+      1169
     ]
   },
   {
