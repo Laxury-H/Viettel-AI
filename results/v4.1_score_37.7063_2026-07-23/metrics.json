@@ -1,0 +1,38 @@
+{
+  "submission_version": "v4.1_balanced",
+  "submitted_at": "2026-07-23T00:23:00+07:00",
+  "final_score": 37.7063,
+  "wer": 57.5212,
+  "text_score": 42.4788,
+  "j_assertion": 48.0229,
+  "j_candidates": 26.3896,
+  "num_scored": 100,
+  "num_records": 100,
+  "weights": {
+    "text_score": 0.3,
+    "assertions_score": 0.3,
+    "candidates_score": 0.4
+  },
+  "weighted_contributions": {
+    "text": 12.74364,
+    "assertions": 14.40687,
+    "candidates": 10.55584
+  },
+  "comparison_to_v4_0": {
+    "final_score_delta": -0.9911,
+    "wer_delta": 0.968,
+    "text_score_delta": -0.968,
+    "j_assertion_delta": -2.2535,
+    "j_candidates_delta": -0.0615
+  },
+  "artifacts": {
+    "output.zip": {
+      "sha256": "8B557D52A7269AD6F3D76E01151EA25802470D8A51E5313D1054114CB6D91F72"
+    },
+    "source_code_v4.1.zip": {
+      "sha256": "9DAAC66E245C4507CD119F900CADBC2AE106438945F976C17E756111E90270C3"
+    }
+  },
+  "evidence": "Screenshot of the Viettel AI Race result page supplied by the user on 2026-07-23.",
+  "notes": "The displayed component metrics reproduce 37.70635 before leaderboard rounding. WER is an error percentage, so text_score is 100 - WER. No record-level ground truth was available."
+}
