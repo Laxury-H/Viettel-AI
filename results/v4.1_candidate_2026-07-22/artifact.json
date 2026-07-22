@@ -1,0 +1,243 @@
+{
+  "surface": "report",
+  "manifest": {
+    "version": 1,
+    "surface": "report",
+    "title": "Viettel AI Race 2026 — v4.0 baseline và ứng viên v4.1",
+    "description": "Báo cáo kỹ thuật về điểm đã chấm, chẩn đoán metric và bản nâng cấp CPU-offline có thể dựng lại.",
+    "generatedAt": "2026-07-22T23:43:20+07:00",
+    "cards": [
+      {
+        "id": "baseline-score-card",
+        "description": "Điểm aggregate của bản v4.0 đã nộp lúc 22:32 ngày 22/07/2026.",
+        "dataset": "baseline_metrics",
+        "sourceId": "leaderboard-result",
+        "metrics": [
+          {"label": "Final score", "field": "final_score", "format": "number"},
+          {"label": "Text score", "field": "text_score", "format": "number"},
+          {"label": "J_assertion", "field": "j_assertion", "format": "number"},
+          {"label": "J_candidates", "field": "j_candidates", "format": "number"}
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "id": "score-decomposition-table",
+        "title": "Phân rã điểm v4.0",
+        "subtitle": "Text score được suy ra từ 100 − WER; contribution = score × weight.",
+        "dataset": "score_decomposition",
+        "sourceId": "leaderboard-result",
+        "layout": "full",
+        "density": "spacious",
+        "columns": [
+          {"field": "component", "label": "Thành phần", "type": "text"},
+          {"field": "score", "label": "Điểm", "format": "number"},
+          {"field": "weight", "label": "Trọng số", "format": "number"},
+          {"field": "contribution", "label": "Đóng góp", "format": "number"}
+        ]
+      },
+      {
+        "id": "entity-delta-table",
+        "title": "Thay đổi số entity từ v4.0 sang v4.1-balanced",
+        "subtitle": "Đây là thay đổi đầu ra, không phải thay đổi điểm leaderboard.",
+        "dataset": "entity_delta",
+        "sourceId": "validation-evidence",
+        "layout": "full",
+        "density": "spacious",
+        "columns": [
+          {"field": "type", "label": "Loại", "type": "text"},
+          {"field": "v4_0", "label": "v4.0", "format": "number"},
+          {"field": "v4_1", "label": "v4.1", "format": "number"},
+          {"field": "delta", "label": "Delta", "format": "number", "movement": true}
+        ]
+      }
+    ],
+    "charts": [
+      {
+        "id": "score-contribution-chart",
+        "title": "Đóng góp vào final score theo thành phần",
+        "subtitle": "Baseline v4.0; contribution = component score × competition weight; đơn vị: điểm.",
+        "question": "Thành phần nào đóng góp nhiều và ít nhất vào điểm v4.0?",
+        "rationale": "Ba thành phần có cùng đơn vị đóng góp và cần so sánh trực tiếp, nên dùng bar chart đơn series với trục bắt đầu từ 0.",
+        "type": "bar",
+        "dataset": "score_decomposition",
+        "sourceId": "leaderboard-result",
+        "encodings": {
+          "x": {"field": "component", "type": "nominal", "label": "Thành phần"},
+          "y": {"field": "contribution", "type": "quantitative", "format": "number", "label": "Điểm đóng góp"},
+          "tooltip": [
+            {"field": "score", "type": "quantitative", "format": "number", "label": "Component score"},
+            {"field": "weight", "type": "quantitative", "format": "number", "label": "Trọng số"},
+            {"field": "contribution", "type": "quantitative", "format": "number", "label": "Đóng góp"}
+          ]
+        },
+        "xAxisTitle": "Thành phần",
+        "yAxisTitle": "Điểm đóng góp",
+        "valueFormat": "number",
+        "layout": "half",
+        "maxRows": 3
+      }
+    ],
+    "sources": [
+      {
+        "id": "leaderboard-result",
+        "label": "Ảnh kết quả chấm Viettel AI Race, 22/07/2026 22:32",
+        "query": {
+          "engine": "manual_evidence",
+          "sql": "SELECT 38.6974 AS final_score, 56.5532 AS wer, 43.4468 AS text_score, 50.2764 AS j_assertion, 26.4511 AS j_candidates, 100 AS records",
+          "executed_at": "2026-07-22T23:43:20+07:00",
+          "description": "Ảnh do người dùng cung cấp: final 38.6974, WER 56.5532, J_assertion 50.2764, J_candidates 26.4511, 100 records."
+        }
+      },
+      {
+        "id": "task-specification",
+        "label": "Thông báo và đặc tả Đề 2 nâng cấp của BTC",
+        "query": {
+          "description": "Văn bản đính kèm của người dùng mô tả 5 loại entity, assertions, candidates và input 100 hồ sơ."
+        }
+      },
+      {
+        "id": "validation-evidence",
+        "label": "Validator, regression tests và clean-source rebuild v4.1",
+        "path": "validation.txt",
+        "query": {
+          "engine": "local_python_validator",
+          "sql": "SELECT 'CHẨN_ĐOÁN' AS type, 731 AS v4_0, 705 AS v4_1 UNION ALL SELECT 'KẾT_QUẢ_XÉT_NGHIỆM',170,218 UNION ALL SELECT 'THUỐC',219,215 UNION ALL SELECT 'TRIỆU_CHỨNG',1014,1017 UNION ALL SELECT 'TÊN_XÉT_NGHIỆM',435,427",
+          "executed_at": "2026-07-22T23:43:20+07:00",
+          "description": "Kết quả chạy local trên CPU ngày 22/07/2026; 100 JSON được dựng lại trùng SHA-256."
+        }
+      }
+    ],
+    "blocks": [
+      {
+        "id": "executive-summary",
+        "type": "markdown",
+        "layout": "full",
+        "sourceId": "leaderboard-result",
+        "body": "# Kết luận kỹ thuật\n\nBản **v4.0** là baseline đã chấm với **38.6974**. Thành phần yếu nhất là **J_candidates 26.4511**, kế đến text score **43.4468**; đây là hai đòn bẩy chính của v4.1. Bản **v4.1-balanced chưa được chấm**, nên báo cáo không tuyên bố tăng điểm trước khi có phản hồi từ BTC."
+      },
+      {
+        "id": "baseline-metrics",
+        "type": "metric-strip",
+        "layout": "full",
+        "cardIds": ["baseline-score-card"],
+        "sourceId": "leaderboard-result"
+      },
+      {
+        "id": "metric-findings",
+        "type": "markdown",
+        "layout": "full",
+        "sourceId": "leaderboard-result",
+        "body": "## Findings và bằng chứng\n\nWER **56.5532** tương ứng text score **43.4468**. Theo trọng số cuộc thi, candidates đóng góp 40% điểm cuối nhưng chỉ đạt **26.4511**, vì vậy sửa mapping đúng có giá trị kỳ vọng cao nhất. Assertions đạt **50.2764**, cho thấy scope phủ định/người nhà/tiền sử vẫn còn dư địa đáng kể."
+      },
+      {
+        "id": "score-decomposition",
+        "type": "table",
+        "layout": "full",
+        "tableId": "score-decomposition-table",
+        "sourceId": "leaderboard-result"
+      },
+      {
+        "id": "score-contribution",
+        "type": "chart",
+        "layout": "half",
+        "chartId": "score-contribution-chart",
+        "sourceId": "leaderboard-result"
+      },
+      {
+        "id": "upgrade-evidence",
+        "type": "markdown",
+        "layout": "full",
+        "sourceId": "validation-evidence",
+        "body": "## Những gì đã thay đổi\n\nV4.1 sửa **68 candidate mappings** trên cùng span/type, **84 assertion assignments**, thay span triệu chứng ngắn bằng cụm dài hơn, bổ sung sinh hiệu theo cặp tên–kết quả và loại các false positive chắc chắn trong cụm điều trị/khuyến nghị. Đầu ra mới có **2,582 entity**, 920 entity có candidates và 535 entity có ít nhất một assertion."
+      },
+      {
+        "id": "entity-delta",
+        "type": "table",
+        "layout": "full",
+        "tableId": "entity-delta-table",
+        "sourceId": "validation-evidence"
+      },
+      {
+        "id": "scope-and-method",
+        "type": "markdown",
+        "layout": "full",
+        "sourceId": "task-specification",
+        "body": "## Scope, định nghĩa và phương pháp\n\nOutput chỉ dùng 5 nhãn chính thức: TRIỆU_CHỨNG, TÊN_XÉT_NGHIỆM, KẾT_QUẢ_XÉT_NGHIỆM, CHẨN_ĐOÁN và THUỐC. Candidates chỉ xuất cho chẩn đoán/thuốc; assertions chỉ xuất cho chẩn đoán/thuốc/triệu chứng. Pipeline deterministic, Python standard library, Unicode NFC có ánh xạ offset về chuỗi gốc, codebook ICD-10-CM/RxNorm và scope theo clause/section. Biểu đồ chỉ so sánh ba đóng góp cùng đơn vị của baseline; không vẽ xu hướng vì chưa có time series hay breakdown theo record."
+      },
+      {
+        "id": "limitations",
+        "type": "markdown",
+        "layout": "full",
+        "sourceId": "validation-evidence",
+        "body": "## Giới hạn và robustness\n\nKhông có ground truth từng hồ sơ nên các thay đổi chỉ được kiểm chứng bằng schema, offset, regression cases và audit ngữ cảnh; chưa thể tính offline WER/Jaccard. Clean-source rebuild đã chạy thành công: **16/16 tests**, validator hợp lệ, **100/100 JSON** trùng SHA-256 và ZIP có đúng `output/1.json` đến `output/100.json`."
+      },
+      {
+        "id": "next-steps",
+        "type": "markdown",
+        "layout": "full",
+        "body": "## Bước tiếp theo\n\n1. Nộp `output_v4.1_balanced.zip`.\n2. Lưu ảnh kết quả gồm final, WER, J_assertion và J_candidates.\n3. So sánh với baseline để quyết định vòng tiếp theo: ưu tiên candidate nếu J_candidates chưa tăng; ưu tiên span nếu WER chưa giảm; tinh chỉnh temporal/family scope nếu J_assertion chưa tăng.\n\nCâu hỏi còn mở: BTC có coi sinh hiệu là xét nghiệm hay chỉ annotate laboratory tests; và các mention trong đoạn giáo dục tổng quát có được tính khi không gắn với bệnh nhân hay không."
+      }
+    ]
+  },
+  "snapshot": {
+    "version": 1,
+    "generatedAt": "2026-07-22T23:43:20+07:00",
+    "status": "ready",
+    "datasets": {
+      "baseline_metrics": [
+        {
+          "final_score": 38.6974,
+          "wer": 56.5532,
+          "text_score": 43.4468,
+          "j_assertion": 50.2764,
+          "j_candidates": 26.4511
+        }
+      ],
+      "score_decomposition": [
+        {"component": "Text", "score": 43.4468, "weight": 0.3, "contribution": 13.03404},
+        {"component": "Assertions", "score": 50.2764, "weight": 0.3, "contribution": 15.08292},
+        {"component": "Candidates", "score": 26.4511, "weight": 0.4, "contribution": 10.58044}
+      ],
+      "entity_delta": [
+        {"type": "CHẨN_ĐOÁN", "v4_0": 731, "v4_1": 705, "delta": -26},
+        {"type": "KẾT_QUẢ_XÉT_NGHIỆM", "v4_0": 170, "v4_1": 218, "delta": 48},
+        {"type": "THUỐC", "v4_0": 219, "v4_1": 215, "delta": -4},
+        {"type": "TRIỆU_CHỨNG", "v4_0": 1014, "v4_1": 1017, "delta": 3},
+        {"type": "TÊN_XÉT_NGHIỆM", "v4_0": 435, "v4_1": 427, "delta": -8},
+        {"type": "Tổng", "v4_0": 2569, "v4_1": 2582, "delta": 13}
+      ]
+    },
+    "accessIssues": []
+  },
+  "sources": [
+    {
+      "id": "leaderboard-result",
+      "label": "Ảnh kết quả chấm Viettel AI Race, 22/07/2026 22:32",
+      "query": {
+        "engine": "manual_evidence",
+        "sql": "SELECT 38.6974 AS final_score, 56.5532 AS wer, 43.4468 AS text_score, 50.2764 AS j_assertion, 26.4511 AS j_candidates, 100 AS records",
+        "executed_at": "2026-07-22T23:43:20+07:00",
+        "description": "Ảnh do người dùng cung cấp: final 38.6974, WER 56.5532, J_assertion 50.2764, J_candidates 26.4511, 100 records."
+      }
+    },
+    {
+      "id": "task-specification",
+      "label": "Thông báo và đặc tả Đề 2 nâng cấp của BTC",
+      "query": {
+        "description": "Văn bản đính kèm của người dùng mô tả 5 loại entity, assertions, candidates và input 100 hồ sơ."
+      }
+    },
+    {
+      "id": "validation-evidence",
+      "label": "Validator, regression tests và clean-source rebuild v4.1",
+      "path": "validation.txt",
+      "query": {
+        "engine": "local_python_validator",
+        "sql": "SELECT 'CHẨN_ĐOÁN' AS type, 731 AS v4_0, 705 AS v4_1 UNION ALL SELECT 'KẾT_QUẢ_XÉT_NGHIỆM',170,218 UNION ALL SELECT 'THUỐC',219,215 UNION ALL SELECT 'TRIỆU_CHỨNG',1014,1017 UNION ALL SELECT 'TÊN_XÉT_NGHIỆM',435,427",
+        "executed_at": "2026-07-22T23:43:20+07:00",
+        "description": "Kết quả chạy local trên CPU ngày 22/07/2026; 100 JSON được dựng lại trùng SHA-256."
+      }
+    }
+  ]
+}

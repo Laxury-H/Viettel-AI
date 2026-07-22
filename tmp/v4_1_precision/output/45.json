@@ -151,6 +151,15 @@
     ]
   },
   {
+    "text": "ct",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1814,
+      1816
+    ]
+  },
+  {
     "text": "Phù gai thị",
     "type": "CHẨN_ĐOÁN",
     "candidates": [

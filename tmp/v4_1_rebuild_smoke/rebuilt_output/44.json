@@ -1,0 +1,274 @@
+[
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      31,
+      35
+    ]
+  },
+  {
+    "text": "men gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      36,
+      43
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      48,
+      52
+    ]
+  },
+  {
+    "text": "bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      53,
+      62
+    ]
+  },
+  {
+    "text": "ast",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      68,
+      71
+    ]
+  },
+  {
+    "text": "421",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      72,
+      75
+    ]
+  },
+  {
+    "text": "alt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      77,
+      80
+    ]
+  },
+  {
+    "text": "336",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      81,
+      84
+    ]
+  },
+  {
+    "text": "alp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      86,
+      89
+    ]
+  },
+  {
+    "text": "185",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      90,
+      93
+    ]
+  },
+  {
+    "text": "bilirubin toàn phần",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      95,
+      114
+    ]
+  },
+  {
+    "text": "0.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      115,
+      118
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      121,
+      128
+    ]
+  },
+  {
+    "text": "siêu âm bụng có doppler",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      129,
+      152
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      155,
+      162
+    ]
+  },
+  {
+    "text": "chụp hida",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      163,
+      172
+    ]
+  },
+  {
+    "text": "acetaminophen",
+    "type": "THUỐC",
+    "candidates": [
+      "161"
+    ],
+    "assertions": [],
+    "position": [
+      204,
+      217
+    ]
+  },
+  {
+    "text": "nac",
+    "type": "THUỐC",
+    "candidates": [
+      "197"
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      235,
+      238
+    ]
+  },
+  {
+    "text": "ercp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      270,
+      274
+    ]
+  },
+  {
+    "text": "ercp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      277,
+      281
+    ]
+  },
+  {
+    "text": "sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K80.20"
+    ],
+    "assertions": [],
+    "position": [
+      413,
+      420
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      458,
+      462
+    ]
+  },
+  {
+    "text": "bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      463,
+      472
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      480,
+      484
+    ]
+  },
+  {
+    "text": "men gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      485,
+      492
+    ]
+  },
+  {
+    "text": "MÀY đay VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L50.1"
+    ],
+    "assertions": [],
+    "position": [
+      618,
+      632
+    ]
+  },
+  {
+    "text": "MÀY đay MẠN",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L50.8"
+    ],
+    "assertions": [],
+    "position": [
+      716,
+      727
+    ]
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L50.1"
+    ],
+    "assertions": [],
+    "position": [
+      1187,
+      1209
+    ]
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "text": "Đi ngoài phân đen",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      34,
+      51
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      53,
+      60
+    ]
+  },
+  {
+    "text": "đau bụng quanh rốn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      106,
+      124
+    ]
+  },
+  {
+    "text": "nôn thức ăn lẫn máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      126,
+      145
+    ]
+  },
+  {
+    "text": "đi ngoài phân đen",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      150,
+      167
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      169,
+      176
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      196,
+      199
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      223,
+      230
+    ]
+  },
+  {
+    "text": "INR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      288,
+      291
+    ]
+  },
+  {
+    "text": "15",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      292,
+      294
+    ]
+  },
+  {
+    "text": "Mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      467,
+      471
+    ]
+  },
+  {
+    "text": "130 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      473,
+      485
+    ]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      567,
+      570
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      724,
+      727
+    ]
+  },
+  {
+    "text": "Nhiệt độ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      740,
+      748
+    ]
+  },
+  {
+    "text": "37°C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      750,
+      754
+    ]
+  },
+  {
+    "text": "Huyết áp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      756,
+      764
+    ]
+  },
+  {
+    "text": "130 / 70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      766,
+      779
+    ]
+  },
+  {
+    "text": "Nhịp thở",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      781,
+      789
+    ]
+  },
+  {
+    "text": "21 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      792,
+      798
+    ]
+  },
+  {
+    "text": "Xuất huyết tiêu hóa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K92.2"
+    ],
+    "assertions": [],
+    "position": [
+      812,
+      831
+    ]
+  },
+  {
+    "text": "Viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J18.9"
+    ],
+    "assertions": [],
+    "position": [
+      868,
+      877
+    ]
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.9"
+    ],
+    "assertions": [],
+    "position": [
+      909,
+      923
+    ]
+  },
+  {
+    "text": "CRP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1647,
+      1650
+    ]
+  },
+  {
+    "text": "227.0 mg/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1652,
+      1662
+    ]
+  },
+  {
+    "text": "Creatinin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1663,
+      1672
+    ]
+  },
+  {
+    "text": "46 µmol/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1675,
+      1684
+    ]
+  },
+  {
+    "text": "Kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1685,
+      1689
+    ]
+  },
+  {
+    "text": "3.6 mmol/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1693,
+      1703
+    ]
+  },
+  {
+    "text": "CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1748,
+      1750
+    ]
+  },
+  {
+    "text": "Ceftriaxone 1g",
+    "type": "THUỐC",
+    "candidates": [
+      "1665021"
+    ],
+    "assertions": [],
+    "position": [
+      1886,
+      1900
+    ]
+  }
+]

@@ -1,0 +1,24 @@
+Generated: 2026-07-22 23:43:20 +07:00
+
+Submission validation
+---------------------
+expected records: 100
+archive files: 100
+parsed records: 100
+entities: 2582
+by type: CHẨN_ĐOÁN=705, KẾT_QUẢ_XÉT_NGHIỆM=218, THUỐC=215, TRIỆU_CHỨNG=1017, TÊN_XÉT_NGHIỆM=427
+assertions: isFamily=39, isHistorical=411, isNegated=108
+entities with assertions: 535
+candidates: 920 entities, 925 values
+entities per parsed record: min=2, max=74, avg=25.82
+empty records: none
+result: VALID - submission matches the upgraded schema
+
+Clean-source rebuild
+--------------------
+regression tests: 16 passed
+rebuilt records: 100
+rebuilt entities: 2582
+rebuilt ZIP validator: VALID
+JSON SHA-256 comparison: 100 files compared, 0 mismatches
+ZIP structure: output/1.json through output/100.json, 100 entries, 0 invalid paths

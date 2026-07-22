@@ -1,0 +1,56 @@
+[
+  {
+    "text": "rụng tóc từng mảng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L63.9"
+    ],
+    "assertions": [],
+    "position": [
+      35,
+      53
+    ]
+  },
+  {
+    "text": "rụng tóc từng vùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L63.9"
+    ],
+    "assertions": [],
+    "position": [
+      404,
+      422
+    ]
+  },
+  {
+    "text": "Nghiệm pháp gắng sức",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      962,
+      982
+    ]
+  },
+  {
+    "text": "dương tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      983,
+      993
+    ]
+  },
+  {
+    "text": "thiếu máu cơ tim cục bộ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.9"
+    ],
+    "assertions": [],
+    "position": [
+      998,
+      1021
+    ]
+  }
+]

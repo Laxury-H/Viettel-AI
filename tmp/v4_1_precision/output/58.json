@@ -70,6 +70,24 @@
     ]
   },
   {
+    "text": "Nhịp tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      343,
+      351
+    ]
+  },
+  {
+    "text": "85 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      357,
+      368
+    ]
+  },
+  {
     "text": "HA",
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],

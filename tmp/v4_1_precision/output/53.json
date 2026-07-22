@@ -135,6 +135,20 @@
     ]
   },
   {
+    "text": "ĐTD typ II",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      458,
+      468
+    ]
+  },
+  {
     "text": "Torsemide",
     "type": "THUỐC",
     "candidates": [

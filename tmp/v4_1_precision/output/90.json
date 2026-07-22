@@ -123,12 +123,12 @@
     ]
   },
   {
-    "text": "độ bão hòa oxy",
+    "text": "độ bão hòa oxy (SPO2)",
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "position": [
       550,
-      564
+      571
     ]
   },
   {

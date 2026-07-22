@@ -1,0 +1,36 @@
+{
+  "baseline": {
+    "version": "v4.0",
+    "submitted_at": "2026-07-22T22:32:00+07:00",
+    "final_score": 38.6974,
+    "WER": 56.5532,
+    "text_score": 43.4468,
+    "J_assertion": 50.2764,
+    "J_candidates": 26.4511,
+    "num_scored": 100,
+    "num_records": 100,
+    "sha256": "B814014F8A8EE785F28CB6CC6D04D874C27FF6256885C4C9246C964D0E6A26B1"
+  },
+  "candidate": {
+    "version": "v4.1-balanced",
+    "generated_at": "2026-07-22T23:43:20+07:00",
+    "leaderboard_status": "unscored",
+    "records": 100,
+    "entities": 2582,
+    "entities_by_type": {
+      "CHẨN_ĐOÁN": 705,
+      "KẾT_QUẢ_XÉT_NGHIỆM": 218,
+      "THUỐC": 215,
+      "TRIỆU_CHỨNG": 1017,
+      "TÊN_XÉT_NGHIỆM": 427
+    },
+    "assertions": {
+      "isFamily": 39,
+      "isHistorical": 411,
+      "isNegated": 108
+    },
+    "candidate_entities": 920,
+    "candidate_values": 925,
+    "sha256": "8B557D52A7269AD6F3D76E01151EA25802470D8A51E5313D1054114CB6D91F72"
+  }
+}

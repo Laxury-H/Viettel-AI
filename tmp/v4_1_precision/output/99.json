@@ -96,12 +96,12 @@
     ]
   },
   {
-    "text": "huyết áp",
+    "text": "huyết áp tâm thu",
     "type": "TÊN_XÉT_NGHIỆM",
     "assertions": [],
     "position": [
       426,
-      434
+      442
     ]
   },
   {
@@ -156,6 +156,24 @@
     "position": [
       551,
       554
+    ]
+  },
+  {
+    "text": "tần số",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      591,
+      597
+    ]
+  },
+  {
+    "text": "105 chu  kì/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      598,
+      614
     ]
   },
   {
