@@ -536,14 +536,15 @@ MEDICATION_SUFFIX = re.compile(
 MEDICATION_CANDIDATE_OVERRIDES = (
     (re.compile(r"(?i)\baspirin[ \t]*325[ \t]*mg\b"), ("212033",)),
     (re.compile(r"(?i)\b(?:acetaminophen|paracetamol)[ \t]*500[ \t]*mg\b"), ("198440",)),
-    (re.compile(r"(?i)\b(?:lasix|furosemide|furosemid)[ \t]*80[ \t]*mg\b"), ("197732",)),
-    (re.compile(r"(?i)\b80[ \t]*mg[ \t]*po[ \t]*(?:lasix|furosemide|furosemid)\b"), ("197732",)),
     (re.compile(r"(?i)\b80[ \t]*mg[ \t]*(?:iv[ \t]*(?:lasix|furosemide|furosemid)|(?:lasix|furosemide|furosemid)[ \t]*iv)\b"), ("4603",)),
+    (re.compile(r"(?i)\b80[ \t]*mg[ \t]*po[ \t]*(?:lasix|furosemide|furosemid)\b"), ("205732",)),
+    (re.compile(r"(?i)\b(?:lasix|furosemide|furosemid)[ \t]*80[ \t]*mg[ \t]*po\b"), ("205732",)),
+    (re.compile(r"(?i)\b(?:lasix|furosemide|furosemid)[ \t]*80[ \t]*mg\b"), ("205732",)),
     (re.compile(r"(?i)\bceftriaxone[ \t]*1[ \t]*(?:g|gram)\b"), ("1665021",)),
     (re.compile(r"(?i)\bbactrim[ \t]*ds\b"), ("198335",)),
     (re.compile(r"(?i)\bvancomycin[ \t]*1[ \t]*(?:g|gram)\b"), ("1807513",)),
     (re.compile(r"(?i)\blev(?:o|a)floxacin[ \t]*750[ \t]*mg\b"), ("330371",)),
-    (re.compile(r"(?i)\bcoumadin[ \t]*3(?:[.,]0)?[ \t]*mg\b"), ("855318",)),
+    (re.compile(r"(?i)\bcoumadin[ \t]*3(?:[.,]0)?[ \t]*mg\b"), ("855320",)),
     (re.compile(r"(?i)\bmethylprednisolone[ \t]*125[ \t]*mg[ \t]*iv\b"), ("1743704",)),
     # Strength-aware mappings.  The official examples prefer a clinical drug
     # or clinical-drug component when the mention contains a strength.
@@ -553,8 +554,8 @@ MEDICATION_CANDIDATE_OVERRIDES = (
     (re.compile(r"(?i)\bnitramyl[ \t]*2[.,]5[ \t]*mg\b"), ("316375",)),
     (re.compile(r"(?i)\b(?:omeprazole|omez)[ \t]*20[ \t]*mg\b"), ("198051",)),
     (re.compile(r"(?i)\b(?:furosemide|furosemid|lasix)[ \t]*40[ \t]*mg\b"), ("313988",)),
-    (re.compile(r"(?i)\bmedrol[ \t]*16[ \t]*mg\b"), ("328161",)),
-    (re.compile(r"(?i)\bzestril[ \t]*10[ \t]*mg\b"), ("314076",)),
+    (re.compile(r"(?i)\bmedrol[ \t]*16[ \t]*mg\b"), ("207138",)),
+    (re.compile(r"(?i)\bzestril[ \t]*10[ \t]*mg\b"), ("104377",)),
     (re.compile(r"(?i)\btylenol[ \t]*(?:1[ \t]*(?:g|gram)|1000[ \t]*mg)\b"), ("430837",)),
     (re.compile(r"(?i)\bbumetanide[ \t]*2[ \t]*mg\b"), ("315502",)),
     # Brand mentions are distinct RxNorm concepts from their ingredients.
