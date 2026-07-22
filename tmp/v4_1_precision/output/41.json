@@ -1,0 +1,56 @@
+[
+  {
+    "text": "mụn trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L70.9"
+    ],
+    "assertions": [],
+    "position": [
+      80,
+      92
+    ]
+  },
+  {
+    "text": "Tretinoin",
+    "type": "THUỐC",
+    "candidates": [
+      "10753"
+    ],
+    "assertions": [],
+    "position": [
+      962,
+      971
+    ]
+  },
+  {
+    "text": "đau ngực trái",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1115,
+      1128
+    ]
+  },
+  {
+    "text": "đau sau xương ức lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1141,
+      1173
+    ]
+  },
+  {
+    "text": "mụn trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L70.9"
+    ],
+    "assertions": [],
+    "position": [
+      1333,
+      1345
+    ]
+  }
+]

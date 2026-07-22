@@ -1,0 +1,184 @@
+[
+  {
+    "text": "viêm tủy xương mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["M86.60"],
+    "assertions": ["isHistorical"],
+    "position": [18, 41]
+  },
+  {
+    "text": "bàng quang thần kinh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["N31.9"],
+    "assertions": ["isHistorical"],
+    "position": [45, 65]
+  },
+  {
+    "text": "liệt hai chi dưới",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["G82.20"],
+    "assertions": ["isHistorical"],
+    "position": [81, 98]
+  },
+  {
+    "text": "loét",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [102, 106]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["N39.0"],
+    "assertions": ["isHistorical"],
+    "position": [163, 190]
+  },
+  {
+    "text": "vanco",
+    "type": "THUỐC",
+    "candidates": ["11124"],
+    "assertions": ["isHistorical"],
+    "position": [236, 241]
+  },
+  {
+    "text": "zosyn",
+    "type": "THUỐC",
+    "candidates": ["74169"],
+    "assertions": ["isHistorical"],
+    "position": [241, 246]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "candidates": ["10831"],
+    "assertions": ["isHistorical"],
+    "position": [321, 328]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["N39.0"],
+    "assertions": ["isHistorical"],
+    "position": [341, 368]
+  },
+  {
+    "text": "sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [407, 414]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [466, 477]
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["A41.9"],
+    "assertions": [],
+    "position": [497, 514]
+  },
+  {
+    "text": "vanco",
+    "type": "THUỐC",
+    "candidates": ["11124"],
+    "assertions": [],
+    "position": [541, 546]
+  },
+  {
+    "text": "zosyn",
+    "type": "THUỐC",
+    "candidates": ["74169"],
+    "assertions": [],
+    "position": [546, 551]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "candidates": ["10831"],
+    "assertions": [],
+    "position": [551, 558]
+  },
+  {
+    "text": "viêm tuỷ xương",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["M86.9"],
+    "assertions": [],
+    "position": [575, 589]
+  },
+  {
+    "text": "zosyn 8 ngày",
+    "type": "THUỐC",
+    "candidates": ["74169"],
+    "assertions": [],
+    "position": [604, 616]
+  },
+  {
+    "text": "viêm tủy xương mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["M86.60"],
+    "assertions": [],
+    "position": [655, 678]
+  },
+  {
+    "text": "sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [822, 829]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [962, 969]
+  },
+  {
+    "text": "Đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [970, 978]
+  },
+  {
+    "text": "Hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [999, 1010]
+  },
+  {
+    "text": "nhiễm trùng huyết",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["A41.9"],
+    "assertions": [],
+    "position": [1232, 1249]
+  },
+  {
+    "text": "viêm tủy xương mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["M86.60"],
+    "assertions": [],
+    "position": [1271, 1294]
+  },
+  {
+    "text": "NS 0.9",
+    "type": "THUỐC",
+    "candidates": ["9863"],
+    "assertions": [],
+    "position": [1332, 1338]
+  },
+  {
+    "text": "Cefepim",
+    "type": "THUỐC",
+    "candidates": ["20481"],
+    "assertions": [],
+    "position": [1354, 1361]
+  },
+  {
+    "text": "Vancomycin truyền tĩnh mạch",
+    "type": "THUỐC",
+    "candidates": ["11124"],
+    "assertions": [],
+    "position": [1365, 1392]
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [53, 56]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I50.9"],
+    "assertions": ["isNegated"],
+    "position": [644, 651]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1423, 1426]
+  },
+  {
+    "text": "Sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1439, 1446]
+  },
+  {
+    "text": "Sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1458, 1461]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1509, 1512]
+  },
+  {
+    "text": "Ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1827, 1833]
+  },
+  {
+    "text": "đa xơ cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["G35"],
+    "assertions": ["isNegated"],
+    "position": [1921, 1931]
+  },
+  {
+    "text": "Ảo giác do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["F10.151"],
+    "assertions": [],
+    "position": [1971, 1986]
+  },
+  {
+    "text": "Công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2042, 2055]
+  },
+  {
+    "text": "Cấy máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2118, 2125]
+  },
+  {
+    "text": "ức chế miễn dịch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D84.9"],
+    "assertions": [],
+    "position": [2729, 2745]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [3241, 3244]
+  },
+  {
+    "text": "sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [3550, 3557]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [3595, 3601]
+  }
+]

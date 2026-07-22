@@ -1,0 +1,105 @@
+[
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F32.9"
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      106,
+      114
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      146,
+      158
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I26.99"
+    ],
+    "assertions": [],
+    "position": [
+      319,
+      342
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L08.9"
+    ],
+    "assertions": [],
+    "position": [
+      346,
+      375
+    ]
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "candidates": [
+      "11124"
+    ],
+    "assertions": [],
+    "position": [
+      398,
+      408
+    ]
+  },
+  {
+    "text": "viêm nang lông",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L73.9"
+    ],
+    "assertions": [],
+    "position": [
+      914,
+      928
+    ]
+  },
+  {
+    "text": "nổi mẩn đỏ ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1171,
+      1186
+    ]
+  },
+  {
+    "text": "nổi mề đay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1411,
+      1421
+    ]
+  },
+  {
+    "text": "bệnh vảy nến",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L40.9"
+    ],
+    "assertions": [],
+    "position": [
+      1423,
+      1435
+    ]
+  }
+]

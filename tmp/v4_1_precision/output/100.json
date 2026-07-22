@@ -1,0 +1,41 @@
+[
+  {
+    "text": "cục máu đông",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      280,
+      294
+    ]
+  },
+  {
+    "text": "đi tiêu ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      309,
+      324
+    ]
+  },
+  {
+    "text": "aspirin",
+    "type": "THUỐC",
+    "candidates": [
+      "1191"
+    ],
+    "assertions": [],
+    "position": [
+      1114,
+      1121
+    ]
+  },
+  {
+    "text": "3 ngày đại tiện ra máu đỏ tươi gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1212,
+      1252
+    ]
+  }
+]

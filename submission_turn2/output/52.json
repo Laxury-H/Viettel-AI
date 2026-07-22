@@ -1,0 +1,28 @@
+[
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [878, 880]
+  },
+  {
+    "text": "ho",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1047, 1049]
+  },
+  {
+    "text": "klonopin",
+    "type": "THUỐC",
+    "candidates": ["2598"],
+    "assertions": [],
+    "position": [1679, 1687]
+  },
+  {
+    "text": "clonidine",
+    "type": "THUỐC",
+    "candidates": ["2599"],
+    "assertions": [],
+    "position": [1687, 1696]
+  }
+]

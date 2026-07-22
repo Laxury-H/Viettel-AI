@@ -1,0 +1,20 @@
+[
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [784, 786]
+  },
+  {
+    "text": "đau ngực trái cấp tính",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1115, 1137]
+  },
+  {
+    "text": "đau sau xương ức lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1141, 1173]
+  }
+]

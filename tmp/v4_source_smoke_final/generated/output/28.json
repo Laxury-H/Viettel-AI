@@ -1,0 +1,98 @@
+[
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      102,
+      106
+    ]
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      188,
+      192
+    ]
+  },
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L50.1"
+    ],
+    "assertions": [],
+    "position": [
+      733,
+      747
+    ]
+  },
+  {
+    "text": "MÀY ĐAY MẠN TÍNH",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L50.8"
+    ],
+    "assertions": [],
+    "position": [
+      839,
+      855
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1269,
+      1280
+    ]
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L50.1"
+    ],
+    "assertions": [],
+    "position": [
+      1388,
+      1410
+    ]
+  },
+  {
+    "text": "Mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L50.1"
+    ],
+    "assertions": [],
+    "position": [
+      1508,
+      1522
+    ]
+  },
+  {
+    "text": "chụp cộng hưởng từ (mri) cột sống cổ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2235,
+      2271
+    ]
+  },
+  {
+    "text": "hẹp ống sống C4-5, C5-6, C6-7",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M48.02"
+    ],
+    "assertions": [],
+    "position": [
+      2281,
+      2310
+    ]
+  }
+]

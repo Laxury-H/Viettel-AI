@@ -1,0 +1,203 @@
+[
+  {
+    "text": "bệnh gút",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M10.9"
+    ],
+    "assertions": [
+      "isFamily"
+    ],
+    "position": [
+      64,
+      72
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "position": [
+      115,
+      118
+    ]
+  },
+  {
+    "text": "hạt nhỏ màu trắng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "position": [
+      166,
+      183
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isFamily"
+    ],
+    "position": [
+      508,
+      517
+    ]
+  },
+  {
+    "text": "bệnh gout mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M1A.9XX1"
+    ],
+    "assertions": [
+      "isFamily"
+    ],
+    "position": [
+      524,
+      542
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      558,
+      567
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      588,
+      597
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      764,
+      773
+    ]
+  },
+  {
+    "text": "sưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      788,
+      792
+    ]
+  },
+  {
+    "text": "tấy đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      794,
+      800
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      908,
+      917
+    ]
+  },
+  {
+    "text": "biến dạng xương khớp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      947,
+      967
+    ]
+  },
+  {
+    "text": "nhiễm trùng máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A41.9"
+    ],
+    "assertions": [],
+    "position": [
+      973,
+      988
+    ]
+  },
+  {
+    "text": "xơ gan mất bù",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K72.90"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1019,
+      1032
+    ]
+  },
+  {
+    "text": "tăng áp lực tĩnh mạch cửa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K76.6"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1036,
+      1061
+    ]
+  },
+  {
+    "text": "cổ trướng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R18.8"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1063,
+      1072
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J90"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      1076,
+      1095
+    ]
+  },
+  {
+    "text": "hạt tophi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1356,
+      1365
+    ]
+  }
+]

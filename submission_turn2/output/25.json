@@ -1,0 +1,106 @@
+[
+  {
+    "text": "k",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [85, 86]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [386, 394]
+  },
+  {
+    "text": "k",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [401, 402]
+  },
+  {
+    "text": "k",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [493, 494]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1494, 1500]
+  },
+  {
+    "text": "sưng nề",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1649, 1656]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1694, 1700]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1778, 1784]
+  },
+  {
+    "text": "sưng nề",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1829, 1836]
+  },
+  {
+    "text": "levafloxacin",
+    "type": "THUỐC",
+    "candidates": ["82122"],
+    "assertions": [],
+    "position": [1914, 1926]
+  },
+  {
+    "text": "cephalexin",
+    "type": "THUỐC",
+    "candidates": ["2231"],
+    "assertions": [],
+    "position": [1930, 1940]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1983, 1989]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2008, 2017]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2154, 2160]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2232, 2241]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [2254, 2257]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2370, 2376]
+  }
+]

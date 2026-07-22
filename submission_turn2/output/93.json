@@ -1,0 +1,15 @@
+[
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [986, 991]
+  },
+  {
+    "text": "đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["K59.39"],
+    "assertions": [],
+    "position": [1382, 1396]
+  }
+]

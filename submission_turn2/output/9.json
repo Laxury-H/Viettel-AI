@@ -1,0 +1,40 @@
+[
+  {
+    "text": "loét",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [329, 333]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1030, 1038]
+  },
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["K21.9"],
+    "assertions": [],
+    "position": [2358, 2385]
+  },
+  {
+    "text": "đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["K59.39"],
+    "assertions": [],
+    "position": [2703, 2717]
+  },
+  {
+    "text": "bạch cầu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2813, 2821]
+  },
+  {
+    "text": "lơ mơ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2980, 2985]
+  }
+]

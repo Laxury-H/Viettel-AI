@@ -1,0 +1,331 @@
+[
+  {
+    "text": "Bệnh phổi kẽ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J84.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      44,
+      56
+    ]
+  },
+  {
+    "text": "Hội chứng kháng enzym tổng hợp protein",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D89.89"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      124,
+      162
+    ]
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E66.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      170,
+      177
+    ]
+  },
+  {
+    "text": "Tăng huyết áp nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I10"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      184,
+      209
+    ]
+  },
+  {
+    "text": "Sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      247,
+      257
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "candidates": [
+      "151399"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      382,
+      389
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "candidates": [
+      "3640"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      430,
+      441
+    ]
+  },
+  {
+    "text": "Suy giảm miễn dịch do sử dụng corticoid kéo dài",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D84.821"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      478,
+      525
+    ]
+  },
+  {
+    "text": "cotrimoxazol",
+    "type": "THUỐC",
+    "candidates": [
+      "10831"
+    ],
+    "assertions": [],
+    "position": [
+      921,
+      933
+    ]
+  },
+  {
+    "text": "doxycyclin",
+    "type": "THUỐC",
+    "candidates": [
+      "3640"
+    ],
+    "assertions": [],
+    "position": [
+      953,
+      963
+    ]
+  },
+  {
+    "text": "viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L03.90"
+    ],
+    "assertions": [],
+    "position": [
+      976,
+      990
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1008,
+      1014
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1150,
+      1153
+    ]
+  },
+  {
+    "text": "Pimperan",
+    "type": "THUỐC",
+    "candidates": [
+      "6915"
+    ],
+    "assertions": [],
+    "position": [
+      1465,
+      1473
+    ]
+  },
+  {
+    "text": "metoclopramide",
+    "type": "THUỐC",
+    "candidates": [
+      "6915"
+    ],
+    "assertions": [],
+    "position": [
+      1528,
+      1542
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1763,
+      1766
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1860,
+      1866
+    ]
+  },
+  {
+    "text": "chảy mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1868,
+      1875
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "candidates": [
+      "151399"
+    ],
+    "assertions": [],
+    "position": [
+      1984,
+      1991
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "candidates": [
+      "3640"
+    ],
+    "assertions": [],
+    "position": [
+      1995,
+      2006
+    ]
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L03.90"
+    ],
+    "assertions": [],
+    "position": [
+      2029,
+      2043
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2083,
+      2089
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "candidates": [
+      "3640"
+    ],
+    "assertions": [],
+    "position": [
+      2332,
+      2343
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "candidates": [
+      "151399"
+    ],
+    "assertions": [],
+    "position": [
+      2343,
+      2350
+    ]
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L03.90"
+    ],
+    "assertions": [],
+    "position": [
+      2364,
+      2378
+    ]
+  },
+  {
+    "text": "Nhiễm virus Herpes simplex",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B00.9"
+    ],
+    "assertions": [],
+    "position": [
+      2585,
+      2611
+    ]
+  },
+  {
+    "text": "HSV",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B00.9"
+    ],
+    "assertions": [],
+    "position": [
+      2613,
+      2616
+    ]
+  },
+  {
+    "text": "Bệnh thủy đậu/Zona",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B02.9"
+    ],
+    "assertions": [],
+    "position": [
+      2623,
+      2641
+    ]
+  }
+]

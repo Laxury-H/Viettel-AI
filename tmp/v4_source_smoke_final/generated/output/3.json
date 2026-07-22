@@ -1,0 +1,455 @@
+[
+  {
+    "text": "run tay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      35,
+      42
+    ]
+  },
+  {
+    "text": "run tay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      79,
+      86
+    ]
+  },
+  {
+    "text": "Vastarel (trimetazidin)",
+    "type": "THUỐC",
+    "candidates": [
+      "10826"
+    ],
+    "assertions": [],
+    "position": [
+      323,
+      346
+    ]
+  },
+  {
+    "text": "hội chứng Parkinson",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G20"
+    ],
+    "assertions": [],
+    "position": [
+      510,
+      529
+    ]
+  },
+  {
+    "text": "run tay",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      535,
+      542
+    ]
+  },
+  {
+    "text": "mất thăng bằng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      549,
+      563
+    ]
+  },
+  {
+    "text": "đau thắt ngực ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I20.89"
+    ],
+    "assertions": [],
+    "position": [
+      660,
+      681
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      808,
+      817
+    ]
+  },
+  {
+    "text": "yếu sức nửa người bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      943,
+      969
+    ]
+  },
+  {
+    "text": "tình trạng tri giác giảm sút",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      976,
+      1004
+    ]
+  },
+  {
+    "text": "nhìn song thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1011,
+      1024
+    ]
+  },
+  {
+    "text": "yếu sức chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1288,
+      1305
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1336,
+      1339
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1376,
+      1379
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1485,
+      1499
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1508,
+      1515
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1546,
+      1566
+    ]
+  },
+  {
+    "text": "nhịp tim chậm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1585,
+      1598
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1607,
+      1618
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1710,
+      1724
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1734,
+      1741
+    ]
+  },
+  {
+    "text": "nhiễm trùng răng miệng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K12.2"
+    ],
+    "assertions": [],
+    "position": [
+      2021,
+      2043
+    ]
+  },
+  {
+    "text": "yếu sức nửa người bên phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2171,
+      2197
+    ]
+  },
+  {
+    "text": "tình trạng tri giác giảm sút",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2204,
+      2232
+    ]
+  },
+  {
+    "text": "nhìn song thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2239,
+      2252
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2259,
+      2266
+    ]
+  },
+  {
+    "text": "yếu chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2306,
+      2319
+    ]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2565,
+      2572
+    ]
+  },
+  {
+    "text": "yếu sức chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2668,
+      2685
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2706,
+      2720
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2729,
+      2736
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2754,
+      2774
+    ]
+  },
+  {
+    "text": "nhịp tim chậm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2785,
+      2798
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2807,
+      2818
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2907,
+      2921
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2931,
+      2938
+    ]
+  },
+  {
+    "text": "nhiễm trùng răng miệng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K12.2"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      2981,
+      3003
+    ]
+  },
+  {
+    "text": "yếu sức chân phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      3108,
+      3125
+    ]
+  },
+  {
+    "text": "yếu nửa người",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      3272,
+      3285
+    ]
+  },
+  {
+    "text": "nhìn song thị",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      3325,
+      3338
+    ]
+  },
+  {
+    "text": "nhịp tim chậm",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      3345,
+      3358
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      3365,
+      3376
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3555,
+      3569
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3571,
+      3578
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3594,
+      3608
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3610,
+      3617
+    ]
+  },
+  {
+    "text": "chụp ct sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3655,
+      3669
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3676,
+      3696
+    ]
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "text": "ung thư đường mật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["C22.1"],
+    "assertions": ["isHistorical"],
+    "position": [183, 200]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [413, 416]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [426, 429]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [493, 496]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["L02.91"],
+    "assertions": [],
+    "position": [536, 541]
+  },
+  {
+    "text": "Augmentin đường uống",
+    "type": "THUỐC",
+    "candidates": ["19711"],
+    "assertions": [],
+    "position": [630, 650]
+  },
+  {
+    "text": "calci",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1052, 1057]
+  },
+  {
+    "text": "sắt",
+    "type": "THUỐC",
+    "candidates": ["90176"],
+    "assertions": [],
+    "position": [1061, 1064]
+  },
+  {
+    "text": "3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1072, 1073]
+  }
+]

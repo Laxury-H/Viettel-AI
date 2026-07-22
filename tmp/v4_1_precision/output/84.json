@@ -1,0 +1,14 @@
+[
+  {
+    "text": "Nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "B35.6"
+    ],
+    "assertions": [],
+    "position": [
+      114,
+      121
+    ]
+  }
+]

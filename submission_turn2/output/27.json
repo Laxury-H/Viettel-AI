@@ -1,0 +1,201 @@
+[
+  {
+    "text": "viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J18.9"],
+    "assertions": [],
+    "position": [20, 29]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [30, 37]
+  },
+  {
+    "text": "viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J18.9"],
+    "assertions": [],
+    "position": [68, 77]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["L02.91"],
+    "assertions": [],
+    "position": [116, 121]
+  },
+  {
+    "text": "Viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J18.9"],
+    "assertions": [],
+    "position": [211, 220]
+  },
+  {
+    "text": "viêm phế quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J40"],
+    "assertions": [],
+    "position": [235, 248]
+  },
+  {
+    "text": "Viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J18.9"],
+    "assertions": [],
+    "position": [391, 400]
+  },
+  {
+    "text": "suy giảm miễn dịch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D84.9"],
+    "assertions": [],
+    "position": [529, 547]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [551, 558]
+  },
+  {
+    "text": "Viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J18.9"],
+    "assertions": [],
+    "position": [572, 581]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [582, 589]
+  },
+  {
+    "text": "Áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["L02.91"],
+    "assertions": [],
+    "position": [748, 753]
+  },
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [783, 785]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [787, 794]
+  },
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [913, 915]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [1045, 1052]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [1093, 1100]
+  },
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [1107, 1109]
+  },
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1133, 1135]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["L02.91"],
+    "assertions": [],
+    "position": [1143, 1148]
+  },
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1252, 1254]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1271, 1278]
+  },
+  {
+    "text": "áp xe",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["L02.91"],
+    "assertions": [],
+    "position": [1348, 1353]
+  },
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1387, 1389]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1488, 1495]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1538, 1545]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1621, 1628]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1741, 1748]
+  },
+  {
+    "text": "phù gai thị",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["H47.10"],
+    "assertions": [],
+    "position": [1909, 1920]
+  },
+  {
+    "text": "Phù gai thị",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["H47.10"],
+    "assertions": [],
+    "position": [1999, 2010]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2279, 2286]
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      34,
+      46
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F32.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      108,
+      116
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F41.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      121,
+      135
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F32.9"
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      555,
+      563
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      595,
+      607
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I26.99"
+    ],
+    "assertions": [],
+    "position": [
+      768,
+      791
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L08.9"
+    ],
+    "assertions": [],
+    "position": [
+      795,
+      824
+    ]
+  }
+]

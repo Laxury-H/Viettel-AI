@@ -1,0 +1,181 @@
+[
+  {
+    "text": "Coronary Artery Disease",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I25.10"],
+    "assertions": ["isHistorical"],
+    "position": [17, 40]
+  },
+  {
+    "text": "CAD",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I25.10"],
+    "assertions": ["isHistorical"],
+    "position": [43, 46]
+  },
+  {
+    "text": "xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I70.90"],
+    "assertions": ["isHistorical"],
+    "position": [208, 224]
+  },
+  {
+    "text": "thiếu oxy",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [256, 265]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I50.9"],
+    "assertions": ["isHistorical"],
+    "position": [320, 327]
+  },
+  {
+    "text": "Xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I70.90"],
+    "assertions": ["isHistorical"],
+    "position": [399, 415]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I10"],
+    "assertions": ["isHistorical"],
+    "position": [716, 729]
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E11.9"],
+    "assertions": ["isHistorical"],
+    "position": [733, 747]
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E78.5"],
+    "assertions": ["isHistorical"],
+    "position": [752, 770]
+  },
+  {
+    "text": "Béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E66.9"],
+    "assertions": ["isHistorical"],
+    "position": [774, 781]
+  },
+  {
+    "text": "nitroglycerin",
+    "type": "THUỐC",
+    "candidates": ["4917"],
+    "assertions": ["isHistorical"],
+    "position": [1029, 1042]
+  },
+  {
+    "text": "Đau thắt ngực ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I20.89"],
+    "assertions": ["isHistorical"],
+    "position": [1061, 1082]
+  },
+  {
+    "text": "Đau thắt ngực không ổn định",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I20.0"],
+    "assertions": ["isHistorical"],
+    "position": [1253, 1280]
+  },
+  {
+    "text": "Khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1345, 1352]
+  },
+  {
+    "text": "Buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1363, 1371]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1428, 1436]
+  },
+  {
+    "text": "rung nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I48.91"],
+    "assertions": ["isHistorical"],
+    "position": [1561, 1569]
+  },
+  {
+    "text": "u ác của tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["C61"],
+    "assertions": ["isHistorical"],
+    "position": [1611, 1635]
+  },
+  {
+    "text": "u ác của tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["C61"],
+    "assertions": ["isHistorical"],
+    "position": [1746, 1770]
+  },
+  {
+    "text": "eliquis",
+    "type": "THUỐC",
+    "candidates": ["1364430"],
+    "assertions": ["isHistorical"],
+    "position": [1813, 1820]
+  },
+  {
+    "text": "rung nhĩ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I48.91"],
+    "assertions": ["isHistorical"],
+    "position": [1826, 1834]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1883, 1886]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1890, 1898]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1951, 1959]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2015, 2018]
+  },
+  {
+    "text": "đường huyết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2200, 2211]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2353, 2361]
+  }
+]

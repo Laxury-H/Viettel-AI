@@ -1,0 +1,15 @@
+[
+  {
+    "text": "thiếu máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I25.9"],
+    "assertions": [],
+    "position": [998, 1014]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1661, 1664]
+  }
+]

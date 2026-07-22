@@ -1,0 +1,50 @@
+[
+  {
+    "text": "gút",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["M10.9"],
+    "assertions": ["isHistorical"],
+    "position": [69, 72]
+  },
+  {
+    "text": "gout",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["M10.9"],
+    "assertions": ["isHistorical", "isNegated"],
+    "position": [529, 533]
+  },
+  {
+    "text": "hoại tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [938, 945]
+  },
+  {
+    "text": "xơ gan mất bù",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["K72.90"],
+    "assertions": ["isHistorical"],
+    "position": [1019, 1032]
+  },
+  {
+    "text": "tăng áp lực tĩnh mạch cửa",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["K76.6"],
+    "assertions": ["isHistorical"],
+    "position": [1036, 1061]
+  },
+  {
+    "text": "cổ trướng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["R18.8"],
+    "assertions": ["isHistorical"],
+    "position": [1063, 1072]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J90"],
+    "assertions": ["isHistorical"],
+    "position": [1076, 1095]
+  }
+]

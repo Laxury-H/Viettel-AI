@@ -1,0 +1,29 @@
+[
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [911, 922]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D64.9"],
+    "assertions": [],
+    "position": [1254, 1263]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J90"],
+    "assertions": [],
+    "position": [1470, 1489]
+  },
+  {
+    "text": "tim to",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I51.7"],
+    "assertions": [],
+    "position": [1503, 1509]
+  }
+]

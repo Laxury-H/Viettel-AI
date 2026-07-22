@@ -1,0 +1,40 @@
+[
+  {
+    "text": "loét",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [329, 333]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1030, 1038]
+  },
+  {
+    "text": "trào ngược dạ dày thực quản",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["K21.9"],
+    "assertions": [],
+    "position": [2358, 2385]
+  },
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2886, 2888]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [3125, 3128]
+  },
+  {
+    "text": "viêm dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["K29.70"],
+    "assertions": ["isNegated"],
+    "position": [3167, 3178]
+  }
+]

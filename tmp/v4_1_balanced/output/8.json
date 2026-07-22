@@ -1,0 +1,514 @@
+[
+  {
+    "text": "Rối loạn cảm xúc (trầm cảm)",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F32.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      51,
+      78
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F32.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      98,
+      106
+    ]
+  },
+  {
+    "text": "hội chứng nghiện rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F10.20"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      129,
+      150
+    ]
+  },
+  {
+    "text": "seroquel",
+    "type": "THUỐC",
+    "candidates": [
+      "83553"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      190,
+      198
+    ]
+  },
+  {
+    "text": "lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      229,
+      235
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      237,
+      246
+    ]
+  },
+  {
+    "text": "hội chứng nghiện rượu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "F10.20"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      323,
+      344
+    ]
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      477,
+      483
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      516,
+      525
+    ]
+  },
+  {
+    "text": "ảo giác thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      618,
+      634
+    ]
+  },
+  {
+    "text": "ảo giác thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      636,
+      652
+    ]
+  },
+  {
+    "text": "ảo giác thính giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      675,
+      693
+    ]
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      817,
+      823
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      840,
+      849
+    ]
+  },
+  {
+    "text": "ảo giác thị giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      939,
+      955
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      981,
+      988
+    ]
+  },
+  {
+    "text": "chụp ct sọ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1278,
+      1288
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R90.82"
+    ],
+    "assertions": [],
+    "position": [
+      1335,
+      1353
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1360,
+      1380
+    ]
+  },
+  {
+    "text": "không phát hiện bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1384,
+      1410
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R90.82"
+    ],
+    "assertions": [],
+    "position": [
+      1443,
+      1461
+    ]
+  },
+  {
+    "text": "các băng nhóm oligoclonal",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1468,
+      1493
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1754,
+      1774
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1778,
+      1785
+    ]
+  },
+  {
+    "text": "chụp ct sọ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1818,
+      1828
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R90.82"
+    ],
+    "assertions": [],
+    "position": [
+      1840,
+      1858
+    ]
+  },
+  {
+    "text": "chọc dò dịch não tủy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1916,
+      1936
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R90.82"
+    ],
+    "assertions": [],
+    "position": [
+      2023,
+      2041
+    ]
+  },
+  {
+    "text": "các băng nhóm oligoclonal",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2048,
+      2073
+    ]
+  },
+  {
+    "text": "bệnh lý chất trắng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "R90.82"
+    ],
+    "assertions": [],
+    "position": [
+      2136,
+      2154
+    ]
+  },
+  {
+    "text": "Sưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2159,
+      2163
+    ]
+  },
+  {
+    "text": "Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M30.3"
+    ],
+    "assertions": [],
+    "position": [
+      2260,
+      2268
+    ]
+  },
+  {
+    "text": "sốt siêu vi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2281,
+      2292
+    ]
+  },
+  {
+    "text": "sốt phát ban",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2294,
+      2306
+    ]
+  },
+  {
+    "text": "sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2329,
+      2336
+    ]
+  },
+  {
+    "text": "Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M30.3"
+    ],
+    "assertions": [],
+    "position": [
+      2403,
+      2411
+    ]
+  },
+  {
+    "text": "bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M30.3"
+    ],
+    "assertions": [],
+    "position": [
+      2464,
+      2477
+    ]
+  },
+  {
+    "text": "Phình giãn động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.41"
+    ],
+    "assertions": [],
+    "position": [
+      2565,
+      2590
+    ]
+  },
+  {
+    "text": "Thiếu máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.9"
+    ],
+    "assertions": [],
+    "position": [
+      2622,
+      2638
+    ]
+  },
+  {
+    "text": "Nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I21.9"
+    ],
+    "assertions": [],
+    "position": [
+      2642,
+      2657
+    ]
+  },
+  {
+    "text": "Viêm cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I51.4"
+    ],
+    "assertions": [],
+    "position": [
+      2764,
+      2775
+    ]
+  },
+  {
+    "text": "Tràn dịch màng tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I31.39"
+    ],
+    "assertions": [],
+    "position": [
+      2779,
+      2797
+    ]
+  },
+  {
+    "text": "Tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2801,
+      2805
+    ]
+  },
+  {
+    "text": "men gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2806,
+      2813
+    ]
+  },
+  {
+    "text": "bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "M30.3"
+    ],
+    "assertions": [],
+    "position": [
+      2848,
+      2861
+    ]
+  },
+  {
+    "text": "Sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2885,
+      2888
+    ]
+  },
+  {
+    "text": "Viêm kết mạc",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2921,
+      2933
+    ]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      3024,
+      3027
+    ]
+  },
+  {
+    "text": "Ban đỏ toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      3046,
+      3062
+    ]
+  }
+]

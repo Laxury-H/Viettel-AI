@@ -1,0 +1,307 @@
+[
+  {
+    "text": "Bệnh tim mạch do xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I70.90"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      21,
+      54
+    ]
+  },
+  {
+    "text": "ăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I10"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      56,
+      68
+    ]
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E78.5"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      69,
+      87
+    ]
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "E11.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      89,
+      103
+    ]
+  },
+  {
+    "text": "Cơn rối loạn ý thức thoáng qua",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      132,
+      162
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      231,
+      234
+    ]
+  },
+  {
+    "text": "xuất huyết dưới nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I60.9"
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "position": [
+      253,
+      273
+    ]
+  },
+  {
+    "text": "xuất huyết dưới nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I60.9"
+    ],
+    "assertions": [],
+    "position": [
+      317,
+      337
+    ]
+  },
+  {
+    "text": "bầm dập nhu mô",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S06.33"
+    ],
+    "assertions": [],
+    "position": [
+      354,
+      368
+    ]
+  },
+  {
+    "text": "nang màng nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G93.0"
+    ],
+    "assertions": [],
+    "position": [
+      484,
+      498
+    ]
+  },
+  {
+    "text": "tụ máu dưới màng cứng mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.03"
+    ],
+    "assertions": [],
+    "position": [
+      512,
+      542
+    ]
+  },
+  {
+    "text": "CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      558,
+      560
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      711,
+      718
+    ]
+  },
+  {
+    "text": "tụ máu ngoài màng cứng phải cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S06.4"
+    ],
+    "assertions": [],
+    "position": [
+      752,
+      788
+    ]
+  },
+  {
+    "text": "CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      867,
+      869
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1001,
+      1008
+    ]
+  },
+  {
+    "text": "tê bì nửa mặt phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1056,
+      1074
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1126,
+      1129
+    ]
+  },
+  {
+    "text": "ngất",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1421,
+      1425
+    ]
+  },
+  {
+    "text": "bệnh bàn chân bẹt",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "Q66.50"
+    ],
+    "assertions": [],
+    "position": [
+      1898,
+      1915
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      2016,
+      2019
+    ]
+  },
+  {
+    "text": "CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      2564,
+      2566
+    ]
+  },
+  {
+    "text": "xuất huyết dưới nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I60.9"
+    ],
+    "assertions": [],
+    "position": [
+      2592,
+      2612
+    ]
+  },
+  {
+    "text": "Bầm dập nhu mô",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S06.33"
+    ],
+    "assertions": [],
+    "position": [
+      2628,
+      2642
+    ]
+  },
+  {
+    "text": "nang màng nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G93.0"
+    ],
+    "assertions": [],
+    "position": [
+      2743,
+      2757
+    ]
+  },
+  {
+    "text": "tụ máu dưới màng cứng mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I62.03"
+    ],
+    "assertions": [],
+    "position": [
+      2763,
+      2793
+    ]
+  },
+  {
+    "text": "Tụ máu ngoài màng cứng phải cấp tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "S06.4"
+    ],
+    "assertions": [],
+    "position": [
+      2794,
+      2830
+    ]
+  }
+]

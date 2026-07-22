@@ -1,0 +1,152 @@
+[
+  {
+    "text": "Đo sức bền cơ tim bằng đồng vị phóng xạ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      68,
+      107
+    ]
+  },
+  {
+    "text": "giảm chức năng tâm thu thất trái",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I51.89"
+    ],
+    "assertions": [],
+    "position": [
+      168,
+      200
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      255,
+      274
+    ]
+  },
+  {
+    "text": "bệnh ba thân động mạch vành nghiêm trọng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I25.10"
+    ],
+    "assertions": [],
+    "position": [
+      284,
+      324
+    ]
+  },
+  {
+    "text": "Chụp động mạch vành",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      355,
+      374
+    ]
+  },
+  {
+    "text": "Viêm hang vị sung huyết",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      411,
+      434
+    ]
+  },
+  {
+    "text": "đau bụng cồn cào",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      552,
+      568
+    ]
+  },
+  {
+    "text": "ợ hơi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      578,
+      583
+    ]
+  },
+  {
+    "text": "ợ chua",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      585,
+      591
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      612,
+      620
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      626,
+      629
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      720,
+      727
+    ]
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      801,
+      831
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      887,
+      894
+    ]
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      1281,
+      1311
+    ]
+  }
+]

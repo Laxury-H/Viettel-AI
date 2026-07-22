@@ -1,0 +1,87 @@
+[
+  {
+    "text": "mủ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [852, 854]
+  },
+  {
+    "text": "canxi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1003, 1008]
+  },
+  {
+    "text": "canxi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1031, 1036]
+  },
+  {
+    "text": "K",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1168, 1169]
+  },
+  {
+    "text": "Tiểu đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E11.9"],
+    "assertions": [],
+    "position": [1173, 1183]
+  },
+  {
+    "text": "tiểu đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E11.9"],
+    "assertions": [],
+    "position": [1238, 1248]
+  },
+  {
+    "text": "tiểu đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E11.9"],
+    "assertions": [],
+    "position": [1313, 1323]
+  },
+  {
+    "text": "yếu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1328, 1331]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["F32.9"],
+    "assertions": [],
+    "position": [1621, 1629]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1677, 1680]
+  },
+  {
+    "text": "bệnh mạch máu ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I73.9"],
+    "assertions": [],
+    "position": [1850, 1874]
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["J44.9"],
+    "assertions": [],
+    "position": [1881, 1909]
+  },
+  {
+    "text": "Ngưng thở khi ngủ do tắc nghẽn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["G47.33"],
+    "assertions": [],
+    "position": [1916, 1946]
+  }
+]

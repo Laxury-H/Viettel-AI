@@ -1,0 +1,206 @@
+[
+  {
+    "text": "u xơ tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D24.9"
+    ],
+    "assertions": [],
+    "position": [
+      93,
+      106
+    ]
+  },
+  {
+    "text": "u nang tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N60.09"
+    ],
+    "assertions": [],
+    "position": [
+      111,
+      126
+    ]
+  },
+  {
+    "text": "vitamin 3b",
+    "type": "THUỐC",
+    "candidates": [
+      "11251"
+    ],
+    "assertions": [],
+    "position": [
+      153,
+      163
+    ]
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      911,
+      922
+    ]
+  },
+  {
+    "text": "u nang tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N60.09"
+    ],
+    "assertions": [],
+    "position": [
+      1022,
+      1037
+    ]
+  },
+  {
+    "text": "u xơ tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D24.9"
+    ],
+    "assertions": [],
+    "position": [
+      1039,
+      1052
+    ]
+  },
+  {
+    "text": "u nang tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N60.09"
+    ],
+    "assertions": [],
+    "position": [
+      1151,
+      1166
+    ]
+  },
+  {
+    "text": "u xơ tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D24.9"
+    ],
+    "assertions": [],
+    "position": [
+      1168,
+      1181
+    ]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D64.9"
+    ],
+    "assertions": [],
+    "position": [
+      1254,
+      1263
+    ]
+  },
+  {
+    "text": "u xơ tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D24.9"
+    ],
+    "assertions": [],
+    "position": [
+      1269,
+      1282
+    ]
+  },
+  {
+    "text": "u nang tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N60.09"
+    ],
+    "assertions": [],
+    "position": [
+      1284,
+      1299
+    ]
+  },
+  {
+    "text": "cúm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1381,
+      1384
+    ]
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1385,
+      1392
+    ]
+  },
+  {
+    "text": "chụp x-quang ngực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1421,
+      1438
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J90"
+    ],
+    "assertions": [],
+    "position": [
+      1470,
+      1497
+    ]
+  },
+  {
+    "text": "tim to",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I51.7"
+    ],
+    "assertions": [],
+    "position": [
+      1503,
+      1509
+    ]
+  },
+  {
+    "text": "u xơ tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "D24.9"
+    ],
+    "assertions": [],
+    "position": [
+      1531,
+      1544
+    ]
+  },
+  {
+    "text": "u nang tuyến vú",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N60.09"
+    ],
+    "assertions": [],
+    "position": [
+      1546,
+      1561
+    ]
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "text": "Glucose",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [71, 78]
+  },
+  {
+    "text": "-6",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [78, 80]
+  },
+  {
+    "text": "Phosphate",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [81, 90]
+  },
+  {
+    "text": "Sốt cao",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1632, 1639]
+  },
+  {
+    "text": "Tim đập nhanh",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1669, 1682]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1684, 1691]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D64.9"],
+    "assertions": [],
+    "position": [1758, 1767]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D64.9"],
+    "assertions": [],
+    "position": [1821, 1830]
+  },
+  {
+    "text": "suy thận cấp",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["N17.9"],
+    "assertions": [],
+    "position": [1861, 1873]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D64.9"],
+    "assertions": [],
+    "position": [2150, 2159]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D64.9"],
+    "assertions": [],
+    "position": [2464, 2473]
+  },
+  {
+    "text": "thiếu máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["D64.9"],
+    "assertions": ["isNegated"],
+    "position": [2696, 2705]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [3446, 3449]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [3535, 3538]
+  },
+  {
+    "text": "K",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [3591, 3592]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [4474, 4477]
+  }
+]

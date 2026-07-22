@@ -1,0 +1,83 @@
+[
+  {
+    "text": "rụng tóc từng mảng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L63.9"
+    ],
+    "assertions": [],
+    "position": [
+      35,
+      53
+    ]
+  },
+  {
+    "text": "Ung thư vú di căn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C50.919"
+    ],
+    "assertions": [],
+    "position": [
+      195,
+      212
+    ]
+  },
+  {
+    "text": "tràn dịch màng phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J90"
+    ],
+    "assertions": [],
+    "position": [
+      214,
+      233
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      286,
+      293
+    ]
+  },
+  {
+    "text": "tràn dịch màng ngoài tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I31.39"
+    ],
+    "assertions": [],
+    "position": [
+      326,
+      350
+    ]
+  },
+  {
+    "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C78.00"
+    ],
+    "assertions": [],
+    "position": [
+      397,
+      444
+    ]
+  },
+  {
+    "text": "rụng tóc từng vùng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L63.9"
+    ],
+    "assertions": [],
+    "position": [
+      639,
+      657
+    ]
+  }
+]

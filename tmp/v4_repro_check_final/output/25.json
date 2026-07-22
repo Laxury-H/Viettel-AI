@@ -1,0 +1,217 @@
+[
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      386,
+      394
+    ]
+  },
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      403,
+      411
+    ]
+  },
+  {
+    "text": "vô sinh",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "N97.9"
+    ],
+    "assertions": [],
+    "position": [
+      848,
+      855
+    ]
+  },
+  {
+    "text": "mụn trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L70.9"
+    ],
+    "assertions": [],
+    "position": [
+      1227,
+      1239
+    ]
+  },
+  {
+    "text": "tàn nhang",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "L81.2"
+    ],
+    "assertions": [],
+    "position": [
+      1246,
+      1255
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1494,
+      1500
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1504,
+      1507
+    ]
+  },
+  {
+    "text": "sưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1649,
+      1653
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1657,
+      1660
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1694,
+      1700
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1741,
+      1744
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1778,
+      1784
+    ]
+  },
+  {
+    "text": "sưng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1829,
+      1833
+    ]
+  },
+  {
+    "text": "levafloxacin",
+    "type": "THUỐC",
+    "candidates": [
+      "82122"
+    ],
+    "assertions": [],
+    "position": [
+      1914,
+      1926
+    ]
+  },
+  {
+    "text": "cephalexin",
+    "type": "THUỐC",
+    "candidates": [
+      "2231"
+    ],
+    "assertions": [],
+    "position": [
+      1930,
+      1940
+    ]
+  },
+  {
+    "text": "ban đỏ lan rộng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1983,
+      1998
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2008,
+      2017
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2154,
+      2160
+    ]
+  },
+  {
+    "text": "đau khi sờ nắn vùng mổ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2203,
+      2225
+    ]
+  },
+  {
+    "text": "chóng mặt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2232,
+      2241
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      2254,
+      2257
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2370,
+      2376
+    ]
+  }
+]

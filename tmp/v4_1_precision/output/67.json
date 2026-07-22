@@ -1,0 +1,98 @@
+[
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I50.9"
+    ],
+    "assertions": [],
+    "position": [
+      30,
+      37
+    ]
+  },
+  {
+    "text": "bệnh mạch máu ngoại biên",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I73.9"
+    ],
+    "assertions": [],
+    "position": [
+      44,
+      68
+    ]
+  },
+  {
+    "text": "bệnh phổi tắc nghẽn mạn tính",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "J44.9"
+    ],
+    "assertions": [],
+    "position": [
+      75,
+      103
+    ]
+  },
+  {
+    "text": "Ngưng thở khi ngủ do tắc nghẽn",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "G47.33"
+    ],
+    "assertions": [],
+    "position": [
+      110,
+      140
+    ]
+  },
+  {
+    "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "C60.9"
+    ],
+    "assertions": [],
+    "position": [
+      163,
+      212
+    ]
+  },
+  {
+    "text": "Viêm hang vị sung huyết",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      336,
+      359
+    ]
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      726,
+      756
+    ]
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      1206,
+      1236
+    ]
+  }
+]

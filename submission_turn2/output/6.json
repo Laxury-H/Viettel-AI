@@ -1,0 +1,158 @@
+[
+  {
+    "text": "xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I70.90"],
+    "assertions": [],
+    "position": [38, 54]
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E78.5"],
+    "assertions": [],
+    "position": [69, 87]
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E11.9"],
+    "assertions": [],
+    "position": [89, 103]
+  },
+  {
+    "text": "dịch dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [423, 442]
+  },
+  {
+    "text": "nang màng nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["G93.0"],
+    "assertions": [],
+    "position": [484, 498]
+  },
+  {
+    "text": "tụ máu dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [512, 533]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [711, 718]
+  },
+  {
+    "text": "tụ máu ngoài màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["S06.4"],
+    "assertions": [],
+    "position": [752, 774]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1001, 1008]
+  },
+  {
+    "text": "ngất",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1421, 1425]
+  },
+  {
+    "text": "tiểu tiện không tự chủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["R32"],
+    "assertions": ["isNegated"],
+    "position": [1947, 1969]
+  },
+  {
+    "text": "Đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2008, 2015]
+  },
+  {
+    "text": "ngất",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [2194, 2198]
+  },
+  {
+    "text": "WBC",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2828, 2831]
+  },
+  {
+    "text": "14.99",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2834, 2839]
+  },
+  {
+    "text": "HGB",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2867, 2870]
+  },
+  {
+    "text": "Hemoglobin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2872, 2882]
+  },
+  {
+    "text": "92",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2885, 2887]
+  },
+  {
+    "text": "INR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2897, 2900]
+  },
+  {
+    "text": "1.05",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [2902, 2906]
+  },
+  {
+    "text": "dịch dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [3045, 3064]
+  },
+  {
+    "text": "nang màng nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["G93.0"],
+    "assertions": [],
+    "position": [3100, 3114]
+  },
+  {
+    "text": "tụ máu dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [3120, 3141]
+  },
+  {
+    "text": "Tụ máu ngoài màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["S06.4"],
+    "assertions": [],
+    "position": [3151, 3173]
+  }
+]

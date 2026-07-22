@@ -1,0 +1,267 @@
+[
+  {
+    "text": "đau bao tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      113,
+      123
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      138,
+      141
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      297,
+      304
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      550,
+      553
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [
+      "isNegated"
+    ],
+    "position": [
+      659,
+      662
+    ]
+  },
+  {
+    "text": "ói",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      838,
+      840
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1030,
+      1038
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1054,
+      1057
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1087,
+      1090
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1161,
+      1164
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1347,
+      1354
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      1491,
+      1494
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1886,
+      1893
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      1894,
+      1901
+    ]
+  },
+  {
+    "text": "nhôm hydroxid",
+    "type": "THUỐC",
+    "candidates": [
+      "612"
+    ],
+    "assertions": [],
+    "position": [
+      2040,
+      2053
+    ]
+  },
+  {
+    "text": "magie hydroxid",
+    "type": "THUỐC",
+    "candidates": [
+      "6581"
+    ],
+    "assertions": [],
+    "position": [
+      2055,
+      2069
+    ]
+  },
+  {
+    "text": "Alverin citrate 40mg",
+    "type": "THUỐC",
+    "candidates": [
+      "17627"
+    ],
+    "assertions": [],
+    "position": [
+      2094,
+      2114
+    ]
+  },
+  {
+    "text": "Simethicon 100mg",
+    "type": "THUỐC",
+    "candidates": [
+      "333293"
+    ],
+    "assertions": [],
+    "position": [
+      2118,
+      2134
+    ]
+  },
+  {
+    "text": "Pimperam",
+    "type": "THUỐC",
+    "candidates": [
+      "6915"
+    ],
+    "assertions": [],
+    "position": [
+      2135,
+      2143
+    ]
+  },
+  {
+    "text": "metoclopramide 10mg",
+    "type": "THUỐC",
+    "candidates": [
+      "328464"
+    ],
+    "assertions": [],
+    "position": [
+      2145,
+      2164
+    ]
+  },
+  {
+    "text": "Nhôm hydroxid",
+    "type": "THUỐC",
+    "candidates": [
+      "612"
+    ],
+    "assertions": [],
+    "position": [
+      2249,
+      2262
+    ]
+  },
+  {
+    "text": "magie hydroxid",
+    "type": "THUỐC",
+    "candidates": [
+      "6581"
+    ],
+    "assertions": [],
+    "position": [
+      2266,
+      2280
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      2772,
+      2775
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3033,
+      3040
+    ]
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      3041,
+      3048
+    ]
+  },
+  {
+    "text": "viêm dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      3167,
+      3178
+    ]
+  }
+]

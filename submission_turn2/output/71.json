@@ -1,0 +1,29 @@
+[
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["F32.9"],
+    "assertions": ["isNegated"],
+    "position": [106, 114]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": ["isNegated"],
+    "position": [146, 158]
+  },
+  {
+    "text": "thuyên tắc phổi",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I26.99"],
+    "assertions": [],
+    "position": [319, 334]
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "candidates": ["11124"],
+    "assertions": [],
+    "position": [398, 408]
+  }
+]

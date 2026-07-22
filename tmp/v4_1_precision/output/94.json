@@ -1,0 +1,47 @@
+[
+  {
+    "text": "Siêu âm tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [
+      16,
+      27
+    ]
+  },
+  {
+    "text": "chèn ép tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "I31.4"
+    ],
+    "assertions": [],
+    "position": [
+      29,
+      40
+    ]
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      433,
+      463
+    ]
+  },
+  {
+    "text": "viêm sung huyết hang vị dạ dày",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "K29.70"
+    ],
+    "assertions": [],
+    "position": [
+      913,
+      943
+    ]
+  }
+]

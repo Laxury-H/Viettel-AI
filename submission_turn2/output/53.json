@@ -1,0 +1,120 @@
+[
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [45, 52]
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [219, 226]
+  },
+  {
+    "text": "Glucose",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [337, 344]
+  },
+  {
+    "text": "13,2",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [350, 354]
+  },
+  {
+    "text": "Torsemide: uống 1 viên/ngày",
+    "type": "THUỐC",
+    "candidates": ["38413"],
+    "assertions": ["isHistorical"],
+    "position": [554, 581]
+  },
+  {
+    "text": "Insulin glargine",
+    "type": "THUỐC",
+    "candidates": ["274783"],
+    "assertions": ["isHistorical"],
+    "position": [604, 620]
+  },
+  {
+    "text": "Isosorbide",
+    "type": "THUỐC",
+    "candidates": ["6057"],
+    "assertions": ["isHistorical"],
+    "position": [679, 689]
+  },
+  {
+    "text": "Rosuvastatin (Crestor)",
+    "type": "THUỐC",
+    "candidates": ["301542"],
+    "assertions": ["isHistorical"],
+    "position": [735, 757]
+  },
+  {
+    "text": "Carvedilol",
+    "type": "THUỐC",
+    "candidates": ["20352"],
+    "assertions": ["isHistorical"],
+    "position": [803, 813]
+  },
+  {
+    "text": "tăng kali máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E87.5"],
+    "assertions": [],
+    "position": [920, 933]
+  },
+  {
+    "text": "Creatinine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [937, 947]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [948, 952]
+  },
+  {
+    "text": "Torsemide/ ngày",
+    "type": "THUỐC",
+    "candidates": ["38413"],
+    "assertions": [],
+    "position": [1071, 1086]
+  },
+  {
+    "text": "torsemide",
+    "type": "THUỐC",
+    "candidates": ["38413"],
+    "assertions": [],
+    "position": [1135, 1144]
+  },
+  {
+    "text": "đường huyết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1180, 1191]
+  },
+  {
+    "text": "glucose",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1241, 1248]
+  },
+  {
+    "text": "glargine",
+    "type": "THUỐC",
+    "candidates": ["274783"],
+    "assertions": [],
+    "position": [1273, 1281]
+  },
+  {
+    "text": "rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E78.5"],
+    "assertions": [],
+    "position": [1436, 1454]
+  }
+]

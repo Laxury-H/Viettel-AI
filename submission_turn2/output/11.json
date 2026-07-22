@@ -1,0 +1,104 @@
+[
+  {
+    "text": "xơ vữa động mạch",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I70.90"],
+    "assertions": [],
+    "position": [38, 54]
+  },
+  {
+    "text": "Rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E78.5"],
+    "assertions": [],
+    "position": [69, 87]
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["E11.9"],
+    "assertions": [],
+    "position": [89, 103]
+  },
+  {
+    "text": "dịch dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [423, 442]
+  },
+  {
+    "text": "nang màng nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["G93.0"],
+    "assertions": [],
+    "position": [484, 498]
+  },
+  {
+    "text": "tụ máu dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [512, 533]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [711, 718]
+  },
+  {
+    "text": "tụ máu ngoài màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["S06.4"],
+    "assertions": [],
+    "position": [752, 774]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1001, 1008]
+  },
+  {
+    "text": "ngất",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1421, 1425]
+  },
+  {
+    "text": "tiểu tiện không tự chủ",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["R32"],
+    "assertions": ["isNegated"],
+    "position": [2526, 2548]
+  },
+  {
+    "text": "dịch dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [2688, 2707]
+  },
+  {
+    "text": "nang màng nhện",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["G93.0"],
+    "assertions": [],
+    "position": [2743, 2757]
+  },
+  {
+    "text": "tụ máu dưới màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I62.00"],
+    "assertions": [],
+    "position": [2763, 2784]
+  },
+  {
+    "text": "Tụ máu ngoài màng cứng",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["S06.4"],
+    "assertions": [],
+    "position": [2794, 2816]
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "text": "Đau bụng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1082, 1103]
+  },
+  {
+    "text": "Buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1105, 1113]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1115, 1118]
+  },
+  {
+    "text": "SPO2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1243, 1247]
+  },
+  {
+    "text": "99",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "assertions": [],
+    "position": [1249, 1251]
+  },
+  {
+    "text": "compazine",
+    "type": "THUỐC",
+    "candidates": ["8704"],
+    "assertions": [],
+    "position": [1287, 1296]
+  },
+  {
+    "text": "morphine",
+    "type": "THUỐC",
+    "candidates": ["7052"],
+    "assertions": [],
+    "position": [1335, 1343]
+  },
+  {
+    "text": "lorazepam",
+    "type": "THUỐC",
+    "candidates": ["6470"],
+    "assertions": [],
+    "position": [1352, 1361]
+  }
+]

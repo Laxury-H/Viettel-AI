@@ -1,0 +1,33 @@
+[
+  {
+    "text": "chèn ép tim",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": ["I31.4"],
+    "assertions": [],
+    "position": [29, 40]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [184, 192]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [244, 252]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [258, 261]
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [1379, 1382]
+  }
+]

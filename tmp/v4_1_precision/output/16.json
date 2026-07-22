@@ -1,0 +1,191 @@
+[
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "assertions": [],
+    "position": [
+      106,
+      116
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      549,
+      557
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      612,
+      620
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      662,
+      670
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      746,
+      754
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      830,
+      838
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      853,
+      861
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      1344,
+      1352
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      1381,
+      1389
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      1450,
+      1458
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      1484,
+      1492
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      1689,
+      1697
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "candidates": [
+      "A82.9"
+    ],
+    "assertions": [],
+    "position": [
+      2009,
+      2017
+    ]
+  },
+  {
+    "text": "bumetanide 2mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "315502"
+    ],
+    "assertions": [],
+    "position": [
+      2178,
+      2195
+    ]
+  },
+  {
+    "text": "vancomycin 1 gram",
+    "type": "THUỐC",
+    "candidates": [
+      "1807513"
+    ],
+    "assertions": [],
+    "position": [
+      2211,
+      2228
+    ]
+  },
+  {
+    "text": "levofloxacin 750mg iv",
+    "type": "THUỐC",
+    "candidates": [
+      "330371"
+    ],
+    "assertions": [],
+    "position": [
+      2244,
+      2265
+    ]
+  }
+]
