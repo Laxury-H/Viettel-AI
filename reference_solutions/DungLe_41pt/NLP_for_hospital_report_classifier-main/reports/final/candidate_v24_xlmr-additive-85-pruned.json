@@ -1,0 +1,47 @@
+{
+  "version": "D2-V24-xlmr-additive-85-pruned",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v18_v21-merge.zip",
+  "candidate": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v19_xlmr-additive-85.zip",
+  "records": 100,
+  "entities": 2658,
+  "entities_removed": 2,
+  "removals": [
+    {
+      "record_id": "2",
+      "text": "đỏ mắt",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        3587,
+        3593
+      ]
+    },
+    {
+      "record_id": "8",
+      "text": "đỏ mắt",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2348,
+        2354
+      ]
+    }
+  ],
+  "score_projection": {
+    "score": 39.3761,
+    "WER": 55.7063,
+    "J_assertion": 51.0298,
+    "J_candidates": 26.9477,
+    "status": "unscored_projection"
+  },
+  "leaderboard_result": {
+    "submitted_at": "2026-07-25T14:20:00+07:00",
+    "score": 39.3762,
+    "WER": 55.7062,
+    "J_assertion": 51.0299,
+    "J_candidates": 26.9477,
+    "num_scored": 100,
+    "num_records": 100,
+    "status": "confirmed"
+  },
+  "sha256": "68da6346bde4fa8dd42b029ed2de782d1ae4753d7c43b3a852df30ba505bd19d",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v24_xlmr-additive-85-pruned.zip"
+}

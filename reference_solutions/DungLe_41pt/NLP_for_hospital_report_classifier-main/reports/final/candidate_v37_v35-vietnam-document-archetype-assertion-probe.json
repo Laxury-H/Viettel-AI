@@ -1,0 +1,92 @@
+{
+  "version": "D2-V37-v35-vietnam-document-archetype-assertion-probe",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v35_v30-vietnam-icd-full-final.zip",
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "candidate_changes": 0,
+  "assertion_changes": 7,
+  "changes": [
+    {
+      "record_id": "3",
+      "entity_index": 25,
+      "text": "nhiễm trùng răng miệng",
+      "before": [],
+      "after": [
+        "isHistorical"
+      ]
+    },
+    {
+      "record_id": "24",
+      "entity_index": 39,
+      "text": "vàng da",
+      "before": [
+        "isNegated"
+      ],
+      "after": [
+        "isNegated",
+        "isHistorical"
+      ]
+    },
+    {
+      "record_id": "24",
+      "entity_index": 40,
+      "text": "vàng mắt",
+      "before": [
+        "isNegated"
+      ],
+      "after": [
+        "isNegated",
+        "isHistorical"
+      ]
+    },
+    {
+      "record_id": "26",
+      "entity_index": 11,
+      "text": "bệnh tim mạch",
+      "before": [
+        "isFamily"
+      ],
+      "after": []
+    },
+    {
+      "record_id": "46",
+      "entity_index": 1,
+      "text": "suy tim",
+      "before": [],
+      "after": [
+        "isHistorical"
+      ]
+    },
+    {
+      "record_id": "46",
+      "entity_index": 2,
+      "text": "tăng huyết áp",
+      "before": [],
+      "after": [
+        "isHistorical"
+      ]
+    },
+    {
+      "record_id": "46",
+      "entity_index": 3,
+      "text": "HoHL",
+      "before": [],
+      "after": [
+        "isHistorical"
+      ]
+    }
+  ],
+  "leaderboard": {
+    "score": 41.8315,
+    "wer": 55.4442,
+    "j_assertion": 51.4203,
+    "j_candidates": 32.5967,
+    "submitted_at": "2026-07-26T00:02:00+07:00",
+    "decision": "promote"
+  },
+  "sha256": "0fa0f24796a01f07c6e64227abea942945fb61afae6cf65f51a6785bf830e928",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v37_v35-vietnam-document-archetype-assertion-probe.zip"
+}

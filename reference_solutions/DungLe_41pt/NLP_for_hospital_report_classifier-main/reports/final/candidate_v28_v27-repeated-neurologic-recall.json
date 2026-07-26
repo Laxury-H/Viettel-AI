@@ -1,0 +1,144 @@
+{
+  "version": "D2-V28-v27-repeated-neurologic-recall",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v27_v26-semantic-boundary-repeated-recall.zip",
+  "records": 100,
+  "entities": 2667,
+  "changed_records": 2,
+  "repeated_surface_additions": 8,
+  "changes": [
+    {
+      "record_id": "6",
+      "text": "co giật",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        177,
+        184
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "3",
+        "11",
+        "40"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "ngửa đầu ra sau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1474,
+        1489
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "6",
+        "11"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "mất định hướng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2360,
+        2374
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "6",
+        "11"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "đi lại không vững",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2378,
+        2395
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "6",
+        "11"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "co giật",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        177,
+        184
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "3",
+        "11",
+        "40"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "ngửa đầu ra sau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1474,
+        1489
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "6",
+        "11"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "mất định hướng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2343,
+        2357
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "6",
+        "11"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "đi lại không vững",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2361,
+        2378
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "6",
+        "11"
+      ]
+    }
+  ],
+  "score_expectation": {
+    "confirmed_control": 39.3762,
+    "target_range": [
+      39.4,
+      39.44
+    ],
+    "status": "confirmed_above_target"
+  },
+  "leaderboard_result": {
+    "submitted_at": "2026-07-25T14:47:00+07:00",
+    "score": 39.4461,
+    "WER": 55.5927,
+    "num_scored": 100,
+    "J_assertion": 51.1496,
+    "num_records": 100,
+    "J_candidates": 26.9477,
+    "decision": "promote"
+  },
+  "sha256": "bcc921e35de4cd024a8fb95a0210f89bdb288c2f05c31e29dc4a5a743674ac4e",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v28_v27-repeated-neurologic-recall.zip"
+}

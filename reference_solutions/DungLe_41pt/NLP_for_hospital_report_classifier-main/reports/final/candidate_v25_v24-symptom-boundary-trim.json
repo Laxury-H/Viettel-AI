@@ -1,0 +1,49 @@
+{
+  "version": "D2-V25-v24-symptom-boundary-trim",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v24_xlmr-additive-85-pruned.zip",
+  "records": 100,
+  "entities": 2658,
+  "changed_records": 1,
+  "boundary_repairs": 1,
+  "changes": [
+    {
+      "record_id": "17",
+      "before": {
+        "text": "miệng thấy hơi thở mùi khó chịu",
+        "position": [
+          94,
+          125
+        ]
+      },
+      "after": {
+        "text": "hơi thở mùi khó chịu",
+        "position": [
+          105,
+          125
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    }
+  ],
+  "score_expectation": {
+    "control": 39.3762,
+    "target_range_if_gold_uses_clinical_span": [
+      39.3803,
+      39.3843
+    ],
+    "status": "unscored_hypothesis"
+  },
+  "leaderboard_result": {
+    "submitted_at": "2026-07-25T14:31:00+07:00",
+    "score": 39.3762,
+    "WER": 55.7062,
+    "J_assertion": 51.0299,
+    "J_candidates": 26.9477,
+    "num_scored": 100,
+    "num_records": 100,
+    "status": "confirmed_neutral"
+  },
+  "sha256": "54a42ced3fa92a76560013725e86c7abf1ca9dd9223c1c859dca19383f7287fb",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v25_v24-symptom-boundary-trim.zip"
+}

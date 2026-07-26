@@ -1,0 +1,59 @@
+{
+  "version": "D2-V51-v45-urinalysis-translation-pruning",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.9694,
+  "records": 100,
+  "entities": 2687,
+  "entity_removals": 2,
+  "diagnosis_removals": 2,
+  "record_ids": [
+    "38"
+  ],
+  "changes": [
+    {
+      "record_id": "38",
+      "text": "đái tháo đường",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1733,
+        1747
+      ],
+      "assertions": [],
+      "candidates": [
+        "E11.9"
+      ],
+      "context": "- Tăng men gan. với alt là 176 và ast là 287 - tổng phân tích nước tiểu có đái tháo đườngđái tháo đường Kết quả chẩn đoán hình ảnh: chụp x-quang ngực là bình thường",
+      "reason": "urinalysis_glucose_translation_type_seam"
+    },
+    {
+      "record_id": "38",
+      "text": "đái tháo đường",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1747,
+        1761
+      ],
+      "assertions": [],
+      "candidates": [
+        "E11.9"
+      ],
+      "context": "n. với alt là 176 và ast là 287 - tổng phân tích nước tiểu có đái tháo đườngđái tháo đường Kết quả chẩn đoán hình ảnh: chụp x-quang ngực là bình thường Các phát h",
+      "reason": "urinalysis_glucose_translation_type_seam"
+    }
+  ],
+  "invariants": {
+    "all_non_target_entities": "unchanged",
+    "valid_record_38_type_2_diabetes": "retained",
+    "record_level_candidate_set": "E11.9 remains through the valid type-2 diagnosis"
+  },
+  "causal_question": "Does precision pruning of two obvious urinalysis-translation false positives improve WER/assertion alignment?",
+  "leaderboard_decision_rule": {
+    "control": "V45 41.9694",
+    "promote_if": "total score > 41.9694",
+    "expected_signal": "WER should decrease and/or J_assertion should increase; J_candidates may be unchanged",
+    "rollback": "submission/output.zip"
+  },
+  "risk": "low-to-medium: raw text is malformed and the same record retains an explicit valid diabetes diagnosis, but hidden gold may still annotate literal duplicate tokens",
+  "sha256": "c0df1d0b6eeaed0996d4a3fc13ac552050fd4c9cac97ec554786bb835781985b",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v51_v45-urinalysis-translation-pruning.zip"
+}

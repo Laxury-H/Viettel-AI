@@ -1,0 +1,1905 @@
+{
+  "version": "D2-V47-v45-vietnam-icd-canonical-category-label",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.9694,
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "assertion_changes": 0,
+  "candidate_changes": 94,
+  "record_count": 50,
+  "template_count_from_audit": 38,
+  "cohort_count": 27,
+  "record_ids": [
+    "1",
+    "2",
+    "4",
+    "5",
+    "6",
+    "7",
+    "9",
+    "11",
+    "12",
+    "14",
+    "15",
+    "17",
+    "18",
+    "21",
+    "23",
+    "25",
+    "26",
+    "29",
+    "32",
+    "33",
+    "34",
+    "36",
+    "38",
+    "42",
+    "44",
+    "45",
+    "46",
+    "49",
+    "50",
+    "51",
+    "54",
+    "57",
+    "58",
+    "59",
+    "65",
+    "67",
+    "70",
+    "71",
+    "73",
+    "74",
+    "75",
+    "77",
+    "79",
+    "80",
+    "81",
+    "84",
+    "85",
+    "91",
+    "95",
+    "100"
+  ],
+  "cohort_counts": {
+    "béo phì": 12,
+    "thoái hóa tinh bột": 10,
+    "suy tim": 7,
+    "đau nửa đầu": 7,
+    "xuất huyết dưới nhện": 6,
+    "loét tá tràng": 5,
+    "tiền sản giật": 5,
+    "đái tháo đường típ 2": 5,
+    "hẹp ống sống": 4,
+    "hội chứng ruột kích thích": 3,
+    "não úng thủy": 3,
+    "sỏi mật": 3,
+    "bại não": 2,
+    "gan do rượu": 2,
+    "gút": 2,
+    "hội chứng thận hư": 2,
+    "thận mạn tính": 2,
+    "trào ngược dạ dày thực quản": 2,
+    "viêm da tiếp xúc dị ứng": 2,
+    "viêm loét đại tràng": 2,
+    "viêm xương tủy": 2,
+    "hội chứng turner": 1,
+    "rối loạn cảm xúc lưỡng cực": 1,
+    "sâu răng": 1,
+    "thai ngoài tử cung": 1,
+    "vảy nến": 1,
+    "xơ vữa động mạch": 1
+  },
+  "changes": [
+    {
+      "record_id": "1",
+      "text": "bại não",
+      "canonical_surface": "bại não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1995,
+        2002
+      ],
+      "assertions": [],
+      "before": [
+        "G80.9"
+      ],
+      "after": [
+        "G80"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "1",
+      "text": "Bại não",
+      "canonical_surface": "bại não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2581,
+        2588
+      ],
+      "assertions": [],
+      "before": [
+        "G80.9"
+      ],
+      "after": [
+        "G80"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "2",
+      "text": "suy tim",
+      "canonical_surface": "suy tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        644,
+        651
+      ],
+      "assertions": [],
+      "before": [
+        "I50.9"
+      ],
+      "after": [
+        "I50"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "hội chứng ruột kích thích",
+      "canonical_surface": "hội chứng ruột kích thích",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        226,
+        251
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K58.8"
+      ],
+      "after": [
+        "K58"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "hội chứng ruột kích thích",
+      "canonical_surface": "hội chứng ruột kích thích",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        268,
+        293
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K58.8"
+      ],
+      "after": [
+        "K58"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "loét tá tràng",
+      "canonical_surface": "loét tá tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        390,
+        403
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K26.9"
+      ],
+      "after": [
+        "K26"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "loét tá tràng",
+      "canonical_surface": "loét tá tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        435,
+        448
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K26.9"
+      ],
+      "after": [
+        "K26"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "hội chứng ruột kích thích",
+      "canonical_surface": "hội chứng ruột kích thích",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1277,
+        1302
+      ],
+      "assertions": [],
+      "before": [
+        "K58.8"
+      ],
+      "after": [
+        "K58"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "loét tá tràng",
+      "canonical_surface": "loét tá tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1314,
+        1327
+      ],
+      "assertions": [],
+      "before": [
+        "K26.9"
+      ],
+      "after": [
+        "K26"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "loét tá tràng",
+      "canonical_surface": "loét tá tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1590,
+        1603
+      ],
+      "assertions": [],
+      "before": [
+        "K26.9"
+      ],
+      "after": [
+        "K26"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "4",
+      "text": "loét tá tràng",
+      "canonical_surface": "loét tá tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2287,
+        2300
+      ],
+      "assertions": [],
+      "before": [
+        "K26.9"
+      ],
+      "after": [
+        "K26"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "5",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1031,
+        1038
+      ],
+      "assertions": [],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "6",
+      "text": "xuất huyết dưới nhện",
+      "canonical_surface": "xuất huyết dưới nhện",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        253,
+        273
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "I60.9"
+      ],
+      "after": [
+        "I60"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "6",
+      "text": "xuất huyết dưới nhện",
+      "canonical_surface": "xuất huyết dưới nhện",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        317,
+        337
+      ],
+      "assertions": [],
+      "before": [
+        "I60.9"
+      ],
+      "after": [
+        "I60"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "6",
+      "text": "xuất huyết dưới nhện",
+      "canonical_surface": "xuất huyết dưới nhện",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2949,
+        2969
+      ],
+      "assertions": [],
+      "before": [
+        "I60.9"
+      ],
+      "after": [
+        "I60"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "7",
+      "text": "trào ngược dạ dày thực quản",
+      "canonical_surface": "trào ngược dạ dày thực quản",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2358,
+        2385
+      ],
+      "assertions": [],
+      "before": [
+        "K21.9"
+      ],
+      "after": [
+        "K21"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "9",
+      "text": "trào ngược dạ dày thực quản",
+      "canonical_surface": "trào ngược dạ dày thực quản",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2358,
+        2385
+      ],
+      "assertions": [],
+      "before": [
+        "K21.9"
+      ],
+      "after": [
+        "K21"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "11",
+      "text": "xuất huyết dưới nhện",
+      "canonical_surface": "xuất huyết dưới nhện",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        253,
+        273
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "I60.9"
+      ],
+      "after": [
+        "I60"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "11",
+      "text": "xuất huyết dưới nhện",
+      "canonical_surface": "xuất huyết dưới nhện",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        317,
+        337
+      ],
+      "assertions": [],
+      "before": [
+        "I60.9"
+      ],
+      "after": [
+        "I60"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "11",
+      "text": "xuất huyết dưới nhện",
+      "canonical_surface": "xuất huyết dưới nhện",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2592,
+        2612
+      ],
+      "assertions": [],
+      "before": [
+        "I60.9"
+      ],
+      "after": [
+        "I60"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "12",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        170,
+        177
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "14",
+      "text": "Đái tháo đường típ 2",
+      "canonical_surface": "đái tháo đường típ 2",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        755,
+        775
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E11.9"
+      ],
+      "after": [
+        "E11"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "14",
+      "text": "hẹp ống sống",
+      "canonical_surface": "hẹp ống sống",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        782,
+        794
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "M48.00"
+      ],
+      "after": [
+        "M48.0"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "15",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        170,
+        177
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "17",
+      "text": "sâu răng",
+      "canonical_surface": "sâu răng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1057,
+        1065
+      ],
+      "assertions": [],
+      "before": [
+        "K02.9"
+      ],
+      "after": [
+        "K02"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "18",
+      "text": "sỏi mật",
+      "canonical_surface": "sỏi mật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2324,
+        2331
+      ],
+      "assertions": [],
+      "before": [
+        "K80.2"
+      ],
+      "after": [
+        "K80"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "21",
+      "text": "Bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        308,
+        331
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "21",
+      "text": "bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        806,
+        829
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "21",
+      "text": "bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        989,
+        1012
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "21",
+      "text": "Bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1306,
+        1329
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "23",
+      "text": "não úng thủy",
+      "canonical_surface": "não úng thủy",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1312,
+        1324
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "G91.9"
+      ],
+      "after": [
+        "G91"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "25",
+      "text": "thai ngoài tử cung",
+      "canonical_surface": "thai ngoài tử cung",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1019,
+        1037
+      ],
+      "assertions": [],
+      "before": [
+        "O00.9"
+      ],
+      "after": [
+        "O00"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "26",
+      "text": "xơ vữa động mạch",
+      "canonical_surface": "xơ vữa động mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        208,
+        224
+      ],
+      "assertions": [],
+      "before": [
+        "I70.90"
+      ],
+      "after": [
+        "I70"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "26",
+      "text": "suy tim",
+      "canonical_surface": "suy tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        320,
+        327
+      ],
+      "assertions": [],
+      "before": [
+        "I50.9"
+      ],
+      "after": [
+        "I50"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "26",
+      "text": "Béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        774,
+        781
+      ],
+      "assertions": [],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "26",
+      "text": "rối loạn cảm xúc lưỡng cực",
+      "canonical_surface": "rối loạn cảm xúc lưỡng cực",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1643,
+        1669
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "F31.9"
+      ],
+      "after": [
+        "F31"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "29",
+      "text": "Đái tháo đường típ 2",
+      "canonical_surface": "đái tháo đường típ 2",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        96,
+        116
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E11.9"
+      ],
+      "after": [
+        "E11"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "32",
+      "text": "Bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        308,
+        331
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "32",
+      "text": "Đái tháo đường típ 2",
+      "canonical_surface": "đái tháo đường típ 2",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        878,
+        898
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E11.9"
+      ],
+      "after": [
+        "E11"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "32",
+      "text": "hẹp ống sống",
+      "canonical_surface": "hẹp ống sống",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        905,
+        917
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "M48.00"
+      ],
+      "after": [
+        "M48.0"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "32",
+      "text": "Bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1753,
+        1776
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "33",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        92,
+        99
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "canonical_surface": "đau nửa đầu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        65,
+        78
+      ],
+      "assertions": [],
+      "before": [
+        "G43.9"
+      ],
+      "after": [
+        "G43"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "canonical_surface": "đau nửa đầu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        438,
+        449
+      ],
+      "assertions": [],
+      "before": [
+        "G43.9"
+      ],
+      "after": [
+        "G43"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "canonical_surface": "đau nửa đầu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        544,
+        555
+      ],
+      "assertions": [],
+      "before": [
+        "G43.9"
+      ],
+      "after": [
+        "G43"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "canonical_surface": "đau nửa đầu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        839,
+        850
+      ],
+      "assertions": [],
+      "before": [
+        "G43.9"
+      ],
+      "after": [
+        "G43"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "canonical_surface": "đau nửa đầu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        876,
+        887
+      ],
+      "assertions": [],
+      "before": [
+        "G43.9"
+      ],
+      "after": [
+        "G43"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "canonical_surface": "đau nửa đầu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1042,
+        1053
+      ],
+      "assertions": [],
+      "before": [
+        "G43.9"
+      ],
+      "after": [
+        "G43"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "canonical_surface": "đau nửa đầu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1360,
+        1371
+      ],
+      "assertions": [],
+      "before": [
+        "G43.9"
+      ],
+      "after": [
+        "G43"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "36",
+      "text": "Hội chứng thận hư",
+      "canonical_surface": "hội chứng thận hư",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        187,
+        204
+      ],
+      "assertions": [],
+      "before": [
+        "N04.9"
+      ],
+      "after": [
+        "N04"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "36",
+      "text": "Hội chứng thận hư",
+      "canonical_surface": "hội chứng thận hư",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1122,
+        1139
+      ],
+      "assertions": [],
+      "before": [
+        "N04.9"
+      ],
+      "after": [
+        "N04"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "36",
+      "text": "sỏi mật",
+      "canonical_surface": "sỏi mật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1989,
+        1996
+      ],
+      "assertions": [],
+      "before": [
+        "K80.2"
+      ],
+      "after": [
+        "K80"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "38",
+      "text": "Đái tháo đường típ 2",
+      "canonical_surface": "đái tháo đường típ 2",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        170,
+        190
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E11.9"
+      ],
+      "after": [
+        "E11"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "38",
+      "text": "hẹp ống sống",
+      "canonical_surface": "hẹp ống sống",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        197,
+        209
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "M48.00"
+      ],
+      "after": [
+        "M48.0"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "42",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        95,
+        102
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "44",
+      "text": "sỏi mật",
+      "canonical_surface": "sỏi mật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        413,
+        420
+      ],
+      "assertions": [],
+      "before": [
+        "K80.2"
+      ],
+      "after": [
+        "K80"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "45",
+      "text": "não úng thủy",
+      "canonical_surface": "não úng thủy",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        968,
+        980
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "G91.9"
+      ],
+      "after": [
+        "G91"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "46",
+      "text": "suy tim",
+      "canonical_surface": "suy tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        71,
+        78
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "I50.9"
+      ],
+      "after": [
+        "I50"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "46",
+      "text": "suy tim",
+      "canonical_surface": "suy tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        318,
+        325
+      ],
+      "assertions": [],
+      "before": [
+        "I50.9"
+      ],
+      "after": [
+        "I50"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "46",
+      "text": "Suy tim",
+      "canonical_surface": "suy tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1207,
+        1214
+      ],
+      "assertions": [],
+      "before": [
+        "I50.9"
+      ],
+      "after": [
+        "I50"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "49",
+      "text": "viêm da tiếp xúc dị ứng",
+      "canonical_surface": "viêm da tiếp xúc dị ứng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1389,
+        1412
+      ],
+      "assertions": [],
+      "before": [
+        "L23.9"
+      ],
+      "after": [
+        "L23"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "50",
+      "text": "não úng thủy",
+      "canonical_surface": "não úng thủy",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        968,
+        980
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "G91.9"
+      ],
+      "after": [
+        "G91"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "51",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        48,
+        55
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "54",
+      "text": "Đái tháo đường típ 2",
+      "canonical_surface": "đái tháo đường típ 2",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        414,
+        434
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E11.9"
+      ],
+      "after": [
+        "E11"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "54",
+      "text": "hẹp ống sống",
+      "canonical_surface": "hẹp ống sống",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        441,
+        453
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "M48.00"
+      ],
+      "after": [
+        "M48.0"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "57",
+      "text": "Bệnh thận mạn tính",
+      "canonical_surface": "thận mạn tính",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        176,
+        194
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "N18.9"
+      ],
+      "after": [
+        "N18"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "58",
+      "text": "Bệnh thận mạn tính",
+      "canonical_surface": "thận mạn tính",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        176,
+        194
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "N18.9"
+      ],
+      "after": [
+        "N18"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "59",
+      "text": "viêm xương tủy",
+      "canonical_surface": "viêm xương tủy",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        948,
+        962
+      ],
+      "assertions": [],
+      "before": [
+        "M86.9"
+      ],
+      "after": [
+        "M86"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "65",
+      "text": "viêm da tiếp xúc dị ứng",
+      "canonical_surface": "viêm da tiếp xúc dị ứng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1221,
+        1244
+      ],
+      "assertions": [],
+      "before": [
+        "L23.9"
+      ],
+      "after": [
+        "L23"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "67",
+      "text": "suy tim",
+      "canonical_surface": "suy tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        30,
+        37
+      ],
+      "assertions": [],
+      "before": [
+        "I50.9"
+      ],
+      "after": [
+        "I50"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "70",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        48,
+        55
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "71",
+      "text": "bệnh vảy nến",
+      "canonical_surface": "vảy nến",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1423,
+        1435
+      ],
+      "assertions": [],
+      "before": [
+        "L40.9"
+      ],
+      "after": [
+        "L40"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "73",
+      "text": "Viêm loét đại tràng",
+      "canonical_surface": "viêm loét đại tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        57,
+        76
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K51.9"
+      ],
+      "after": [
+        "K51"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "73",
+      "text": "Bệnh gan do rượu",
+      "canonical_surface": "gan do rượu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        114,
+        130
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K70.9"
+      ],
+      "after": [
+        "K70"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "73",
+      "text": "Bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        903,
+        926
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "74",
+      "text": "Viêm loét đại tràng",
+      "canonical_surface": "viêm loét đại tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        57,
+        76
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K51.9"
+      ],
+      "after": [
+        "K51"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "74",
+      "text": "Bệnh gan do rượu",
+      "canonical_surface": "gan do rượu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        114,
+        130
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "K70.9"
+      ],
+      "after": [
+        "K70"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "75",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        412,
+        419
+      ],
+      "assertions": [],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "77",
+      "text": "suy tim",
+      "canonical_surface": "suy tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1029,
+        1036
+      ],
+      "assertions": [],
+      "before": [
+        "I50.9"
+      ],
+      "after": [
+        "I50"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "79",
+      "text": "Bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        308,
+        331
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "79",
+      "text": "bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        806,
+        829
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "79",
+      "text": "bệnh thoái hóa tinh bột",
+      "canonical_surface": "thoái hóa tinh bột",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        989,
+        1012
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "80",
+      "text": "bệnh gút",
+      "canonical_surface": "gút",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        64,
+        72
+      ],
+      "assertions": [],
+      "before": [
+        "M10.9"
+      ],
+      "after": [
+        "M10"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "81",
+      "text": "tiền sản giật",
+      "canonical_surface": "tiền sản giật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        998,
+        1011
+      ],
+      "assertions": [],
+      "before": [
+        "O14.9"
+      ],
+      "after": [
+        "O14"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "84",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        306,
+        313
+      ],
+      "assertions": [],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "85",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        150,
+        157
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "85",
+      "text": "viêm xương tủy",
+      "canonical_surface": "viêm xương tủy",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1405,
+        1419
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "before": [
+        "M86.9"
+      ],
+      "after": [
+        "M86"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "91",
+      "text": "hội chứng turner",
+      "canonical_surface": "hội chứng turner",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        48,
+        64
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "Q96.9"
+      ],
+      "after": [
+        "Q96"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "95",
+      "text": "bệnh gút",
+      "canonical_surface": "gút",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        64,
+        72
+      ],
+      "assertions": [],
+      "before": [
+        "M10.9"
+      ],
+      "after": [
+        "M10"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "95",
+      "text": "béo phì",
+      "canonical_surface": "béo phì",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1206,
+        1213
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "before": [
+        "E66.9"
+      ],
+      "after": [
+        "E66"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "canonical_surface": "tiền sản giật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        157,
+        173
+      ],
+      "assertions": [],
+      "before": [
+        "O14.9"
+      ],
+      "after": [
+        "O14"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "canonical_surface": "tiền sản giật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        584,
+        597
+      ],
+      "assertions": [],
+      "before": [
+        "O14.9"
+      ],
+      "after": [
+        "O14"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "canonical_surface": "tiền sản giật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        616,
+        629
+      ],
+      "assertions": [],
+      "before": [
+        "O14.9"
+      ],
+      "after": [
+        "O14"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "canonical_surface": "tiền sản giật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        664,
+        677
+      ],
+      "assertions": [],
+      "before": [
+        "O14.9"
+      ],
+      "after": [
+        "O14"
+      ],
+      "reason": "official_canonical_category_exact_label"
+    }
+  ],
+  "evidence": {
+    "national_icd_2026": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+    "official_problem_page": "https://competition.viettel.vn/contests/medical-2026",
+    "selection_rule": "surface equals official category label after presentation-only canonicalization",
+    "v36_specific_child_calibration": {
+      "candidate_changes": 25,
+      "j_candidates_delta": -0.0932,
+      "score_delta": -0.0373
+    },
+    "mechanical_projection": {
+      "v45_residual_score_gain": 0.4098,
+      "v42_exact_label_score_gain": 1.5591,
+      "v34_v35_code_system_mean_score_gain": 0.9358,
+      "v45_residual_projected_j_candidates": 33.9621,
+      "v45_residual_projected_score_from_metric_formula": 42.3777
+    }
+  },
+  "excluded_hypotheses": {
+    "v46": "do not mix contextual H40.9 -> G93.2 changes",
+    "augmentation": "do not add parent as a second code",
+    "fuzzy_labels": "no semantic or edit-distance label matching",
+    "boundaries_assertions_recall": "all remain identical to V45"
+  },
+  "leaderboard_decision_rule": {
+    "wer": "must equal V45 55.4442",
+    "j_assertion": "must equal V45 51.4203",
+    "promote_if": "total score > 42.3194 (minimum requested +0.35)",
+    "rollback": "submission/candidate_v45_v42-vietnam-exact-label-cross-family.zip"
+  },
+  "leaderboard": {
+    "score": 41.4810,
+    "wer": 55.4442,
+    "j_assertion": 51.4203,
+    "j_candidates": 31.7203,
+    "submitted_at": "2026-07-26T03:25:00+07:00",
+    "score_delta_vs_v45": -0.4884,
+    "j_candidates_delta_vs_v45": -1.2210,
+    "weighted_candidate_contribution": -0.4884
+  },
+  "risk": "high-upside causal probe: exact official category labels, but leaderboard category-versus-unspecified-child direction is not yet directly calibrated",
+  "decision": "reject_parent_category_replacement_keep_v45",
+  "sha256": "144f63831e96723cf26378cd288844d41452dd4847de2f49495b5e0098096b71",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v47_v45-vietnam-icd-canonical-category-label.zip"
+}

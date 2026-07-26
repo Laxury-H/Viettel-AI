@@ -1,0 +1,150 @@
+{
+  "version": "D2-V45-v42-vietnam-exact-label-cross-family",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.9476,
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "assertion_changes": 0,
+  "candidate_changes": 5,
+  "record_ids": [
+    "2",
+    "17",
+    "26",
+    "30",
+    "34"
+  ],
+  "change_counts": {
+    "I51.4->I51.8": 1,
+    "I51.9->I51.6": 2,
+    "I63.9->I64": 2
+  },
+  "changes": [
+    {
+      "record_id": "2",
+      "text": "viêm tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        555,
+        563
+      ],
+      "assertions": [],
+      "before": [
+        "I51.4"
+      ],
+      "after": [
+        "I51.8"
+      ],
+      "reason": "official_i51_carditis_inclusion_not_myocarditis"
+    },
+    {
+      "record_id": "26",
+      "text": "bệnh tim mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        661,
+        674
+      ],
+      "assertions": [],
+      "before": [
+        "I51.9"
+      ],
+      "after": [
+        "I51.6"
+      ],
+      "reason": "exact_hospital_i51_cardiovascular_label"
+    },
+    {
+      "record_id": "30",
+      "text": "bệnh tim mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        40,
+        53
+      ],
+      "assertions": [
+        "isNegated",
+        "isHistorical"
+      ],
+      "before": [
+        "I51.9"
+      ],
+      "after": [
+        "I51.6"
+      ],
+      "reason": "exact_hospital_i51_cardiovascular_label"
+    },
+    {
+      "record_id": "17",
+      "text": "đột quỵ",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        983,
+        990
+      ],
+      "assertions": [],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ],
+      "reason": "official_unspecified_stroke_not_cerebral_infarction"
+    },
+    {
+      "record_id": "34",
+      "text": "đột quỵ",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1177,
+        1184
+      ],
+      "assertions": [],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ],
+      "reason": "official_unspecified_stroke_not_cerebral_infarction"
+    }
+  ],
+  "evidence": {
+    "national_icd_2026": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+    "national_icd_2026_xlsx_mirror": "https://dongnaicdc.vn/UserFiles/Docs/2026/VBBYT/Phu%20luc%20Bang%20danh%20muc%20ICD10_FINAL%20.xlsx",
+    "ministry_implementation_notice": "https://kcb.vn/tin-tuc/cong-van-so-4059-byt-bh-trien-khai-thong-tu-06-2026-tt-byt-quy-dinh-ma-hoa-benh-tat-theo-icd-10.html",
+    "hospital_i51_catalogue": "https://phusannhidanang.org.vn/TraCuuXetNghiem/lstICD/GetICD?page=371",
+    "ministry_stroke_coding_guidance": "https://kcb.vn/thong-tin/huong-dan-ma-hoa-benh-tat-tu-vong-theo-icd-10.html",
+    "v42_observed_score_gain_per_change": 0.0165857,
+    "v42_observed_j_candidates_gain_per_change": 0.0414714,
+    "conditional_projected_j_candidates_if_all_five_match": 33.0944,
+    "conditional_projected_score_if_all_five_match": 42.0305
+  },
+  "excluded_hypotheses": {
+    "contextual_translation": "tăng nhãn áp -> G93.2 is held for a separate probe",
+    "multi_candidate": "Bệnh thủy đậu/Zona -> [B01.9, B02.9] is held separately",
+    "recall": "Bệnh amyloidosis tự miễn dịch -> E85.3 changes WER and is held separately",
+    "boundary": "V43 official-label boundary changes remain held"
+  },
+  "leaderboard_decision_rule": {
+    "wer": "must equal V42 55.4442",
+    "j_assertion": "must equal V42 51.4203",
+    "promote_if": "J_candidates > 32.8870 and total score > 41.9476",
+    "reject_if": "WER or J_assertion changes, because V45 is candidate-only"
+  },
+  "leaderboard": {
+    "score": 41.9694,
+    "wer": 55.4442,
+    "j_assertion": 51.4203,
+    "j_candidates": 32.9413,
+    "score_delta_vs_v42": 0.0218,
+    "j_candidates_delta_vs_v42": 0.0543,
+    "submitted_at": "2026-07-26T01:37:00+07:00"
+  },
+  "decision": "promoted_to_production",
+  "submission_priority": "scored and promoted",
+  "sha256": "c5afa4be374c7a329f63b2bfe67a613b99910e71408f8c73c755db785e77ece3",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v45_v42-vietnam-exact-label-cross-family.zip"
+}

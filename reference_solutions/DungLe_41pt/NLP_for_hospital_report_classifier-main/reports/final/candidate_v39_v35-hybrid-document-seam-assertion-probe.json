@@ -1,0 +1,104 @@
+{
+  "version": "D2-V39-v35-hybrid-document-seam-assertion-probe",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v35_v30-vietnam-icd-full-final.zip",
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "candidate_changes": 0,
+  "assertion_changes": 6,
+  "reason_counts": {
+    "current_question": 2,
+    "generic_education": 2,
+    "generic_advice": 2
+  },
+  "changes": [
+    {
+      "record_id": "3",
+      "text": "run tay",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        35,
+        42
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "current_question"
+    },
+    {
+      "record_id": "3",
+      "text": "run tay",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        79,
+        86
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "current_question"
+    },
+    {
+      "record_id": "23",
+      "text": "đổ mồ hôi đêm",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        247,
+        260
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_education"
+    },
+    {
+      "record_id": "23",
+      "text": "Mất ngủ",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        303,
+        310
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_education"
+    },
+    {
+      "record_id": "23",
+      "text": "rối loạn lo âu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        438,
+        452
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_advice"
+    },
+    {
+      "record_id": "23",
+      "text": "trầm cảm",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        453,
+        461
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_advice"
+    }
+  ],
+  "sha256": "37446a6fbd2ff6d8cf4d4384dec1b19e8eb777ad1317d60819ffcb1c8a81603b",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v39_v35-hybrid-document-seam-assertion-probe.zip"
+}

@@ -1,0 +1,130 @@
+{
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "candidate": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v49_v45-vietnam-source-semantic-cross-family.zip",
+  "records": 100,
+  "entity_candidate_changes": 5,
+  "record_candidate_set_changes": 4,
+  "record_candidate_codes_removed": 1,
+  "record_candidate_codes_added": 4,
+  "entity_changes": [
+    {
+      "record_id": "3",
+      "text": "tai biến mạch máu não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1815,
+        1836
+      ],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ]
+    },
+    {
+      "record_id": "3",
+      "text": "tai biến mạch máu não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2099,
+        2120
+      ],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ]
+    },
+    {
+      "record_id": "21",
+      "text": "Bệnh amyloidosis",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1226,
+        1242
+      ],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85.3"
+      ]
+    },
+    {
+      "record_id": "32",
+      "text": "Bệnh amyloidosis",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1673,
+        1689
+      ],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85.3"
+      ]
+    },
+    {
+      "record_id": "79",
+      "text": "Bệnh amyloidosis",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1226,
+        1242
+      ],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85.3"
+      ]
+    }
+  ],
+  "record_set_changes": [
+    {
+      "record_id": "3",
+      "type": "CHẨN_ĐOÁN",
+      "before_size": 4,
+      "after_size": 4,
+      "removed": [
+        "I63.9"
+      ],
+      "added": [
+        "I64"
+      ]
+    },
+    {
+      "record_id": "21",
+      "type": "CHẨN_ĐOÁN",
+      "before_size": 6,
+      "after_size": 7,
+      "removed": [],
+      "added": [
+        "E85.3"
+      ]
+    },
+    {
+      "record_id": "32",
+      "type": "CHẨN_ĐOÁN",
+      "before_size": 11,
+      "after_size": 12,
+      "removed": [],
+      "added": [
+        "E85.3"
+      ]
+    },
+    {
+      "record_id": "79",
+      "type": "CHẨN_ĐOÁN",
+      "before_size": 3,
+      "after_size": 4,
+      "removed": [],
+      "added": [
+        "E85.3"
+      ]
+    }
+  ]
+}

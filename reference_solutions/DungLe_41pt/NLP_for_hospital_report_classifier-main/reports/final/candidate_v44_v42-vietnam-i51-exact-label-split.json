@@ -1,0 +1,93 @@
+{
+  "version": "D2-V44-v42-vietnam-i51-exact-label-split",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.9476,
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "assertion_changes": 0,
+  "candidate_changes": 3,
+  "record_ids": [
+    "2",
+    "26",
+    "30"
+  ],
+  "label_counts": {
+    "viêm tim": 1,
+    "bệnh tim mạch": 2
+  },
+  "changes": [
+    {
+      "record_id": "2",
+      "text": "viêm tim",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        555,
+        563
+      ],
+      "assertions": [],
+      "before": [
+        "I51.4"
+      ],
+      "after": [
+        "I51.8"
+      ],
+      "reason": "official_i51_carditis_inclusion_not_myocarditis"
+    },
+    {
+      "record_id": "26",
+      "text": "bệnh tim mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        661,
+        674
+      ],
+      "assertions": [],
+      "before": [
+        "I51.9"
+      ],
+      "after": [
+        "I51.6"
+      ],
+      "reason": "exact_hospital_i51_cardiovascular_label"
+    },
+    {
+      "record_id": "30",
+      "text": "bệnh tim mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        40,
+        53
+      ],
+      "assertions": [
+        "isNegated",
+        "isHistorical"
+      ],
+      "before": [
+        "I51.9"
+      ],
+      "after": [
+        "I51.6"
+      ],
+      "reason": "exact_hospital_i51_cardiovascular_label"
+    }
+  ],
+  "evidence": {
+    "national_icd_2026": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+    "ministry_implementation_notice": "https://kcb.vn/tin-tuc/cong-van-so-4059-byt-bh-trien-khai-thong-tu-06-2026-tt-byt-quy-dinh-ma-hoa-benh-tat-theo-icd-10.html",
+    "hospital_i51_catalogue": "https://phusannhidanang.org.vn/TraCuuXetNghiem/lstICD/GetICD?page=371",
+    "v42_observed_gain_per_candidate_change": 0.0165857,
+    "conditional_projected_score_if_all_three_match": 41.9974
+  },
+  "leaderboard_decision_rule": {
+    "wer": "must equal V42 55.4442",
+    "j_assertion": "must equal V42 51.4203",
+    "promote_if": "J_candidates > 32.8870 and total score > 41.9476",
+    "reject_if": "WER or J_assertion changes, because V44 is candidate-only"
+  },
+  "submission_priority": "high: isolated candidate-only continuation of the V42 signal",
+  "sha256": "e2238328e67340810363eff74b5d19988c49ecbe01002b267c0f9f2ed69c7bf0",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v44_v42-vietnam-i51-exact-label-split.zip"
+}

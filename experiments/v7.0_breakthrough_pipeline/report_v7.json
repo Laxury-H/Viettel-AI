@@ -1,0 +1,13 @@
+{
+  "records": 100,
+  "total_entities": 2687,
+  "type_counts": {
+    "CHẨN_ĐOÁN": 758,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 170,
+    "THUỐC": 219,
+    "TRIỆU_CHỨNG": 1105,
+    "TÊN_XÉT_NGHIỆM": 435
+  },
+  "consensus_entities_added": 0,
+  "zip_path": "submission_v8.zip"
+}

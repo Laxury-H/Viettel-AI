@@ -1,0 +1,135 @@
+{
+  "version": "D2-V49-v45-vietnam-source-semantic-cross-family",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.9694,
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "assertion_changes": 0,
+  "candidate_changes": 5,
+  "record_ids": [
+    "3",
+    "21",
+    "32",
+    "79"
+  ],
+  "cohort_counts": {
+    "unspecified_cerebrovascular_event": 2,
+    "aa_secondary_systemic_amyloidosis": 3
+  },
+  "changes": [
+    {
+      "record_id": "3",
+      "text": "tai biến mạch máu não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1815,
+        1836
+      ],
+      "assertions": [],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ],
+      "cohort": "unspecified_cerebrovascular_event",
+      "reason": "exact_vietnamese_unspecified_stroke_synonym"
+    },
+    {
+      "record_id": "3",
+      "text": "tai biến mạch máu não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2099,
+        2120
+      ],
+      "assertions": [
+        "isNegated",
+        "isHistorical"
+      ],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ],
+      "cohort": "unspecified_cerebrovascular_event",
+      "reason": "exact_vietnamese_unspecified_stroke_synonym"
+    },
+    {
+      "record_id": "21",
+      "text": "Bệnh amyloidosis",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1226,
+        1242
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85.3"
+      ],
+      "cohort": "aa_secondary_systemic_amyloidosis",
+      "reason": "source_aa_qualifier_outside_existing_span"
+    },
+    {
+      "record_id": "32",
+      "text": "Bệnh amyloidosis",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1673,
+        1689
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85.3"
+      ],
+      "cohort": "aa_secondary_systemic_amyloidosis",
+      "reason": "source_aa_qualifier_outside_existing_span"
+    },
+    {
+      "record_id": "79",
+      "text": "Bệnh amyloidosis",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1226,
+        1242
+      ],
+      "assertions": [],
+      "before": [
+        "E85.9"
+      ],
+      "after": [
+        "E85.3"
+      ],
+      "cohort": "aa_secondary_systemic_amyloidosis",
+      "reason": "source_aa_qualifier_outside_existing_span"
+    }
+  ],
+  "evidence": {
+    "national_icd_2026": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+    "vietnam_hospital_e85_3_catalogue": "https://phusannhidanang.org.vn/TraCuuXetNghiem/lstICD/GetICD?page=229",
+    "vietnam_icd_i64_guidance": "https://syt.quangbinh.gov.vn/3cms/upload/soyte/File/BIEU%20MAU/1754-syt-nvy/ICD%2010-%20Tap%202.pdf",
+    "source_aa_wording": "https://www.healthline.com/health/amyloidosis",
+    "v45_residual_projected_j_candidates": 32.9956,
+    "v45_residual_projected_score": 41.9912,
+    "v42_optimistic_projected_score": 42.0523
+  },
+  "leaderboard_decision_rule": {
+    "wer": "must equal V45 55.4442",
+    "j_assertion": "must equal V45 51.4203",
+    "promote_if": "J_candidates > 32.9413 and total score > 41.9694",
+    "rollback": "submission/candidate_v45_v42-vietnam-exact-label-cross-family.zip"
+  },
+  "submission_policy": "validated artifact; HOLD because projected gain is below +0.35",
+  "sha256": "2bbf6f3d0fad8c292b5ce753b46f2572634538c8365840d622c8b5dc7aeab7f3",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v49_v45-vietnam-source-semantic-cross-family.zip"
+}

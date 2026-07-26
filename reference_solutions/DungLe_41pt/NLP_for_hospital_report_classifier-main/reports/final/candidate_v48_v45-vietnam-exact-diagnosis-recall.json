@@ -1,0 +1,263 @@
+{
+  "version": "D2-V48-v45-vietnam-exact-diagnosis-recall",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.9694,
+  "records": 100,
+  "entities": 2704,
+  "existing_entity_changes": 0,
+  "diagnosis_additions": 15,
+  "changed_records": 8,
+  "record_ids": [
+    "3",
+    "17",
+    "18",
+    "41",
+    "49",
+    "60",
+    "65",
+    "92"
+  ],
+  "cohort_counts": {
+    "trứng cá": 6,
+    "rụng tóc toàn bộ": 2,
+    "mày đay": 2,
+    "bạch biến": 2,
+    "cao răng": 1,
+    "viêm túi mật": 1,
+    "parkinson": 1
+  },
+  "changes": [
+    {
+      "record_id": "3",
+      "text": "Parkinson",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        881,
+        890
+      ],
+      "assertions": [],
+      "candidates": [
+        "G20"
+      ],
+      "reason": "contraindication_parallel_to_accepted_parkinson_syndrome"
+    },
+    {
+      "record_id": "17",
+      "text": "cao răng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2414,
+        2422
+      ],
+      "assertions": [],
+      "candidates": [
+        "K03.6"
+      ],
+      "reason": "official_leaf_name_in_periodontal_treatment_text"
+    },
+    {
+      "record_id": "18",
+      "text": "viêm túi mật",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2347,
+        2359
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "candidates": [
+        "K81.9"
+      ],
+      "reason": "negated_imaging_finding_parallel_to_annotated_stone"
+    },
+    {
+      "record_id": "41",
+      "text": "Trứng cá",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        681,
+        689
+      ],
+      "assertions": [],
+      "candidates": [
+        "L70.9"
+      ],
+      "reason": "bare_acne_name_in_topic_and_treatment_text"
+    },
+    {
+      "record_id": "41",
+      "text": "Trứng cá",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        808,
+        816
+      ],
+      "assertions": [],
+      "candidates": [
+        "L70.9"
+      ],
+      "reason": "bare_acne_name_in_topic_and_treatment_text"
+    },
+    {
+      "record_id": "41",
+      "text": "Trứng cá",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        982,
+        990
+      ],
+      "assertions": [],
+      "candidates": [
+        "L70.9"
+      ],
+      "reason": "bare_acne_name_in_topic_and_treatment_text"
+    },
+    {
+      "record_id": "41",
+      "text": "trứng cá",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1250,
+        1258
+      ],
+      "assertions": [],
+      "candidates": [
+        "L70.9"
+      ],
+      "reason": "bare_acne_name_in_topic_and_treatment_text"
+    },
+    {
+      "record_id": "49",
+      "text": "rụng tóc toàn bộ",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        948,
+        964
+      ],
+      "assertions": [],
+      "candidates": [
+        "L63.1"
+      ],
+      "reason": "official_leaf_name_in_alopecia_treatment_text"
+    },
+    {
+      "record_id": "49",
+      "text": "mày đay",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1535,
+        1542
+      ],
+      "assertions": [],
+      "candidates": [
+        "L50.9"
+      ],
+      "reason": "diagnosis_in_explicit_adverse_effect_list"
+    },
+    {
+      "record_id": "49",
+      "text": "bạch biến",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1570,
+        1579
+      ],
+      "assertions": [],
+      "candidates": [
+        "L80"
+      ],
+      "reason": "official_leaf_name_in_explicit_adverse_effect_list"
+    },
+    {
+      "record_id": "60",
+      "text": "Trứng cá",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        668,
+        676
+      ],
+      "assertions": [],
+      "candidates": [
+        "L70.9"
+      ],
+      "reason": "bare_acne_name_in_topic_and_treatment_text"
+    },
+    {
+      "record_id": "65",
+      "text": "rụng tóc toàn bộ",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        713,
+        729
+      ],
+      "assertions": [],
+      "candidates": [
+        "L63.1"
+      ],
+      "reason": "official_leaf_name_in_alopecia_treatment_text"
+    },
+    {
+      "record_id": "65",
+      "text": "mày đay",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1367,
+        1374
+      ],
+      "assertions": [],
+      "candidates": [
+        "L50.9"
+      ],
+      "reason": "diagnosis_in_explicit_adverse_effect_list"
+    },
+    {
+      "record_id": "65",
+      "text": "bạch biến",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1402,
+        1411
+      ],
+      "assertions": [],
+      "candidates": [
+        "L80"
+      ],
+      "reason": "official_leaf_name_in_explicit_adverse_effect_list"
+    },
+    {
+      "record_id": "92",
+      "text": "Trứng cá",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1042,
+        1050
+      ],
+      "assertions": [],
+      "candidates": [
+        "L70.9"
+      ],
+      "reason": "bare_acne_name_in_topic_and_treatment_text"
+    }
+  ],
+  "evidence": {
+    "national_icd_2026": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+    "selection_rule": "official Vietnamese leaf/unspecified-leaf label plus same-document or same-family annotation evidence",
+    "v29_recall_score_gain_per_addition": 0.0046125,
+    "conservative_projected_score": 42.0386
+  },
+  "excluded_hypotheses": {
+    "symptoms": "buồn ngủ, ảo thanh and other symptom recall are isolated for a later causal probe",
+    "questions": "do not restore the two rejected tăng HA mentions",
+    "candidate_rewrites": "do not mix V46 or the disproven V47 category rewrite",
+    "boundaries_assertions": "all V45 entities remain byte-equivalent"
+  },
+  "leaderboard_decision_rule": {
+    "promote_if": "total score > 41.9694",
+    "diagnostic_signal": "WER should decrease; assertion/candidate metrics must not regress enough to offset the WER gain",
+    "rollback": "submission/candidate_v45_v42-vietnam-exact-label-cross-family.zip"
+  },
+  "decision": "candidate_ready_as_isolated_recall_probe",
+  "sha256": "18c702c704574445fe7add31cf15b6508fe297a63d7f1aacc3ceb26b3f1b75d1",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v48_v45-vietnam-exact-diagnosis-recall.zip"
+}

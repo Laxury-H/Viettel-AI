@@ -1,0 +1,13 @@
+{
+  "version": "D2-V38-v35-vietnam-icd-and-document-archetype",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "candidate_changes": 25,
+  "assertion_changes": 7,
+  "sha256": "1bf8beb6bb7001dd263ece2a6f41dead452f9208956658337e4f4ec8b38c29a1",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v38_v35-vietnam-icd-and-document-archetype.zip"
+}

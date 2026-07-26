@@ -1,0 +1,300 @@
+{
+  "best_confirmed": {
+    "version": "D2-V54-v53-explicit-past-mention-temporality",
+    "score": 41.9973,
+    "wer": 55.4298,
+    "j_assertion": 51.4670,
+    "j_candidates": 32.9653,
+    "submitted_at": "2026-07-26T16:23:00+07:00",
+    "sha256": "e0f5a7471bae4659bb2cded51dbb8e18ad779d868c481dede84881365c832f2e"
+  },
+  "scored_experiments": [
+    {
+      "version": "D2-V9",
+      "score": 38.6974,
+      "decision": "historical_control"
+    },
+    {
+      "version": "D2-V11-candidate-only",
+      "score": 38.6887,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V12-generic",
+      "score": 38.7389,
+      "decision": "superseded"
+    },
+    {
+      "version": "D2-V14-metoprolol",
+      "score": 38.7600,
+      "decision": "superseded"
+    },
+    {
+      "version": "Qwen3.5-9B-hybrid",
+      "score": 37.3843,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V15-precision",
+      "score": 38.7462,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis",
+      "score": 39.1466,
+      "decision": "superseded"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-max",
+      "score": 38.7750,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-extended-precision",
+      "score": 39.1423,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-precision",
+      "score": 39.2864,
+      "decision": "superseded_by_v19"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-curated-safe",
+      "score": 39.2289,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-tight-extended-precision",
+      "score": 39.2169,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-adenocarcinoma-precision",
+      "score": 39.2850,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V17-teacher-red-eyes",
+      "score": 39.2786,
+      "wer": 55.8911,
+      "j_assertion": 50.9040,
+      "j_candidates": 26.9369,
+      "submitted_at": "2026-07-24T05:27:00+07:00",
+      "sha256": "ef40baaddd991abd6643cb5e423578ae29acb0fc42cdd69d61af24873f4bf2e7",
+      "decision": "reject_by_0.0078"
+    },
+    {
+      "version": "D2-V19-repeated-line-consensus",
+      "score": 39.2901,
+      "wer": 55.8688,
+      "j_assertion": 50.9200,
+      "j_candidates": 26.9369,
+      "submitted_at": "2026-07-24T05:50:00+07:00",
+      "sha256": "a384e80ac21fa961ed7f0c24b36e5661a197d614220c1b0b9c6236f3481c222c",
+      "decision": "superseded_by_v21"
+    },
+    {
+      "version": "D2-V20-question-assertion",
+      "score": 39.2901,
+      "wer": 55.8688,
+      "j_assertion": 50.9200,
+      "j_candidates": 26.9369,
+      "submitted_at": "2026-07-24T06:14:00+07:00",
+      "sha256": "f4d6d3ddd638c5bb08e86f441c2c63a1cd15e650e8420941983addac059d6b9c",
+      "decision": "reject_neutral"
+    },
+    {
+      "version": "D2-V21-question-diagnosis-pruning",
+      "score": 39.3128,
+      "wer": 55.8487,
+      "j_assertion": 50.9613,
+      "j_candidates": 26.9477,
+      "submitted_at": "2026-07-24T06:30:00+07:00",
+      "sha256": "df74ff00aa2498cc15fccd93270f135b71998f18ac61502848e3e72240807d7d",
+      "decision": "promote_by_0.0227"
+    },
+    {
+      "version": "D2-V22-patient-discomfort",
+      "score": 39.2947,
+      "wer": 55.8767,
+      "j_assertion": 50.9289,
+      "j_candidates": 26.9477,
+      "sha256": "c2423edcd054eb824ff35946a9d4515f98bc61d2c042e7916b070d1453c8d693",
+      "decision": "reject_by_0.0181"
+    },
+    {
+      "version": "D2-V34-v30-vietnam-clinical-orthogonal-probe",
+      "score": 41.0455,
+      "wer": 55.4442,
+      "j_assertion": 51.3898,
+      "j_candidates": 30.6544,
+      "submitted_at": "2026-07-25T18:22:00+07:00",
+      "sha256": "8f3915e2dff518e7547f99653129a88c2ea5e73e7e35ff265d77320d608562e4",
+      "decision": "promote_by_1.5088"
+    },
+    {
+      "version": "D2-V35-v30-final-family-keep-icd-full",
+      "score": 41.8224,
+      "wer": 55.4442,
+      "j_assertion": 51.3898,
+      "j_candidates": 32.5967,
+      "submitted_at": "2026-07-25T18:35:00+07:00",
+      "sha256": "a49ef79d427915d2c3679a96fdcddc8e1454c67e0e44d1562d9e72fbf35777c6",
+      "decision": "promote_by_0.7769"
+    },
+    {
+      "version": "D2-V38-v35-vietnam-icd-and-document-archetype",
+      "score": 41.7942,
+      "wer": 55.4442,
+      "j_assertion": 51.4203,
+      "j_candidates": 32.5035,
+      "submitted_at": "2026-07-25T19:09:00+07:00",
+      "sha256": "1bf8beb6bb7001dd263ece2a6f41dead452f9208956658337e4f4ec8b38c29a1",
+      "decision": "reject_by_0.0282_candidate_negative_assertion_positive"
+    },
+    {
+      "version": "D2-V37-v35-vietnam-document-archetype-assertion-probe",
+      "score": 41.8315,
+      "wer": 55.4442,
+      "j_assertion": 51.4203,
+      "j_candidates": 32.5967,
+      "submitted_at": "2026-07-26T00:02:00+07:00",
+      "sha256": "0fa0f24796a01f07c6e64227abea942945fb61afae6cf65f51a6785bf830e928",
+      "decision": "promote_by_0.0091"
+    },
+    {
+      "version": "D2-V40-v37-hybrid-document-seam-assertion-probe",
+      "score": 41.8315,
+      "wer": 55.4442,
+      "j_assertion": 51.4203,
+      "j_candidates": 32.5967,
+      "submitted_at": "2026-07-26T00:17:00+07:00",
+      "sha256": "f970f1c913464b58f997747bfb51da3324dd496ec33394be3b68c75ba49e53b5",
+      "decision": "reject_neutral"
+    },
+    {
+      "version": "D2-V42-v37-vietnam-hospital-exact-label-batch",
+      "score": 41.9476,
+      "wer": 55.4442,
+      "j_assertion": 51.4203,
+      "j_candidates": 32.8870,
+      "submitted_at": "2026-07-26",
+      "sha256": "a2205b94040b164617ab36b9588576bc070a5fa49f895f78cc5447a90bdb663c",
+      "decision": "promote_by_0.1161_exact_hospital_label_confirmed"
+    },
+    {
+      "version": "D2-V45-v42-vietnam-exact-label-cross-family",
+      "score": 41.9694,
+      "wer": 55.4442,
+      "j_assertion": 51.4203,
+      "j_candidates": 32.9413,
+      "submitted_at": "2026-07-26T01:37:00+07:00",
+      "sha256": "c5afa4be374c7a329f63b2bfe67a613b99910e71408f8c73c755db785e77ece3",
+      "decision": "promote_by_0.0218_exact_label_batch_positive"
+    },
+    {
+      "version": "D2-V47-v45-vietnam-icd-canonical-category-label",
+      "score": 41.4810,
+      "wer": 55.4442,
+      "j_assertion": 51.4203,
+      "j_candidates": 31.7203,
+      "submitted_at": "2026-07-26T03:25:00+07:00",
+      "sha256": "144f63831e96723cf26378cd288844d41452dd4847de2f49495b5e0098096b71",
+      "decision": "reject_by_0.4884_parent_category_replacement"
+    },
+    {
+      "version": "D2-V48-v45-vietnam-exact-diagnosis-recall",
+      "score": 41.7881,
+      "wer": 55.5975,
+      "j_assertion": 51.0402,
+      "j_candidates": 32.8884,
+      "submitted_at": "2026-07-26T03:47:00+07:00",
+      "sha256": "18c702c704574445fe7add31cf15b6508fe297a63d7f1aacc3ceb26b3f1b75d1",
+      "decision": "reject_by_0.1813_exact_diagnosis_recall"
+    },
+    {
+      "version": "D2-V49-v45-vietnam-source-semantic-cross-family",
+      "score": 41.8633,
+      "wer": 55.4442,
+      "j_assertion": 51.4203,
+      "j_candidates": 32.6763,
+      "submitted_at": "2026-07-26T04:06:00+07:00",
+      "sha256": "2bbf6f3d0fad8c292b5ce753b46f2572634538c8365840d622c8b5dc7aeab7f3",
+      "decision": "reject_by_0.1061_source_semantic_outside_span"
+    },
+    {
+      "version": "D2-V51-v45-urinalysis-translation-pruning",
+      "score": 41.9878,
+      "wer": 55.4298,
+      "j_assertion": 51.4354,
+      "j_candidates": 32.9653,
+      "submitted_at": "2026-07-26T14:36:00+07:00",
+      "sha256": "c0df1d0b6eeaed0996d4a3fc13ac552050fd4c9cac97ec554786bb835781985b",
+      "decision": "promote_by_0.0184_precision_pruning"
+    },
+    {
+      "version": "D2-V53-v51-explicit-medication-section-temporality",
+      "score": 41.9901,
+      "wer": 55.4298,
+      "j_assertion": 51.4432,
+      "j_candidates": 32.9653,
+      "submitted_at": "2026-07-26T16:04:00+07:00",
+      "sha256": "04c18e2e77a5105f0c085beb23f2e19b1a1122f788778af1785b4dff8f081ab6",
+      "decision": "promote_by_0.0023_medication_section_temporality"
+    },
+    {
+      "version": "D2-V54-v53-explicit-past-mention-temporality",
+      "score": 41.9973,
+      "wer": 55.4298,
+      "j_assertion": 51.4670,
+      "j_candidates": 32.9653,
+      "submitted_at": "2026-07-26T16:23:00+07:00",
+      "sha256": "e0f5a7471bae4659bb2cded51dbb8e18ad779d868c481dede84881365c832f2e",
+      "decision": "promote_by_0.0072_explicit_past_temporality"
+    }
+  ],
+  "pending": [
+    {
+      "version": "D2-V23-symptom-boundary-trim",
+      "score": null,
+      "decision": "await_leaderboard"
+    },
+    {
+      "version": "D2-V46-v45-vietnam-intracranial-context-candidate",
+      "score": null,
+      "control_score": 41.9694,
+      "candidate_changes": 6,
+      "conditional_projected_score": 41.9956,
+      "sha256": "42fe979ce39959b5cc4b686d61985b7f132d4afa8788ad940accdd7643ecbebc",
+      "decision": "component_only_rebase_on_v51_before_submission"
+    },
+    {
+      "version": "D2-V50-v45-vietnam-stroke-synonym-ablation",
+      "score": null,
+      "control_score": 41.9694,
+      "candidate_changes": 2,
+      "record_candidate_set_changes": 1,
+      "v45_residual_projected_score": 41.9781,
+      "v42_optimistic_projected_score": 42.0026,
+      "sha256": "f50106500205ed954a5addc36210f7f6eca355b9c76dba0d4a9f340f7f0d85e0",
+      "decision": "component_only_rebase_on_v51_before_submission"
+    },
+    {
+      "version": "D2-V52-v51-literal-duplicate-symptom-pruning",
+      "score": null,
+      "control_score": 41.9878,
+      "entity_removals": 8,
+      "record_ids": [
+        "39",
+        "47",
+        "61",
+        "62",
+        "77"
+      ],
+      "template_count": 4,
+      "sha256": "1c442828e18a153db5bd86765e83a921f49a012ee7927cfbde8992c840c4b3e9",
+      "decision": "reject_unsubmitted_official_sample_preserves_repeated_mentions"
+    }
+  ]
+}

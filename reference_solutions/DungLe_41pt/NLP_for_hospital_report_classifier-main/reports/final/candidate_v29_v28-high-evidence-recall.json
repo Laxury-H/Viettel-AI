@@ -1,0 +1,242 @@
+{
+  "version": "D2-V29-v28-high-evidence-recall",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v28_v27-repeated-neurologic-recall.zip",
+  "records": 100,
+  "entities": 2675,
+  "changed_records": 3,
+  "high_evidence_additions": 8,
+  "changes": [
+    {
+      "record_id": "3",
+      "text": "tỉnh chậm",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1852,
+        1861
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "3"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "cứng đờ",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1914,
+        1921
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "source_record_ids": [
+        "11",
+        "40"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "cắn lưỡi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1929,
+        1937
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "source_record_ids": [
+        "11",
+        "40"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "tiểu tiện không tự chủ",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1947,
+        1969
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "source_record_ids": [
+        "11",
+        "40"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "Tê bì vùng trán phải",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2077,
+        2097
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "6",
+      "text": "Mất định hướng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2159,
+        2173
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "6",
+        "11"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "nhắm mắt từng lúc",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2477,
+        2494
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "11",
+      "text": "nhắm mắt từng lúc",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2460,
+        2477
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    }
+  ],
+  "evidence": [
+    {
+      "record_id": "3",
+      "text": "tỉnh chậm",
+      "position": [
+        1852,
+        1861
+      ],
+      "accepted_occurrences_in_control": 2,
+      "accepted_record_ids": [
+        "3"
+      ],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    },
+    {
+      "record_id": "6",
+      "text": "cứng đờ",
+      "position": [
+        1914,
+        1921
+      ],
+      "accepted_occurrences_in_control": 2,
+      "accepted_record_ids": [
+        "11",
+        "40"
+      ],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    },
+    {
+      "record_id": "6",
+      "text": "cắn lưỡi",
+      "position": [
+        1929,
+        1937
+      ],
+      "accepted_occurrences_in_control": 2,
+      "accepted_record_ids": [
+        "11",
+        "40"
+      ],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    },
+    {
+      "record_id": "6",
+      "text": "tiểu tiện không tự chủ",
+      "position": [
+        1947,
+        1969
+      ],
+      "accepted_occurrences_in_control": 2,
+      "accepted_record_ids": [
+        "11",
+        "40"
+      ],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    },
+    {
+      "record_id": "6",
+      "text": "Tê bì vùng trán phải",
+      "position": [
+        2077,
+        2097
+      ],
+      "accepted_occurrences_in_control": 0,
+      "accepted_record_ids": [],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    },
+    {
+      "record_id": "6",
+      "text": "Mất định hướng",
+      "position": [
+        2159,
+        2173
+      ],
+      "accepted_occurrences_in_control": 4,
+      "accepted_record_ids": [
+        "6",
+        "11"
+      ],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    },
+    {
+      "record_id": "6",
+      "text": "nhắm mắt từng lúc",
+      "position": [
+        2477,
+        2494
+      ],
+      "accepted_occurrences_in_control": 0,
+      "accepted_record_ids": [],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    },
+    {
+      "record_id": "11",
+      "text": "nhắm mắt từng lúc",
+      "position": [
+        2460,
+        2477
+      ],
+      "accepted_occurrences_in_control": 0,
+      "accepted_record_ids": [],
+      "teacher_lexicon": "SAFE_SYMPTOMS"
+    }
+  ],
+  "score_expectation": {
+    "confirmed_control": 39.4461,
+    "target_range": [
+      39.46,
+      39.49
+    ],
+    "status": "confirmed_within_target"
+  },
+  "leaderboard_result": {
+    "submitted_at": "2026-07-25T15:00:00+07:00",
+    "score": 39.483,
+    "WER": 55.5478,
+    "num_scored": 100,
+    "J_assertion": 51.2278,
+    "num_records": 100,
+    "J_candidates": 26.9477,
+    "decision": "promote"
+  },
+  "sha256": "11d79fdf0d31e2c0453d84ed357876a9263f12d3abff189e5271563a8c76ece9",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v29_v28-high-evidence-recall.zip"
+}

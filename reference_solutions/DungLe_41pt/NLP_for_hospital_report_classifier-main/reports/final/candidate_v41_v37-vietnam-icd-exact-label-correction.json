@@ -1,0 +1,61 @@
+{
+  "version": "D2-V41-v37-vietnam-icd-exact-label-correction",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.8315,
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "assertion_changes": 0,
+  "candidate_changes": 2,
+  "changes": [
+    {
+      "record_id": "6",
+      "text": "Bệnh tim mạch do xơ vữa động mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        21,
+        54
+      ],
+      "before": [
+        "I70.90"
+      ],
+      "after": [
+        "I25.1"
+      ],
+      "reason": "exact_official_vietnam_icd_label"
+    },
+    {
+      "record_id": "11",
+      "text": "Bệnh tim mạch do xơ vữa động mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        21,
+        54
+      ],
+      "before": [
+        "I70.90"
+      ],
+      "after": [
+        "I25.1"
+      ],
+      "reason": "exact_official_vietnam_icd_label"
+    }
+  ],
+  "evidence": {
+    "official_vietnam_icd_source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+    "exact_label": "Bệnh tim mạch do xơ vữa động mạch",
+    "official_code": "I25.1",
+    "mean_j_candidates_gain_per_successful_v34_v35_change": 0.02489,
+    "projected_j_candidates_if_both_match": 32.6465,
+    "projected_score_if_both_match": 41.8514
+  },
+  "leaderboard_decision_rule": {
+    "wer": "must equal V37 55.4442",
+    "j_assertion": "must equal V37 51.4203",
+    "promote_if": "J_candidates > 32.5967 and total score > 41.8315"
+  },
+  "sha256": "3e8bf322229b060608828f3525238a9d38cf03712490c1fa29dd76f327dd88e3",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v41_v37-vietnam-icd-exact-label-correction.zip"
+}

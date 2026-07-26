@@ -1,0 +1,142 @@
+{
+  "version": "D2-V52-v51-literal-duplicate-symptom-pruning",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.9878,
+  "records": 100,
+  "entities": 2679,
+  "entity_removals": 8,
+  "symptom_removals": 8,
+  "record_ids": [
+    "39",
+    "47",
+    "61",
+    "62",
+    "77"
+  ],
+  "template_count": 4,
+  "surface_counts": {
+    "đau": 1,
+    "mệt mỏi": 4,
+    "phù": 3
+  },
+  "changes": [
+    {
+      "record_id": "39",
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1031,
+        1038
+      ],
+      "assertions": [],
+      "context": "khi phẫu thuật. Triệu chứng hiện tại - hạ huyết áp, không đặc hiệu - mệt mỏi - mệt mỏi Theo như mô tả của Bạn cháu bé bị bệnh bàn chân bẹt, đây là tật bẩm sinh không",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    },
+    {
+      "record_id": "39",
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1548,
+        1551
+      ],
+      "assertions": [],
+      "context": "ách cụ thể. - khó thở khi gắng sức - ho mạn tính có đờm vàng loãng - ran - phù phù - dịch thanh dịch lẫn máu từ vết mổ - phân nâu dương tính guaiac Kết quả xét ng",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    },
+    {
+      "record_id": "47",
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1130,
+        1133
+      ],
+      "assertions": [],
+      "context": "u bụng. 3. Đánh giá tại bệnh viện Kết quả khám thực thể - Khám thấy ran nổ, phù phù, dịch rỉ huyết thanh từ vết mổ, và phân nâu dương tính guaiac. - dấu hiệu sinh",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    },
+    {
+      "record_id": "47",
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1383,
+        1390
+      ],
+      "assertions": [],
+      "context": "2LNC (khi đến MICU) Dấu hiệu lâm sàng - hạ huyết áp, không đặc hiệu - mệt mỏi - mệt mỏi - khó thở khi gắng sức - ho mạn tính có đờm vàng loãng - ran - phù phù - dịch t",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    },
+    {
+      "record_id": "47",
+      "text": "phù",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1458,
+        1461
+      ],
+      "assertions": [],
+      "context": "ỏi - mệt mỏi - khó thở khi gắng sức - ho mạn tính có đờm vàng loãng - ran - phù phù - dịch thanh dịch lẫn máu từ vết mổ - phân nâu dương tính guaiac Kết quả xét ng",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    },
+    {
+      "record_id": "61",
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        803,
+        810
+      ],
+      "assertions": [],
+      "context": "khi phẫu thuật. Triệu chứng hiện tại - hạ huyết áp, không đặc hiệu - mệt mỏi - mệt mỏi - khó khăn khi ra khỏi giường - đau bụng gián đoạn - khó thở khi gắng sức - ho",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    },
+    {
+      "record_id": "62",
+      "text": "mệt mỏi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        436,
+        443
+      ],
+      "assertions": [],
+      "context": "- nghẹt ngực - khó thở nhẹ-vừa khó thở khi gắng sức - mệt mỏi - mệt mỏi - sốt lên đến 101 - thỉnh thoảng tiêu chảy các thuốc của ông ấy - đ",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    },
+    {
+      "record_id": "77",
+      "text": "đau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        499,
+        502
+      ],
+      "assertions": [],
+      "context": "n triệu chứng: Đau bánh chè đùi phải dữ dội cách đây vài tháng. Tiếp tục bị đau đau dữ dội khi thực hiện hầu hết các hoạt động. - Tiến triển bệnh: Không ghi rõ",
+      "reason": "second_token_of_literal_duplicate_symptom"
+    }
+  ],
+  "invariants": {
+    "first_token_of_each_duplicate": "retained",
+    "all_non_target_entities": "unchanged",
+    "candidate_changes": 0,
+    "assertion_changes_on_retained_entities": 0
+  },
+  "evidence": {
+    "v51_positive_precision_pruning_gain": 0.0184,
+    "v21_positive_precision_pruning_gain": 0.0227,
+    "v51_mechanical_projection": 42.0614,
+    "v21_mechanical_projection": 42.0786,
+    "projection_caveat": "The eight removals occupy four independent document templates and duplicate-symptom policy differs from V51."
+  },
+  "leaderboard_decision_rule": {
+    "control": "V51 41.9878",
+    "promote_if": "total score > 41.9878",
+    "expected_signal": "WER should decrease and J_assertion should not decrease",
+    "rollback": "submission/output.zip"
+  },
+  "risk": "medium: V51 validates structural pruning, but hidden gold may annotate both literal or bullet-repeated symptom tokens",
+  "sha256": "1c442828e18a153db5bd86765e83a921f49a012ee7927cfbde8992c840c4b3e9",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v52_v51-literal-duplicate-symptom-pruning.zip"
+}

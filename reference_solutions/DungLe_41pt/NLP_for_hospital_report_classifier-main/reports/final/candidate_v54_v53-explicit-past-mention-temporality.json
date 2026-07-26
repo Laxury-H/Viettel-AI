@@ -1,0 +1,177 @@
+{
+  "version": "D2-V54-v53-explicit-past-mention-temporality",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v53_v51-explicit-medication-section-temporality.zip",
+  "confirmed_control_score": 41.9901,
+  "records": 100,
+  "entities": 2687,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "candidate_changes": 0,
+  "assertion_additions": 8,
+  "record_ids": [
+    "4",
+    "69"
+  ],
+  "changes": [
+    {
+      "record_id": "4",
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        809,
+        817
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "line": "- Triệu chứng cách đây vài năm (buồn nôn và tiêu chảy)",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    },
+    {
+      "record_id": "4",
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        821,
+        830
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "line": "- Triệu chứng cách đây vài năm (buồn nôn và tiêu chảy)",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    },
+    {
+      "record_id": "4",
+      "text": "buồn nôn",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1244,
+        1252
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "line": "- Triệu chứng cách đây vài năm: tái phát buồn nôn và tiêu chảy, chẩn đoán hội chứng ruột kích thích, phát hiện loét tá tràng khi nội soi.",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    },
+    {
+      "record_id": "4",
+      "text": "tiêu chảy",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1256,
+        1265
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "line": "- Triệu chứng cách đây vài năm: tái phát buồn nôn và tiêu chảy, chẩn đoán hội chứng ruột kích thích, phát hiện loét tá tràng khi nội soi.",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    },
+    {
+      "record_id": "4",
+      "text": "hội chứng ruột kích thích",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1277,
+        1302
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "line": "- Triệu chứng cách đây vài năm: tái phát buồn nôn và tiêu chảy, chẩn đoán hội chứng ruột kích thích, phát hiện loét tá tràng khi nội soi.",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    },
+    {
+      "record_id": "4",
+      "text": "loét tá tràng",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1314,
+        1327
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "line": "- Triệu chứng cách đây vài năm: tái phát buồn nôn và tiêu chảy, chẩn đoán hội chứng ruột kích thích, phát hiện loét tá tràng khi nội soi.",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    },
+    {
+      "record_id": "69",
+      "text": "trầm cảm",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        555,
+        563
+      ],
+      "before_assertions": [
+        "isNegated"
+      ],
+      "after_assertions": [
+        "isNegated",
+        "isHistorical"
+      ],
+      "line": "Không xác nhận đã bị trầm cảm trước đó, và không xác nhận có ý định tự tử",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    },
+    {
+      "record_id": "69",
+      "text": "ý định tự tử",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        595,
+        607
+      ],
+      "before_assertions": [
+        "isNegated"
+      ],
+      "after_assertions": [
+        "isNegated",
+        "isHistorical"
+      ],
+      "line": "Không xác nhận đã bị trầm cảm trước đó, và không xác nhận có ý định tự tử",
+      "reason": "same_record_surface_under_explicit_past_cue"
+    }
+  ],
+  "cohorts": {
+    "explicit_few_years_ago": 6,
+    "negated_prior_history": 2
+  },
+  "invariants": {
+    "all_mentions": "preserved",
+    "all_text_spans_types_candidates": "unchanged",
+    "non_target_entities": "byte_for_byte_unchanged",
+    "same_record_historical_evidence": "required"
+  },
+  "leaderboard_decision_rule": {
+    "control": "V53 41.9901",
+    "promote_if": "total score > 41.9901 and J_assertion > 51.4432",
+    "expected_invariants": "WER 55.4298 and J_candidates 32.9653",
+    "rollback": "submission/candidate_v53_v51-explicit-medication-section-temporality.zip"
+  },
+  "risk": "low-to-medium: all cues are explicit and have same-record historical counterparts, but hidden annotation may treat a timeline recap inside current HPI differently from history",
+  "leaderboard": {
+    "score": 41.9973,
+    "wer": 55.4298,
+    "j_assertion": 51.4670,
+    "j_candidates": 32.9653,
+    "submitted_at": "2026-07-26T16:23:00+07:00"
+  },
+  "observed_delta_vs_v53": {
+    "score": 0.0072,
+    "wer": 0.0,
+    "j_assertion": 0.0238,
+    "j_candidates": 0.0
+  },
+  "decision": "promoted_to_production",
+  "sha256": "e0f5a7471bae4659bb2cded51dbb8e18ad779d868c481dede84881365c832f2e",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v54_v53-explicit-past-mention-temporality.zip"
+}

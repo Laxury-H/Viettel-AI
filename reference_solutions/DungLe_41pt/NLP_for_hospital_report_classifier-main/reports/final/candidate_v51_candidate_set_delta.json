@@ -1,0 +1,11 @@
+{
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "candidate": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v51_v45-urinalysis-translation-pruning.zip",
+  "records": 100,
+  "entity_candidate_changes": 0,
+  "record_candidate_set_changes": 0,
+  "record_candidate_codes_removed": 0,
+  "record_candidate_codes_added": 0,
+  "entity_changes": [],
+  "record_set_changes": []
+}

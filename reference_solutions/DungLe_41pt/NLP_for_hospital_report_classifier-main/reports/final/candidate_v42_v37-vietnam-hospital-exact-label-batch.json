@@ -1,0 +1,145 @@
+{
+  "version": "D2-V42-v37-vietnam-hospital-exact-label-batch",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.8315,
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "assertion_changes": 0,
+  "candidate_changes": 7,
+  "reason_counts": {
+    "official_hospital_catalogue_and_chart_statistics": 5,
+    "official_and_hospital_exact_label": 2
+  },
+  "changes": [
+    {
+      "record_id": "6",
+      "text": "Bệnh tim mạch do xơ vữa động mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        21,
+        54
+      ],
+      "before": [
+        "I70.90"
+      ],
+      "after": [
+        "I25.1"
+      ],
+      "reason": "official_and_hospital_exact_label"
+    },
+    {
+      "record_id": "11",
+      "text": "Bệnh tim mạch do xơ vữa động mạch",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        21,
+        54
+      ],
+      "before": [
+        "I70.90"
+      ],
+      "after": [
+        "I25.1"
+      ],
+      "reason": "official_and_hospital_exact_label"
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        93,
+        106
+      ],
+      "before": [
+        "D24"
+      ],
+      "after": [
+        "N60.2"
+      ],
+      "reason": "official_hospital_catalogue_and_chart_statistics"
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1039,
+        1052
+      ],
+      "before": [
+        "D24"
+      ],
+      "after": [
+        "N60.2"
+      ],
+      "reason": "official_hospital_catalogue_and_chart_statistics"
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1168,
+        1181
+      ],
+      "before": [
+        "D24"
+      ],
+      "after": [
+        "N60.2"
+      ],
+      "reason": "official_hospital_catalogue_and_chart_statistics"
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1269,
+        1282
+      ],
+      "before": [
+        "D24"
+      ],
+      "after": [
+        "N60.2"
+      ],
+      "reason": "official_hospital_catalogue_and_chart_statistics"
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1531,
+        1544
+      ],
+      "before": [
+        "D24"
+      ],
+      "after": [
+        "N60.2"
+      ],
+      "reason": "official_hospital_catalogue_and_chart_statistics"
+    }
+  ],
+  "evidence": {
+    "national_icd_2026": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+    "hospital_icd_catalogue": "https://phusannhidanang.org.vn/TraCuuXetNghiem/lstICD/GetICD",
+    "hospital_chart_statistics": "https://tapchinghiencuuyhoc.vn/index.php/tcncyh/article/download/1039/722",
+    "mean_j_candidates_gain_per_successful_v34_v35_change": 0.02489,
+    "projected_j_candidates_if_all_match": 32.7709,
+    "projected_score_if_all_match": 41.9012
+  },
+  "leaderboard_decision_rule": {
+    "wer": "must equal V37 55.4442",
+    "j_assertion": "must equal V37 51.4203",
+    "promote_if": "J_candidates > 32.5967 and total score > 41.8315"
+  },
+  "sha256": "a2205b94040b164617ab36b9588576bc070a5fa49f895f78cc5447a90bdb663c",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v42_v37-vietnam-hospital-exact-label-batch.zip"
+}

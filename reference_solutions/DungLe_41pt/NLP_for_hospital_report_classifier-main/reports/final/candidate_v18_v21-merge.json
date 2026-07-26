@@ -1,0 +1,25 @@
+{
+  "version": "D2-V18-v21-merge",
+  "profile": "v21-merge",
+  "control": "D2-V17-consensus-boundary-985-single",
+  "records": 100,
+  "changed_records": 3,
+  "entities": 2652,
+  "entities_added": 1,
+  "entities_removed": 2,
+  "common_entity_fields_changed": 0,
+  "consensus_entities_added": 1,
+  "by_type": {
+    "CHẨN_ĐOÁN": 757,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 170,
+    "THUỐC": 219,
+    "TRIỆU_CHỨNG": 1071,
+    "TÊN_XÉT_NGHIỆM": 435
+  },
+  "by_assertion": {
+    "isFamily": 25,
+    "isHistorical": 363,
+    "isNegated": 119
+  },
+  "zip": "C:\\Users\\khaia\\.codex\\visualizations\\2026\\07\\20\\019f7fd3-1fe4-74a2-9b18-37fe5be3cbe7\\solution\\external_hospital_report_classifier\\submission\\candidate_v18_v21-merge.zip"
+}

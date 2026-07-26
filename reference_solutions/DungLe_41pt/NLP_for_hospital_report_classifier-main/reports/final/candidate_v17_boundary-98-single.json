@@ -1,0 +1,29 @@
+{
+  "version": "D2-V17-consensus-boundary-98-single",
+  "profile": "boundary-98-single",
+  "control": "D2-V16-teacher-diagnosis-precision",
+  "first_teacher_confidence_minimum": 0.98,
+  "second_teacher_confidence_minimum": 0.98,
+  "allow_boundary_replacement": true,
+  "max_replaced_entities": 1,
+  "direct_causal_negation": false,
+  "records": 100,
+  "changed_records": 9,
+  "entities": 2653,
+  "entities_added": 11,
+  "entities_removed": 11,
+  "common_entity_fields_changed": 0,
+  "by_type": {
+    "CHẨN_ĐOÁN": 759,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 170,
+    "THUỐC": 219,
+    "TRIỆU_CHỨNG": 1070,
+    "TÊN_XÉT_NGHIỆM": 435
+  },
+  "by_assertion": {
+    "isFamily": 25,
+    "isHistorical": 363,
+    "isNegated": 120
+  },
+  "zip": "C:\\Users\\khaia\\.codex\\visualizations\\2026\\07\\20\\019f7fd3-1fe4-74a2-9b18-37fe5be3cbe7\\solution\\external_hospital_report_classifier\\submission\\candidate_v17_boundary-98-single.zip"
+}

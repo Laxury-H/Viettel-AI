@@ -1,0 +1,24 @@
+{
+  "version": "D2-V36-v35-vietnam-icd-specificity-probe",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "candidate_changes": 25,
+  "candidate_change_counts": {
+    "S06.4->S06.40": 4,
+    "M11.2->M11.29": 4,
+    "M06.9->M06.99": 1,
+    "M81.0->M81.99": 1,
+    "M86.9->M86.99": 1,
+    "M10.9->M10.90": 5,
+    "M86.9->M86.97": 1,
+    "M86.9->M86.69": 5,
+    "I70.1->I70.10": 2,
+    "A09->A09.0": 1
+  },
+  "sha256": "e7aefa1c0aae80ded2c261056756a9da390eb1207514f09c2721e4c08af4da5c",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v36_v35-vietnam-icd-specificity-probe.zip"
+}

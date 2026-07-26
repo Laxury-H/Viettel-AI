@@ -1,0 +1,784 @@
+{
+  "version": "D2-V31-v30-semantic-boundary-context-recall",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v30_v29-evidence-fusion.zip",
+  "records": 100,
+  "entities": 2696,
+  "changed_records": 28,
+  "semantic_boundary_expansions": 34,
+  "contextual_recall_additions": 7,
+  "epistemic_negation_overrides": 1,
+  "boundary_changes": [
+    {
+      "record_id": "2",
+      "before": {
+        "text": "sưng",
+        "position": [
+          3638,
+          3642
+        ]
+      },
+      "after": {
+        "text": "sưng hạch cổ",
+        "position": [
+          3638,
+          3650
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "6",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          1001,
+          1008
+        ]
+      },
+      "after": {
+        "text": "đau đầu vùng thái dương phải",
+        "position": [
+          1001,
+          1029
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "6",
+      "before": {
+        "text": "Đau đầu",
+        "position": [
+          2008,
+          2015
+        ]
+      },
+      "after": {
+        "text": "Đau đầu vùng thái dương phải",
+        "position": [
+          2008,
+          2036
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "7",
+      "before": {
+        "text": "đau",
+        "position": [
+          113,
+          116
+        ]
+      },
+      "after": {
+        "text": "đau bao tử",
+        "position": [
+          113,
+          123
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "8",
+      "before": {
+        "text": "Sưng",
+        "position": [
+          2159,
+          2163
+        ]
+      },
+      "after": {
+        "text": "Sưng hạch cổ",
+        "position": [
+          2159,
+          2171
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "9",
+      "before": {
+        "text": "đau",
+        "position": [
+          113,
+          116
+        ]
+      },
+      "after": {
+        "text": "đau bao tử",
+        "position": [
+          113,
+          123
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "11",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          1001,
+          1008
+        ]
+      },
+      "after": {
+        "text": "đau đầu vùng thái dương phải",
+        "position": [
+          1001,
+          1029
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "14",
+      "before": {
+        "text": "ngứa",
+        "position": [
+          102,
+          106
+        ]
+      },
+      "after": {
+        "text": "ngứa khắp người",
+        "position": [
+          102,
+          117
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "17",
+      "before": {
+        "text": "đau",
+        "position": [
+          780,
+          783
+        ]
+      },
+      "after": {
+        "text": "đau khi nhai",
+        "position": [
+          780,
+          792
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "18",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          895,
+          903
+        ]
+      },
+      "after": {
+        "text": "đau bụng trên",
+        "position": [
+          895,
+          908
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "19",
+      "before": {
+        "text": "ngứa",
+        "position": [
+          102,
+          106
+        ]
+      },
+      "after": {
+        "text": "ngứa khắp người",
+        "position": [
+          102,
+          117
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "21",
+      "before": {
+        "text": "đau lưng",
+        "position": [
+          1711,
+          1719
+        ]
+      },
+      "after": {
+        "text": "đau lưng âm ỉ",
+        "position": [
+          1711,
+          1724
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "22",
+      "before": {
+        "text": "đau",
+        "position": [
+          226,
+          229
+        ]
+      },
+      "after": {
+        "text": "đau dữ dội",
+        "position": [
+          226,
+          236
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ]
+    },
+    {
+      "record_id": "22",
+      "before": {
+        "text": "ngứa",
+        "position": [
+          874,
+          878
+        ]
+      },
+      "after": {
+        "text": "ngứa toàn thân",
+        "position": [
+          874,
+          888
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "22",
+      "before": {
+        "text": "Đau",
+        "position": [
+          952,
+          955
+        ]
+      },
+      "after": {
+        "text": "Đau vùng gan phải",
+        "position": [
+          952,
+          969
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "26",
+      "before": {
+        "text": "đau",
+        "position": [
+          288,
+          291
+        ]
+      },
+      "after": {
+        "text": "đau thắt ngực",
+        "position": [
+          288,
+          301
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "26",
+      "before": {
+        "text": "Đau",
+        "position": [
+          838,
+          841
+        ]
+      },
+      "after": {
+        "text": "Đau thắt ngực",
+        "position": [
+          838,
+          851
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "26",
+      "before": {
+        "text": "Đau",
+        "position": [
+          1146,
+          1149
+        ]
+      },
+      "after": {
+        "text": "Đau dữ dội",
+        "position": [
+          1146,
+          1156
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "26",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          1951,
+          1959
+        ]
+      },
+      "after": {
+        "text": "đau bụng trên",
+        "position": [
+          1951,
+          1964
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "28",
+      "before": {
+        "text": "ngứa",
+        "position": [
+          102,
+          106
+        ]
+      },
+      "after": {
+        "text": "ngứa khắp người",
+        "position": [
+          102,
+          117
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "29",
+      "before": {
+        "text": "phù",
+        "position": [
+          548,
+          551
+        ]
+      },
+      "after": {
+        "text": "phù ngoại vi",
+        "position": [
+          548,
+          560
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "29",
+      "before": {
+        "text": "đau",
+        "position": [
+          647,
+          650
+        ]
+      },
+      "after": {
+        "text": "đau vai",
+        "position": [
+          647,
+          654
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": [
+        "isHistorical"
+      ]
+    },
+    {
+      "record_id": "30",
+      "before": {
+        "text": "phù",
+        "position": [
+          295,
+          298
+        ]
+      },
+      "after": {
+        "text": "phù hai bên",
+        "position": [
+          295,
+          306
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "30",
+      "before": {
+        "text": "phù",
+        "position": [
+          775,
+          778
+        ]
+      },
+      "after": {
+        "text": "phù hai bên",
+        "position": [
+          775,
+          786
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "31",
+      "before": {
+        "text": "đau lưng",
+        "position": [
+          1064,
+          1072
+        ]
+      },
+      "after": {
+        "text": "đau lưng âm ỉ",
+        "position": [
+          1064,
+          1077
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "33",
+      "before": {
+        "text": "đau",
+        "position": [
+          1290,
+          1293
+        ]
+      },
+      "after": {
+        "text": "đau rát khi đi tiểu",
+        "position": [
+          1290,
+          1309
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "34",
+      "before": {
+        "text": "đau",
+        "position": [
+          709,
+          712
+        ]
+      },
+      "after": {
+        "text": "đau dữ dội",
+        "position": [
+          709,
+          719
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "36",
+      "before": {
+        "text": "phù",
+        "position": [
+          408,
+          411
+        ]
+      },
+      "after": {
+        "text": "phù mặt",
+        "position": [
+          408,
+          415
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "36",
+      "before": {
+        "text": "phù",
+        "position": [
+          421,
+          424
+        ]
+      },
+      "after": {
+        "text": "phù nhẹ 2 chi dưới",
+        "position": [
+          421,
+          439
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "52",
+      "before": {
+        "text": "ngứa",
+        "position": [
+          102,
+          106
+        ]
+      },
+      "after": {
+        "text": "ngứa khắp người",
+        "position": [
+          102,
+          117
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "64",
+      "before": {
+        "text": "run rẩy",
+        "position": [
+          338,
+          345
+        ]
+      },
+      "after": {
+        "text": "run rẩy tay chân",
+        "position": [
+          338,
+          354
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "64",
+      "before": {
+        "text": "đau",
+        "position": [
+          948,
+          951
+        ]
+      },
+      "after": {
+        "text": "đau thắt ngực",
+        "position": [
+          948,
+          961
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "66",
+      "before": {
+        "text": "hạ huyết áp",
+        "position": [
+          911,
+          922
+        ]
+      },
+      "after": {
+        "text": "hạ huyết áp tư thế đứng",
+        "position": [
+          911,
+          934
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "77",
+      "before": {
+        "text": "đau",
+        "position": [
+          499,
+          502
+        ]
+      },
+      "after": {
+        "text": "đau dữ dội",
+        "position": [
+          499,
+          509
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    }
+  ],
+  "recall_changes": [
+    {
+      "record_id": "25",
+      "text": "bồn chồn",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1317,
+        1325
+      ],
+      "assertions": [],
+      "epistemic_negation_override": false,
+      "source_record_ids": []
+    },
+    {
+      "record_id": "25",
+      "text": "bứt rứt trong người",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1336,
+        1355
+      ],
+      "assertions": [],
+      "epistemic_negation_override": false,
+      "source_record_ids": []
+    },
+    {
+      "record_id": "25",
+      "text": "giảm ham muốn",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1361,
+        1374
+      ],
+      "assertions": [],
+      "epistemic_negation_override": false,
+      "source_record_ids": []
+    },
+    {
+      "record_id": "43",
+      "text": "đi cầu phân sống",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1252,
+        1268
+      ],
+      "assertions": [],
+      "epistemic_negation_override": true,
+      "source_record_ids": []
+    },
+    {
+      "record_id": "43",
+      "text": "đi cầu phân sống",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1396,
+        1412
+      ],
+      "assertions": [],
+      "epistemic_negation_override": false,
+      "source_record_ids": []
+    },
+    {
+      "record_id": "55",
+      "text": "căng thẳng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1382,
+        1392
+      ],
+      "assertions": [],
+      "epistemic_negation_override": false,
+      "source_record_ids": [
+        "10",
+        "34"
+      ]
+    },
+    {
+      "record_id": "93",
+      "text": "căng thẳng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        992,
+        1002
+      ],
+      "assertions": [],
+      "epistemic_negation_override": false,
+      "source_record_ids": [
+        "10",
+        "34"
+      ]
+    }
+  ],
+  "excluded_boundary_failure_modes": [
+    "tăng đánh trống ngực",
+    "cơn ngất xỉu"
+  ],
+  "score_expectation": {
+    "confirmed_control": 39.5367,
+    "target_range": [
+      39.6,
+      39.7
+    ],
+    "status": "confirmed_below_control"
+  },
+  "leaderboard_result": {
+    "submitted_at": "2026-07-25T16:48:00+07:00",
+    "score": 39.4604,
+    "WER": 55.5456,
+    "num_scored": 100,
+    "J_assertion": 51.1501,
+    "num_records": 100,
+    "J_candidates": 26.9477,
+    "delta_vs_v30": {
+      "score": -0.0763,
+      "WER": 0.1014,
+      "J_assertion": -0.1528,
+      "J_candidates": 0.0
+    },
+    "decision": "reject_keep_v30_control"
+  },
+  "sha256": "42b1004dad77ac3457b7a9541cca5db24ddec110b9fb5e558b36fea0a361a124",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v31_v30-semantic-boundary-context-recall.zip"
+}

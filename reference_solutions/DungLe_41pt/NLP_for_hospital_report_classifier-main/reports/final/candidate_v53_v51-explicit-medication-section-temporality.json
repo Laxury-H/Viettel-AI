@@ -1,0 +1,84 @@
+{
+  "version": "D2-V53-v51-explicit-medication-section-temporality",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v51_v45-urinalysis-translation-pruning.zip",
+  "confirmed_control_score": 41.9878,
+  "records": 100,
+  "entities": 2687,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "candidate_changes": 0,
+  "assertion_additions": 2,
+  "record_ids": [
+    "57",
+    "92"
+  ],
+  "changes": [
+    {
+      "record_id": "57",
+      "text": "Torsemide",
+      "type": "THUỐC",
+      "position": [
+        224,
+        233
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "section_heading": "Thuốc trước khi nhập viện",
+      "line": "Torsemide: uống 1 viên/ngày, đôi khi 2 viên/ngày.",
+      "reason": "explicit_historical_medication_section"
+    },
+    {
+      "record_id": "92",
+      "text": "bactrim",
+      "type": "THUỐC",
+      "position": [
+        321,
+        328
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "section_heading": "Thuốc đã dùng trước đây",
+      "line": "- Đã sử dụngvancozosyn nhưng hiện tại đang dừng. Sau khi khám chuyên khoa Truyền nhiễm đang dùng bactrim để điều trị nhiễm khuẩn đường tiết niệu",
+      "reason": "explicit_historical_medication_section"
+    }
+  ],
+  "invariants": {
+    "all_mentions": "preserved",
+    "all_text_spans_types_candidates": "unchanged",
+    "medication_indication_assertions": "unchanged",
+    "non_target_entities": "byte_for_byte_unchanged"
+  },
+  "evidence": {
+    "official_sample_policy": "pre-admission medication entries carry isHistorical while their indication symptoms keep empty assertions",
+    "within_section_consistency": "the neighboring drugs in records 57 and 92 already carry isHistorical",
+    "v37_precedent": "a seven-change Vietnamese section/assertion batch improved J_assertion by 0.0305"
+  },
+  "leaderboard_decision_rule": {
+    "control": "V51 41.9878",
+    "promote_if": "total score > 41.9878 and J_assertion > 51.4354",
+    "expected_invariants": "WER 55.4298 and J_candidates 32.9653",
+    "rollback": "submission/output.zip"
+  },
+  "risk": "low-to-medium: headings and entity positions are exact, but the hidden annotation may treat currently used pre-admission medications as current despite the official sample convention",
+  "leaderboard": {
+    "score": 41.9901,
+    "wer": 55.4298,
+    "j_assertion": 51.4432,
+    "j_candidates": 32.9653,
+    "submitted_at": "2026-07-26T16:04:00+07:00"
+  },
+  "observed_delta_vs_v51": {
+    "score": 0.0023,
+    "wer": 0.0,
+    "j_assertion": 0.0078,
+    "j_candidates": 0.0
+  },
+  "decision": "promoted_to_production",
+  "sha256": "04c18e2e77a5105f0c085beb23f2e19b1a1122f788778af1785b4dff8f081ab6",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v53_v51-explicit-medication-section-temporality.zip"
+}

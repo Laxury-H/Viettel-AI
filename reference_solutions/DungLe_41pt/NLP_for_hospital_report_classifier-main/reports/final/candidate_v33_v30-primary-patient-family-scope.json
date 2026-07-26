@@ -1,0 +1,298 @@
+{
+  "version": "D2-V33-v30-primary-patient-family-scope",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v30_v29-evidence-fusion.zip",
+  "records": 100,
+  "entities": 2689,
+  "changed_records": 3,
+  "assertion_removals": 18,
+  "span_changes": 0,
+  "candidate_changes": 0,
+  "preserved_secondary_family_records": [
+    "24",
+    "26",
+    "42",
+    "62",
+    "81"
+  ],
+  "changes": [
+    {
+      "record_id": "64",
+      "text": "bệnh động mạch vành",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        62,
+        81
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "Câu hỏi của người dùng gửi đến hệ thống Chào Bác sĩ, mẹ em bị bệnh động mạch vành đã nhiều năm. Đi khám bệnh Bác sĩ kê ch"
+    },
+    {
+      "record_id": "64",
+      "text": "Vastarel",
+      "type": "THUỐC",
+      "position": [
+        129,
+        137
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "n hệ thống Chào Bác sĩ, mẹ em bị bệnh động mạch vành đã nhiều năm. Đi khám bệnh Bác sĩ kê cho thuốc Vastarel và *********. Tuy nhiên sau nhiều năm s"
+    },
+    {
+      "record_id": "64",
+      "text": "run tay",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        203,
+        210
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "bệnh Bác sĩ kê cho thuốc Vastarel và *********. Tuy nhiên sau nhiều năm sử dụng thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vastare"
+    },
+    {
+      "record_id": "64",
+      "text": "Vastarel",
+      "type": "THUỐC",
+      "position": [
+        243,
+        251
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "*******. Tuy nhiên sau nhiều năm sử dụng thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vastarel Các bệnh lý mạn tính - bệnh Gra"
+    },
+    {
+      "record_id": "64",
+      "text": "bệnh Graves",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        283,
+        294
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vastarel Các bệnh lý mạn tính - bệnh Graves - tăng lipid máu, không đặc hiệu h"
+    },
+    {
+      "record_id": "64",
+      "text": "tăng lipid máu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        301,
+        315
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "ị run tay và mẹ em đã ngừng sử dụng thuốc Vastarel Các bệnh lý mạn tính - bệnh Graves - tăng lipid máu, không đặc hiệu hoặc run rẩy tay chân,"
+    },
+    {
+      "record_id": "80",
+      "text": "bệnh gút",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        64,
+        72
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "Câu hỏi từ người dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng kh"
+    },
+    {
+      "record_id": "80",
+      "text": "đau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        115,
+        118
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "i dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xu"
+    },
+    {
+      "record_id": "80",
+      "text": "hạt nhỏ màu trắng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        166,
+        183
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "nh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xuất hiện hạt nhỏ màu trắng trên da chỗ mấy khớp ngón tay với ngón"
+    },
+    {
+      "record_id": "80",
+      "text": "bệnhgout",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        396,
+        404
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "c sĩ tư vấn giúp ạ? Câu trả lời của bác sĩ: Chào bạn! Với những mô tả của bạn thì ông bạn đã bị bệnhgout, dạo gần đây không điều trị thường xuyê"
+    },
+    {
+      "record_id": "80",
+      "text": "hạt tophi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        508,
+        517
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "o gần đây không điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành"
+    },
+    {
+      "record_id": "80",
+      "text": "bệnh gout mạn tính",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        524,
+        542
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành hạt tophi: Khi mới hình"
+    },
+    {
+      "record_id": "95",
+      "text": "bệnh gút",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        64,
+        72
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "Câu hỏi từ người dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng kh"
+    },
+    {
+      "record_id": "95",
+      "text": "đau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        115,
+        118
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "i dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xu"
+    },
+    {
+      "record_id": "95",
+      "text": "hạt nhỏ màu trắng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        166,
+        183
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "nh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xuất hiện hạt nhỏ màu trắng trên da chỗ mấy khớp ngón tay với ngón"
+    },
+    {
+      "record_id": "95",
+      "text": "bệnhgout",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        396,
+        404
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "c sĩ tư vấn giúp ạ? Câu trả lời của bác sĩ: Chào bạn! Với những mô tả của bạn thì ông bạn đã bị bệnhgout, dạo gần đây không điều trị thường xuyê"
+    },
+    {
+      "record_id": "95",
+      "text": "hạt tophi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        508,
+        517
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "o gần đây không điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành"
+    },
+    {
+      "record_id": "95",
+      "text": "bệnh gout mạn tính",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        524,
+        542
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành hạt tophi: Khi mới hình"
+    }
+  ],
+  "score_expectation": {
+    "confirmed_control": 39.5367,
+    "target_range": [
+      39.6,
+      39.78
+    ],
+    "status": "unscored_primary_patient_family_scope"
+  },
+  "verification": {
+    "dependency_free_tests": "50 passed",
+    "strict_validator": "PASS",
+    "deterministic_rebuild": "byte-identical"
+  },
+  "sha256": "8dd71668044ec35196b55eec740256535a7bf3ad4af9f5d43219d685d83c34b8",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v33_v30-primary-patient-family-scope.zip"
+}

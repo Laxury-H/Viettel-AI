@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-24",
+  "quota": {
+    "daily_limit": 5,
+    "cooldown_seconds": 600,
+    "submissions_used": 5
+  },
+  "control": {
+    "name": "D2-V16-teacher-diagnosis-precision",
+    "score": 39.2864,
+    "WER": 55.8810,
+    "J_assertion": 50.9200,
+    "J_candidates": 26.9369
+  },
+  "experiments": [
+    {
+      "name": "D2-V17-consensus-boundary-94",
+      "submission_id": "019f9064-cecf-71d3-a21e-1b709bb97dd6",
+      "submitted_at": "2026-07-24T02:12:00+07:00",
+      "sha256": "71681c1e413e59308eb3bf9f31626ec9dbdbeddb292176cdaaf284676c1cc500",
+      "score": 39.2778,
+      "WER": 55.8547,
+      "J_assertion": 50.8650,
+      "J_candidates": 26.9369,
+      "decision": "reject_assertion_regression"
+    },
+    {
+      "name": "D2-V17-consensus-boundary-94-single-causal",
+      "submission_id": "019f906e-5fc0-7786-9055-aef5d4ba89c3",
+      "submitted_at": "2026-07-24T02:23:00+07:00",
+      "sha256": "70f3cc736a3ae6408ab435206f50a4490355b1073574659de0fa7795567e4224",
+      "score": 39.2658,
+      "WER": 55.8752,
+      "J_assertion": 50.8453,
+      "J_candidates": 26.9369,
+      "decision": "reject_direct_causal_negation"
+    },
+    {
+      "name": "D2-V17-consensus-boundary-9875",
+      "submission_id": "019f9079-c248-7665-b0a6-1ebcefbff509",
+      "submitted_at": "2026-07-24T02:35:00+07:00",
+      "sha256": "55f8a6c731207d72b63969be6381d7c2567cc826b32e681122f5e4b70c2cb8ff",
+      "score": 39.3053,
+      "WER": 55.8181,
+      "J_assertion": 50.9200,
+      "J_candidates": 26.9369,
+      "decision": "promote"
+    },
+    {
+      "name": "D2-V17-consensus-boundary-985-single",
+      "submission_id": "019f9083-17b0-765d-8b7f-34d90a53c2ce",
+      "submitted_at": "2026-07-24T02:45:00+07:00",
+      "sha256": "03b54d28aab0c3e2f9b446ae5aed88e4fe80aae3fdc2d5760e5fb179ff7d5ca5",
+      "score": 39.3094,
+      "WER": 55.8046,
+      "J_assertion": 50.9200,
+      "J_candidates": 26.9369,
+      "decision": "promote"
+    },
+    {
+      "name": "D2-V17-consensus-boundary-98-single-stable",
+      "submission_id": "019f908d-3ce8-7378-938d-fdffb0eb8b27",
+      "submitted_at": "2026-07-24T02:56:00+07:00",
+      "sha256": "79caaa60bdd06e9897b797333ff265bc4bce7dfdf9e2f05383b7d4378a05d5b3",
+      "score": 39.3094,
+      "WER": 55.8046,
+      "J_assertion": 50.9200,
+      "J_candidates": 26.9369,
+      "decision": "equivalent_do_not_promote"
+    }
+  ],
+  "best_confirmed": {
+    "name": "D2-V17-consensus-boundary-985-single",
+    "score": 39.3094
+  },
+  "leaderboard_snapshot": {
+    "observed_at": "2026-07-24T02:57:00+07:00",
+    "team": "SOL-GPT",
+    "rank": 13,
+    "top10_cutoff": 39.7649,
+    "gap_to_top10": 0.4555
+  }
+}

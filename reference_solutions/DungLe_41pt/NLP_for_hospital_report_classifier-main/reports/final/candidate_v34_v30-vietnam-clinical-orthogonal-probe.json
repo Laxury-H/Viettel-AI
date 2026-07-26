@@ -1,0 +1,2381 @@
+{
+  "version": "D2-V34-v30-vietnam-clinical-orthogonal-probe",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v30_v29-evidence-fusion.zip",
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "family_scope_removals": 18,
+  "family_scope_records": [
+    "64",
+    "80",
+    "95"
+  ],
+  "candidate_changes": 149,
+  "candidate_source_codes": 20,
+  "candidate_records": 44,
+  "official_vietnam_icd_source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt-kem.pdf",
+  "assertion_changes": [
+    {
+      "record_id": "64",
+      "text": "bệnh động mạch vành",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        62,
+        81
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "Câu hỏi của người dùng gửi đến hệ thống Chào Bác sĩ, mẹ em bị bệnh động mạch vành đã nhiều năm. Đi khám bệnh Bác sĩ kê ch"
+    },
+    {
+      "record_id": "64",
+      "text": "Vastarel",
+      "type": "THUỐC",
+      "position": [
+        129,
+        137
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "n hệ thống Chào Bác sĩ, mẹ em bị bệnh động mạch vành đã nhiều năm. Đi khám bệnh Bác sĩ kê cho thuốc Vastarel và *********. Tuy nhiên sau nhiều năm s"
+    },
+    {
+      "record_id": "64",
+      "text": "run tay",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        203,
+        210
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "bệnh Bác sĩ kê cho thuốc Vastarel và *********. Tuy nhiên sau nhiều năm sử dụng thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vastare"
+    },
+    {
+      "record_id": "64",
+      "text": "Vastarel",
+      "type": "THUỐC",
+      "position": [
+        243,
+        251
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "*******. Tuy nhiên sau nhiều năm sử dụng thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vastarel Các bệnh lý mạn tính - bệnh Gra"
+    },
+    {
+      "record_id": "64",
+      "text": "bệnh Graves",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        283,
+        294
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "thuốc thì mẹ em bị run tay và mẹ em đã ngừng sử dụng thuốc Vastarel Các bệnh lý mạn tính - bệnh Graves - tăng lipid máu, không đặc hiệu h"
+    },
+    {
+      "record_id": "64",
+      "text": "tăng lipid máu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        301,
+        315
+      ],
+      "before_assertions": [
+        "isFamily",
+        "isHistorical"
+      ],
+      "after_assertions": [
+        "isHistorical"
+      ],
+      "context": "ị run tay và mẹ em đã ngừng sử dụng thuốc Vastarel Các bệnh lý mạn tính - bệnh Graves - tăng lipid máu, không đặc hiệu hoặc run rẩy tay chân,"
+    },
+    {
+      "record_id": "80",
+      "text": "bệnh gút",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        64,
+        72
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "Câu hỏi từ người dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng kh"
+    },
+    {
+      "record_id": "80",
+      "text": "đau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        115,
+        118
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "i dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xu"
+    },
+    {
+      "record_id": "80",
+      "text": "hạt nhỏ màu trắng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        166,
+        183
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "nh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xuất hiện hạt nhỏ màu trắng trên da chỗ mấy khớp ngón tay với ngón"
+    },
+    {
+      "record_id": "80",
+      "text": "bệnhgout",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        396,
+        404
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "c sĩ tư vấn giúp ạ? Câu trả lời của bác sĩ: Chào bạn! Với những mô tả của bạn thì ông bạn đã bị bệnhgout, dạo gần đây không điều trị thường xuyê"
+    },
+    {
+      "record_id": "80",
+      "text": "hạt tophi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        508,
+        517
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "o gần đây không điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành"
+    },
+    {
+      "record_id": "80",
+      "text": "bệnh gout mạn tính",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        524,
+        542
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành hạt tophi: Khi mới hình"
+    },
+    {
+      "record_id": "95",
+      "text": "bệnh gút",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        64,
+        72
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "Câu hỏi từ người dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng kh"
+    },
+    {
+      "record_id": "95",
+      "text": "đau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        115,
+        118
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "i dùng: Chào bác sĩ, ông em năm nay 70 tuổi, bị bệnh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xu"
+    },
+    {
+      "record_id": "95",
+      "text": "hạt nhỏ màu trắng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        166,
+        183
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "nh gút hai năm nay, cũng điều trị mấy tháng khỏi đau rồi không uống thuốc nữa, mà gần đây xuất hiện hạt nhỏ màu trắng trên da chỗ mấy khớp ngón tay với ngón"
+    },
+    {
+      "record_id": "95",
+      "text": "bệnhgout",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        396,
+        404
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "c sĩ tư vấn giúp ạ? Câu trả lời của bác sĩ: Chào bạn! Với những mô tả của bạn thì ông bạn đã bị bệnhgout, dạo gần đây không điều trị thường xuyê"
+    },
+    {
+      "record_id": "95",
+      "text": "hạt tophi",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        508,
+        517
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "o gần đây không điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành"
+    },
+    {
+      "record_id": "95",
+      "text": "bệnh gout mạn tính",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        524,
+        542
+      ],
+      "before_assertions": [
+        "isFamily"
+      ],
+      "after_assertions": [],
+      "context": "điều trị thường xuyên, và hình thành những hạt nhỏ ở vùng khớp như hình ảnh, đây là hạt tophi trong bệnh gout mạn tính. Sự hình thành hạt tophi: Khi mới hình"
+    }
+  ],
+  "icd_changes": [
+    {
+      "record_id": "1",
+      "text": "THIẾU MEN G6PD",
+      "position": [
+        0,
+        14
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "Thiếu men G6PD",
+      "position": [
+        27,
+        41
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "Thiếu men G6PD",
+      "position": [
+        55,
+        69
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu hụt men G6PD",
+      "position": [
+        548,
+        566
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        1019,
+        1033
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        1137,
+        1151
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        1229,
+        1243
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        1371,
+        1385
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        1497,
+        1511
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "Thiếu men G6PD",
+      "position": [
+        2276,
+        2290
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        2517,
+        2531
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        2864,
+        2878
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        3079,
+        3093
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        3268,
+        3282
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        3317,
+        3331
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        3880,
+        3894
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        4186,
+        4200
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu men G6PD",
+      "position": [
+        4229,
+        4243
+      ],
+      "before_candidates": [
+        "D75.A"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "2",
+      "text": "hẹp tắc mạch vành",
+      "position": [
+        622,
+        639
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "bầm dập nhu mô",
+      "position": [
+        354,
+        368
+      ],
+      "before_candidates": [
+        "S06.33"
+      ],
+      "after_candidates": [
+        "S06.30"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "tụ máu dưới màng cứng mạn tính",
+      "position": [
+        512,
+        542
+      ],
+      "before_candidates": [
+        "I62.03"
+      ],
+      "after_candidates": [
+        "I62.0"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "Bầm dập nhu mô",
+      "position": [
+        2985,
+        2999
+      ],
+      "before_candidates": [
+        "S06.33"
+      ],
+      "after_candidates": [
+        "S06.30"
+      ]
+    },
+    {
+      "record_id": "6",
+      "text": "tụ máu dưới màng cứng mạn tính",
+      "position": [
+        3120,
+        3150
+      ],
+      "before_candidates": [
+        "I62.03"
+      ],
+      "after_candidates": [
+        "I62.0"
+      ]
+    },
+    {
+      "record_id": "7",
+      "text": "viêm dạ dày",
+      "position": [
+        3167,
+        3178
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "bầm dập nhu mô",
+      "position": [
+        354,
+        368
+      ],
+      "before_candidates": [
+        "S06.33"
+      ],
+      "after_candidates": [
+        "S06.30"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "tụ máu dưới màng cứng mạn tính",
+      "position": [
+        512,
+        542
+      ],
+      "before_candidates": [
+        "I62.03"
+      ],
+      "after_candidates": [
+        "I62.0"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "Bầm dập nhu mô",
+      "position": [
+        2628,
+        2642
+      ],
+      "before_candidates": [
+        "S06.33"
+      ],
+      "after_candidates": [
+        "S06.30"
+      ]
+    },
+    {
+      "record_id": "11",
+      "text": "tụ máu dưới màng cứng mạn tính",
+      "position": [
+        2763,
+        2793
+      ],
+      "before_candidates": [
+        "I62.03"
+      ],
+      "after_candidates": [
+        "I62.0"
+      ]
+    },
+    {
+      "record_id": "12",
+      "text": "viêm mô tế bào",
+      "position": [
+        976,
+        990
+      ],
+      "before_candidates": [
+        "L03.90"
+      ],
+      "after_candidates": [
+        "L03.9"
+      ]
+    },
+    {
+      "record_id": "12",
+      "text": "Viêm mô tế bào",
+      "position": [
+        2539,
+        2553
+      ],
+      "before_candidates": [
+        "L03.90"
+      ],
+      "after_candidates": [
+        "L03.9"
+      ]
+    },
+    {
+      "record_id": "14",
+      "text": "Bệnh bạch cầu dòng tủy mãn tính",
+      "position": [
+        642,
+        673
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "14",
+      "text": "tăng sản tuyến tiền liệt",
+      "position": [
+        864,
+        888
+      ],
+      "before_candidates": [
+        "N40.0"
+      ],
+      "after_candidates": [
+        "N40"
+      ]
+    },
+    {
+      "record_id": "15",
+      "text": "viêm mô tế bào",
+      "position": [
+        976,
+        990
+      ],
+      "before_candidates": [
+        "L03.90"
+      ],
+      "after_candidates": [
+        "L03.9"
+      ]
+    },
+    {
+      "record_id": "15",
+      "text": "Viêm mô tế bào",
+      "position": [
+        2029,
+        2043
+      ],
+      "before_candidates": [
+        "L03.90"
+      ],
+      "after_candidates": [
+        "L03.9"
+      ]
+    },
+    {
+      "record_id": "15",
+      "text": "Viêm mô tế bào",
+      "position": [
+        2364,
+        2378
+      ],
+      "before_candidates": [
+        "L03.90"
+      ],
+      "after_candidates": [
+        "L03.9"
+      ]
+    },
+    {
+      "record_id": "17",
+      "text": "Viêm quanh răng",
+      "position": [
+        613,
+        628
+      ],
+      "before_candidates": [
+        "K05.30"
+      ],
+      "after_candidates": [
+        "K05.3"
+      ]
+    },
+    {
+      "record_id": "17",
+      "text": "Viêm nha chu",
+      "position": [
+        712,
+        724
+      ],
+      "before_candidates": [
+        "K05.30"
+      ],
+      "after_candidates": [
+        "K05.3"
+      ]
+    },
+    {
+      "record_id": "17",
+      "text": "Viêm nha chu",
+      "position": [
+        856,
+        868
+      ],
+      "before_candidates": [
+        "K05.30"
+      ],
+      "after_candidates": [
+        "K05.3"
+      ]
+    },
+    {
+      "record_id": "17",
+      "text": "viêm nha chu",
+      "position": [
+        1083,
+        1095
+      ],
+      "before_candidates": [
+        "K05.30"
+      ],
+      "after_candidates": [
+        "K05.3"
+      ]
+    },
+    {
+      "record_id": "17",
+      "text": "Ngưng thở khi ngủ do tắc nghẽn",
+      "position": [
+        1916,
+        1946
+      ],
+      "before_candidates": [
+        "G47.33"
+      ],
+      "after_candidates": [
+        "G47.3"
+      ]
+    },
+    {
+      "record_id": "18",
+      "text": "bệnh mạch vành",
+      "position": [
+        791,
+        805
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "18",
+      "text": "sỏi ống mật",
+      "position": [
+        2365,
+        2376
+      ],
+      "before_candidates": [
+        "K80.50"
+      ],
+      "after_candidates": [
+        "K80.5"
+      ]
+    },
+    {
+      "record_id": "21",
+      "text": "viêm dạ dày",
+      "position": [
+        2159,
+        2170
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "21",
+      "text": "sỏi đoạn cuối ống mật chủ",
+      "position": [
+        2271,
+        2296
+      ],
+      "before_candidates": [
+        "K80.50"
+      ],
+      "after_candidates": [
+        "K80.5"
+      ]
+    },
+    {
+      "record_id": "23",
+      "text": "phù gai thị",
+      "position": [
+        1536,
+        1547
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "23",
+      "text": "phù gai thị",
+      "position": [
+        2126,
+        2137
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "23",
+      "text": "Phù gai thị",
+      "position": [
+        2216,
+        2227
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "23",
+      "text": "Phù gai thị",
+      "position": [
+        2422,
+        2433
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "26",
+      "text": "BỆNH MẠCH VÀNH",
+      "position": [
+        1,
+        15
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "26",
+      "text": "Bệnh mạch vành",
+      "position": [
+        52,
+        66
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "26",
+      "text": "Bệnh mạch vành",
+      "position": [
+        76,
+        90
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "26",
+      "text": "Xơ vữa động mạch vành",
+      "position": [
+        399,
+        420
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "26",
+      "text": "rung nhĩ",
+      "position": [
+        1561,
+        1569
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "26",
+      "text": "rung nhĩ",
+      "position": [
+        1826,
+        1834
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "27",
+      "text": "phù gai thị",
+      "position": [
+        1909,
+        1920
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "27",
+      "text": "Phù gai thị",
+      "position": [
+        1999,
+        2010
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "29",
+      "text": "Bệnh bạch cầu dòng tủy mãn tính",
+      "position": [
+        46,
+        77
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "29",
+      "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+      "position": [
+        122,
+        153
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "29",
+      "text": "thuyên tắc phổi",
+      "position": [
+        1226,
+        1241
+      ],
+      "before_candidates": [
+        "I26.99"
+      ],
+      "after_candidates": [
+        "I26.9"
+      ]
+    },
+    {
+      "record_id": "29",
+      "text": "thuyên tắc phổi",
+      "position": [
+        2218,
+        2233
+      ],
+      "before_candidates": [
+        "I26.99"
+      ],
+      "after_candidates": [
+        "I26.9"
+      ]
+    },
+    {
+      "record_id": "31",
+      "text": "viêm dạ dày",
+      "position": [
+        1512,
+        1523
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "31",
+      "text": "sỏi đoạn cuối ống mật chủ",
+      "position": [
+        1624,
+        1649
+      ],
+      "before_candidates": [
+        "K80.50"
+      ],
+      "after_candidates": [
+        "K80.5"
+      ]
+    },
+    {
+      "record_id": "31",
+      "text": "viêm dạ dày",
+      "position": [
+        1919,
+        1930
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "31",
+      "text": "sỏi đoạn cuối ống mật chủ",
+      "position": [
+        1956,
+        1981
+      ],
+      "before_candidates": [
+        "K80.50"
+      ],
+      "after_candidates": [
+        "K80.5"
+      ]
+    },
+    {
+      "record_id": "31",
+      "text": "sỏi ống dẫn mật chung đoạn cuối",
+      "position": [
+        2193,
+        2224
+      ],
+      "before_candidates": [
+        "K80.50"
+      ],
+      "after_candidates": [
+        "K80.5"
+      ]
+    },
+    {
+      "record_id": "32",
+      "text": "Bệnh bạch cầu dòng tủy mãn tính",
+      "position": [
+        765,
+        796
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "32",
+      "text": "tăng sản tuyến tiền liệt",
+      "position": [
+        987,
+        1011
+      ],
+      "before_candidates": [
+        "N40.0"
+      ],
+      "after_candidates": [
+        "N40"
+      ]
+    },
+    {
+      "record_id": "33",
+      "text": "rung nhĩ",
+      "position": [
+        39,
+        47
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "position": [
+        65,
+        78
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "Bệnh lý đau nửa đầu",
+      "position": [
+        336,
+        355
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "bệnh đau nửa đầu Migraine",
+      "position": [
+        371,
+        396
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "position": [
+        438,
+        449
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "position": [
+        544,
+        555
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "position": [
+        839,
+        850
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "position": [
+        876,
+        887
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "position": [
+        1042,
+        1053
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "34",
+      "text": "đau nửa đầu",
+      "position": [
+        1360,
+        1371
+      ],
+      "before_candidates": [
+        "G43.909"
+      ],
+      "after_candidates": [
+        "G43.9"
+      ]
+    },
+    {
+      "record_id": "35",
+      "text": "Viêm hang vị sung huyết",
+      "position": [
+        743,
+        766
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "35",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        1133,
+        1163
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "35",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        1613,
+        1643
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "37",
+      "text": "Viêm mô tế bào",
+      "position": [
+        1256,
+        1270
+      ],
+      "before_candidates": [
+        "L03.90"
+      ],
+      "after_candidates": [
+        "L03.9"
+      ]
+    },
+    {
+      "record_id": "38",
+      "text": "Bệnh bạch cầu dòng tủy mãn tính",
+      "position": [
+        57,
+        88
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "38",
+      "text": "tăng sản tuyến tiền liệt",
+      "position": [
+        279,
+        303
+      ],
+      "before_candidates": [
+        "N40.0"
+      ],
+      "after_candidates": [
+        "N40"
+      ]
+    },
+    {
+      "record_id": "38",
+      "text": "cml",
+      "position": [
+        1968,
+        1971
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "39",
+      "text": "xơ gan do rượu",
+      "position": [
+        137,
+        151
+      ],
+      "before_candidates": [
+        "K70.30"
+      ],
+      "after_candidates": [
+        "K70.3"
+      ]
+    },
+    {
+      "record_id": "39",
+      "text": "xơ gan do rượu",
+      "position": [
+        337,
+        351
+      ],
+      "before_candidates": [
+        "K70.30"
+      ],
+      "after_candidates": [
+        "K70.3"
+      ]
+    },
+    {
+      "record_id": "39",
+      "text": "rung nhĩ",
+      "position": [
+        580,
+        588
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "39",
+      "text": "Rung nhĩ",
+      "position": [
+        1954,
+        1962
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "42",
+      "text": "ngưng thở khi ngủ do tắc nghẽn",
+      "position": [
+        109,
+        139
+      ],
+      "before_candidates": [
+        "G47.33"
+      ],
+      "after_candidates": [
+        "G47.3"
+      ]
+    },
+    {
+      "record_id": "43",
+      "text": "Bệnh bạch cầu dòng tủy mãn tính",
+      "position": [
+        57,
+        88
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "45",
+      "text": "phù gai thị",
+      "position": [
+        353,
+        364
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "45",
+      "text": "phù gai thị",
+      "position": [
+        1192,
+        1203
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "45",
+      "text": "Phù gai thị",
+      "position": [
+        1863,
+        1874
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "47",
+      "text": "xơ gan do rượu",
+      "position": [
+        137,
+        151
+      ],
+      "before_candidates": [
+        "K70.30"
+      ],
+      "after_candidates": [
+        "K70.3"
+      ]
+    },
+    {
+      "record_id": "47",
+      "text": "xơ gan do rượu",
+      "position": [
+        337,
+        351
+      ],
+      "before_candidates": [
+        "K70.30"
+      ],
+      "after_candidates": [
+        "K70.3"
+      ]
+    },
+    {
+      "record_id": "47",
+      "text": "rung nhĩ",
+      "position": [
+        580,
+        588
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "47",
+      "text": "Rung nhĩ",
+      "position": [
+        1864,
+        1872
+      ],
+      "before_candidates": [
+        "I48.91"
+      ],
+      "after_candidates": [
+        "I48.9"
+      ]
+    },
+    {
+      "record_id": "50",
+      "text": "phù gai thị",
+      "position": [
+        353,
+        364
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "50",
+      "text": "phù gai thị",
+      "position": [
+        1192,
+        1203
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "50",
+      "text": "Phù gai thị",
+      "position": [
+        1797,
+        1808
+      ],
+      "before_candidates": [
+        "H47.10"
+      ],
+      "after_candidates": [
+        "H47.1"
+      ]
+    },
+    {
+      "record_id": "54",
+      "text": "Bệnh bạch cầu dòng tủy mãn tính",
+      "position": [
+        301,
+        332
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "54",
+      "text": "tăng sản tuyến tiền liệt",
+      "position": [
+        523,
+        547
+      ],
+      "before_candidates": [
+        "N40.0"
+      ],
+      "after_candidates": [
+        "N40"
+      ]
+    },
+    {
+      "record_id": "56",
+      "text": "bệnh ba thân động mạch vành nghiêm trọng",
+      "position": [
+        284,
+        324
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "56",
+      "text": "Viêm hang vị sung huyết",
+      "position": [
+        411,
+        434
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "56",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        801,
+        831
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "56",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        1281,
+        1311
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "63",
+      "text": "Bệnh bạch cầu dòng tủy mãn tính",
+      "position": [
+        57,
+        88
+      ],
+      "before_candidates": [
+        "C92.10"
+      ],
+      "after_candidates": [
+        "C92.1"
+      ]
+    },
+    {
+      "record_id": "64",
+      "text": "bệnh động mạch vành",
+      "position": [
+        62,
+        81
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "64",
+      "text": "bệnh mạch vành",
+      "position": [
+        969,
+        983
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "position": [
+        93,
+        106
+      ],
+      "before_candidates": [
+        "D24.9"
+      ],
+      "after_candidates": [
+        "D24"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u nang tuyến vú",
+      "position": [
+        111,
+        126
+      ],
+      "before_candidates": [
+        "N60.09"
+      ],
+      "after_candidates": [
+        "N60.0"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u nang tuyến vú",
+      "position": [
+        1022,
+        1037
+      ],
+      "before_candidates": [
+        "N60.09"
+      ],
+      "after_candidates": [
+        "N60.0"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "position": [
+        1039,
+        1052
+      ],
+      "before_candidates": [
+        "D24.9"
+      ],
+      "after_candidates": [
+        "D24"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u nang tuyến vú",
+      "position": [
+        1151,
+        1166
+      ],
+      "before_candidates": [
+        "N60.09"
+      ],
+      "after_candidates": [
+        "N60.0"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "position": [
+        1168,
+        1181
+      ],
+      "before_candidates": [
+        "D24.9"
+      ],
+      "after_candidates": [
+        "D24"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "position": [
+        1269,
+        1282
+      ],
+      "before_candidates": [
+        "D24.9"
+      ],
+      "after_candidates": [
+        "D24"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u nang tuyến vú",
+      "position": [
+        1284,
+        1299
+      ],
+      "before_candidates": [
+        "N60.09"
+      ],
+      "after_candidates": [
+        "N60.0"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u xơ tuyến vú",
+      "position": [
+        1531,
+        1544
+      ],
+      "before_candidates": [
+        "D24.9"
+      ],
+      "after_candidates": [
+        "D24"
+      ]
+    },
+    {
+      "record_id": "66",
+      "text": "u nang tuyến vú",
+      "position": [
+        1546,
+        1561
+      ],
+      "before_candidates": [
+        "N60.09"
+      ],
+      "after_candidates": [
+        "N60.0"
+      ]
+    },
+    {
+      "record_id": "67",
+      "text": "Ngưng thở khi ngủ do tắc nghẽn",
+      "position": [
+        110,
+        140
+      ],
+      "before_candidates": [
+        "G47.33"
+      ],
+      "after_candidates": [
+        "G47.3"
+      ]
+    },
+    {
+      "record_id": "67",
+      "text": "Viêm hang vị sung huyết",
+      "position": [
+        336,
+        359
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "67",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        726,
+        756
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "67",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        1206,
+        1236
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "68",
+      "text": "bệnh động mạch vành",
+      "position": [
+        34,
+        53
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "68",
+      "text": "bệnh ba thân động mạch vành nghiêm trọng",
+      "position": [
+        650,
+        690
+      ],
+      "before_candidates": [
+        "I25.10"
+      ],
+      "after_candidates": [
+        "I25.1"
+      ]
+    },
+    {
+      "record_id": "69",
+      "text": "thuyên tắc phổi hai bên",
+      "position": [
+        768,
+        791
+      ],
+      "before_candidates": [
+        "I26.99"
+      ],
+      "after_candidates": [
+        "I26.9"
+      ]
+    },
+    {
+      "record_id": "71",
+      "text": "thuyên tắc phổi hai bên",
+      "position": [
+        319,
+        342
+      ],
+      "before_candidates": [
+        "I26.99"
+      ],
+      "after_candidates": [
+        "I26.9"
+      ]
+    },
+    {
+      "record_id": "81",
+      "text": "hội chứng tăng đông",
+      "position": [
+        140,
+        160
+      ],
+      "before_candidates": [
+        "D68.59"
+      ],
+      "after_candidates": [
+        "D68.5"
+      ]
+    },
+    {
+      "record_id": "81",
+      "text": "thrombophilia",
+      "position": [
+        208,
+        221
+      ],
+      "before_candidates": [
+        "D68.59"
+      ],
+      "after_candidates": [
+        "D68.5"
+      ]
+    },
+    {
+      "record_id": "81",
+      "text": "thrombophilia",
+      "position": [
+        364,
+        377
+      ],
+      "before_candidates": [
+        "D68.59"
+      ],
+      "after_candidates": [
+        "D68.5"
+      ]
+    },
+    {
+      "record_id": "81",
+      "text": "Thrombophilia",
+      "position": [
+        784,
+        797
+      ],
+      "before_candidates": [
+        "D68.59"
+      ],
+      "after_candidates": [
+        "D68.5"
+      ]
+    },
+    {
+      "record_id": "81",
+      "text": "bệnh tăng đông máu",
+      "position": [
+        876,
+        894
+      ],
+      "before_candidates": [
+        "D68.59"
+      ],
+      "after_candidates": [
+        "D68.5"
+      ]
+    },
+    {
+      "record_id": "81",
+      "text": "tiền sản giật",
+      "position": [
+        998,
+        1011
+      ],
+      "before_candidates": [
+        "O14.90"
+      ],
+      "after_candidates": [
+        "O14.9"
+      ]
+    },
+    {
+      "record_id": "82",
+      "text": "viêm dạ dày",
+      "position": [
+        1196,
+        1207
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "82",
+      "text": "sỏi đoạn cuối ống mật chủ",
+      "position": [
+        1233,
+        1258
+      ],
+      "before_candidates": [
+        "K80.50"
+      ],
+      "after_candidates": [
+        "K80.5"
+      ]
+    },
+    {
+      "record_id": "82",
+      "text": "sỏi ống dẫn mật chung đoạn cuối",
+      "position": [
+        1470,
+        1501
+      ],
+      "before_candidates": [
+        "K80.50"
+      ],
+      "after_candidates": [
+        "K80.5"
+      ]
+    },
+    {
+      "record_id": "86",
+      "text": "Viêm hang vị sung huyết",
+      "position": [
+        132,
+        155
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "86",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        522,
+        552
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "86",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        1002,
+        1032
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "91",
+      "text": "Thuyên tắc phổi",
+      "position": [
+        178,
+        193
+      ],
+      "before_candidates": [
+        "I26.99"
+      ],
+      "after_candidates": [
+        "I26.9"
+      ]
+    },
+    {
+      "record_id": "91",
+      "text": "Thuyên tắc phổi",
+      "position": [
+        222,
+        237
+      ],
+      "before_candidates": [
+        "I26.99"
+      ],
+      "after_candidates": [
+        "I26.9"
+      ]
+    },
+    {
+      "record_id": "94",
+      "text": "Viêm hang vị sung huyết",
+      "position": [
+        43,
+        66
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "94",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        433,
+        463
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "94",
+      "text": "viêm sung huyết hang vị dạ dày",
+      "position": [
+        913,
+        943
+      ],
+      "before_candidates": [
+        "K29.70"
+      ],
+      "after_candidates": [
+        "K29.7"
+      ]
+    },
+    {
+      "record_id": "95",
+      "text": "ngưng thở khi ngủ do tắc nghẽn",
+      "position": [
+        1220,
+        1250
+      ],
+      "before_candidates": [
+        "G47.33"
+      ],
+      "after_candidates": [
+        "G47.3"
+      ]
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "position": [
+        157,
+        173
+      ],
+      "before_candidates": [
+        "O14.90"
+      ],
+      "after_candidates": [
+        "O14.9"
+      ]
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "position": [
+        584,
+        597
+      ],
+      "before_candidates": [
+        "O14.90"
+      ],
+      "after_candidates": [
+        "O14.9"
+      ]
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "position": [
+        616,
+        629
+      ],
+      "before_candidates": [
+        "O14.90"
+      ],
+      "after_candidates": [
+        "O14.9"
+      ]
+    },
+    {
+      "record_id": "100",
+      "text": "tiền sản giật",
+      "position": [
+        664,
+        677
+      ],
+      "before_candidates": [
+        "O14.90"
+      ],
+      "after_candidates": [
+        "O14.9"
+      ]
+    }
+  ],
+  "leaderboard_decision_rule": {
+    "wer": "must equal V30 55.4442",
+    "keep_family_scope_if": "J_assertion > 51.3029",
+    "keep_icd_anchor_if": "J_candidates > 26.9477",
+    "final_submission": "retain only winning subsystems; expand Vietnam ICD mapping only if its isolated candidate metric improves"
+  },
+  "sha256": "8f3915e2dff518e7547f99653129a88c2ea5e73e7e35ff265d77320d608562e4",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v34_v30-vietnam-clinical-orthogonal-probe.zip"
+}

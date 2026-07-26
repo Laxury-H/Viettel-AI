@@ -1,0 +1,55 @@
+{
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "candidate": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v50_v45-vietnam-stroke-synonym-ablation.zip",
+  "records": 100,
+  "entity_candidate_changes": 2,
+  "record_candidate_set_changes": 1,
+  "record_candidate_codes_removed": 1,
+  "record_candidate_codes_added": 1,
+  "entity_changes": [
+    {
+      "record_id": "3",
+      "text": "tai biến mạch máu não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1815,
+        1836
+      ],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ]
+    },
+    {
+      "record_id": "3",
+      "text": "tai biến mạch máu não",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        2099,
+        2120
+      ],
+      "before": [
+        "I63.9"
+      ],
+      "after": [
+        "I64"
+      ]
+    }
+  ],
+  "record_set_changes": [
+    {
+      "record_id": "3",
+      "type": "CHẨN_ĐOÁN",
+      "before_size": 4,
+      "after_size": 4,
+      "removed": [
+        "I63.9"
+      ],
+      "added": [
+        "I64"
+      ]
+    }
+  ]
+}

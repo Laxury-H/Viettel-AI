@@ -1,0 +1,575 @@
+{
+  "version": "D2-V30-v29-evidence-fusion",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v29_v28-high-evidence-recall.zip",
+  "records": 100,
+  "entities": 2689,
+  "changed_records": 23,
+  "accepted_boundary_expansions": 15,
+  "selected_symptom_additions": 11,
+  "safe_diagnosis_additions": 3,
+  "top1_candidate_changes": 5,
+  "boundary_changes": [
+    {
+      "record_id": "6",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          711,
+          718
+        ]
+      },
+      "after": {
+        "text": "đau đầu kéo dài",
+        "position": [
+          711,
+          726
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "11",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          711,
+          718
+        ]
+      },
+      "after": {
+        "text": "đau đầu kéo dài",
+        "position": [
+          711,
+          726
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "18",
+      "before": {
+        "text": "đau",
+        "position": [
+          1141,
+          1144
+        ]
+      },
+      "after": {
+        "text": "đau hạ sườn phải",
+        "position": [
+          1141,
+          1157
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "18",
+      "before": {
+        "text": "đau",
+        "position": [
+          1356,
+          1359
+        ]
+      },
+      "after": {
+        "text": "đau hạ sườn phải",
+        "position": [
+          1356,
+          1372
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "18",
+      "before": {
+        "text": "đau",
+        "position": [
+          1408,
+          1411
+        ]
+      },
+      "after": {
+        "text": "đau hạ sườn phải",
+        "position": [
+          1408,
+          1424
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "20",
+      "before": {
+        "text": "Đau bụng",
+        "position": [
+          1082,
+          1090
+        ]
+      },
+      "after": {
+        "text": "Đau bụng hạ sườn phải",
+        "position": [
+          1082,
+          1103
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "23",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          1755,
+          1762
+        ]
+      },
+      "after": {
+        "text": "đau đầu kéo dài",
+        "position": [
+          1755,
+          1770
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "25",
+      "before": {
+        "text": "sưng",
+        "position": [
+          1829,
+          1833
+        ]
+      },
+      "after": {
+        "text": "sưng nề",
+        "position": [
+          1829,
+          1836
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "26",
+      "before": {
+        "text": "đau",
+        "position": [
+          2043,
+          2046
+        ]
+      },
+      "after": {
+        "text": "đau hạ sườn phải",
+        "position": [
+          2043,
+          2059
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "27",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          1538,
+          1545
+        ]
+      },
+      "after": {
+        "text": "đau đầu kéo dài",
+        "position": [
+          1538,
+          1553
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "31",
+      "before": {
+        "text": "đau",
+        "position": [
+          1064,
+          1067
+        ]
+      },
+      "after": {
+        "text": "đau lưng",
+        "position": [
+          1064,
+          1072
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "31",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          1117,
+          1125
+        ]
+      },
+      "after": {
+        "text": "đau bụng hạ sườn phải",
+        "position": [
+          1117,
+          1138
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "33",
+      "before": {
+        "text": "Nôn",
+        "position": [
+          1373,
+          1376
+        ]
+      },
+      "after": {
+        "text": "Nôn mửa",
+        "position": [
+          1373,
+          1380
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "33",
+      "before": {
+        "text": "ngất",
+        "position": [
+          1427,
+          1431
+        ]
+      },
+      "after": {
+        "text": "ngất xỉu",
+        "position": [
+          1427,
+          1435
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "82",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          871,
+          879
+        ]
+      },
+      "after": {
+        "text": "đau bụng vùng hạ sườn phải",
+        "position": [
+          871,
+          897
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    }
+  ],
+  "symptom_changes": [
+    {
+      "record_id": "3",
+      "text": "run rấy",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        576,
+        583
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "5",
+      "text": "dịch rò rỉ",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1203,
+        1213
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "5",
+      "text": "dịch rò rỉ",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2400,
+        2410
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "8",
+      "text": "rối loạn thị giác",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        886,
+        903
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "8"
+      ]
+    },
+    {
+      "record_id": "10",
+      "text": "Căng thẳng",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        226,
+        236
+      ],
+      "assertions": [
+        "isHistorical"
+      ],
+      "source_record_ids": [
+        "34"
+      ]
+    },
+    {
+      "record_id": "10",
+      "text": "khó chịu vùng ngực",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1301,
+        1319
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "24",
+      "text": "khó chịu vùng ngực",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1970,
+        1988
+      ],
+      "assertions": [
+        "isNegated"
+      ],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "31",
+      "text": "nóng phần tinh hoàn",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        359,
+        378
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "34",
+      "text": "thị giác bị nhòe",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        591,
+        607
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "47",
+      "text": "dịch rỉ huyết thanh",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        1135,
+        1154
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    },
+    {
+      "record_id": "66",
+      "text": "khả năng trí óc giảm",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        889,
+        909
+      ],
+      "assertions": [],
+      "source_record_ids": []
+    }
+  ],
+  "diagnosis_changes": [
+    {
+      "record_id": "3",
+      "text": "tai biến mạch máu não",
+      "position": [
+        1815,
+        1836
+      ],
+      "type": "CHẨN_ĐOÁN",
+      "assertions": [],
+      "candidates": [
+        "I63.9"
+      ]
+    },
+    {
+      "record_id": "58",
+      "text": "tăng HA",
+      "position": [
+        670,
+        677
+      ],
+      "type": "CHẨN_ĐOÁN",
+      "assertions": [
+        "isHistorical"
+      ],
+      "candidates": [
+        "I10"
+      ]
+    },
+    {
+      "record_id": "58",
+      "text": "Tăng HA",
+      "position": [
+        847,
+        854
+      ],
+      "type": "CHẨN_ĐOÁN",
+      "assertions": [],
+      "candidates": [
+        "I10"
+      ]
+    }
+  ],
+  "candidate_changes": [
+    {
+      "record_id": "1",
+      "text": "thiếu máu do tan huyết",
+      "position": [
+        1758,
+        1780
+      ],
+      "before_candidates": [
+        "D59.9",
+        "D55.0"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu máu tan huyết",
+      "position": [
+        2464,
+        2483
+      ],
+      "before_candidates": [
+        "D59.9",
+        "D55.0"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "1",
+      "text": "thiếu máu tan huyết",
+      "position": [
+        2696,
+        2715
+      ],
+      "before_candidates": [
+        "D59.9",
+        "D55.0"
+      ],
+      "after_candidates": [
+        "D55.0"
+      ]
+    },
+    {
+      "record_id": "7",
+      "text": "trào ngược dạ dày thực quản",
+      "position": [
+        2358,
+        2385
+      ],
+      "before_candidates": [
+        "K21.0",
+        "K21.9"
+      ],
+      "after_candidates": [
+        "K21.9"
+      ]
+    },
+    {
+      "record_id": "9",
+      "text": "trào ngược dạ dày thực quản",
+      "position": [
+        2358,
+        2385
+      ],
+      "before_candidates": [
+        "K21.0",
+        "K21.9"
+      ],
+      "after_candidates": [
+        "K21.9"
+      ]
+    }
+  ],
+  "score_expectation": {
+    "confirmed_control": 39.483,
+    "target_range": [
+      39.55,
+      39.63
+    ],
+    "status": "confirmed_below_target"
+  },
+  "leaderboard_result": {
+    "submitted_at": "2026-07-25T15:16:00+07:00",
+    "score": 39.5367,
+    "WER": 55.4442,
+    "num_scored": 100,
+    "J_assertion": 51.3029,
+    "num_records": 100,
+    "J_candidates": 26.9477,
+    "decision": "promote"
+  },
+  "sha256": "27dc46733f0c508ede47686475213608af189c266a4254a6fcdf61e3bc1ef61d",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v30_v29-evidence-fusion.zip"
+}

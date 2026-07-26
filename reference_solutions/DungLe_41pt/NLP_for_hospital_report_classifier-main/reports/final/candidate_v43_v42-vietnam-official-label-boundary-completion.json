@@ -1,0 +1,91 @@
+{
+  "version": "D2-V43-v42-vietnam-official-label-boundary-completion",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v42_v37-vietnam-hospital-exact-label-batch.zip",
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 3,
+  "type_changes": 0,
+  "assertion_changes": 0,
+  "candidate_changes": 1,
+  "changes": [
+    {
+      "record_id": "26",
+      "type": "CHẨN_ĐOÁN",
+      "before": {
+        "text": "rối loạn cảm xúc lưỡng cực",
+        "position": [
+          1643,
+          1669
+        ],
+        "candidates": [
+          "F31.9"
+        ]
+      },
+      "after": {
+        "text": "rối loạn cảm xúc lưỡng cực khác",
+        "position": [
+          1643,
+          1674
+        ],
+        "candidates": [
+          "F31.8"
+        ]
+      },
+      "reason": "complete_exact_official_icd_label"
+    },
+    {
+      "record_id": "39",
+      "type": "CHẨN_ĐOÁN",
+      "before": {
+        "text": "bệnh phổi tắc nghẽn mạn tính",
+        "position": [
+          73,
+          101
+        ],
+        "candidates": [
+          "J44.9"
+        ]
+      },
+      "after": {
+        "text": "bệnh phổi tắc nghẽn mạn tính, không xác định",
+        "position": [
+          73,
+          117
+        ],
+        "candidates": [
+          "J44.9"
+        ]
+      },
+      "reason": "complete_exact_official_icd_label"
+    },
+    {
+      "record_id": "47",
+      "type": "CHẨN_ĐOÁN",
+      "before": {
+        "text": "bệnh phổi tắc nghẽn mạn tính",
+        "position": [
+          73,
+          101
+        ],
+        "candidates": [
+          "J44.9"
+        ]
+      },
+      "after": {
+        "text": "bệnh phổi tắc nghẽn mạn tính, không xác định",
+        "position": [
+          73,
+          117
+        ],
+        "candidates": [
+          "J44.9"
+        ]
+      },
+      "reason": "complete_exact_official_icd_label"
+    }
+  ],
+  "decision": "hold_until_v42_score",
+  "sha256": "fb6b366d75a5ab82b009c1ec437eda544e648c4e6ba6dfa4dafa014902ab93fc",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v43_v42-vietnam-official-label-boundary-completion.zip"
+}

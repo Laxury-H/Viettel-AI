@@ -1,0 +1,38 @@
+[
+  {
+    "text": "MÀY đay VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      170,
+      184
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "MÀY đay MẠN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      268,
+      279
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.8"
+    ]
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      739,
+      761
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  }
+]

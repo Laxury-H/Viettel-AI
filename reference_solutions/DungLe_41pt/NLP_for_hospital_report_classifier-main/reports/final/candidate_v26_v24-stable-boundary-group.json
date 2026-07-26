@@ -1,0 +1,117 @@
+{
+  "version": "D2-V26-v24-stable-boundary-group",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v24_xlmr-additive-85-pruned.zip",
+  "reference_base": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v17_boundary-985-single.zip",
+  "reference_candidate": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v17_boundary-98-single-stable.zip",
+  "records": 100,
+  "entities": 2658,
+  "changed_records": 5,
+  "boundary_expansions": 5,
+  "changes": [
+    {
+      "record_id": "7",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          1030,
+          1038
+        ]
+      },
+      "after": {
+        "text": "đau bụng râm ran",
+        "position": [
+          1030,
+          1046
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "9",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          1030,
+          1038
+        ]
+      },
+      "after": {
+        "text": "đau bụng râm ran",
+        "position": [
+          1030,
+          1046
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "26",
+      "before": {
+        "text": "Đau",
+        "position": [
+          1375,
+          1378
+        ]
+      },
+      "after": {
+        "text": "Đau thượng vị",
+        "position": [
+          1375,
+          1388
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "71",
+      "before": {
+        "text": "nổi mẩn đỏ ngứa",
+        "position": [
+          1171,
+          1186
+        ]
+      },
+      "after": {
+        "text": "nổi mẩn đỏ ngứa ở lưng",
+        "position": [
+          1171,
+          1193
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "95",
+      "before": {
+        "text": "đau",
+        "position": [
+          1086,
+          1089
+        ]
+      },
+      "after": {
+        "text": "đau các khớp",
+        "position": [
+          1086,
+          1098
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    }
+  ],
+  "score_projection": {
+    "control": 39.3762,
+    "score": 39.3803,
+    "WER": 55.6927,
+    "J_assertion": 51.0299,
+    "J_candidates": 26.9477,
+    "status": "unscored_causal_projection"
+  },
+  "sha256": "3d9ab8f105d83a0c3b5490aaf1c57a192748192d8ba2fa01e49b329a91a02644",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v26_v24-stable-boundary-group.zip"
+}

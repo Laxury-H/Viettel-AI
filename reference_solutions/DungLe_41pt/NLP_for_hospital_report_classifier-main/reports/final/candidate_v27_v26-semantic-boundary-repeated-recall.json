@@ -1,0 +1,246 @@
+{
+  "version": "D2-V27-v26-semantic-boundary-repeated-recall",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v26_v24-stable-boundary-group.zip",
+  "records": 100,
+  "entities": 2659,
+  "changed_records": 10,
+  "semantic_boundary_expansions": 11,
+  "repeated_line_additions": 1,
+  "boundary_changes": [
+    {
+      "record_id": "17",
+      "before": {
+        "text": "sưng",
+        "position": [
+          809,
+          813
+        ]
+      },
+      "after": {
+        "text": "sưng nướu",
+        "position": [
+          809,
+          818
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "18",
+      "before": {
+        "text": "đau",
+        "position": [
+          1308,
+          1311
+        ]
+      },
+      "after": {
+        "text": "đau hạ sườn phải",
+        "position": [
+          1308,
+          1324
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "21",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          1605,
+          1613
+        ]
+      },
+      "after": {
+        "text": "đau bụng vùng hạ sườn phải",
+        "position": [
+          1605,
+          1631
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "21",
+      "before": {
+        "text": "đau",
+        "position": [
+          1711,
+          1714
+        ]
+      },
+      "after": {
+        "text": "đau lưng",
+        "position": [
+          1711,
+          1719
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "21",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          1764,
+          1772
+        ]
+      },
+      "after": {
+        "text": "đau bụng hạ sườn phải",
+        "position": [
+          1764,
+          1785
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "23",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          1047,
+          1054
+        ]
+      },
+      "after": {
+        "text": "đau đầu kéo dài",
+        "position": [
+          1047,
+          1062
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "25",
+      "before": {
+        "text": "sưng",
+        "position": [
+          1649,
+          1653
+        ]
+      },
+      "after": {
+        "text": "sưng nề",
+        "position": [
+          1649,
+          1656
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "31",
+      "before": {
+        "text": "đau bụng",
+        "position": [
+          958,
+          966
+        ]
+      },
+      "after": {
+        "text": "đau bụng vùng hạ sườn phải",
+        "position": [
+          958,
+          984
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "33",
+      "before": {
+        "text": "ngất",
+        "position": [
+          772,
+          776
+        ]
+      },
+      "after": {
+        "text": "ngất xỉu",
+        "position": [
+          772,
+          780
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "45",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          703,
+          710
+        ]
+      },
+      "after": {
+        "text": "đau đầu kéo dài",
+        "position": [
+          703,
+          718
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    },
+    {
+      "record_id": "50",
+      "before": {
+        "text": "đau đầu",
+        "position": [
+          703,
+          710
+        ]
+      },
+      "after": {
+        "text": "đau đầu kéo dài",
+        "position": [
+          703,
+          718
+        ]
+      },
+      "type": "TRIỆU_CHỨNG",
+      "assertions": []
+    }
+  ],
+  "addition_changes": [
+    {
+      "record_id": "6",
+      "text": "ngửa đầu ra sau",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        2458,
+        2473
+      ],
+      "assertions": [],
+      "source_record_ids": [
+        "11"
+      ]
+    }
+  ],
+  "score_expectation": {
+    "confirmed_control": 39.3762,
+    "v26_projected_component": 0.0041,
+    "target_range": [
+      39.386,
+      39.4
+    ],
+    "status": "unscored_score_aware_batch"
+  },
+  "sha256": "04d8ed4f2a8f3e4cc8b5da47275f1c5693afdcfbcdc85b8fa44a21c130ef571a",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v27_v26-semantic-boundary-repeated-recall.zip"
+}

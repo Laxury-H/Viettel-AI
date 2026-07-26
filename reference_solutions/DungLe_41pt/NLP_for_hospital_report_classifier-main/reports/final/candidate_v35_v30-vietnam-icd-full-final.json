@@ -1,0 +1,20 @@
+{
+  "version": "D2-V35-v30-final-family-keep-icd-full",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v30_v29-evidence-fusion.zip",
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "family_scope_mode": "keep",
+  "family_scope_removals": 18,
+  "icd_mode": "full",
+  "icd_mapping_size": 62,
+  "candidate_changes": 227,
+  "excluded_ambiguous_codes": [
+    "B19.1",
+    "B19.2"
+  ],
+  "sha256": "a49ef79d427915d2c3679a96fdcddc8e1454c67e0e44d1562d9e72fbf35777c6",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v35_v30-vietnam-icd-full-final.zip"
+}

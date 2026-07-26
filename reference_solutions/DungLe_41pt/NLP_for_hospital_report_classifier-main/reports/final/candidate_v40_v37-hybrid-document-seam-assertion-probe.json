@@ -1,0 +1,118 @@
+{
+  "version": "D2-V40-v37-hybrid-document-seam-assertion-probe",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/output.zip",
+  "confirmed_control_score": 41.8315,
+  "records": 100,
+  "entities": 2689,
+  "entity_changes": 0,
+  "span_changes": 0,
+  "type_changes": 0,
+  "candidate_changes": 0,
+  "assertion_changes": 6,
+  "reason_counts": {
+    "current_question": 2,
+    "generic_education": 2,
+    "generic_advice": 2
+  },
+  "changes": [
+    {
+      "record_id": "3",
+      "text": "run tay",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        35,
+        42
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "current_question"
+    },
+    {
+      "record_id": "3",
+      "text": "run tay",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        79,
+        86
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "current_question"
+    },
+    {
+      "record_id": "23",
+      "text": "đổ mồ hôi đêm",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        247,
+        260
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_education"
+    },
+    {
+      "record_id": "23",
+      "text": "Mất ngủ",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        303,
+        310
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_education"
+    },
+    {
+      "record_id": "23",
+      "text": "rối loạn lo âu",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        438,
+        452
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_advice"
+    },
+    {
+      "record_id": "23",
+      "text": "trầm cảm",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        453,
+        461
+      ],
+      "before": [
+        "isHistorical"
+      ],
+      "after": [],
+      "reason": "generic_advice"
+    }
+  ],
+  "leaderboard_decision_rule": {
+    "wer": "must equal V37 55.4442",
+    "j_candidates": "must equal V37 32.5967",
+    "promote_if": "J_assertion > 51.4203 and total score > 41.8315"
+  },
+  "leaderboard": {
+    "score": 41.8315,
+    "wer": 55.4442,
+    "j_assertion": 51.4203,
+    "j_candidates": 32.5967,
+    "submitted_at": "2026-07-26T00:17:00+07:00"
+  },
+  "decision": "reject_neutral",
+  "sha256": "f970f1c913464b58f997747bfb51da3324dd496ec33394be3b68c75ba49e53b5",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v40_v37-hybrid-document-seam-assertion-probe.zip"
+}

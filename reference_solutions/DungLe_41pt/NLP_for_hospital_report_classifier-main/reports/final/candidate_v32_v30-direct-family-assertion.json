@@ -1,0 +1,150 @@
+{
+  "version": "D2-V32-v30-direct-family-assertion",
+  "control": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v30_v29-evidence-fusion.zip",
+  "records": 100,
+  "entities": 2689,
+  "changed_records": 6,
+  "assertion_repairs": 8,
+  "span_changes": 0,
+  "candidate_changes": 0,
+  "changes": [
+    {
+      "record_id": "11",
+      "text": "bệnh bàn chân bẹt",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1898,
+        1915
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "đầu tỉnh táo trở lại và hồi phục hoàn toàn về trạng thái ban đầu. Theo như mô tả của Bạn cháu bé bị bệnh bàn chân bẹt, đây là tật bẩm sinh không ảnh hưởng nh"
+    },
+    {
+      "record_id": "12",
+      "text": "dị tật thiểu sản vành tai",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1718,
+        1743
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "xin được chia sẻ về sự lo lắng đôi chút về tình trạng của bé hiện này, về tình trạng bé mắc phải là dị tật thiểu sản vành tai và tịt ống tai ngoài bẩm sinh. Rất may"
+    },
+    {
+      "record_id": "12",
+      "text": "tịt ống tai ngoài bẩm sinh",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1747,
+        1773
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "g đôi chút về tình trạng của bé hiện này, về tình trạng bé mắc phải là dị tật thiểu sản vành tai và tịt ống tai ngoài bẩm sinh. Rất may mắn, cấu trúc tai trong đảm nh"
+    },
+    {
+      "record_id": "29",
+      "text": "bệnh bàn chân bẹt",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1700,
+        1717
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "à mức độ thành công có cao không ạ. Cháu xin cảm ơn bác! Trả lời: Theo như mô tả của Bạn cháu bé bị bệnh bàn chân bẹt, đây là tật bẩm sinh không ảnh hưởng nh"
+    },
+    {
+      "record_id": "39",
+      "text": "bệnh bàn chân bẹt",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1073,
+        1090
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "chứng hiện tại - hạ huyết áp, không đặc hiệu - mệt mỏi - mệt mỏi Theo như mô tả của Bạn cháu bé bị bệnh bàn chân bẹt, đây là tật bẩm sinh không ảnh hưởng nh"
+    },
+    {
+      "record_id": "48",
+      "text": "dị tật thiểu sản vành tai",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1042,
+        1067
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "xin được chia sẻ về sự lo lắng đôi chút về tình trạng của bé hiện này, về tình trạng bé mắc phải là dị tật thiểu sản vành tai và tịt ống tai ngoài bẩm sinh. Rất may"
+    },
+    {
+      "record_id": "48",
+      "text": "tịt ống tai ngoài bẩm sinh",
+      "type": "CHẨN_ĐOÁN",
+      "position": [
+        1071,
+        1097
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "g đôi chút về tình trạng của bé hiện này, về tình trạng bé mắc phải là dị tật thiểu sản vành tai và tịt ống tai ngoài bẩm sinh. Rất may mắn, cấu trúc tai trong đảm nh"
+    },
+    {
+      "record_id": "64",
+      "text": "run tay",
+      "type": "TRIỆU_CHỨNG",
+      "position": [
+        417,
+        424
+      ],
+      "before_assertions": [],
+      "after_assertions": [
+        "isFamily"
+      ],
+      "context": "không đặc hiệu hoặc run rẩy tay chân, mất thăng bằng khi đi đứng. Như vậy Mẹ của bạn đã bắt đầu bị run tay, đó có thể do tác dụng phụ của thuốc. N"
+    }
+  ],
+  "score_expectation": {
+    "confirmed_control": 39.5367,
+    "target_range": [
+      39.54,
+      39.57
+    ],
+    "status": "confirmed_below_control"
+  },
+  "leaderboard_result": {
+    "submitted_at": "2026-07-25T17:08:00+07:00",
+    "score": 39.2974,
+    "WER": 55.4442,
+    "num_scored": 100,
+    "J_assertion": 50.5052,
+    "num_records": 100,
+    "J_candidates": 26.9477,
+    "delta_vs_v30": {
+      "score": -0.2393,
+      "WER": 0.0,
+      "J_assertion": -0.7977,
+      "J_candidates": 0.0
+    },
+    "decision": "reject_keep_v30_control"
+  },
+  "sha256": "d2f67d210c13b3e33469cba20dfde95802f2bb6e8ee611ed3cf9d08d204806fc",
+  "zip": "/home/dungle/Documents/Viettiel AI race/NLP_for_hospital_report_classifier/submission/candidate_v32_v30-direct-family-assertion.zip"
+}

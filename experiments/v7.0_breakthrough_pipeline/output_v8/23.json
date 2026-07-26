@@ -1,0 +1,278 @@
+[
+  {
+    "text": "đổ mồ hôi đêm",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      247,
+      260
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "Mất ngủ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      303,
+      310
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      438,
+      452
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F41.9"
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      453,
+      461
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "tăng nhãn áp",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      848,
+      860
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G93.2"
+    ]
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1047,
+      1062
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mờ mắt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1072,
+      1078
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhìn mờ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1116,
+      1123
+    ],
+    "assertions": []
+  },
+  {
+    "text": "não úng tuỷ từ thời kỳ sơ sinh",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1190,
+      1220
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Q03.9"
+    ]
+  },
+  {
+    "text": "não úng thủy",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1312,
+      1324
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "G91.9"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1344,
+      1351
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1453,
+      1460
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "phù gai thị",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1536,
+      1547
+    ],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": [
+      "H47.1"
+    ]
+  },
+  {
+    "text": "mờ mắt ở cả hai mắt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1581,
+      1600
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1705,
+      1712
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau đầu kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1755,
+      1770
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhìn mờ ở cả hai mắt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1777,
+      1797
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1838,
+      1845
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhìn mờ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1887,
+      1894
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1958,
+      1965
+    ],
+    "assertions": []
+  },
+  {
+    "text": "phù gai thị",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2126,
+      2137
+    ],
+    "assertions": [],
+    "candidates": [
+      "H47.1"
+    ]
+  },
+  {
+    "text": "Phù gai thị",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2216,
+      2227
+    ],
+    "assertions": [],
+    "candidates": [
+      "H47.1"
+    ]
+  },
+  {
+    "text": "Tăng nhãn áp",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2331,
+      2343
+    ],
+    "assertions": [],
+    "candidates": [
+      "H40.9"
+    ]
+  },
+  {
+    "text": "ct",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2373,
+      2375
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Phù gai thị",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2422,
+      2433
+    ],
+    "assertions": [],
+    "candidates": [
+      "H47.1"
+    ]
+  }
+]

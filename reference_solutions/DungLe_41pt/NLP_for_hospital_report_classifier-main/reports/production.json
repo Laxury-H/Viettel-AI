@@ -1,0 +1,35 @@
+{
+  "version": "D2-V54-v53-explicit-past-mention-temporality",
+  "profile": "production",
+  "control": "D2-V53-v51-explicit-medication-section-temporality",
+  "records": 100,
+  "entities": 2687,
+  "assertion_additions": 8,
+  "changed_records_from_control": 2,
+  "record_ids": [
+    "4",
+    "69"
+  ],
+  "leaderboard": {
+    "score": 41.9973,
+    "wer": 55.4298,
+    "j_assertion": 51.4670,
+    "j_candidates": 32.9653,
+    "submitted_at": "2026-07-26T16:23:00+07:00"
+  },
+  "by_type": {
+    "CHẨN_ĐOÁN": 758,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 170,
+    "THUỐC": 219,
+    "TRIỆU_CHỨNG": 1105,
+    "TÊN_XÉT_NGHIỆM": 435
+  },
+  "by_assertion": {
+    "isFamily": 6,
+    "isHistorical": 381,
+    "isNegated": 126
+  },
+  "sha256": "e0f5a7471bae4659bb2cded51dbb8e18ad779d868c481dede84881365c832f2e",
+  "zip": "submission/output.zip",
+  "validation": "PASS"
+}
