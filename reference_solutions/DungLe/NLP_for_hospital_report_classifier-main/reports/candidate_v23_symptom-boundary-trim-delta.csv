@@ -1,0 +1,3 @@
+record,action,start,end,type,text,confidence,previous_assertions,assertions,previous_candidates,candidates,context
+17,add,105,125,TRIỆU_CHỨNG,hơi thở mùi khó chịu,,,,,,"chào bác sĩ, em 28 tuổi, dạo này em đánh răng hay chảy máu chân răng, miệng thấy hơi thở mùi khó chịu, kèm theo thấy nhiều mảng bám quanh răng nữa, bác sĩ tư vấn giúp em với."
+17,remove,94,125,TRIỆU_CHỨNG,miệng thấy hơi thở mùi khó chịu,0.997472746031625,,,,,"chào bác sĩ, em 28 tuổi, dạo này em đánh răng hay chảy máu chân răng, miệng thấy hơi thở mùi khó chịu, kèm theo thấy nhiều mảng bám quanh răng nữa, bác sĩ tư vấn giúp em với."

@@ -1,0 +1,102 @@
+{
+  "date": "2026-07-24",
+  "public_control": {
+    "name": "D2-V16-teacher-diagnosis-precision",
+    "score": 39.2864,
+    "sha256": "0ef09240424fd517e33b5a1091cc1bf6bb7c3a8675a34f49618271a9c263b520"
+  },
+  "training": {
+    "backbone": "manhtt-079/vipubmed-deberta-xsmall",
+    "seed": 42,
+    "epochs_completed": 16,
+    "best_epoch": 11,
+    "effective_batch_size": 32,
+    "best_dev_target_f1": 0.7367036271377561,
+    "test_target_f1": 0.7460377358490566,
+    "test_disease_f1": 0.805379746835443,
+    "test_symptom_f1": 0.5968169761273209
+  },
+  "bamibert_control": {
+    "dev_target_f1": 0.750384024577573,
+    "test_target_f1": 0.7540732221583286,
+    "test_disease_f1": 0.8073248407643312,
+    "test_symptom_f1": 0.6155969634230504
+  },
+  "calibration": {
+    "method": "overlapping-window exact-span consensus",
+    "best_full_consensus_dev_f1": 0.7644137335348737,
+    "best_full_consensus_test_f1": 0.7750537634408602,
+    "selected_first_threshold": 0.98,
+    "selected_second_threshold": 0.94,
+    "pipeline_dev_f1_delta": 0.05924607059084275,
+    "pipeline_test_f1_delta": 0.05115900485160546
+  },
+  "selected_candidate": {
+    "name": "D2-V17-consensus-boundary-94",
+    "path": "submission/candidate_v17_boundary-94.zip",
+    "sha256": "71681c1e413e59308eb3bf9f31626ec9dbdbeddb292176cdaaf284676c1cc500",
+    "records": 100,
+    "entities": 2653,
+    "entities_added": 32,
+    "entities_removed": 32,
+    "validator": "PASS",
+    "public_submission_id": "019f9064-cecf-71d3-a21e-1b709bb97dd6",
+    "public_score": 39.2778,
+    "public_WER": 55.8547,
+    "public_J_assertion": 50.865,
+    "public_J_candidates": 26.9369,
+    "decision": "reject_assertion_regression"
+  },
+  "corrected_candidate": {
+    "name": "D2-V17-consensus-boundary-94-single-causal",
+    "path": "submission/candidate_v17_boundary-94-single-causal.zip",
+    "sha256": "70f3cc736a3ae6408ab435206f50a4490355b1073574659de0fa7795567e4224",
+    "records": 100,
+    "entities": 2655,
+    "entities_added": 30,
+    "entities_removed": 28,
+    "isNegated": 121,
+    "dev_pipeline_f1_delta": 0.05880672843326523,
+    "test_pipeline_f1_delta": 0.05115900485160546,
+    "validator": "PASS",
+    "public_submission_id": "019f906e-5fc0-7786-9055-aef5d4ba89c3",
+    "public_score": 39.2658,
+    "public_WER": 55.8752,
+    "public_J_assertion": 50.8453,
+    "public_J_candidates": 26.9369,
+    "decision": "reject_direct_causal_negation"
+  },
+  "best_public_candidate": {
+    "name": "D2-V17-consensus-boundary-985-single",
+    "path": "submission/candidate_v17_boundary-985-single.zip",
+    "sha256": "03b54d28aab0c3e2f9b446ae5aed88e4fe80aae3fdc2d5760e5fb179ff7d5ca5",
+    "records": 100,
+    "entities": 2653,
+    "entities_added": 5,
+    "entities_removed": 5,
+    "validator": "PASS",
+    "public_submission_id": "019f9083-17b0-765d-8b7f-34d90a53c2ce",
+    "public_score": 39.3094,
+    "public_WER": 55.8046,
+    "public_J_assertion": 50.9200,
+    "public_J_candidates": 26.9369,
+    "decision": "promote"
+  },
+  "stable_ablation": {
+    "name": "D2-V17-consensus-boundary-98-single-stable",
+    "path": "submission/candidate_v17_boundary-98-single-stable.zip",
+    "sha256": "79caaa60bdd06e9897b797333ff265bc4bce7dfdf9e2f05383b7d4378a05d5b3",
+    "records": 100,
+    "entities": 2653,
+    "dev_pipeline_f1_delta": 0.025462512812314875,
+    "test_pipeline_f1_delta": 0.025923635732954975,
+    "validator": "PASS",
+    "tests": "10 passed",
+    "public_submission_id": "019f908d-3ce8-7378-938d-fdffb0eb8b27",
+    "public_score": 39.3094,
+    "public_WER": 55.8046,
+    "public_J_assertion": 50.9200,
+    "public_J_candidates": 26.9369,
+    "decision": "equivalent_do_not_promote"
+  }
+}

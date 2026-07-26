@@ -1,0 +1,86 @@
+{
+  "model": "FacebookAI/xlm-roberta-base",
+  "seed": 42,
+  "training": {
+    "method": "LoRA token classification",
+    "epochs_completed": 30,
+    "best_epoch": 25,
+    "max_length": 128,
+    "effective_batch_size": 32,
+    "learning_rate": 0.0001,
+    "lora_rank": 16,
+    "lora_alpha": 32,
+    "lora_dropout": 0.1,
+    "best_dev_target_f1": 0.6802770689026613,
+    "test_target": {
+      "precision": 0.6405657123145913,
+      "recall": 0.7331227793130675,
+      "f1": 0.6837260677466863
+    }
+  },
+  "calibration": {
+    "first_model": "cbc-528a/BamiBERT-ViMedNER",
+    "second_model": "XLM-R LoRA seed 42",
+    "exact_symptom_extras_bamibert_0.98_xlmr_0.90": {
+      "dev_precision": 0.8970588235294118,
+      "dev_predicted": 68,
+      "test_precision": 0.9,
+      "test_predicted": 60
+    },
+    "exact_symptom_extras_bamibert_0.98_xlmr_0.80": {
+      "dev_precision": 0.8372093023255814,
+      "dev_predicted": 129,
+      "test_precision": 0.8360655737704918,
+      "test_predicted": 122
+    }
+  },
+  "public_experiments": [
+    {
+      "profile": "xlmr-safe-94",
+      "submission_id": "019f95bb-39fe-75ed-bf9e-39e0d09173bd",
+      "score": 39.3344,
+      "WER": 55.7873,
+      "J_assertion": 50.9716,
+      "J_candidates": 26.9477,
+      "decision": "reject_boundary_replacements"
+    },
+    {
+      "profile": "xlmr-additive-90",
+      "submission_id": "019f95c4-bcd1-7773-98a6-97264d592ec6",
+      "sha256": "19ceb647189c26bb415fe20db4f219936c61d300bbd8af34f7f99320f86e5511",
+      "score": 39.3438,
+      "WER": 55.756,
+      "J_assertion": 50.9716,
+      "J_candidates": 26.9477,
+      "decision": "promote"
+    },
+    {
+      "profile": "xlmr-additive-85",
+      "submission_id": "019f95ce-62b2-751a-8d80-c26e59ec27b8",
+      "sha256": "87a4dd58e2343accd7cd1b9c672d77788a9febcd0d031d16f6e273f10217084e",
+      "score": 39.3683,
+      "WER": 55.7164,
+      "J_assertion": 51.0138,
+      "J_candidates": 26.9477,
+      "decision": "promote"
+    },
+    {
+      "profile": "xlmr-additive-80",
+      "submission_id": "019f95d8-4cac-7148-966b-49e09e42baa0",
+      "sha256": "e651bedba6126b6aaa9b8b6331e42552ce5359810bc1835c8fec6379a3c7ec22",
+      "score": 39.3421,
+      "WER": 55.7543,
+      "J_assertion": 50.9645,
+      "J_candidates": 26.9477,
+      "decision": "reject_keep_additive_85"
+    }
+  ],
+  "leaderboard_snapshot": {
+    "leaderboard_id": "019f66c9-ae68-703c-b398-c4f2af97d1cd",
+    "team": "SOL-GPT",
+    "rank": 21,
+    "score": 39.3683,
+    "top10_cutoff": 40.8482,
+    "gap_to_top10": 1.4799
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "best_confirmed": {
+    "version": "D2-V21-question-diagnosis-pruning",
+    "score": 39.3128,
+    "wer": 55.8487,
+    "j_assertion": 50.9613,
+    "j_candidates": 26.9477,
+    "rank_observed": 12
+  },
+  "scored_experiments": [
+    {
+      "version": "D2-V9",
+      "score": 38.6974,
+      "decision": "historical_control"
+    },
+    {
+      "version": "D2-V11-candidate-only",
+      "score": 38.6887,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V12-generic",
+      "score": 38.7389,
+      "decision": "superseded"
+    },
+    {
+      "version": "D2-V14-metoprolol",
+      "score": 38.7600,
+      "decision": "superseded"
+    },
+    {
+      "version": "Qwen3.5-9B-hybrid",
+      "score": 37.3843,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V15-precision",
+      "score": 38.7462,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis",
+      "score": 39.1466,
+      "decision": "superseded"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-max",
+      "score": 38.7750,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-extended-precision",
+      "score": 39.1423,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-precision",
+      "score": 39.2864,
+      "decision": "superseded_by_v19"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-curated-safe",
+      "score": 39.2289,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-tight-extended-precision",
+      "score": 39.2169,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V16-teacher-diagnosis-adenocarcinoma-precision",
+      "score": 39.2850,
+      "decision": "reject"
+    },
+    {
+      "version": "D2-V17-teacher-red-eyes",
+      "score": 39.2786,
+      "wer": 55.8911,
+      "j_assertion": 50.9040,
+      "j_candidates": 26.9369,
+      "submitted_at": "2026-07-24T05:27:00+07:00",
+      "sha256": "ef40baaddd991abd6643cb5e423578ae29acb0fc42cdd69d61af24873f4bf2e7",
+      "decision": "reject_by_0.0078"
+    },
+    {
+      "version": "D2-V19-repeated-line-consensus",
+      "score": 39.2901,
+      "wer": 55.8688,
+      "j_assertion": 50.9200,
+      "j_candidates": 26.9369,
+      "submitted_at": "2026-07-24T05:50:00+07:00",
+      "sha256": "a384e80ac21fa961ed7f0c24b36e5661a197d614220c1b0b9c6236f3481c222c",
+      "decision": "superseded_by_v21"
+    },
+    {
+      "version": "D2-V20-question-assertion",
+      "score": 39.2901,
+      "wer": 55.8688,
+      "j_assertion": 50.9200,
+      "j_candidates": 26.9369,
+      "submitted_at": "2026-07-24T06:14:00+07:00",
+      "sha256": "f4d6d3ddd638c5bb08e86f441c2c63a1cd15e650e8420941983addac059d6b9c",
+      "decision": "reject_neutral"
+    },
+    {
+      "version": "D2-V21-question-diagnosis-pruning",
+      "score": 39.3128,
+      "wer": 55.8487,
+      "j_assertion": 50.9613,
+      "j_candidates": 26.9477,
+      "submitted_at": "2026-07-24T06:30:00+07:00",
+      "sha256": "df74ff00aa2498cc15fccd93270f135b71998f18ac61502848e3e72240807d7d",
+      "decision": "promote_by_0.0227"
+    },
+    {
+      "version": "D2-V22-patient-discomfort",
+      "score": 39.2947,
+      "wer": 55.8767,
+      "j_assertion": 50.9289,
+      "j_candidates": 26.9477,
+      "sha256": "c2423edcd054eb824ff35946a9d4515f98bc61d2c042e7916b070d1453c8d693",
+      "decision": "reject_by_0.0181"
+    }
+  ],
+  "pending": [
+    {
+      "version": "D2-V23-symptom-boundary-trim",
+      "score": null,
+      "decision": "await_leaderboard"
+    }
+  ]
+}

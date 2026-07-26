@@ -1,0 +1,12 @@
+{
+  "version": "D2-V19-xlmr-safe-94",
+  "profile": "xlmr-safe-94",
+  "baseline": "C:\\Users\\khaia\\.codex\\visualizations\\2026\\07\\20\\019f7fd3-1fe4-74a2-9b18-37fe5be3cbe7\\solution\\external_hospital_report_classifier\\submission\\candidate_v18_v21-merge.zip",
+  "records": 100,
+  "changed_records": 5,
+  "entities": 2657,
+  "entities_added": 5,
+  "boundaries_replaced": 3,
+  "proposals_rejected": 4,
+  "zip": "C:\\Users\\khaia\\.codex\\visualizations\\2026\\07\\20\\019f7fd3-1fe4-74a2-9b18-37fe5be3cbe7\\solution\\external_hospital_report_classifier\\submission\\candidate_v19_xlmr-safe-94.zip"
+}

@@ -1,0 +1,33 @@
+{
+  "production": {
+    "version": "D2-V21-question-diagnosis-pruning",
+    "path": "submission/output.zip",
+    "sha256": "df74ff00aa2498cc15fccd93270f135b71998f18ac61502848e3e72240807d7d",
+    "records": 100,
+    "entities": 2652,
+    "leaderboard": {
+      "score": 39.3128,
+      "wer": 55.8487,
+      "j_assertion": 50.9613,
+      "j_candidates": 26.9477
+    },
+    "validation": "PASS"
+  },
+  "candidates": [
+    {
+      "priority": 1,
+      "version": "D2-V23-symptom-boundary-trim",
+      "path": "submission/candidate_v23_symptom-boundary-trim.zip",
+      "sha256": "5bb6343538dca98bfc7a6f5b3475a6719401d89470b3f9a6258cde5626bcf001",
+      "records": 100,
+      "entities": 2652,
+      "delta_from_production": {
+        "entities_added": 1,
+        "entities_removed": 1,
+        "common_entity_fields_changed": 0
+      },
+      "leaderboard_score": null,
+      "validation": "PASS"
+    }
+  ]
+}

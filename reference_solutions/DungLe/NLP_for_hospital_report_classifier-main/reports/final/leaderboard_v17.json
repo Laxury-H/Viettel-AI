@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-24",
+  "quota": {
+    "daily_limit": 5,
+    "cooldown_seconds": 600,
+    "submissions_used": 5
+  },
+  "control": {
+    "name": "D2-V16-teacher-diagnosis",
+    "score": 39.1466,
+    "WER": 56.1511,
+    "J_assertion": 50.7239,
+    "J_candidates": 26.9369
+  },
+  "experiments": [
+    {
+      "name": "D2-V16-teacher-diagnosis-precision",
+      "submission_id": "019f8fef-e748-74f4-a587-19dfa769a16c",
+      "submitted_at": "2026-07-24T00:04:00+07:00",
+      "sha256": "0ef09240424fd517e33b5a1091cc1bf6bb7c3a8675a34f49618271a9c263b520",
+      "score": 39.2864,
+      "WER": 55.8810,
+      "J_assertion": 50.9200,
+      "J_candidates": 26.9369,
+      "decision": "promote"
+    },
+    {
+      "name": "D2-V16-teacher-diagnosis-curated-safe",
+      "submission_id": "019f8ff9-18c3-702b-a03d-87dcff793b32",
+      "submitted_at": "2026-07-24T00:14:00+07:00",
+      "sha256": "8d93419fbdbfc64a77144f47cf5e38a4034c0ac5d3a98da67ffeb8700668ef6e",
+      "score": 39.2289,
+      "WER": 55.9547,
+      "J_assertion": 50.8018,
+      "J_candidates": 26.9369,
+      "decision": "reject"
+    },
+    {
+      "name": "D2-V16-teacher-diagnosis-tight-extended-precision",
+      "submission_id": "019f9005-5384-74be-ae4e-eeee8b4f9a31",
+      "submitted_at": "2026-07-24T00:28:00+07:00",
+      "sha256": "a0b8737147eb693fe630ce97e6dfa3fa17721bbd5330e65d8e386f1a3d029364",
+      "score": 39.2169,
+      "WER": 55.9653,
+      "J_assertion": 50.8174,
+      "J_candidates": 26.9032,
+      "decision": "reject"
+    },
+    {
+      "name": "D2-V16-teacher-diagnosis-adenocarcinoma-precision",
+      "submission_id": "019f900f-52d6-7533-a88a-32ad106d2fa9",
+      "submitted_at": "2026-07-24T00:39:00+07:00",
+      "sha256": "b07defb10fb9f76bd7e571463d7966bc725dd1d478b52c8bcc384044b8de7182",
+      "score": 39.2850,
+      "WER": 55.8824,
+      "J_assertion": 50.9166,
+      "J_candidates": 26.9369,
+      "decision": "reject_by_0.0014"
+    },
+    {
+      "name": "D2-V16-teacher-diagnosis-curated-core",
+      "submission_id": "019f9018-d471-74dc-a695-a3a4322b03a4",
+      "submitted_at": "2026-07-24T00:49:00+07:00",
+      "sha256": "332e126158be34df0aeb581fb716c15e5803575c4a5d71dc5672700eb2968a34",
+      "score": 39.2812,
+      "WER": 55.8789,
+      "J_assertion": 50.9003,
+      "J_candidates": 26.9369,
+      "decision": "reject_by_0.0052"
+    }
+  ],
+  "best_confirmed": {
+    "name": "D2-V16-teacher-diagnosis-precision",
+    "score": 39.2864,
+    "rank_observed": 12,
+    "top10_cutoff_observed": 39.7649
+  }
+}

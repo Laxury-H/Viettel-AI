@@ -1,0 +1,36 @@
+{
+  "version": "D2-V23-symptom-boundary-trim",
+  "profile": "v23",
+  "control": "D2-V21-question-diagnosis-pruning",
+  "teacher_model": "cbc-528a/BamiBERT-ViMedNER",
+  "teacher_revision": "e508eedd34d124e05cf139cc565806c6d4fc5aad",
+  "teacher_confidence_minimum": 0.98,
+  "teacher_cache": {
+    "schema_version": 2,
+    "model": "cbc-528a/BamiBERT-ViMedNER",
+    "revision": "e508eedd34d124e05cf139cc565806c6d4fc5aad",
+    "minimum_token_confidence": 0.5,
+    "device": "cpu",
+    "input_sha256": "984e84582e30ba34b0c17570347edc43ea825c014836ff140232c03b3f54e929"
+  },
+  "records": 100,
+  "changed_records": 1,
+  "entities": 2652,
+  "entities_added": 1,
+  "entities_removed": 1,
+  "common_entity_fields_changed": 0,
+  "consensus_entities_added": 1,
+  "by_type": {
+    "CHẨN_ĐOÁN": 757,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 170,
+    "THUỐC": 219,
+    "TRIỆU_CHỨNG": 1071,
+    "TÊN_XÉT_NGHIỆM": 435
+  },
+  "by_assertion": {
+    "isFamily": 25,
+    "isHistorical": 363,
+    "isNegated": 119
+  },
+  "zip": "candidate_v23_symptom-boundary-trim.zip"
+}
