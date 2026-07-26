@@ -1,0 +1,246 @@
+[
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      120,
+      127
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      203,
+      210
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      275,
+      282
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Implanon",
+    "type": "THUỐC",
+    "position": [
+      319,
+      327
+    ],
+    "assertions": [],
+    "candidates": [
+      "389221"
+    ]
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      400,
+      407
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      475,
+      482
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      598,
+      605
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi giường",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      639,
+      666
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      699,
+      707
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hạ huyết áp",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      763,
+      774
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      793,
+      800
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      803,
+      810
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi giường",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      813,
+      840
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      843,
+      851
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó thở khi gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      864,
+      884
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ho mạn tính có đờm vàng loãng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      887,
+      916
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chán ăn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      919,
+      926
+    ],
+    "assertions": []
+  },
+  {
+    "text": "que tránh thai",
+    "type": "THUỐC",
+    "position": [
+      1018,
+      1032
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1126,
+      1133
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1235,
+      1242
+    ],
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1275,
+      1282
+    ],
+    "assertions": []
+  },
+  {
+    "text": "que cấy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1487,
+      1494
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cấy que",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1522,
+      1529
+    ],
+    "assertions": []
+  },
+  {
+    "text": "que cấy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1608,
+      1615
+    ],
+    "assertions": []
+  },
+  {
+    "text": "rỉ máu âm đạo",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1653,
+      1666
+    ],
+    "assertions": []
+  },
+  {
+    "text": "kinh nguyệt thưa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1685,
+      1701
+    ],
+    "assertions": []
+  }
+]

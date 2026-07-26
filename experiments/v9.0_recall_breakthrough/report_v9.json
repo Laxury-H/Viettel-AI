@@ -1,0 +1,16 @@
+{
+  "records": 100,
+  "baseline_concepts": 2687,
+  "total_concepts": 3682,
+  "added_concepts": 995,
+  "concepts_per_record": 36.82,
+  "type_counts": {
+    "CHẨN_ĐOÁN": 927,
+    "TÊN_XÉT_NGHIỆM": 777,
+    "TRIỆU_CHỨNG": 1396,
+    "THUỐC": 310,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 272
+  },
+  "lexicon_entries": 589,
+  "zip": "D:\\Project\\Viettel AI\\experiments\\v9.0_recall_breakthrough\\submission_v9.zip"
+}

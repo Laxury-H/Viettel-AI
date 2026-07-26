@@ -1,0 +1,289 @@
+[
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      90,
+      100
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      310,
+      318
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      540,
+      548
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "chỉ khô",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      549,
+      556
+    ],
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      603,
+      611
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      653,
+      661
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      736,
+      744
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": " do cào ho",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      744,
+      754
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      820,
+      828
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      843,
+      851
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1099,
+      1107
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "gười bị cắ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1170,
+      1180
+    ],
+    "assertions": []
+  },
+  {
+    "text": " Phòng bệnh bằng ",
+    "type": "THUỐC",
+    "position": [
+      1290,
+      1307
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1331,
+      1339
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1367,
+      1375
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1436,
+      1444
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1470,
+      1478
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bị dại ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1574,
+      1581
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1675,
+      1683
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1994,
+      2002
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2179,
+      2187
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "đau ngực trái",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2243,
+      2256
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau sau xương ức lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2269,
+      2301
+    ],
+    "assertions": []
+  },
+  {
+    "text": "c độ ng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2304,
+      2311
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "nh nhân\nVù",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2394,
+      2404
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "và cổ, cũn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2433,
+      2443
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  }
+]

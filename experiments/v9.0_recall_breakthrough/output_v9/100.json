@@ -1,0 +1,136 @@
+[
+  {
+    "text": "đang mang",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      55,
+      64
+    ],
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "hì có kết quả nguy cơ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      131,
+      156
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      157,
+      173
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "cục máu đông",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      280,
+      294
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đi tiêu ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      309,
+      324
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ạn, \n\n************ được k",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      516,
+      541
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      584,
+      597
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      616,
+      629
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      664,
+      677
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      777,
+      785
+    ],
+    "assertions": []
+  },
+  {
+    "text": "aspirin",
+    "type": "THUỐC",
+    "position": [
+      1114,
+      1121
+    ],
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "g dùng thuốc. \n\n2. Bệnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1159,
+      1182
+    ],
+    "assertions": []
+  },
+  {
+    "text": "3 ngày đại tiện ra máu đỏ tươi gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1212,
+      1252
+    ],
+    "assertions": []
+  }
+]

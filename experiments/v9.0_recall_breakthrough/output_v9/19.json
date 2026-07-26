@@ -1,0 +1,342 @@
+[
+  {
+    "text": "mề đay",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      85,
+      91
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      102,
+      106
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mề đay",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      161,
+      167
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "khó chịu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      176,
+      184
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      188,
+      192
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dị ứng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      357,
+      363
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
+    "candidates": [
+      "T78.4"
+    ]
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      684,
+      691
+    ],
+    "assertions": [],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      696,
+      699
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      721,
+      728
+    ],
+    "assertions": [],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      761,
+      764
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      809,
+      817
+    ],
+    "assertions": []
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      824,
+      831
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      838,
+      846
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau hố chậu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      886,
+      897
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      929,
+      932
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      962,
+      969
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      999,
+      1007
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      1084,
+      1091
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1161,
+      1175
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "ất củ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1258,
+      1265
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY MẠN TÍNH",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1267,
+      1283
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.8"
+    ]
+  },
+  {
+    "text": "̉n thương m",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1287,
+      1298
+    ],
+    "assertions": []
+  },
+  {
+    "text": " tổn thương khó quan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1421,
+      1443
+    ],
+    "assertions": []
+  },
+  {
+    "text": "g học thông thường",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1473,
+      1493
+    ],
+    "assertions": []
+  },
+  {
+    "text": "các mức độ thoát bọng ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1592,
+      1619
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1697,
+      1708
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ắng đo",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1742,
+      1749
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1816,
+      1838
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "không c",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1854,
+      1861
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "Mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1936,
+      1950
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "oát tri",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2195,
+      2203
+    ],
+    "assertions": []
+  },
+  {
+    "text": "iều trị",
+    "type": "THUỐC",
+    "position": [
+      2263,
+      2272
+    ],
+    "assertions": []
+  }
+]

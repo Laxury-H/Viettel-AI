@@ -1,0 +1,484 @@
+[
+  {
+    "text": "đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      65,
+      78
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      99,
+      102
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      118,
+      127
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      129,
+      138
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      147,
+      151
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh lý đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      336,
+      355
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "bệnh đau nửa đầu Migraine",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      371,
+      396
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      438,
+      449
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": " đôi lúc",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      468,
+      476
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      477,
+      480
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      544,
+      555
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "iểu hiện",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      579,
+      587
+    ],
+    "assertions": []
+  },
+  {
+    "text": "thị giác bị nhòe",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      591,
+      607
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ruồi bay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      609,
+      617
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      619,
+      627
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hái dươ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      646,
+      653
+    ],
+    "assertions": []
+  },
+  {
+    "text": "y vào mức ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      659,
+      669
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      696,
+      699
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      709,
+      712
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      725,
+      728
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      773,
+      781
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sợ ánh sáng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      783,
+      794
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sợ tiếng động",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      796,
+      809
+    ],
+    "assertions": []
+  },
+  {
+    "text": "căng thẳng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      811,
+      821
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      839,
+      850
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      876,
+      887
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      909,
+      912
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      963,
+      970
+    ],
+    "assertions": []
+  },
+  {
+    "text": "viêm xoang",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      974,
+      984
+    ],
+    "assertions": [],
+    "candidates": [
+      "J32.9"
+    ]
+  },
+  {
+    "text": "đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1042,
+      1053
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "suy giảm trí nhớ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1123,
+      1139
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó tập trung",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1141,
+      1154
+    ],
+    "assertions": []
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1156,
+      1164
+    ],
+    "assertions": [],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "đột quỵ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1177,
+      1184
+    ],
+    "assertions": [],
+    "candidates": [
+      "I64"
+    ]
+  },
+  {
+    "text": "suy thoái võng mạc",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1222,
+      1240
+    ],
+    "assertions": [],
+    "candidates": [
+      "H35.9"
+    ]
+  },
+  {
+    "text": "mất thị lực",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1242,
+      1253
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mù vĩnh viễn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1257,
+      1269
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau nửa đầu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1360,
+      1371
+    ],
+    "assertions": [],
+    "candidates": [
+      "G43.9"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      1389,
+      1396
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "type": "THUỐC",
+    "position": [
+      1438,
+      1449
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1562,
+      1569
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1650,
+      1657
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1714,
+      1764
+    ],
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1863,
+      1913
+    ],
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      1950,
+      1957
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "type": "THUỐC",
+    "position": [
+      1996,
+      2007
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  }
+]

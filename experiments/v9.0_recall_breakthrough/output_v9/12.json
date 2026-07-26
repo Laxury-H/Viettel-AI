@@ -1,0 +1,421 @@
+[
+  {
+    "text": "Bệnh phổi kẽ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      44,
+      56
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "J84.9"
+    ]
+  },
+  {
+    "text": "corticoid",
+    "type": "THUỐC",
+    "position": [
+      68,
+      77
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "Thở oxy tại nhà",
+    "type": "THUỐC",
+    "position": [
+      102,
+      117
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "Hội chứng kháng enzym tổng hợp protein",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      124,
+      162
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "D89.8"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      170,
+      177
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp nguyên phát",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      184,
+      209
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "Sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      247,
+      257
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Corticoid",
+    "type": "THUỐC",
+    "position": [
+      317,
+      326
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "Thở oxy tại nhà",
+    "type": "THUỐC",
+    "position": [
+      350,
+      365
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "position": [
+      382,
+      389
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "151399"
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "position": [
+      430,
+      441
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "Suy giảm miễn dịch do sử dụng corticoid kéo dài",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      478,
+      525
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "D84.8"
+    ]
+  },
+  {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      584,
+      605
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      682,
+      703
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "cotrimoxazol",
+    "type": "THUỐC",
+    "position": [
+      921,
+      933
+    ],
+    "assertions": [],
+    "candidates": [
+      "10831"
+    ]
+  },
+  {
+    "text": "doxycyclin",
+    "type": "THUỐC",
+    "position": [
+      953,
+      963
+    ],
+    "assertions": [],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      976,
+      990
+    ],
+    "assertions": [],
+    "candidates": [
+      "L03.9"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1008,
+      1014
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bọng nước",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1114,
+      1123
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1150,
+      1153
+    ],
+    "assertions": []
+  },
+  {
+    "text": "rỉ dịch vàng đục giống mủ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1175,
+      1200
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1344,
+      1365
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1407,
+      1410
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tổn thương dạng bóng nước",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1432,
+      1457
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "dịch giống mủ có màu vàng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1510,
+      1535
+    ],
+    "assertions": [
+      "isFamily",
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "dị tật thiểu sản vành tai",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1718,
+      1743
+    ],
+    "assertions": [],
+    "candidates": [
+      "Q17.2"
+    ]
+  },
+  {
+    "text": "tịt ống tai ngoài bẩm sinh",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1747,
+      1773
+    ],
+    "assertions": [],
+    "candidates": [
+      "Q16.1"
+    ]
+  },
+  {
+    "text": "phẫu thuật tạo hình vành tai",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2093,
+      2121
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "chụp cắt lớp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2226,
+      2238
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "tạo hình ống tai ngoài",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2282,
+      2304
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "position": [
+      2507,
+      2518
+    ],
+    "assertions": [],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "position": [
+      2518,
+      2525
+    ],
+    "assertions": [],
+    "candidates": [
+      "151399"
+    ]
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2539,
+      2553
+    ],
+    "assertions": [],
+    "candidates": [
+      "L03.9"
+    ]
+  },
+  {
+    "text": "Nhiễm virus Herpes simplex",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2760,
+      2786
+    ],
+    "assertions": [],
+    "candidates": [
+      "B00.9"
+    ]
+  },
+  {
+    "text": "HSV",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2788,
+      2791
+    ],
+    "assertions": [],
+    "candidates": [
+      "B00.9"
+    ]
+  },
+  {
+    "text": "Bệnh thủy đậu/Zona",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2798,
+      2816
+    ],
+    "assertions": [],
+    "candidates": [
+      "B02.9"
+    ]
+  }
+]

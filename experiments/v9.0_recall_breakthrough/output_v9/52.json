@@ -1,0 +1,237 @@
+[
+  {
+    "text": "mề đay",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      85,
+      91
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      102,
+      106
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mề đay",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      161,
+      167
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "khó chịu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      176,
+      184
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      188,
+      192
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dị ứng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      357,
+      363
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
+    "candidates": [
+      "T78.4"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      733,
+      747
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "ất củ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      830,
+      837
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY MẠN TÍNH",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      839,
+      855
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.8"
+    ]
+  },
+  {
+    "text": "̉n thương m",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      859,
+      870
+    ],
+    "assertions": []
+  },
+  {
+    "text": " tổn thương khó quan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      993,
+      1015
+    ],
+    "assertions": []
+  },
+  {
+    "text": "g học thông thường",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1045,
+      1065
+    ],
+    "assertions": []
+  },
+  {
+    "text": "các mức độ thoát bọng ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1164,
+      1191
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1269,
+      1280
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ắng đo",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1314,
+      1321
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1388,
+      1410
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "không c",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1426,
+      1433
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "Mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1508,
+      1522
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "u chứng.\n1.  Tiề",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1624,
+      1640
+    ],
+    "assertions": []
+  },
+  {
+    "text": "klonopin",
+    "type": "THUỐC",
+    "position": [
+      1679,
+      1687
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2598"
+    ]
+  },
+  {
+    "text": "clonidine",
+    "type": "THUỐC",
+    "position": [
+      1687,
+      1696
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "2599"
+    ]
+  }
+]

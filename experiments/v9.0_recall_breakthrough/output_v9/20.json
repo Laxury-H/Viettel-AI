@@ -1,0 +1,391 @@
+[
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      106,
+      116
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      327,
+      335
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      549,
+      557
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "chỉ khô",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      558,
+      565
+    ],
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      612,
+      620
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      662,
+      670
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      746,
+      754
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": " do cào ho",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      754,
+      764
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      830,
+      838
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      853,
+      861
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "Đau bụng hạ sườn phải",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1082,
+      1103
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1105,
+      1113
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1115,
+      1118
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ông có m",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1148,
+      1156
+    ],
+    "assertions": []
+  },
+  {
+    "text": "u \nKhám thấ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1157,
+      1168
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "\nHuy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1169,
+      1173
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": " áp:13",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1175,
+      1181
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "/76 mmHg",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1182,
+      1190
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "ch: 93 l/",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1193,
+      1202
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "\nNhiệt đ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1203,
+      1211
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": ": 36.3",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1213,
+      1219
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ộ C\n",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1221,
+      1225
+    ],
+    "assertions": []
+  },
+  {
+    "text": "compazine",
+    "type": "THUỐC",
+    "position": [
+      1287,
+      1296
+    ],
+    "assertions": [],
+    "candidates": [
+      "203546"
+    ]
+  },
+  {
+    "text": "aleve",
+    "type": "THUỐC",
+    "position": [
+      1300,
+      1305
+    ],
+    "assertions": [],
+    "candidates": [
+      "215101"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1319,
+      1322
+    ],
+    "assertions": []
+  },
+  {
+    "text": "morphine",
+    "type": "THUỐC",
+    "position": [
+      1335,
+      1343
+    ],
+    "assertions": [],
+    "candidates": [
+      "7052"
+    ]
+  },
+  {
+    "text": "lorazepam",
+    "type": "THUỐC",
+    "position": [
+      1352,
+      1361
+    ],
+    "assertions": [],
+    "candidates": [
+      "6470"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1365,
+      1368
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1413,
+      1421
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bị dại ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1517,
+      1524
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1618,
+      1626
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1938,
+      1946
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "bệnh dại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2123,
+      2131
+    ],
+    "assertions": [],
+    "candidates": [
+      "A82.9"
+    ]
+  },
+  {
+    "text": "c độ ng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2183,
+      2190
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nh nhân\nVù",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2273,
+      2283
+    ],
+    "assertions": []
+  },
+  {
+    "text": "và cổ, cũn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2312,
+      2322
+    ],
+    "assertions": []
+  }
+]

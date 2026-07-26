@@ -1,0 +1,228 @@
+[
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      34,
+      46
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      108,
+      116
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "rối loạn lo âu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      121,
+      135
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "F41.9"
+    ]
+  },
+  {
+    "text": "tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      202,
+      207
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "buồn chán",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      314,
+      323
+    ],
+    "assertions": []
+  },
+  {
+    "text": "uống nhiều rượu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      325,
+      340
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hút cần sa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      341,
+      351
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      427,
+      432
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh nhân tỉnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      505,
+      519
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tiếp xúc tốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      521,
+      533
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      555,
+      563
+    ],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      595,
+      607
+    ],
+    "assertions": [
+      "isNegated",
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      678,
+      719
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cắt cụt chân phải bên dưới gối",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      724,
+      754
+    ],
+    "assertions": []
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      768,
+      791
+    ],
+    "assertions": [],
+    "candidates": [
+      "I26.9"
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      795,
+      824
+    ],
+    "assertions": [],
+    "candidates": [
+      "L08.9"
+    ]
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "position": [
+      847,
+      857
+    ],
+    "assertions": [],
+    "candidates": [
+      "11124"
+    ]
+  },
+  {
+    "text": "phẫu thuật cắt cụt chân trái trên gối",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      877,
+      914
+    ],
+    "assertions": []
+  },
+  {
+    "text": "kháng sinh tĩnh mạch",
+    "type": "THUỐC",
+    "position": [
+      943,
+      963
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó chịu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1143,
+      1151
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dị ứng thời tiết",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1337,
+      1353
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  }
+]

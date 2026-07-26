@@ -1,0 +1,198 @@
+[
+  {
+    "text": "sảy thai",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      78,
+      86
+    ],
+    "assertions": []
+  },
+  {
+    "text": "xét nghiệm máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      97,
+      114
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hội chứng tăng đông",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      140,
+      160
+    ],
+    "assertions": [],
+    "candidates": [
+      "D68.5"
+    ]
+  },
+  {
+    "text": "thrombophilia",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      208,
+      221
+    ],
+    "assertions": [],
+    "candidates": [
+      "D68.5"
+    ]
+  },
+  {
+    "text": " có con thì ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      250,
+      264
+    ],
+    "assertions": []
+  },
+  {
+    "text": "áo nay để bác s",
+    "type": "THUỐC",
+    "position": [
+      288,
+      304
+    ],
+    "assertions": []
+  },
+  {
+    "text": "thrombophilia",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      364,
+      377
+    ],
+    "assertions": [],
+    "candidates": [
+      "D68.5"
+    ]
+  },
+  {
+    "text": "̉a người bệnh ",
+    "type": "THUỐC",
+    "position": [
+      472,
+      488
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "Thrombophilia",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      784,
+      797
+    ],
+    "assertions": [],
+    "candidates": [
+      "D68.5"
+    ]
+  },
+  {
+    "text": "bệnh tăng đông máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      876,
+      894
+    ],
+    "assertions": [],
+    "candidates": [
+      "D68.5"
+    ]
+  },
+  {
+    "text": "tránh tình trạng",
+    "type": "THUỐC",
+    "position": [
+      961,
+      977
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sẩy thai",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      978,
+      986
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sinh non",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      988,
+      996
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      998,
+      1011
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "ra máu bất thường",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1124,
+      1141
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1195,
+      1203
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ủa bạn c",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1345,
+      1353
+    ],
+    "assertions": [
+      "isNegated",
+      "isFamily"
+    ]
+  },
+  {
+    "text": "ch d",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1426,
+      1430
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cục máu đông",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1432,
+      1444
+    ],
+    "assertions": [
+      "isFamily"
+    ]
+  }
+]

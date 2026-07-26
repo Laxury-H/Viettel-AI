@@ -1,0 +1,311 @@
+[
+  {
+    "text": "da rất nhiều dầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      46,
+      62
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mụn trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      69,
+      81
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "mụn ở trán",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      266,
+      276
+    ],
+    "assertions": []
+  },
+  {
+    "text": "da dầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      557,
+      563
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      668,
+      676
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "Phẫu thuật thay van hai lá cơ học",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      715,
+      748
+    ],
+    "assertions": [
+      "isFamily"
+    ]
+  },
+  {
+    "text": "ghép thận thất bại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      755,
+      773
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "T86.1"
+    ]
+  },
+  {
+    "text": "coumadin 3.0 mg /ngày",
+    "type": "THUỐC",
+    "position": [
+      805,
+      826
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "855318"
+    ]
+  },
+  {
+    "text": "INR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      866,
+      869
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dưới ngưỡng điều trị",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      870,
+      890
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chảy máu mũi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      933,
+      945
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chỉ số đông máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1026,
+      1041
+    ],
+    "assertions": []
+  },
+  {
+    "text": "INR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1076,
+      1079
+    ],
+    "assertions": []
+  },
+  {
+    "text": "1.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1080,
+      1083
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chảy máu mũi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1156,
+      1168
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1178,
+      1186
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1196,
+      1203
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1213,
+      1221
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1232,
+      1240
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1248,
+      1251
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "dấu hiệu sinh tồn",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1350,
+      1367
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhiệt độ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1369,
+      1377
+    ],
+    "assertions": []
+  },
+  {
+    "text": "36.5 độ C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1380,
+      1389
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1390,
+      1394
+    ],
+    "assertions": []
+  },
+  {
+    "text": "88 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1397,
+      1403
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Huyết áp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1404,
+      1412
+    ],
+    "assertions": []
+  },
+  {
+    "text": "120/70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1414,
+      1425
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhịp thở",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1426,
+      1434
+    ],
+    "assertions": []
+  },
+  {
+    "text": "20 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1436,
+      1442
+    ],
+    "assertions": []
+  },
+  {
+    "text": "SPO2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1443,
+      1447
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1678,
+      1686
+    ],
+    "assertions": []
+  }
+]
