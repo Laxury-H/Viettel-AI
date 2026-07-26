@@ -36,7 +36,41 @@ _STOP_SURFACES = {
     "nhiễm khuẩn", "kháng sinh", "vấn đề", "bình thường", "không",
     "tăng", "giảm", "cao", "thấp", "bất thường", "âm tính", "dương tính",
     "thuốc ức chế miễn dịch", "hormone tuyến giáp tổng hợp", "đau",
+    # Tiêu đề mục của biểu mẫu bệnh án. Bài nền (đã kiểm chứng) luôn bắt tên kỹ
+    # thuật cụ thể đứng ngay sau và cố ý bỏ chữ tiêu đề.
+    "thủ thuật", "chẩn đoán hình ảnh", "khám lâm sàng", "cận lâm sàng",
+    "thăm dò", "thăm khám chuyên khoa", "dấu hiệu sinh tồn", "dị ứng",
+    "xét nghiệm cận lâm sàng", "xét nghiệm chuyên sâu", "khám da liễu",
+    "chụp chẩn đoán hình ảnh", "phim chụp", "sàng lọc sớm",
+    # Danh từ chung hay bị nâng cấp nhầm thành thực thể.
+    "vi khuẩn", "vi nấm", "cân nặng", "thương tổn", "khó chịu", "buồn ngủ",
+    "hóa trị", "mô bệnh học", "đại thực bào", "sợi fibrin", "tử vong",
+    "thuốc kháng sinh", "thuốc cản quang", "kháng sinh tĩnh mạch",
+    "kháng sinh tại chỗ", "vắc xin sống", "huyết áp", "mạch", "nang",
 }
+
+# Đơn âm tiết được phép đứng một mình. Ngoài danh sách này, mọi bề mặt mới phải
+# có ít nhất 2 âm tiết — xem _is_single_syllable để biết lý do.
+_SINGLE_TOKEN_ALLOW = {
+    "ct", "mri", "ercp", "mrcp", "ekg", "ecg", "copd", "hba1c", "spo2",
+    "ast", "alt", "got", "gpt", "ldh", "bun", "crp", "esr", "inr",
+    "wbc", "rbc", "hgb", "plt", "egfr", "tsh", "psa", "cea", "afp",
+    "troponin", "creatinin", "creatinine", "bilirubin", "albumin",
+    "glucose", "insulin", "kali", "natri", "canxi", "ure", "amylase",
+    "lipase", "ferritin", "prolactin", "cortisol", "nsaid", "nsaids",
+}
+
+
+def _is_single_syllable(key: str) -> bool:
+    """Bề mặt chỉ có một âm tiết tiếng Việt.
+
+    Tiếng Việt viết rời từng âm tiết, nên một âm tiết đứng lẻ vẫn thỏa điều kiện
+    ranh giới từ ngay cả khi nó nằm giữa một từ ghép: "mạch" khớp được bên trong
+    "tĩnh mạch", "tim mạch", "động mạch vành"; "nang" khớp trong "nang lông".
+    Vòng thẩm định đối kháng cho thấy đây là nguồn lỗi span nghiêm trọng nhất,
+    và mỗi lần như vậy còn kèm sai nhãn nên bị phạt kép.
+    """
+    return len(key.split()) < 2 and key not in _SINGLE_TOKEN_ALLOW
 
 # Chuỗi số thuần / gần thuần: khớp lan man vào ngày tháng, liều lượng, số thứ tự.
 _NUMERIC_ONLY = re.compile(r"^[\d\s.,:/%-]+$")
@@ -62,8 +96,23 @@ def _norm(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip().lower()
 
 
-def curate(raw_entries: list[dict], texts: dict[int, str], baseline_lex: dict[str, str]):
-    """Gộp phiếu bầu theo bề mặt, loại entry rủi ro, trả về từ điển + báo cáo."""
+_CONF_RANK = {"low": 0, "medium": 1, "high": 2}
+
+
+def curate(
+    raw_entries: list[dict],
+    texts: dict[int, str],
+    baseline_lex: dict[str, str],
+    *,
+    min_confidence: str = "medium",
+):
+    """Gộp phiếu bầu theo bề mặt, loại entry rủi ro, trả về từ điển + báo cáo.
+
+    min_confidence: sàn độ tin cậy. Ngưỡng hòa vốn khi thêm một khái niệm là
+    ~0.43 (0.5 cho WER, ~0.36 cho assertions, còn candidates chấm theo tập mã
+    cấp tài liệu nên không hưởng lợi từ triệu chứng). Entry 'low' hiếm khi vượt
+    ngưỡng đó nên mặc định bị loại.
+    """
     votes: dict[str, collections.Counter] = collections.defaultdict(collections.Counter)
     codes: dict[str, collections.Counter] = collections.defaultdict(collections.Counter)
     confs: dict[str, collections.Counter] = collections.defaultdict(collections.Counter)
@@ -89,7 +138,13 @@ def curate(raw_entries: list[dict], texts: dict[int, str], baseline_lex: dict[st
     def reject(key: str, reason: str) -> None:
         rejected.append({"surface": display.get(key, key), "reason": reason})
 
+    floor = _CONF_RANK[min_confidence]
+
     for key, type_votes in votes.items():
+        best_conf = max(_CONF_RANK.get(c, 1) for c in confs[key])
+        if best_conf < floor:
+            reject(key, "below_confidence_floor")
+            continue
         if key in _STOP_SURFACES:
             reject(key, "stop_surface")
             continue
@@ -98,6 +153,9 @@ def curate(raw_entries: list[dict], texts: dict[int, str], baseline_lex: dict[st
             continue
         if len(key) < _MIN_LEN and key not in _ABBREV_ALLOW:
             reject(key, "too_short")
+            continue
+        if _is_single_syllable(key):
+            reject(key, "single_syllable")
             continue
         # Baseline (bài 41.99 điểm) luôn thắng: không ghi đè nhãn đã kiểm chứng.
         if key in baseline_lex:
@@ -134,14 +192,22 @@ def curate(raw_entries: list[dict], texts: dict[int, str], baseline_lex: dict[st
 def main() -> None:
     here = Path(__file__).resolve().parent
     parser = argparse.ArgumentParser()
-    parser.add_argument("--mined", type=Path, required=True)
+    parser.add_argument("--mined", type=Path, nargs="+", required=True,
+                        help="Một hoặc nhiều file entry thô; gộp theo thứ tự truyền vào.")
+    parser.add_argument("--codes", type=Path, default=None,
+                        help="File entry chỉ mang mã ICD/RxNorm, dùng để bổ sung mã cho mục đã có.")
     parser.add_argument("--input", type=Path, required=True)
     parser.add_argument("--baseline", type=Path, required=True)
+    parser.add_argument("--min-confidence", choices=("low", "medium", "high"), default="medium")
+    parser.add_argument("--drop", type=Path, default=None,
+                        help="File JSON {drop:[{surface}], retype:[{surface,correct_type}]} từ vòng thẩm định đối kháng.")
     parser.add_argument("--out", type=Path, default=here / "src" / "lexicon_v9.json")
     parser.add_argument("--report", type=Path, default=here / "lexicon_report.json")
     args = parser.parse_args()
 
-    raw = json.loads(args.mined.read_text(encoding="utf-8"))
+    raw: list[dict] = []
+    for path in args.mined:
+        raw.extend(json.loads(path.read_text(encoding="utf-8")))
     texts = {
         int(p.stem): p.read_text(encoding="utf-8")
         for p in args.input.glob("*.txt")
@@ -152,7 +218,43 @@ def main() -> None:
         for concept in json.loads(path.read_text(encoding="utf-8")):
             baseline_lex[_norm(concept["text"])] = concept["type"]
 
-    lexicon, rejected = curate(raw, texts, baseline_lex)
+    lexicon, rejected = curate(
+        raw, texts, baseline_lex, min_confidence=args.min_confidence
+    )
+
+    # Áp kết quả thẩm định đối kháng: loại mục bị bác, sửa mục sai type.
+    dropped_by_audit = 0
+    retyped_by_audit = 0
+    if args.drop and args.drop.exists():
+        audit = json.loads(args.drop.read_text(encoding="utf-8"))
+        for item in audit.get("retype") or []:
+            key = _norm(str(item.get("surface", "")))
+            correct = item.get("correct_type")
+            if key in lexicon and correct in OFFICIAL_TYPES:
+                if lexicon[key]["type"] != correct:
+                    lexicon[key]["type"] = correct
+                    # Mã cũ thuộc về type cũ, không còn hợp lệ sau khi đổi nhãn.
+                    lexicon[key].pop("codes", None)
+                    retyped_by_audit += 1
+        for item in audit.get("drop") or []:
+            key = _norm(str(item.get("surface", "")))
+            if lexicon.pop(key, None) is not None:
+                rejected.append({"surface": item.get("surface"), "reason": "audit_drop"})
+                dropped_by_audit += 1
+
+    # Bổ sung mã cho các mục đã nằm trong từ điển nhưng còn thiếu candidates.
+    code_added = 0
+    if args.codes and args.codes.exists():
+        for entry in json.loads(args.codes.read_text(encoding="utf-8")):
+            key = _norm(str(entry.get("surface", "")))
+            target = lexicon.get(key)
+            if not target or target.get("codes"):
+                continue
+            pattern = _ICD_RE if target["type"] == "CHẨN_ĐOÁN" else _RXCUI_RE
+            valid = [c for c in (entry.get("codes") or []) if pattern.match(str(c).strip())]
+            if valid:
+                target["codes"] = [str(valid[0]).strip()]
+                code_added += 1
 
     args.out.parent.mkdir(parents=True, exist_ok=True)
     args.out.write_text(
@@ -171,6 +273,10 @@ def main() -> None:
         "rejected": len(rejected),
         "rejected_by_reason": dict(reasons),
         "rejected_samples": rejected[:60],
+        "codes_backfilled": code_added,
+        "min_confidence": args.min_confidence,
+        "audit_dropped": dropped_by_audit,
+        "audit_retyped": retyped_by_audit,
     }
     args.report.write_text(
         json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"

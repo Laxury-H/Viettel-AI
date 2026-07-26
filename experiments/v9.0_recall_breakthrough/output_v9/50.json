@@ -6,10 +6,7 @@
       110,
       130
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ct",
@@ -58,18 +55,27 @@
     ]
   },
   {
-    "text": "não úng thuỷ",
+    "text": "não úng thuỷ khác",
     "type": "CHẨN_ĐOÁN",
     "position": [
       388,
-      400
+      405
     ],
     "assertions": [
       "isHistorical"
     ],
     "candidates": [
-      "G91.9"
+      "G91.8"
     ]
+  },
+  {
+    "text": "Phẫu thuật đặt cảng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      466,
+      485
+    ],
+    "assertions": []
   },
   {
     "text": "tăng nhãn áp",
@@ -133,9 +139,7 @@
       902,
       919
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "não úng thủy",
@@ -180,9 +184,7 @@
       1124,
       1138
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "phù gai thị",
@@ -215,34 +217,7 @@
       1337,
       1344
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "VPHT",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1405,
-      1409
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "bất thường bẩm sinh",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1464,
-      1483
-    ],
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "Q89.9"
-    ]
+    "assertions": []
   },
   {
     "text": "dị vật đường thở",
@@ -251,22 +226,9 @@
       1497,
       1513
     ],
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
       "T17.9"
-    ]
-  },
-  {
-    "text": "VPHT",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1586,
-      1590
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {
@@ -276,42 +238,7 @@
       1596,
       1603
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "VPHT",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1630,
-      1634
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "đông đặc phổi",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1654,
-      1667
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "thuốc cản quang",
-    "type": "THUỐC",
-    "position": [
-      1773,
-      1788
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Phù gai thị",

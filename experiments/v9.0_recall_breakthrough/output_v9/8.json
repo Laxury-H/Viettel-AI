@@ -103,29 +103,6 @@
     ]
   },
   {
-    "text": "tự tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      400,
-      405
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "tự tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      465,
-      470
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "Lú lẫn",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -186,9 +163,7 @@
       660,
       668
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ảo giác thính giác",
@@ -200,26 +175,13 @@
     "assertions": []
   },
   {
-    "text": "tự tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      726,
-      731
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "tưởng tượng về cái chết",
     "type": "TRIỆU_CHỨNG",
     "position": [
       761,
       784
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Lú lẫn",
@@ -246,9 +208,7 @@
       856,
       879
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "rối loạn thị giác",
@@ -275,9 +235,7 @@
       957,
       965
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ảo giác",
@@ -287,18 +245,6 @@
       988
     ],
     "assertions": []
-  },
-  {
-    "text": "tự tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1089,
-      1094
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
   },
   {
     "text": "chụp ct sọ",
@@ -346,11 +292,7 @@
       1417,
       1435
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "bệnh lý chất trắng",
@@ -374,28 +316,6 @@
     "assertions": []
   },
   {
-    "text": "đang chờ kết quả",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1494,
-      1510
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "tự tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1626,
-      1631
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "chọc dò dịch não tủy",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -410,15 +330,6 @@
     "position": [
       1778,
       1785
-    ],
-    "assertions": []
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1798,
-      1816
     ],
     "assertions": []
   },
@@ -492,15 +403,6 @@
     "assertions": []
   },
   {
-    "text": "đang chờ kết quả",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      2074,
-      2090
-    ],
-    "assertions": []
-  },
-  {
     "text": "bệnh lý chất trắng",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -522,16 +424,13 @@
     "assertions": []
   },
   {
-    "text": "hóa mủ",
+    "text": "hạch cổ",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      2213,
-      2219
+      2164,
+      2171
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "Kawasaki",
@@ -630,17 +529,6 @@
     "assertions": [],
     "candidates": [
       "M30.3"
-    ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2539,
-      2543
-    ],
-    "assertions": [
-      "isFamily"
     ]
   },
   {
@@ -752,7 +640,10 @@
       2817,
       2834
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "K92.9"
+    ]
   },
   {
     "text": "bệnh Kawasaki",
@@ -781,6 +672,15 @@
     "position": [
       2921,
       2933
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Môi – miệng thay đổi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2955,
+      2975
     ],
     "assertions": []
   },

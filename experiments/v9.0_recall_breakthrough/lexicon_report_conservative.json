@@ -1,0 +1,269 @@
+{
+  "raw_entries": 1277,
+  "kept": 237,
+  "kept_by_type": {
+    "TRIỆU_CHỨNG": 84,
+    "CHẨN_ĐOÁN": 43,
+    "TÊN_XÉT_NGHIỆM": 62,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 34,
+    "THUỐC": 14
+  },
+  "kept_with_codes": 56,
+  "rejected": 628,
+  "rejected_by_reason": {
+    "below_confidence_floor": 532,
+    "numeric_only": 10,
+    "stop_surface": 16,
+    "single_syllable": 31,
+    "too_short": 12,
+    "already_in_baseline": 6,
+    "type_conflict": 3,
+    "audit_drop": 18
+  },
+  "rejected_samples": [
+    {
+      "surface": "cấy que",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "que cấy",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "cấy Implanon",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "90-92%",
+      "reason": "numeric_only"
+    },
+    {
+      "surface": "93%",
+      "reason": "numeric_only"
+    },
+    {
+      "surface": "101",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "khạc nhổ",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Thuốc giảm đau",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "lo sợ",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "run rẩy tay chân",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "mất thăng bằng khi đi đứng",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "rụng tóc",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Corticosteroid",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "corticoid",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "diphenylcyclopropenone",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "diphencyprone",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "dinitrochlorobenzene",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "psoralen",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "bất thường sắc tố",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "B12",
+      "reason": "too_short"
+    },
+    {
+      "surface": "ung thư",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "khối u lành tính",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "u lành",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Estrogen",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Tăng gánh nhẹ tuần hoàn phổi",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "rối loạn sản xuất máu",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "cắt bao quy đầu",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "dương tính",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "biệt hóa kém",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "BiPAP",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "dị tật cố định vùng trước vách và vách dưới",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "kháng sinh",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "men tiêu hóa",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "buồn chán",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Phẫu thuật cắt cụt chân trái bên trên gối",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "cắt cụt chân phải bên dưới gối",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "phẫu thuật cắt cụt chân trái trên gối",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Enterococcus kháng vancomycin",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "kháng sinh tĩnh mạch",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "dị ứng thời tiết",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "uống nhiều rượu",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "hút cần sa",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "lợi tiểu",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Dị ứng furosemide",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "chủ quan sốt",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "que thử 2 vạch",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "tắc mạch",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "ghép gan",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "buồn ngủ",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "mô bệnh học",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "kính hiển thị vi điện tử",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "giảm cân",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "tăng cân trở lại",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "tiết quá nhiều mồ hôi",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "đái tháo đường",
+      "reason": "already_in_baseline"
+    },
+    {
+      "surface": "UTIs",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "vi khuẩn",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "vitamin C",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "không có quá trình bệnh lý tim phổi cấp tính",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "dòng picc đã đặt",
+      "reason": "below_confidence_floor"
+    }
+  ],
+  "codes_backfilled": 17,
+  "min_confidence": "high",
+  "audit_dropped": 18,
+  "audit_retyped": 0
+}

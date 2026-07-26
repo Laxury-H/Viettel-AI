@@ -56,38 +56,6 @@
     ]
   },
   {
-    "text": "Dị ứng",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      182,
-      188
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ],
-    "candidates": [
-      "T78.4"
-    ]
-  },
-  {
-    "text": "Dị ứng",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      190,
-      196
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ],
-    "candidates": [
-      "T78.4"
-    ]
-  },
-  {
     "text": "furosemide",
     "type": "THUỐC",
     "position": [
@@ -133,9 +101,7 @@
       455,
       488
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "căng cứng vai trái",
@@ -254,9 +220,7 @@
       1097,
       1111
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "tổn thương sụn chêm",
@@ -265,9 +229,7 @@
       1378,
       1397
     ],
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
       "S83.2"
     ]
@@ -306,17 +268,6 @@
     "assertions": [],
     "candidates": [
       "1743704"
-    ]
-  },
-  {
-    "text": "lợi tiểu",
-    "type": "THUỐC",
-    "position": [
-      1817,
-      1825
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   }
 ]

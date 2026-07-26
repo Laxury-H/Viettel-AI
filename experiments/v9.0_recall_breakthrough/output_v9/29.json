@@ -101,24 +101,6 @@
     ]
   },
   {
-    "text": "nhiệt độ",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      363,
-      371
-    ],
-    "assertions": []
-  },
-  {
-    "text": "38,3°C",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      388,
-      394
-    ],
-    "assertions": []
-  },
-  {
     "text": "sốt",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -203,30 +185,6 @@
     ]
   },
   {
-    "text": "lợi tiểu",
-    "type": "THUỐC",
-    "position": [
-      765,
-      773
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "BiPAP",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      854,
-      859
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
     "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -237,15 +195,6 @@
     "candidates": [
       "A41.0"
     ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1083,
-      1087
-    ],
-    "assertions": []
   },
   {
     "text": "Siêu âm mạch máu chi trên",
@@ -308,15 +257,6 @@
     "assertions": []
   },
   {
-    "text": "vòng kiềng",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1468,
-      1478
-    ],
-    "assertions": []
-  },
-  {
     "text": "bệnh bàn chân bẹt",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -329,18 +269,6 @@
     ]
   },
   {
-    "text": "tật bẩm sinh",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1726,
-      1738
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
     "text": "đau",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -350,15 +278,6 @@
     "assertions": [
       "isNegated"
     ]
-  },
-  {
-    "text": "khám lâm sàng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1935,
-      1948
-    ],
-    "assertions": []
   },
   {
     "text": "Siêu âm mạch máu chi trên",

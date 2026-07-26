@@ -45,27 +45,6 @@
     "assertions": []
   },
   {
-    "text": "ẽ tạo đi",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      526,
-      534
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "ớu và l",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      582,
-      589
-    ],
-    "assertions": []
-  },
-  {
     "text": "Viêm quanh răng",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -97,15 +76,6 @@
     "candidates": [
       "K05.3"
     ]
-  },
-  {
-    "text": "các triệu ch",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      760,
-      772
-    ],
-    "assertions": []
   },
   {
     "text": "đau",
@@ -174,11 +144,11 @@
     ]
   },
   {
-    "text": " dẫn đến",
+    "text": "mất răng",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      911,
-      919
+      931,
+      939
     ],
     "assertions": []
   },
@@ -212,6 +182,18 @@
     "position": [
       997,
       1008
+    ],
+    "assertions": [],
+    "candidates": [
+      "E58"
+    ]
+  },
+  {
+    "text": "Thiếu hụt canxi",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1021,
+      1036
     ],
     "assertions": [],
     "candidates": [
@@ -273,15 +255,6 @@
     "assertions": []
   },
   {
-    "text": "do cơ thể",
-    "type": "THUỐC",
-    "position": [
-      1140,
-      1149
-    ],
-    "assertions": []
-  },
-  {
     "text": "thiếu hụt vitamin K",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -336,18 +309,6 @@
     ]
   },
   {
-    "text": "hể sẽ g",
-    "type": "THUỐC",
-    "position": [
-      1272,
-      1279
-    ],
-    "assertions": [],
-    "candidates": [
-      "5856"
-    ]
-  },
-  {
     "text": "tiểu đường",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -360,11 +321,11 @@
     ]
   },
   {
-    "text": "g miệng. Tìn",
+    "text": "khó đông máu",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      1375,
-      1387
+      1395,
+      1407
     ],
     "assertions": []
   },
@@ -396,24 +357,6 @@
     "assertions": []
   },
   {
-    "text": "Các loại thuốc gồ",
-    "type": "THUỐC",
-    "position": [
-      1570,
-      1587
-    ],
-    "assertions": []
-  },
-  {
-    "text": " Kháng histamin H1, ",
-    "type": "THUỐC",
-    "position": [
-      1589,
-      1609
-    ],
-    "assertions": []
-  },
-  {
     "text": "trầm cảm",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -426,15 +369,6 @@
     ]
   },
   {
-    "text": ", thuốc kháng s",
-    "type": "THUỐC",
-    "position": [
-      1645,
-      1660
-    ],
-    "assertions": []
-  },
-  {
     "text": "nôn",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -444,29 +378,11 @@
     "assertions": []
   },
   {
-    "text": " trong thuốc ",
+    "text": "hỏng men răng",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      1709,
-      1722
-    ],
-    "assertions": []
-  },
-  {
-    "text": " gây hỏng men răng, gai lưỡ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1724,
-      1751
-    ],
-    "assertions": []
-  },
-  {
-    "text": "triển qu",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1758,
-      1766
+      1729,
+      1742
     ],
     "assertions": []
   },
@@ -489,11 +405,11 @@
     "assertions": []
   },
   {
-    "text": "ất r",
-    "type": "TÊN_XÉT_NGHIỆM",
+    "text": "mất răng",
+    "type": "TRIỆU_CHỨNG",
     "position": [
-      1835,
-      1839
+      1834,
+      1842
     ],
     "assertions": []
   },
@@ -534,15 +450,6 @@
     ]
   },
   {
-    "text": "ng dùng",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1949,
-      1956
-    ],
-    "assertions": []
-  },
-  {
     "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -555,26 +462,13 @@
     ]
   },
   {
-    "text": " mật ong",
+    "text": "cắt bao quy đầu",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      2133,
-      2141
+      2036,
+      2051
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": " khuẩn ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2155,
-      2162
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "sưng",
@@ -593,17 +487,6 @@
       2223
     ],
     "assertions": []
-  },
-  {
-    "text": " hương ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2234,
-      2241
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   },
   {
     "text": "chảy máu",
@@ -633,49 +516,21 @@
     "assertions": []
   },
   {
-    "text": "hặn quá ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2392,
-      2400
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "ăng và h",
+    "text": "bào láng gốc răng",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      2419,
-      2427
+      2365,
+      2382
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
-    "text": " vi khuẩn g",
+    "text": "Ghép mô mềm",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      2440,
-      2451
+      2462,
+      2473
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "ỏe răng miệng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2569,
-      2584
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   }
 ]

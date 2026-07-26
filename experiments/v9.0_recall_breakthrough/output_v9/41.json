@@ -1,14 +1,5 @@
 [
   {
-    "text": "da rất nhiều dầu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      57,
-      73
-    ],
-    "assertions": []
-  },
-  {
     "text": "mụn trứng cá",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -21,44 +12,13 @@
     ]
   },
   {
-    "text": "mụn ở trán",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      249,
-      259
-    ],
-    "assertions": []
-  },
-  {
-    "text": "da dầu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      316,
-      322
-    ],
-    "assertions": []
-  },
-  {
-    "text": "vi khuẩn",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      611,
-      619
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
     "text": "Trứng cá",
     "type": "CHẨN_ĐOÁN",
     "position": [
       681,
       689
     ],
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": [],
     "candidates": [
       "L70.9"
     ]
@@ -70,10 +30,7 @@
       744,
       752
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "mụn mủ",
@@ -82,9 +39,7 @@
       780,
       786
     ],
-    "assertions": [
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "nốt sần",
@@ -105,39 +60,6 @@
     "assertions": [],
     "candidates": [
       "L70.9"
-    ]
-  },
-  {
-    "text": "Tăng sản tuyến bã nhờn",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      850,
-      872
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
-    "text": "Sừng hóa nang lông bất thường",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      875,
-      904
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
-    "text": "Vi khuẩn",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      907,
-      915
-    ],
-    "assertions": [
-      "isFamily"
     ]
   },
   {
@@ -168,16 +90,10 @@
       982,
       995
     ],
-    "assertions": []
-  },
-  {
-    "text": "kháng sinh tại chỗ",
-    "type": "THUỐC",
-    "position": [
-      1044,
-      1062
-    ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "L70.0"
+    ]
   },
   {
     "text": "đau ngực trái",

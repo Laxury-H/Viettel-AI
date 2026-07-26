@@ -1,23 +1,5 @@
 [
   {
-    "text": "giảm cân",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      24,
-      32
-    ],
-    "assertions": []
-  },
-  {
-    "text": "tăng cân trở lại",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      36,
-      52
-    ],
-    "assertions": []
-  },
-  {
     "text": "MÀY đay VÔ CĂN",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -42,33 +24,13 @@
     ]
   },
   {
-    "text": "mô bệnh học",
+    "text": "tế bào một nhân",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      291,
-      302
+      338,
+      353
     ],
     "assertions": []
-  },
-  {
-    "text": "kính hiển thị vi quang học",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      435,
-      461
-    ],
-    "assertions": []
-  },
-  {
-    "text": "kính hiển thị vi điện tử",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      488,
-      512
-    ],
-    "assertions": [
-      "isFamily"
-    ]
   },
   {
     "text": "bệnh lý mày đay vô căn",
@@ -80,18 +42,6 @@
     "assertions": [],
     "candidates": [
       "L50.1"
-    ]
-  },
-  {
-    "text": "buồn ngủ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1183,
-      1191
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
     ]
   }
 ]

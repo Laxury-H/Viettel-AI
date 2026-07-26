@@ -1,9 +1,4 @@
 {
- "1000ml/24h": {
-  "confidence": "medium",
-  "surface": "1000ml/24h",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "105 chu kì/phút": {
   "confidence": "medium",
   "surface": "105 chu  kì/phút",
@@ -39,11 +34,6 @@
   "surface": "130 lần/phút",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "130/75mmhg": {
-  "confidence": "high",
-  "surface": "130/75mmHg",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "130/76 mmhg": {
   "confidence": "high",
   "surface": "130/76 mmHg",
@@ -59,29 +49,14 @@
   "surface": "14 l/p",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "15 điểm": {
-  "confidence": "high",
-  "surface": "15 điểm",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "150/60 mmhg": {
   "confidence": "high",
   "surface": "150/60 mmHg",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "1500ml/ngày": {
-  "confidence": "medium",
-  "surface": "1500ml/ngày",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "16 lần/phút": {
   "confidence": "high",
   "surface": "16 lần/phút",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "160/ 80 mmhg": {
-  "confidence": "high",
-  "surface": "160/ 80 mmHg",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "160/70 mmhg": {
@@ -98,16 +73,6 @@
   "confidence": "high",
   "surface": "180/100 mmHg",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "1800 ml": {
-  "confidence": "medium",
-  "surface": "1800 ml",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "2 sl ntg": {
-  "confidence": "low",
-  "surface": "2 sl ntg",
-  "type": "THUỐC"
  },
  "20 l/p": {
   "confidence": "high",
@@ -129,21 +94,6 @@
   "surface": "27 mmol/l",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "2l/ph": {
-  "confidence": "low",
-  "surface": "2L/ph",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "300 ml": {
-  "confidence": "medium",
-  "surface": "300 ml",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "350 ml": {
-  "confidence": "medium",
-  "surface": "350 ml",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "36.3 độ c": {
   "confidence": "high",
   "surface": "36.3 độ C",
@@ -152,26 +102,6 @@
  "36.5 độ c": {
   "confidence": "high",
   "surface": "36.5 độ C",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "36.7°c": {
-  "confidence": "high",
-  "surface": "36.7°c",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "37°c": {
-  "confidence": "high",
-  "surface": "37°C",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "38,3°c": {
-  "confidence": "high",
-  "surface": "38,3°C",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "38.3°c": {
-  "confidence": "medium",
-  "surface": "38.3°C",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "39.7 độ c": {
@@ -194,11 +124,6 @@
   "surface": "70 l/p",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "82 ck/ph": {
-  "confidence": "high",
-  "surface": "82 ck/ph",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "85 lần/phút": {
   "confidence": "high",
   "surface": "85 lần/phút",
@@ -219,16 +144,6 @@
   "surface": "93 l/p",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "98.6 70 10356 17 962lnc": {
-  "confidence": "low",
-  "surface": "98.6 70 10356 17 962LNC",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "98.8 65 9360 20 95 2lnc": {
-  "confidence": "low",
-  "surface": "98.8 65 9360 20 95 2LNC",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "<70 mg/dl": {
   "confidence": "high",
   "surface": "<70 mg/dL",
@@ -239,32 +154,20 @@
   "surface": "abdominal pain",
   "type": "TRIỆU_CHỨNG"
  },
- "acid uric": {
-  "confidence": "high",
-  "surface": "acid uric",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "acid uric máu": {
   "confidence": "high",
   "surface": "acid uric máu",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "aquima": {
-  "confidence": "high",
-  "surface": "Aquima",
-  "type": "THUỐC"
  },
  "axit uric": {
   "confidence": "high",
   "surface": "axit uric",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "ba stent mật kim loại": {
-  "confidence": "low",
-  "surface": "ba stent mật kim loại",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "bacillus clausii": {
+  "codes": [
+   "2600050"
+  ],
   "confidence": "high",
   "surface": "Bacillus clausii",
   "type": "THUỐC"
@@ -273,16 +176,6 @@
   "confidence": "high",
   "surface": "Ban dạng đa hình",
   "type": "TRIỆU_CHỨNG"
- },
- "biogermin": {
-  "confidence": "high",
-  "surface": "Biogermin",
-  "type": "THUỐC"
- },
- "bipap": {
-  "confidence": "low",
-  "surface": "BiPAP",
-  "type": "TÊN_XÉT_NGHIỆM"
  },
  "biệt hóa kém": {
   "confidence": "medium",
@@ -304,20 +197,10 @@
   "surface": "buồn chán",
   "type": "TRIỆU_CHỨNG"
  },
- "buồn ngủ": {
-  "confidence": "medium",
-  "surface": "buồn ngủ",
-  "type": "TRIỆU_CHỨNG"
- },
  "buồn nôn thoáng qua": {
   "confidence": "medium",
   "surface": "buồn nôn thoáng qua",
   "type": "TRIỆU_CHỨNG"
- },
- "buồng thất trái giãn": {
-  "confidence": "low",
-  "surface": "Buồng thất trái giãn",
-  "type": "CHẨN_ĐOÁN"
  },
  "bàn chân bẹt": {
   "codes": [
@@ -345,14 +228,6 @@
   "surface": "bạch biến",
   "type": "CHẨN_ĐOÁN"
  },
- "bất thường bẩm sinh": {
-  "codes": [
-   "Q89.9"
-  ],
-  "confidence": "low",
-  "surface": "bất thường bẩm sinh",
-  "type": "CHẨN_ĐOÁN"
- },
  "bất thường sắc tố": {
   "codes": [
    "L81.9"
@@ -361,9 +236,12 @@
   "surface": "bất thường sắc tố",
   "type": "CHẨN_ĐOÁN"
  },
- "bất thường về nhiễm sắc thể": {
-  "confidence": "low",
-  "surface": "bất thường về nhiễm sắc thể",
+ "bệnh amyloidosis di truyền hoặc gia đình": {
+  "codes": [
+   "E85.2"
+  ],
+  "confidence": "medium",
+  "surface": "Bệnh amyloidosis di truyền hoặc gia đình",
   "type": "CHẨN_ĐOÁN"
  },
  "bệnh amyloidosis tự miễn dịch": {
@@ -374,15 +252,29 @@
   "surface": "Bệnh amyloidosis tự miễn dịch",
   "type": "CHẨN_ĐOÁN"
  },
- "bệnh dạ dày": {
-  "confidence": "low",
-  "surface": "bệnh dạ dày",
+ "bệnh nấm bẹn": {
+  "codes": [
+   "B35.6"
+  ],
+  "confidence": "high",
+  "surface": "bệnh nấm bẹn",
   "type": "CHẨN_ĐOÁN"
  },
- "bệnh nhân tỉnh": {
-  "confidence": "medium",
-  "surface": "Bệnh nhân tỉnh",
-  "type": "TRIỆU_CHỨNG"
+ "bệnh phổi tắc nghẽn mạn tính, không xác định": {
+  "codes": [
+   "J44.9"
+  ],
+  "confidence": "high",
+  "surface": "bệnh phổi tắc nghẽn mạn tính, không xác định",
+  "type": "CHẨN_ĐOÁN"
+ },
+ "bệnh thận mạn, không đặc hiệu": {
+  "codes": [
+   "N18.9"
+  ],
+  "confidence": "high",
+  "surface": "bệnh thận mạn, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN"
  },
  "bệnh thận mạn, không đặc hiệu giai đoạn 4": {
   "codes": [
@@ -400,10 +292,18 @@
   "surface": "bệnh tiểu đường",
   "type": "CHẨN_ĐOÁN"
  },
- "bệnh đa hệ thống": {
-  "confidence": "low",
-  "surface": "bệnh đa hệ thống",
+ "bệnh trĩ": {
+  "codes": [
+   "K64.9"
+  ],
+  "confidence": "medium",
+  "surface": "bệnh trĩ",
   "type": "CHẨN_ĐOÁN"
+ },
+ "bị thương nhẹ": {
+  "confidence": "medium",
+  "surface": "bị thương nhẹ",
+  "type": "TRIỆU_CHỨNG"
  },
  "bọng nước": {
   "confidence": "high",
@@ -420,14 +320,14 @@
   "surface": "bồn chồn",
   "type": "TRIỆU_CHỨNG"
  },
+ "bổ thể": {
+  "confidence": "low",
+  "surface": "bổ thể",
+  "type": "TÊN_XÉT_NGHIỆM"
+ },
  "bục chỉ khâu bụng": {
   "confidence": "medium",
   "surface": "bục chỉ khâu bụng",
-  "type": "TRIỆU_CHỨNG"
- },
- "bụng mềm": {
-  "confidence": "high",
-  "surface": "Bụng mềm",
   "type": "TRIỆU_CHỨNG"
  },
  "bứt rứt": {
@@ -435,25 +335,10 @@
   "surface": "bứt rứt",
   "type": "TRIỆU_CHỨNG"
  },
- "cabg": {
-  "confidence": "high",
-  "surface": "CABG",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "calcium": {
-  "confidence": "low",
-  "surface": "calcium",
-  "type": "THUỐC"
- },
  "can thiệp mạch vành qua da": {
   "confidence": "high",
   "surface": "Can thiệp mạch vành qua da",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "cao răng": {
-  "confidence": "low",
-  "surface": "cao răng",
-  "type": "TRIỆU_CHỨNG"
  },
  "chạy thận nhân tạo": {
   "confidence": "high",
@@ -465,19 +350,14 @@
   "surface": "chảy máu khó cầm",
   "type": "TRIỆU_CHỨNG"
  },
- "chấn thương": {
-  "confidence": "low",
-  "surface": "chấn thương",
-  "type": "CHẨN_ĐOÁN"
- },
- "chẩn đoán hình ảnh": {
+ "chảy máu tái phát": {
   "confidence": "medium",
-  "surface": "chẩn đoán hình ảnh",
-  "type": "TÊN_XÉT_NGHIỆM"
+  "surface": "chảy máu tái phát",
+  "type": "TRIỆU_CHỨNG"
  },
- "chỉ nghe một bên": {
-  "confidence": "low",
-  "surface": "chỉ nghe một bên",
+ "chảy máu ít": {
+  "confidence": "medium",
+  "surface": "chảy máu ít",
   "type": "TRIỆU_CHỨNG"
  },
  "chỉ số tim/ln": {
@@ -503,16 +383,6 @@
  "chọc hút dịch": {
   "confidence": "medium",
   "surface": "chọc hút dịch",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "chống đông máu": {
-  "confidence": "low",
-  "surface": "chống đông máu",
-  "type": "THUỐC"
- },
- "chụp chẩn đoán hình ảnh": {
-  "confidence": "medium",
-  "surface": "chụp chẩn đoán hình ảnh",
   "type": "TÊN_XÉT_NGHIỆM"
  },
  "chụp ct bụng - tiểu khung": {
@@ -560,25 +430,10 @@
   "surface": "chủ quan sốt",
   "type": "TRIỆU_CHỨNG"
  },
- "chức năng thất trái": {
-  "confidence": "medium",
-  "surface": "chức năng thất trái",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "chức năng tâm thu thất phải": {
   "confidence": "medium",
   "surface": "chức năng tâm thu thất phải",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "chức năng tâm thu thất trái": {
-  "confidence": "medium",
-  "surface": "chức năng tâm thu thất trái",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "chức năng tâm thu thất trái bảo tồn": {
-  "confidence": "low",
-  "surface": "chức năng tâm thu thất trái bảo tồn",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "coronary artery disease": {
   "codes": [
@@ -588,16 +443,6 @@
   "surface": "Coronary Artery Disease",
   "type": "CHẨN_ĐOÁN"
  },
- "corticoid": {
-  "confidence": "high",
-  "surface": "corticoid",
-  "type": "THUỐC"
- },
- "corticosteroid": {
-  "confidence": "high",
-  "surface": "Corticosteroid",
-  "type": "THUỐC"
- },
  "ct ngực": {
   "confidence": "high",
   "surface": "CT ngực",
@@ -606,11 +451,6 @@
  "ct sọ não": {
   "confidence": "high",
   "surface": "CT sọ não",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "cân nặng": {
-  "confidence": "medium",
-  "surface": "cân nặng",
   "type": "TÊN_XÉT_NGHIỆM"
  },
  "cơn co giật": {
@@ -626,29 +466,22 @@
   "surface": "cơn gout cấp",
   "type": "CHẨN_ĐOÁN"
  },
- "cản trở vận động": {
+ "cơn đau thắt ngực": {
+  "codes": [
+   "I20.9"
+  ],
   "confidence": "medium",
-  "surface": "cản trở vận động",
-  "type": "TRIỆU_CHỨNG"
- },
- "cấu trúc vi nang": {
-  "confidence": "low",
-  "surface": "cấu trúc vi nang",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "cấy implanon": {
-  "confidence": "low",
-  "surface": "cấy Implanon",
-  "type": "TÊN_XÉT_NGHIỆM"
+  "surface": "cơn đau thắt ngực",
+  "type": "CHẨN_ĐOÁN"
  },
  "cấy mẫu bệnh phẩm": {
   "confidence": "high",
   "surface": "cấy mẫu bệnh phẩm",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "cấy que": {
+ "cấy que tránh thai": {
   "confidence": "medium",
-  "surface": "cấy que",
+  "surface": "cấy que tránh thai",
   "type": "TÊN_XÉT_NGHIỆM"
  },
  "cắt bao quy đầu": {
@@ -706,68 +539,15 @@
   "surface": "cực kỳ đau đớn",
   "type": "TRIỆU_CHỨNG"
  },
- "da dầu": {
-  "confidence": "medium",
-  "surface": "da dầu",
-  "type": "TRIỆU_CHỨNG"
- },
- "da niêm mạc hồng": {
-  "confidence": "high",
-  "surface": "Da niêm mạc hồng",
-  "type": "TRIỆU_CHỨNG"
- },
  "da niêm mạc nhợt": {
   "confidence": "high",
   "surface": "Da niêm mạc nhợt",
   "type": "TRIỆU_CHỨNG"
  },
- "da rất nhiều dầu": {
-  "confidence": "low",
-  "surface": "da rất nhiều dầu",
-  "type": "TRIỆU_CHỨNG"
- },
- "dextrose": {
-  "codes": [
-   "4850"
-  ],
-  "confidence": "high",
-  "surface": "dextrose",
-  "type": "THUỐC"
- },
- "diarrhea": {
-  "confidence": "high",
-  "surface": "diarrhea",
-  "type": "TRIỆU_CHỨNG"
- },
- "dinitrochlorobenzene": {
-  "confidence": "high",
-  "surface": "dinitrochlorobenzene",
-  "type": "THUỐC"
- },
- "diphencyprone": {
-  "confidence": "high",
-  "surface": "diphencyprone",
-  "type": "THUỐC"
- },
- "diphenylcyclopropenone": {
-  "confidence": "high",
-  "surface": "diphenylcyclopropenone",
-  "type": "THUỐC"
- },
  "dày thành một số quai ruột non": {
   "confidence": "medium",
   "surface": "dày thành một số quai ruột non",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "dòng picc đã đặt": {
-  "confidence": "low",
-  "surface": "dòng picc đã đặt",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "dấu hiệu sinh tồn": {
-  "confidence": "medium",
-  "surface": "dấu hiệu sinh tồn",
-  "type": "TÊN_XÉT_NGHIỆM"
  },
  "dẫn lưu dịch màng tim": {
   "confidence": "high",
@@ -779,19 +559,6 @@
   "surface": "dị cảm",
   "type": "TRIỆU_CHỨNG"
  },
- "dị tật bẩm sinh": {
-  "codes": [
-   "Q89.9"
-  ],
-  "confidence": "medium",
-  "surface": "dị tật bẩm sinh",
-  "type": "CHẨN_ĐOÁN"
- },
- "dị tật cố định vùng trước vách và vách dưới": {
-  "confidence": "medium",
-  "surface": "dị tật cố định vùng trước vách và vách dưới",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "dị vật đường thở": {
   "codes": [
    "T17.9"
@@ -800,27 +567,12 @@
   "surface": "dị vật đường thở",
   "type": "CHẨN_ĐOÁN"
  },
- "dị ứng": {
+ "dị ứng thời tiết": {
   "codes": [
    "T78.4"
   ],
-  "confidence": "low",
-  "surface": "dị ứng",
-  "type": "CHẨN_ĐOÁN"
- },
- "dị ứng furosemide": {
-  "confidence": "low",
-  "surface": "Dị ứng furosemide",
-  "type": "CHẨN_ĐOÁN"
- },
- "dị ứng thời tiết": {
   "confidence": "medium",
   "surface": "dị ứng thời tiết",
-  "type": "CHẨN_ĐOÁN"
- },
- "dịch dưới màng cứng": {
-  "confidence": "medium",
-  "surface": "dịch dưới màng cứng",
   "type": "CHẨN_ĐOÁN"
  },
  "dịch giống mủ": {
@@ -833,11 +585,6 @@
   "surface": "dịch giống mủ có màu vàng",
   "type": "TRIỆU_CHỨNG"
  },
- "dịch quanh túi mật": {
-  "confidence": "low",
-  "surface": "dịch quanh túi mật",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "dịch tiết có vẻ như mủ": {
   "confidence": "medium",
   "surface": "dịch tiết có vẻ như mủ",
@@ -848,58 +595,23 @@
   "surface": "dịch từ vết mổ",
   "type": "TRIỆU_CHỨNG"
  },
- "enterococcus kháng vancomycin": {
-  "confidence": "low",
-  "surface": "Enterococcus kháng vancomycin",
-  "type": "CHẨN_ĐOÁN"
- },
- "enterogermina": {
-  "confidence": "high",
-  "surface": "Enterogermina",
-  "type": "THUỐC"
- },
- "estrogen": {
-  "confidence": "medium",
-  "surface": "Estrogen",
-  "type": "THUỐC"
- },
- "folate": {
-  "confidence": "low",
-  "surface": "Folate",
-  "type": "THUỐC"
- },
- "fortex": {
-  "confidence": "medium",
-  "surface": "Fortex",
-  "type": "THUỐC"
- },
- "furosemid": {
-  "codes": [
-   "4603"
-  ],
-  "confidence": "high",
-  "surface": "Furosemid",
-  "type": "THUỐC"
- },
- "gai lưỡi phát triển quá mức": {
-  "confidence": "medium",
-  "surface": "gai lưỡi phát triển quá mức",
-  "type": "TRIỆU_CHỨNG"
- },
  "gai rét": {
   "confidence": "high",
   "surface": "gai rét",
-  "type": "TRIỆU_CHỨNG"
- },
- "gan lách không sờ thấy": {
-  "confidence": "medium",
-  "surface": "gan lách không sờ thấy",
   "type": "TRIỆU_CHỨNG"
  },
  "gan to": {
   "confidence": "high",
   "surface": "Gan to",
   "type": "TRIỆU_CHỨNG"
+ },
+ "gen đông máu": {
+  "codes": [
+   "D68.5"
+  ],
+  "confidence": "high",
+  "surface": "gen đông máu",
+  "type": "CHẨN_ĐOÁN"
  },
  "ghi điện tim": {
   "confidence": "high",
@@ -911,11 +623,6 @@
   "surface": "Ghi điện tim cấp cứu tại giường",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "ghép gan": {
-  "confidence": "low",
-  "surface": "ghép gan",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "ghép mô mềm": {
   "confidence": "medium",
   "surface": "Ghép mô mềm",
@@ -925,21 +632,6 @@
   "confidence": "medium",
   "surface": "ghép thận",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "gián đoạn giấc ngủ": {
-  "confidence": "medium",
-  "surface": "gián đoạn giấc ngủ",
-  "type": "TRIỆU_CHỨNG"
- },
- "giãn nh đường mật trong gan hai bên": {
-  "confidence": "low",
-  "surface": "giãn nh đường mật trong gan hai bên",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "giảm cân": {
-  "confidence": "low",
-  "surface": "giảm cân",
-  "type": "TRIỆU_CHỨNG"
  },
  "giảm dung nạp gắng sức": {
   "confidence": "high",
@@ -966,14 +658,9 @@
   "surface": "giảm nhiều",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "giảm vận động": {
+ "glucose máu": {
   "confidence": "medium",
-  "surface": "Giảm vận động",
-  "type": "TRIỆU_CHỨNG"
- },
- "glasgow": {
-  "confidence": "high",
-  "surface": "Glasgow",
+  "surface": "Glucose máu",
   "type": "TÊN_XÉT_NGHIỆM"
  },
  "gần ngất": {
@@ -981,45 +668,18 @@
   "surface": "Gần ngất",
   "type": "TRIỆU_CHỨNG"
  },
- "hoang mang": {
-  "confidence": "medium",
-  "surface": "hoang mang",
-  "type": "TRIỆU_CHỨNG"
- },
- "hoại tử": {
-  "confidence": "medium",
-  "surface": "hoại tử",
-  "type": "TRIỆU_CHỨNG"
- },
  "hoại tử nhu mô phổi": {
+  "codes": [
+   "J85.0"
+  ],
   "confidence": "low",
   "surface": "hoại tử nhu mô phổi",
   "type": "CHẨN_ĐOÁN"
- },
- "huyết áp": {
-  "confidence": "high",
-  "surface": "Huyết áp",
-  "type": "TÊN_XÉT_NGHIỆM"
  },
  "huyết áp tâm thu": {
   "confidence": "high",
   "surface": "huyết áp tâm thu",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "hóa mủ": {
-  "confidence": "low",
-  "surface": "hóa mủ",
-  "type": "TRIỆU_CHỨNG"
- },
- "hóa trị": {
-  "confidence": "medium",
-  "surface": "hóa trị",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "hút cần sa": {
-  "confidence": "low",
-  "surface": "hút cần sa",
-  "type": "TRIỆU_CHỨNG"
  },
  "hưng cảm": {
   "codes": [
@@ -1035,8 +695,16 @@
   "type": "TRIỆU_CHỨNG"
  },
  "hạ huyết áp, không đặc hiệu": {
-  "confidence": "medium",
+  "codes": [
+   "I95.9"
+  ],
+  "confidence": "high",
   "surface": "hạ huyết áp, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN"
+ },
+ "hạch cổ": {
+  "confidence": "high",
+  "surface": "hạch cổ",
   "type": "TRIỆU_CHỨNG"
  },
  "hạch cổ to": {
@@ -1054,12 +722,15 @@
   "surface": "hắt hơi",
   "type": "TRIỆU_CHỨNG"
  },
- "hẹp lòng mạch": {
-  "confidence": "low",
-  "surface": "hẹp lòng mạch",
-  "type": "CHẨN_ĐOÁN"
+ "hắt hơi mạnh": {
+  "confidence": "medium",
+  "surface": "hắt hơi mạnh",
+  "type": "TRIỆU_CHỨNG"
  },
  "hẹp lỗ liên hợp": {
+  "codes": [
+   "M48.0"
+  ],
   "confidence": "medium",
   "surface": "hẹp lỗ liên hợp",
   "type": "CHẨN_ĐOÁN"
@@ -1083,27 +754,28 @@
   "type": "TRIỆU_CHỨNG"
  },
  "hội chứng hủy hoại tế bào gan": {
+  "codes": [
+   "K76.9"
+  ],
   "confidence": "medium",
   "surface": "Hội chứng hủy hoại tế bào gan",
   "type": "CHẨN_ĐOÁN"
  },
- "hội chứng nhiễm trùng nhiễm độc": {
+ "hội chứng turner, không đặc hiệu": {
+  "codes": [
+   "Q96.9"
+  ],
   "confidence": "medium",
-  "surface": "Hội chứng nhiễm trùng nhiễm độc",
+  "surface": "hội chứng turner, không đặc hiệu",
   "type": "CHẨN_ĐOÁN"
  },
  "hội chứng viêm gan vàng da ứ mật": {
+  "codes": [
+   "B16.9"
+  ],
   "confidence": "medium",
   "surface": "Hội chứng viêm gan vàng da ứ mật",
   "type": "CHẨN_ĐOÁN"
- },
- "insulin": {
-  "codes": [
-   "5856"
-  ],
-  "confidence": "high",
-  "surface": "insulin",
-  "type": "THUỐC"
  },
  "khuỵ xuống": {
   "confidence": "medium",
@@ -1115,11 +787,6 @@
   "surface": "khuỵu chân",
   "type": "TRIỆU_CHỨNG"
  },
- "khám lâm sàng": {
-  "confidence": "medium",
-  "surface": "Khám lâm sàng",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "khám nhãn khoa": {
   "confidence": "medium",
   "surface": "Khám nhãn khoa",
@@ -1130,32 +797,10 @@
   "surface": "khám răng miệng",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "khám sức khỏe": {
-  "confidence": "low",
-  "surface": "khám sức khỏe",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "khám thai": {
-  "confidence": "low",
-  "surface": "khám thai",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "kháng histamin h1": {
-  "confidence": "high",
-  "surface": "Kháng histamin H1",
-  "type": "THUỐC"
- },
- "kháng sinh tĩnh mạch": {
-  "confidence": "medium",
-  "surface": "kháng sinh tĩnh mạch",
-  "type": "THUỐC"
- },
- "kháng sinh tại chỗ": {
-  "confidence": "medium",
-  "surface": "kháng sinh tại chỗ",
-  "type": "THUỐC"
- },
  "kháng vitamin k": {
+  "codes": [
+   "11289"
+  ],
   "confidence": "medium",
   "surface": "kháng vitamin K",
   "type": "THUỐC"
@@ -1164,11 +809,6 @@
   "confidence": "high",
   "surface": "Khí máu",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "khó chịu": {
-  "confidence": "medium",
-  "surface": "khó chịu",
-  "type": "TRIỆU_CHỨNG"
  },
  "khó chịu vùng bụng": {
   "confidence": "high",
@@ -1220,11 +860,6 @@
   "surface": "không biến đổi ST-T",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "không chướng": {
-  "confidence": "medium",
-  "surface": "không chướng",
-  "type": "TRIỆU_CHỨNG"
- },
  "không có gì đáng chú ý": {
   "confidence": "high",
   "surface": "không có gì đáng chú ý",
@@ -1236,29 +871,22 @@
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "không có lỗ tai": {
-  "confidence": "low",
+  "confidence": "medium",
   "surface": "không có lỗ tai",
-  "type": "TRIỆU_CHỨNG"
- },
- "không có quá trình bệnh lý tim phổi cấp tính": {
-  "confidence": "medium",
-  "surface": "không có quá trình bệnh lý tim phổi cấp tính",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "không có tiếng rales bệnh lí": {
-  "confidence": "medium",
-  "surface": "không có tiếng rales bệnh lí",
-  "type": "TRIỆU_CHỨNG"
- },
- "không có tiếng tim bệnh lí": {
-  "confidence": "medium",
-  "surface": "không có tiếng tim bệnh lí",
   "type": "TRIỆU_CHỨNG"
  },
  "không nhấc chân phải khỏi mặt giường": {
   "confidence": "medium",
   "surface": "không nhấc chân phải khỏi mặt giường",
   "type": "TRIỆU_CHỨNG"
+ },
+ "không rụng trứng": {
+  "codes": [
+   "N97.0"
+  ],
+  "confidence": "medium",
+  "surface": "không rụng trứng",
+  "type": "CHẨN_ĐOÁN"
  },
  "không thấy thâm nhiễm": {
   "confidence": "high",
@@ -1275,19 +903,9 @@
   "surface": "không ứ nước",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "khạc nhổ": {
-  "confidence": "medium",
-  "surface": "khạc nhổ",
-  "type": "TRIỆU_CHỨNG"
- },
  "khạc ra mủ": {
   "confidence": "high",
   "surface": "khạc ra mủ",
-  "type": "TRIỆU_CHỨNG"
- },
- "khối u": {
-  "confidence": "low",
-  "surface": "khối u",
   "type": "TRIỆU_CHỨNG"
  },
  "khối u lành tính": {
@@ -1303,16 +921,6 @@
   "surface": "kích thích nhẹ",
   "type": "TRIỆU_CHỨNG"
  },
- "kính hiển thị vi quang học": {
-  "confidence": "low",
-  "surface": "kính hiển thị vi quang học",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "kính hiển thị vi điện tử": {
-  "confidence": "low",
-  "surface": "kính hiển thị vi điện tử",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "kính hiển vi quang học": {
   "confidence": "medium",
   "surface": "kính hiển vi quang học",
@@ -1323,38 +931,13 @@
   "surface": "kính hiển vi điện tử",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "lan xuống cánh tay trái": {
-  "confidence": "low",
-  "surface": "lan xuống cánh tay trái",
-  "type": "TRIỆU_CHỨNG"
- },
- "lipid": {
-  "confidence": "medium",
-  "surface": "lipid",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "liệu pháp lợi tiểu": {
+  "codes": [
+   "4603"
+  ],
   "confidence": "medium",
   "surface": "liệu pháp lợi tiểu",
   "type": "THUỐC"
- },
- "lo sợ": {
-  "confidence": "medium",
-  "surface": "lo sợ",
-  "type": "TRIỆU_CHỨNG"
- },
- "loạn thần": {
-  "codes": [
-   "F29"
-  ],
-  "confidence": "medium",
-  "surface": "loạn thần",
-  "type": "CHẨN_ĐOÁN"
- },
- "lãnh cảm": {
-  "confidence": "low",
-  "surface": "lãnh cảm",
-  "type": "TRIỆU_CHỨNG"
  },
  "lòng bàn chân phẳng": {
   "confidence": "medium",
@@ -1366,58 +949,28 @@
   "surface": "lưỡi dâu tây",
   "type": "TRIỆU_CHỨNG"
  },
+ "lạm dụng chất kích thích": {
+  "codes": [
+   "F19.1"
+  ],
+  "confidence": "medium",
+  "surface": "Lạm dụng chất kích thích",
+  "type": "CHẨN_ĐOÁN"
+ },
  "lấy máu khô ở gót chân": {
   "confidence": "high",
   "surface": "lấy máu khô ở gót chân",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "lắp chân giả": {
-  "confidence": "low",
-  "surface": "lắp chân giả",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "lớn hơn 7mm": {
-  "confidence": "low",
-  "surface": "lớn hơn 7mm",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "lớp dịch dưới màng cứng": {
-  "confidence": "low",
-  "surface": "lớp dịch dưới màng cứng",
-  "type": "CHẨN_ĐOÁN"
- },
- "lợi tiểu": {
+ "lắng đọng các phức hợp miễn dịch": {
   "confidence": "medium",
-  "surface": "lợi tiểu",
-  "type": "THUỐC"
- },
- "mang thai": {
-  "confidence": "low",
-  "surface": "mang thai",
-  "type": "CHẨN_ĐOÁN"
- },
- "medrol": {
-  "codes": [
-   "6902"
-  ],
-  "confidence": "high",
-  "surface": "Medrol",
-  "type": "THUỐC"
- },
- "men gan tăng": {
-  "confidence": "low",
-  "surface": "men gan tăng",
+  "surface": "lắng đọng các phức hợp miễn dịch",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "men tim": {
   "confidence": "high",
   "surface": "Men tim",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "men tiêu hóa": {
-  "confidence": "medium",
-  "surface": "men tiêu hóa",
-  "type": "THUỐC"
  },
  "mày đay": {
   "codes": [
@@ -1427,33 +980,18 @@
   "surface": "mày đay",
   "type": "CHẨN_ĐOÁN"
  },
- "mãn kinh": {
-  "codes": [
-   "N95.1"
-  ],
-  "confidence": "low",
-  "surface": "mãn kinh",
-  "type": "CHẨN_ĐOÁN"
- },
- "mô bệnh học": {
-  "confidence": "medium",
-  "surface": "mô bệnh học",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "mùi hôi": {
-  "confidence": "medium",
-  "surface": "mùi hôi",
-  "type": "TRIỆU_CHỨNG"
- },
- "mạch": {
+ "môi – miệng thay đổi": {
   "confidence": "high",
-  "surface": "Mạch",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "mạch đập": {
-  "confidence": "medium",
-  "surface": "mạch đập",
+  "surface": "Môi – miệng thay đổi",
   "type": "TRIỆU_CHỨNG"
+ },
+ "mảng xơ vữa": {
+  "codes": [
+   "I70.9"
+  ],
+  "confidence": "medium",
+  "surface": "mảng xơ vữa",
+  "type": "CHẨN_ĐOÁN"
  },
  "mảng đỏ": {
   "confidence": "medium",
@@ -1488,14 +1026,9 @@
   "surface": "mụn mủ",
   "type": "TRIỆU_CHỨNG"
  },
- "mụn ở trán": {
+ "nghĩ tự bắn vào đầu": {
   "confidence": "medium",
-  "surface": "mụn ở trán",
-  "type": "TRIỆU_CHỨNG"
- },
- "nausea": {
-  "confidence": "high",
-  "surface": "nausea",
+  "surface": "nghĩ tự bắn vào đầu",
   "type": "TRIỆU_CHỨNG"
  },
  "nguy cơ tiền sản giật cao": {
@@ -1529,17 +1062,20 @@
   "surface": "nhiễm khuẩn tiết niệu",
   "type": "CHẨN_ĐOÁN"
  },
+ "nhiễm khuẩn đường tiết niệu tái phát": {
+  "codes": [
+   "N39.0"
+  ],
+  "confidence": "medium",
+  "surface": "nhiễm khuẩn đường tiết niệu tái phát",
+  "type": "CHẨN_ĐOÁN"
+ },
  "nhiễm nấm": {
   "codes": [
    "B49"
   ],
   "confidence": "medium",
   "surface": "nhiễm nấm",
-  "type": "CHẨN_ĐOÁN"
- },
- "nhiễm trùng lợi": {
-  "confidence": "medium",
-  "surface": "nhiễm trùng lợi",
   "type": "CHẨN_ĐOÁN"
  },
  "nhiễm virus": {
@@ -1550,13 +1086,8 @@
   "surface": "nhiễm virus",
   "type": "CHẨN_ĐOÁN"
  },
- "nhiệt độ": {
-  "confidence": "high",
-  "surface": "Nhiệt độ",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "nhuộm huỳnh quang miễn dịch": {
-  "confidence": "medium",
+  "confidence": "high",
   "surface": "Nhuộm huỳnh quang miễn dịch",
   "type": "TÊN_XÉT_NGHIỆM"
  },
@@ -1565,19 +1096,9 @@
   "surface": "nhân mụn",
   "type": "TRIỆU_CHỨNG"
  },
- "nhói": {
-  "confidence": "low",
-  "surface": "nhói",
-  "type": "TRIỆU_CHỨNG"
- },
  "nhịp thở": {
   "confidence": "high",
   "surface": "Nhịp thở",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "nhịp tim": {
-  "confidence": "medium",
-  "surface": "nhịp tim",
   "type": "TÊN_XÉT_NGHIỆM"
  },
  "nhịp xoang": {
@@ -1586,23 +1107,16 @@
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "nhồi máu": {
+  "codes": [
+   "I21.9"
+  ],
   "confidence": "medium",
   "surface": "nhồi máu",
   "type": "CHẨN_ĐOÁN"
  },
- "nitralmyl": {
-  "confidence": "high",
-  "surface": "Nitralmyl",
-  "type": "THUỐC"
- },
  "niêm mạc phù nề": {
   "confidence": "medium",
   "surface": "niêm mạc phù nề",
-  "type": "TRIỆU_CHỨNG"
- },
- "niêm mạc vùng hang vị dạ dày viêm": {
-  "confidence": "low",
-  "surface": "niêm mạc vùng hang vị dạ dày viêm",
   "type": "TRIỆU_CHỨNG"
  },
  "nong bóng": {
@@ -1611,11 +1125,17 @@
   "type": "TÊN_XÉT_NGHIỆM"
  },
  "nsaid": {
+  "codes": [
+   "5640"
+  ],
   "confidence": "high",
   "surface": "NSAID",
   "type": "THUỐC"
  },
  "nsaids": {
+  "codes": [
+   "5640"
+  ],
   "confidence": "medium",
   "surface": "NSAIDs",
   "type": "THUỐC"
@@ -1625,17 +1145,20 @@
   "surface": "NT - proBNP",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "nyha iii-iv": {
-  "confidence": "low",
-  "surface": "NYHA III-IV",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "não úng thuỷ": {
   "codes": [
    "G91.9"
   ],
   "confidence": "high",
   "surface": "não úng thuỷ",
+  "type": "CHẨN_ĐOÁN"
+ },
+ "não úng thuỷ khác": {
+  "codes": [
+   "G91.8"
+  ],
+  "confidence": "medium",
+  "surface": "não úng thuỷ khác",
   "type": "CHẨN_ĐOÁN"
  },
  "nôn ra thức ăn và dịch dạ dày": {
@@ -1652,16 +1175,6 @@
   "confidence": "high",
   "surface": "nôn ói",
   "type": "TRIỆU_CHỨNG"
- },
- "nước tiểu có cặn": {
-  "confidence": "low",
-  "surface": "nước tiểu có cặn",
-  "type": "TRIỆU_CHỨNG"
- },
- "nước tiểu trong": {
-  "confidence": "low",
-  "surface": "nước tiểu trong",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "nốt sần": {
   "confidence": "high",
@@ -1702,40 +1215,6 @@
   "confidence": "high",
   "surface": "nội soi tiêu hóa",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "omez": {
-  "codes": [
-   "7646"
-  ],
-  "confidence": "high",
-  "surface": "Omez",
-  "type": "THUỐC"
- },
- "paracetamol": {
-  "codes": [
-   "161"
-  ],
-  "confidence": "high",
-  "surface": "paracetamol",
-  "type": "THUỐC"
- },
- "parkinson": {
-  "codes": [
-   "G20"
-  ],
-  "confidence": "medium",
-  "surface": "Parkinson",
-  "type": "CHẨN_ĐOÁN"
- },
- "paroxysmal nocturnal dyspnea": {
-  "confidence": "high",
-  "surface": "paroxysmal nocturnal dyspnea",
-  "type": "TRIỆU_CHỨNG"
- },
- "philpovin": {
-  "confidence": "medium",
-  "surface": "Philpovin",
-  "type": "THUỐC"
  },
  "phân có máu": {
   "confidence": "medium",
@@ -1780,11 +1259,6 @@
   "surface": "Phẫu thuật bắc cầu mạch vành",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "phẫu thuật cắt bỏ tuyến tiền liệt": {
-  "confidence": "low",
-  "surface": "phẫu thuật cắt bỏ tuyến tiền liệt",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "phẫu thuật cắt bỏ u dây thần kinh số viii": {
   "confidence": "low",
   "surface": "Phẫu thuật cắt bỏ u dây thần kinh số VIII",
@@ -1820,11 +1294,6 @@
   "surface": "phẫu thuật nối ống gan - hỗng tràng",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "phẫu thuật thay van hai lá cơ học": {
-  "confidence": "low",
-  "surface": "Phẫu thuật thay van hai lá cơ học",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "phẫu thuật tạo hình vành tai": {
   "confidence": "medium",
   "surface": "phẫu thuật tạo hình vành tai",
@@ -1835,10 +1304,15 @@
   "surface": "phẫu thuật tạo hậu môn nhân tạo kiểu túi nối hồi tràng - hậu môn",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "phổi thông khí đều": {
+ "phẫu thuật đặt cảng": {
   "confidence": "medium",
-  "surface": "Phổi thông khí đều",
-  "type": "TRIỆU_CHỨNG"
+  "surface": "Phẫu thuật đặt cảng",
+  "type": "TÊN_XÉT_NGHIỆM"
+ },
+ "phức hợp miễn dịch": {
+  "confidence": "medium",
+  "surface": "phức hợp miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM"
  },
  "po metoprolol": {
   "codes": [
@@ -1853,16 +1327,6 @@
   "surface": "Prothrombin Time",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "psoralen": {
-  "confidence": "medium",
-  "surface": "psoralen",
-  "type": "THUỐC"
- },
- "puva": {
-  "confidence": "low",
-  "surface": "PUVA",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "q bệnh lý": {
   "confidence": "medium",
   "surface": "Q bệnh lý",
@@ -1873,27 +1337,10 @@
   "surface": "Quai ĐMC vồng cao",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "que cấy": {
-  "confidence": "medium",
-  "surface": "que cấy",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "que cấy tránh thai": {
-  "confidence": "low",
-  "surface": "que cấy tránh thai",
-  "type": "THUỐC"
- },
- "que thử 2 vạch": {
-  "confidence": "low",
-  "surface": "que thử 2 vạch",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "que tránh thai": {
-  "confidence": "low",
-  "surface": "Que tránh thai",
-  "type": "THUỐC"
- },
  "quá liều thuốc kháng vitamin k": {
+  "codes": [
+   "T45.5"
+  ],
   "confidence": "medium",
   "surface": "quá liều thuốc kháng vitamin K",
   "type": "CHẨN_ĐOÁN"
@@ -1911,11 +1358,6 @@
  "rrpn giảm 2 phế trường": {
   "confidence": "high",
   "surface": "RRPN giảm 2 phế trường",
-  "type": "TRIỆU_CHỨNG"
- },
- "rrpn rõ": {
-  "confidence": "medium",
-  "surface": "RRPN rõ",
   "type": "TRIỆU_CHỨNG"
  },
  "rrpn thô": {
@@ -1949,21 +1391,25 @@
   "type": "TRIỆU_CHỨNG"
  },
  "rối loạn chức năng thất trái": {
+  "codes": [
+   "I50.9"
+  ],
   "confidence": "high",
   "surface": "rối loạn chức năng thất trái",
   "type": "CHẨN_ĐOÁN"
  },
- "rối loạn sản xuất máu": {
-  "confidence": "low",
-  "surface": "rối loạn sản xuất máu",
-  "type": "TRIỆU_CHỨNG"
- },
- "rối loạn thị lực": {
+ "rối loạn cảm xúc lưỡng cực khác": {
+  "codes": [
+   "F31.8"
+  ],
   "confidence": "high",
-  "surface": "rối loạn thị lực",
-  "type": "TRIỆU_CHỨNG"
+  "surface": "rối loạn cảm xúc lưỡng cực khác",
+  "type": "CHẨN_ĐOÁN"
  },
  "rối loạn tiêu hóa": {
+  "codes": [
+   "K92.9"
+  ],
   "confidence": "high",
   "surface": "Rối loạn tiêu hóa",
   "type": "CHẨN_ĐOÁN"
@@ -1972,14 +1418,6 @@
   "confidence": "medium",
   "surface": "rốn phổi đậm",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "rụng tóc": {
-  "codes": [
-   "L65.9"
-  ],
-  "confidence": "medium",
-  "surface": "rụng tóc",
-  "type": "CHẨN_ĐOÁN"
  },
  "rụng tóc toàn bộ": {
   "codes": [
@@ -2001,11 +1439,6 @@
   "confidence": "high",
   "surface": "shortness of breath",
   "type": "TRIỆU_CHỨNG"
- },
- "simenic": {
-  "confidence": "high",
-  "surface": "Simenic",
-  "type": "THUỐC"
  },
  "sinh thiết nội mạc tử cung": {
   "confidence": "high",
@@ -2055,25 +1488,15 @@
   "surface": "stent mạch vành",
   "type": "CHẨN_ĐOÁN"
  },
- "stress": {
-  "codes": [
-   "F43.9"
-  ],
-  "confidence": "low",
-  "surface": "stress",
-  "type": "CHẨN_ĐOÁN"
- },
  "sung huyết đỏ": {
   "confidence": "medium",
   "surface": "sung huyết đỏ",
-  "type": "TRIỆU_CHỨNG"
- },
- "suy các cơ quan": {
-  "confidence": "low",
-  "surface": "suy các cơ quan",
-  "type": "CHẨN_ĐOÁN"
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "suy giảm chức năng gan": {
+  "codes": [
+   "K72.9"
+  ],
   "confidence": "high",
   "surface": "suy giảm chức năng gan",
   "type": "CHẨN_ĐOÁN"
@@ -2086,11 +1509,6 @@
   "surface": "suy giảm miễn dịch",
   "type": "CHẨN_ĐOÁN"
  },
- "sàng lọc sớm": {
-  "confidence": "medium",
-  "surface": "sàng lọc sớm",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
  "sóng t đảo": {
   "confidence": "high",
   "surface": "Sóng T đảo",
@@ -2101,12 +1519,10 @@
   "surface": "sưng hạch cổ",
   "type": "TRIỆU_CHỨNG"
  },
- "sưng nề đau khi sờ nắn": {
-  "confidence": "low",
-  "surface": "sưng nề đau khi sờ nắn",
-  "type": "TRIỆU_CHỨNG"
- },
  "sạm da": {
+  "codes": [
+   "L81.4"
+  ],
   "confidence": "medium",
   "surface": "sạm da",
   "type": "CHẨN_ĐOÁN"
@@ -2148,16 +1564,11 @@
   "type": "TRIỆU_CHỨNG"
  },
  "sốt phát ban": {
+  "codes": [
+   "B08.2"
+  ],
   "confidence": "high",
   "surface": "sốt phát ban",
-  "type": "CHẨN_ĐOÁN"
- },
- "sốt rét": {
-  "codes": [
-   "B54"
-  ],
-  "confidence": "low",
-  "surface": "sốt rét",
   "type": "CHẨN_ĐOÁN"
  },
  "sốt siêu vi": {
@@ -2167,16 +1578,6 @@
   "confidence": "high",
   "surface": "sốt siêu vi",
   "type": "CHẨN_ĐOÁN"
- },
- "sừng hóa nang lông bất thường": {
-  "confidence": "low",
-  "surface": "Sừng hóa nang lông bất thường",
-  "type": "CHẨN_ĐOÁN"
- },
- "t1, t2 rõ": {
-  "confidence": "medium",
-  "surface": "T1, T2 rõ",
-  "type": "TRIỆU_CHỨNG"
  },
  "t1t2 rõ": {
   "confidence": "medium",
@@ -2189,33 +1590,21 @@
   "type": "TRIỆU_CHỨNG"
  },
  "teo niêm mạc tử cung": {
+  "codes": [
+   "N85.8"
+  ],
   "confidence": "medium",
   "surface": "teo niêm mạc tử cung",
   "type": "CHẨN_ĐOÁN"
- },
- "thay khớp háng": {
-  "confidence": "low",
-  "surface": "thay khớp háng",
-  "type": "TÊN_XÉT_NGHIỆM"
  },
  "thay đổi chức năng ruột": {
   "confidence": "medium",
   "surface": "thay đổi chức năng ruột",
   "type": "TRIỆU_CHỨNG"
  },
- "thay đổi thoái hóa": {
-  "confidence": "low",
-  "surface": "thay đổi thoái hóa",
-  "type": "CHẨN_ĐOÁN"
- },
  "thay đổi thói quen đại tiện": {
   "confidence": "medium",
   "surface": "thay đổi thói quen đại tiện",
-  "type": "TRIỆU_CHỨNG"
- },
- "thay đổi tính chất cơn đau khi thay đổi tư thế": {
-  "confidence": "low",
-  "surface": "thay đổi tính chất cơn đau khi thay đổi tư thế",
   "type": "TRIỆU_CHỨNG"
  },
  "thiếu hụt canxi": {
@@ -2226,67 +1615,79 @@
   "surface": "Thiếu hụt canxi",
   "type": "CHẨN_ĐOÁN"
  },
- "thiếu oxy cơ tim": {
-  "confidence": "low",
-  "surface": "thiếu oxy cơ tim",
-  "type": "TRIỆU_CHỨNG"
+ "thiếu vitamin b12": {
+  "codes": [
+   "E53.8"
+  ],
+  "confidence": "medium",
+  "surface": "thiếu vitamin B12",
+  "type": "CHẨN_ĐOÁN"
  },
  "thuốc an thần": {
+  "codes": [
+   "3322"
+  ],
   "confidence": "medium",
   "surface": "thuốc an thần",
   "type": "THUỐC"
  },
  "thuốc chống nôn": {
+  "codes": [
+   "6915"
+  ],
   "confidence": "high",
   "surface": "thuốc chống nôn",
   "type": "THUỐC"
  },
  "thuốc chống trầm cảm": {
+  "codes": [
+   "704"
+  ],
   "confidence": "high",
   "surface": "thuốc chống trầm cảm",
   "type": "THUỐC"
  },
  "thuốc chống đông": {
+  "codes": [
+   "67108"
+  ],
   "confidence": "high",
   "surface": "thuốc chống đông",
   "type": "THUỐC"
  },
- "thuốc cản quang": {
-  "confidence": "medium",
-  "surface": "thuốc cản quang",
+ "thuốc chống đông máu": {
+  "confidence": "high",
+  "surface": "thuốc chống đông máu",
   "type": "THUỐC"
  },
  "thuốc giảm đau opioid": {
+  "codes": [
+   "7052"
+  ],
   "confidence": "high",
   "surface": "thuốc giảm đau opioid",
   "type": "THUỐC"
  },
- "thuốc kháng b-histamin": {
-  "confidence": "high",
-  "surface": "thuốc kháng B-histamin",
-  "type": "THUỐC"
- },
  "thuốc kháng nấm": {
+  "codes": [
+   "6135"
+  ],
   "confidence": "high",
   "surface": "thuốc kháng nấm",
   "type": "THUỐC"
  },
- "thuốc kháng sinh": {
-  "confidence": "high",
-  "surface": "thuốc kháng sinh",
-  "type": "THUỐC"
- },
  "thuốc kháng vitamin k": {
+  "codes": [
+   "11289"
+  ],
   "confidence": "high",
   "surface": "thuốc kháng vitamin K",
   "type": "THUỐC"
  },
- "thuốc lợi tiểu": {
-  "confidence": "high",
-  "surface": "thuốc lợi tiểu",
-  "type": "THUỐC"
- },
  "thuốc tránh thai": {
+  "codes": [
+   "4124"
+  ],
   "confidence": "high",
   "surface": "thuốc tránh thai",
   "type": "THUỐC"
@@ -2294,22 +1695,12 @@
  "thành thất trái dày": {
   "confidence": "medium",
   "surface": "Thành thất trái dày",
-  "type": "TRIỆU_CHỨNG"
- },
- "thất phải giãn": {
-  "confidence": "low",
-  "surface": "Thất phải giãn",
-  "type": "CHẨN_ĐOÁN"
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "thể trạng nhiễm trùng": {
   "confidence": "medium",
   "surface": "Thể trạng nhiễm trùng",
   "type": "TRIỆU_CHỨNG"
- },
- "thở oxy tại nhà": {
-  "confidence": "low",
-  "surface": "Thở oxy tại nhà",
-  "type": "THUỐC"
  },
  "tim nhịp không đều": {
   "confidence": "high",
@@ -2326,31 +1717,6 @@
   "surface": "Tim nhịp đều",
   "type": "TRIỆU_CHỨNG"
  },
- "tim đều": {
-  "confidence": "medium",
-  "surface": "Tim đều",
-  "type": "TRIỆU_CHỨNG"
- },
- "tiếng thổi": {
-  "confidence": "high",
-  "surface": "tiếng thổi",
-  "type": "TRIỆU_CHỨNG"
- },
- "tiếng van cơ học": {
-  "confidence": "low",
-  "surface": "tiếng van cơ học",
-  "type": "TRIỆU_CHỨNG"
- },
- "tiếp xúc tốt": {
-  "confidence": "medium",
-  "surface": "tiếp xúc tốt",
-  "type": "TRIỆU_CHỨNG"
- },
- "tiết quá nhiều mồ hôi": {
-  "confidence": "medium",
-  "surface": "tiết quá nhiều mồ hôi",
-  "type": "TRIỆU_CHỨNG"
- },
  "tiểu ra máu": {
   "confidence": "high",
   "surface": "tiểu ra máu",
@@ -2363,16 +1729,6 @@
   "confidence": "high",
   "surface": "Tiểu đường loại 1",
   "type": "CHẨN_ĐOÁN"
- },
- "tiểu được": {
-  "confidence": "medium",
-  "surface": "Tiểu được",
-  "type": "TRIỆU_CHỨNG"
- },
- "trong giới hạn bình thường": {
-  "confidence": "medium",
-  "surface": "trong giới hạn bình thường",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "troponin t siêu nhạy": {
   "confidence": "medium",
@@ -2387,6 +1743,11 @@
  "trượt ngã xuống sàn": {
   "confidence": "medium",
   "surface": "trượt ngã xuống sàn",
+  "type": "TRIỆU_CHỨNG"
+ },
+ "trầy xước": {
+  "confidence": "medium",
+  "surface": "trầy xước",
   "type": "TRIỆU_CHỨNG"
  },
  "trễ kinh": {
@@ -2408,6 +1769,9 @@
   "type": "CHẨN_ĐOÁN"
  },
  "trứng cá viêm": {
+  "codes": [
+   "L70.0"
+  ],
   "confidence": "medium",
   "surface": "Trứng cá viêm",
   "type": "CHẨN_ĐOÁN"
@@ -2417,31 +1781,16 @@
   "surface": "TTT ở mỏm 3/6",
   "type": "TRIỆU_CHỨNG"
  },
- "túi mật căng to": {
-  "confidence": "low",
-  "surface": "túi mật căng to",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "túi mật giãn": {
-  "confidence": "low",
-  "surface": "túi mật giãn",
-  "type": "CHẨN_ĐOÁN"
- },
  "túi mật giãn nở": {
   "confidence": "medium",
   "surface": "túi mật giãn nở",
-  "type": "TRIỆU_CHỨNG"
- },
- "túi mật giãn nở rõ rệt": {
-  "confidence": "low",
-  "surface": "túi mật giãn nở rõ rệt",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "tăng bilirubin máu": {
   "codes": [
    "E80.7"
   ],
-  "confidence": "low",
+  "confidence": "medium",
   "surface": "tăng bilirubin máu",
   "type": "CHẨN_ĐOÁN"
  },
@@ -2450,10 +1799,13 @@
   "surface": "tăng bạch cầu",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "tăng cân trở lại": {
+ "tăng gánh nhẹ tuần hoàn phổi": {
+  "codes": [
+   "J81"
+  ],
   "confidence": "low",
-  "surface": "tăng cân trở lại",
-  "type": "TRIỆU_CHỨNG"
+  "surface": "Tăng gánh nhẹ tuần hoàn phổi",
+  "type": "CHẨN_ĐOÁN"
  },
  "tăng huyết áp vô căn (nguyên phát)": {
   "codes": [
@@ -2472,7 +1824,10 @@
   "type": "CHẨN_ĐOÁN"
  },
  "tăng men gan": {
-  "confidence": "low",
+  "codes": [
+   "R74.0"
+  ],
+  "confidence": "medium",
   "surface": "tăng men gan",
   "type": "CHẨN_ĐOÁN"
  },
@@ -2481,10 +1836,10 @@
   "surface": "tăng nhanh",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "tăng sản tuyến bã nhờn": {
-  "confidence": "low",
-  "surface": "Tăng sản tuyến bã nhờn",
-  "type": "CHẨN_ĐOÁN"
+ "tăng số lượng": {
+  "confidence": "medium",
+  "surface": "tăng số lượng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "tưởng tượng về cái chết": {
   "confidence": "medium",
@@ -2496,22 +1851,18 @@
   "surface": "tạo hình ống tai ngoài",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "tần số": {
-  "confidence": "low",
-  "surface": "tần số",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "tật bẩm sinh": {
-  "confidence": "low",
-  "surface": "tật bẩm sinh",
-  "type": "CHẨN_ĐOÁN"
- },
  "tắc mạch": {
+  "codes": [
+   "I74.9"
+  ],
   "confidence": "medium",
   "surface": "tắc mạch",
   "type": "CHẨN_ĐOÁN"
  },
  "tắc mạch cấp": {
+  "codes": [
+   "I74.9"
+  ],
   "confidence": "medium",
   "surface": "tắc mạch cấp",
   "type": "CHẨN_ĐOÁN"
@@ -2521,10 +1872,20 @@
   "surface": "tế bào bất thường",
   "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
- "tổn thương chức năng thận": {
-  "confidence": "low",
-  "surface": "tổn thương chức năng thận",
-  "type": "CHẨN_ĐOÁN"
+ "tế bào mast": {
+  "confidence": "medium",
+  "surface": "tế bào mast",
+  "type": "TÊN_XÉT_NGHIỆM"
+ },
+ "tế bào mast tăng số lượng": {
+  "confidence": "medium",
+  "surface": "tế bào mast tăng số lượng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
+ },
+ "tế bào một nhân": {
+  "confidence": "medium",
+  "surface": "tế bào một nhân",
+  "type": "TÊN_XÉT_NGHIỆM"
  },
  "tổn thương cực kỳ đau đớn": {
   "confidence": "medium",
@@ -2536,10 +1897,10 @@
   "surface": "tổn thương dạng bóng nước",
   "type": "TRIỆU_CHỨNG"
  },
- "tổn thương mạn tính": {
-  "confidence": "low",
-  "surface": "tổn thương mạn tính",
-  "type": "CHẨN_ĐOÁN"
+ "tổn thương mô bệnh học": {
+  "confidence": "high",
+  "surface": "Tổn thương mô bệnh học",
+  "type": "TÊN_XÉT_NGHIỆM"
  },
  "tổn thương sụn chêm": {
   "codes": [
@@ -2548,11 +1909,6 @@
   "confidence": "medium",
   "surface": "tổn thương sụn chêm",
   "type": "CHẨN_ĐOÁN"
- },
- "tổn thương thần kinh": {
-  "confidence": "medium",
-  "surface": "tổn thương thần kinh",
-  "type": "TRIỆU_CHỨNG"
  },
  "tổn thương vùng âm hộ": {
   "confidence": "medium",
@@ -2564,27 +1920,36 @@
   "surface": "Tổn thương đầu chi",
   "type": "TRIỆU_CHỨNG"
  },
+ "tổn thương ở đầu chi": {
+  "confidence": "high",
+  "surface": "Tổn thương ở đầu chi",
+  "type": "TRIỆU_CHỨNG"
+ },
  "tụt huyết áp thế đứng": {
   "confidence": "high",
   "surface": "tụt huyết áp thế đứng",
   "type": "TRIỆU_CHỨNG"
  },
- "tự tử": {
-  "confidence": "high",
-  "surface": "tự tử",
-  "type": "TRIỆU_CHỨNG"
- },
  "u lành": {
+  "codes": [
+   "D36.9"
+  ],
   "confidence": "medium",
   "surface": "u lành",
   "type": "CHẨN_ĐOÁN"
  },
- "ung thư": {
+ "u lành về tuyến vú": {
+  "codes": [
+   "D24"
+  ],
   "confidence": "medium",
-  "surface": "ung thư",
+  "surface": "u lành về tuyến vú",
   "type": "CHẨN_ĐOÁN"
  },
  "ung thư biểu mô tuyến": {
+  "codes": [
+   "C22.1"
+  ],
   "confidence": "high",
   "surface": "ung thư biểu mô tuyến",
   "type": "CHẨN_ĐOÁN"
@@ -2597,20 +1962,10 @@
   "surface": "ung thư máu",
   "type": "CHẨN_ĐOÁN"
  },
- "utis": {
-  "codes": [
-   "N39.0"
-  ],
-  "confidence": "high",
-  "surface": "UTIs",
-  "type": "CHẨN_ĐOÁN"
- },
- "uống nhiều rượu": {
-  "confidence": "low",
-  "surface": "uống nhiều rượu",
-  "type": "TRIỆU_CHỨNG"
- },
  "vaccine phòng dại": {
+  "codes": [
+   "9097"
+  ],
   "confidence": "high",
   "surface": "vaccine phòng dại",
   "type": "THUỐC"
@@ -2623,25 +1978,10 @@
   "surface": "Van động mạch chủ cơ học",
   "type": "CHẨN_ĐOÁN"
  },
- "vctm": {
-  "codes": [
-   "N03.9"
-  ],
-  "confidence": "medium",
-  "surface": "VCTM",
-  "type": "CHẨN_ĐOÁN"
- },
- "vi khuẩn": {
-  "confidence": "medium",
-  "surface": "vi khuẩn",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "virus viêm gan b": {
-  "confidence": "low",
-  "surface": "virus viêm gan B",
-  "type": "CHẨN_ĐOÁN"
- },
  "vitamin b12": {
+  "codes": [
+   "2418"
+  ],
   "confidence": "high",
   "surface": "Vitamin B12",
   "type": "THUỐC"
@@ -2655,6 +1995,9 @@
   "type": "THUỐC"
  },
  "vitamin k": {
+  "codes": [
+   "8151"
+  ],
   "confidence": "high",
   "surface": "Vitamin K",
   "type": "THUỐC"
@@ -2683,20 +2026,34 @@
   "surface": "Viêm gan cấp tính do virus B",
   "type": "CHẨN_ĐOÁN"
  },
- "viêm kết mạc 2 bên": {
+ "viêm kết mạc 2 bên không ghèn": {
+  "codes": [
+   "H10.9"
+  ],
   "confidence": "medium",
-  "surface": "Viêm kết mạc 2 bên",
-  "type": "TRIỆU_CHỨNG"
- },
- "viêm nhiễm": {
-  "confidence": "low",
-  "surface": "viêm nhiễm",
+  "surface": "Viêm kết mạc 2 bên không ghèn",
   "type": "CHẨN_ĐOÁN"
  },
- "vpht": {
-  "confidence": "medium",
-  "surface": "VPHT",
+ "viêm túi mật": {
+  "codes": [
+   "K81.9"
+  ],
+  "confidence": "high",
+  "surface": "viêm túi mật",
   "type": "CHẨN_ĐOÁN"
+ },
+ "viêm tủy xương mãn tính": {
+  "codes": [
+   "M86.6"
+  ],
+  "confidence": "high",
+  "surface": "viêm tủy xương mãn tính",
+  "type": "CHẨN_ĐOÁN"
+ },
+ "viên sỏi 4mm": {
+  "confidence": "medium",
+  "surface": "viên sỏi 4mm",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
  },
  "vàng da nặng": {
   "confidence": "high",
@@ -2711,29 +2068,9 @@
   "surface": "vàng da sơ sinh",
   "type": "CHẨN_ĐOÁN"
  },
- "vàng sậm": {
-  "confidence": "low",
-  "surface": "vàng sậm",
-  "type": "TRIỆU_CHỨNG"
- },
  "vành tai không phát triển đều": {
   "confidence": "low",
   "surface": "vành tai không phát triển đều",
-  "type": "TRIỆU_CHỨNG"
- },
- "vòng kiềng": {
-  "confidence": "low",
-  "surface": "vòng kiềng",
-  "type": "TRIỆU_CHỨNG"
- },
- "vết cắn": {
-  "confidence": "low",
-  "surface": "vết cắn",
-  "type": "TRIỆU_CHỨNG"
- },
- "vết thương": {
-  "confidence": "low",
-  "surface": "vết thương",
   "type": "TRIỆU_CHỨNG"
  },
  "xn máu": {
@@ -2750,21 +2087,6 @@
   "confidence": "high",
   "surface": "xuất huyết",
   "type": "TRIỆU_CHỨNG"
- },
- "xuất huyết dưới da": {
-  "confidence": "high",
-  "surface": "xuất huyết dưới da",
-  "type": "TRIỆU_CHỨNG"
- },
- "xét nghiệm chuyên sâu": {
-  "confidence": "medium",
-  "surface": "xét nghiệm chuyên sâu",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "xét nghiệm cận lâm sàng": {
-  "confidence": "medium",
-  "surface": "xét nghiệm cận lâm sàng",
-  "type": "TÊN_XÉT_NGHIỆM"
  },
  "xét nghiệm sàng lọc": {
   "confidence": "high",
@@ -2804,19 +2126,6 @@
   "surface": "yếu sức",
   "type": "TRIỆU_CHỨNG"
  },
- "yếu tố i": {
-  "confidence": "low",
-  "surface": "Yếu tố I",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "zestril": {
-  "codes": [
-   "29046"
-  ],
-  "confidence": "high",
-  "surface": "Zestril",
-  "type": "THUỐC"
- },
  "ý thúc chậm": {
   "confidence": "medium",
   "surface": "ý thúc chậm",
@@ -2832,18 +2141,13 @@
   "surface": "ăn vào dễ nôn",
   "type": "TRIỆU_CHỨNG"
  },
- "đang chờ kết quả": {
-  "confidence": "medium",
-  "surface": "đang chờ kết quả",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
  "đau bao tử": {
   "confidence": "high",
   "surface": "đau bao tử",
   "type": "TRIỆU_CHỨNG"
  },
  "đau bụng gián đoạn": {
-  "confidence": "high",
+  "confidence": "medium",
   "surface": "đau bụng gián đoạn",
   "type": "TRIỆU_CHỨNG"
  },
@@ -2860,6 +2164,11 @@
  "đau bụng trên": {
   "confidence": "high",
   "surface": "đau bụng trên",
+  "type": "TRIỆU_CHỨNG"
+ },
+ "đau cả hai bên": {
+  "confidence": "medium",
+  "surface": "đau cả hai bên",
   "type": "TRIỆU_CHỨNG"
  },
  "đau dữ dội": {
@@ -2903,9 +2212,12 @@
   "type": "TRIỆU_CHỨNG"
  },
  "đau thắt ngực": {
-  "confidence": "medium",
+  "codes": [
+   "I20.9"
+  ],
+  "confidence": "high",
   "surface": "đau thắt ngực",
-  "type": "TRIỆU_CHỨNG"
+  "type": "CHẨN_ĐOÁN"
  },
  "đau tăng dần khi đi lại": {
   "confidence": "medium",
@@ -2986,16 +2298,6 @@
   "confidence": "medium",
   "surface": "đánh giá thần kinh",
   "type": "TÊN_XÉT_NGHIỆM"
- },
- "đánh giá tổng quát về tiêu hóa": {
-  "confidence": "low",
-  "surface": "đánh giá tổng quát về tiêu hóa",
-  "type": "TÊN_XÉT_NGHIỆM"
- },
- "đông đặc phổi": {
-  "confidence": "medium",
-  "surface": "đông đặc phổi",
-  "type": "TRIỆU_CHỨNG"
  },
  "đường máu": {
   "confidence": "medium",
@@ -3082,14 +2384,6 @@
   "surface": "Đột sống thắt lưng",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "đột tử": {
-  "codes": [
-   "I46.1"
-  ],
-  "confidence": "low",
-  "surface": "đột tử",
-  "type": "CHẨN_ĐOÁN"
- },
  "ảo giác do rượu": {
   "codes": [
    "F10.5"
@@ -3113,16 +2407,6 @@
   "surface": "ống nội khí quản",
   "type": "TÊN_XÉT_NGHIỆM"
  },
- "ổ dịch sau phẫu thuật": {
-  "confidence": "low",
-  "surface": "ổ dịch sau phẫu thuật",
-  "type": "KẾT_QUẢ_XÉT_NGHIỆM"
- },
- "ổ dịch trong ổ bụng": {
-  "confidence": "low",
-  "surface": "ổ dịch trong ổ bụng",
-  "type": "TRIỆU_CHỨNG"
- },
  "ổ loét trong bao tử": {
   "codes": [
    "K25.9"
@@ -3130,10 +2414,5 @@
   "confidence": "high",
   "surface": "ổ loét trong bao tử",
   "type": "CHẨN_ĐOÁN"
- },
- "ứ máu": {
-  "confidence": "low",
-  "surface": "ứ máu",
-  "type": "TRIỆU_CHỨNG"
  }
 }

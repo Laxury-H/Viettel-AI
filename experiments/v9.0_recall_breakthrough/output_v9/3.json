@@ -22,17 +22,6 @@
     ]
   },
   {
-    "text": "Nitralmyl",
-    "type": "THUỐC",
-    "position": [
-      190,
-      199
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "Vastarel (trimetazidin)",
     "type": "THUỐC",
     "position": [
@@ -114,33 +103,6 @@
     "assertions": []
   },
   {
-    "text": "rối loạn thị lực",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      826,
-      842
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Parkinson",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      881,
-      890
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ],
-    "candidates": [
-      "G20"
-    ]
-  },
-  {
     "text": "yếu sức nửa người bên phải",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -174,9 +136,7 @@
       1263,
       1284
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "yếu sức chân phải",
@@ -212,11 +172,7 @@
       1428,
       1438
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "chụp ct sọ não",
@@ -309,9 +265,7 @@
       1862,
       1873
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "nhiễm trùng răng miệng",
@@ -501,9 +455,7 @@
       3083,
       3104
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "yếu sức chân phải",
@@ -521,11 +473,7 @@
       3174,
       3184
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "tỉnh chậm",
@@ -543,9 +491,7 @@
       3203,
       3214
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "yếu nửa người",
@@ -599,10 +545,7 @@
       3399,
       3435
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "khuỵ xuống",
@@ -611,9 +554,7 @@
       3461,
       3471
     ],
-    "assertions": [
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "tỉnh chậm",
@@ -630,15 +571,6 @@
     "position": [
       3489,
       3500
-    ],
-    "assertions": []
-  },
-  {
-    "text": "Chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      3530,
-      3548
     ],
     "assertions": []
   },

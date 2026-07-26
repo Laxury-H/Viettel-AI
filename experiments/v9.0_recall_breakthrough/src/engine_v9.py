@@ -39,28 +39,50 @@ _WS = re.compile(r"\s+")
 
 
 def _fold(text: str) -> str:
-    """Chuẩn hóa để so khớp mà KHÔNG đổi độ dài (giữ nguyên offset gốc)."""
-    return unicodedata.normalize("NFC", text).lower()
+    """Hạ chữ hoa để so khớp.
+
+    KHÔNG được dùng unicodedata.normalize ở đây: 20/100 hồ sơ trong corpus ở
+    dạng tổ hợp (NFD), nên NFC làm CO NGẮN chuỗi và mọi offset trả về sẽ lệch,
+    sinh ra span cắt ngang từ. `str.lower()` giữ nguyên độ dài trên toàn corpus.
+    """
+    folded = text.lower()
+    assert len(folded) == len(text), "fold làm đổi độ dài, offset sẽ sai"
+    return folded
+
+
+def _variants(surface: str) -> list[str]:
+    """Biến thể cần dò: corpus trộn cả dạng dựng sẵn (NFC) lẫn tổ hợp (NFD)."""
+    seen: list[str] = []
+    for form in (surface, unicodedata.normalize("NFC", surface), unicodedata.normalize("NFD", surface)):
+        key = form.lower()
+        if key and key not in seen:
+            seen.append(key)
+    return seen
 
 
 def _is_word_char(ch: str) -> bool:
-    return ch.isalnum() or ch == "_"
+    # Dấu thanh rời (NFD) là ký tự tổ hợp, phải coi như thuộc về từ đứng trước.
+    return ch.isalnum() or ch == "_" or unicodedata.combining(ch) != 0
 
 
 class Matcher:
     """So khớp từ điển theo nguyên tắc cụm dài thắng, không chồng lấn."""
 
     def __init__(self, lexicon: dict[str, dict]):
-        # Sắp theo độ dài giảm dần để cụm dài được ưu tiên trước cụm ngắn.
-        self._keys = sorted(lexicon.keys(), key=len, reverse=True)
-        self._lex = lexicon
+        # (biến thể cần dò, spec) — sắp cụm dài trước để không bị cụm ngắn cắn mất.
+        probes: list[tuple[str, dict]] = []
+        for spec in lexicon.values():
+            for variant in _variants(spec["surface"]):
+                probes.append((variant, spec))
+        probes.sort(key=lambda item: len(item[0]), reverse=True)
+        self._probes = probes
 
     def find(self, text: str, blocked: list[bool]) -> list[dict]:
         """Trả về các khái niệm mới nằm ngoài mọi vùng đã bị chiếm."""
         folded = _fold(text)
         found: list[dict] = []
 
-        for key in self._keys:
+        for key, spec in self._probes:
             klen = len(key)
             start = 0
             while True:
@@ -78,10 +100,14 @@ class Matcher:
                 if any(blocked[idx:end]):
                     continue
 
-                spec = self._lex[key]
+                surface = text[idx:end]
+                # Chốt chặn cuối: span phải sạch hai đầu, nếu không là dấu hiệu lệch offset.
+                if surface != surface.strip():
+                    continue
+
                 etype = spec["type"]
                 concept = {
-                    "text": text[idx:end],
+                    "text": surface,
                     "type": etype,
                     "position": [idx, end],
                     "assertions": infer_assertions(text, idx, end, etype),

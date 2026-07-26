@@ -70,20 +70,6 @@
     ]
   },
   {
-    "text": "UTIs",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      193,
-      197
-    ],
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "N39.0"
-    ]
-  },
-  {
     "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -155,9 +141,7 @@
       738,
       747
     ],
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": [],
     "candidates": [
       "1151"
     ]
@@ -343,18 +327,6 @@
     "assertions": []
   },
   {
-    "text": "vi khuẩn",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1157,
-      1165
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
     "text": "1",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
@@ -391,50 +363,11 @@
     "assertions": []
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1207,
-      1225
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1226,
-      1244
-    ],
-    "assertions": []
-  },
-  {
     "text": "chụp x-quang ngực",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
       1251,
       1268
-    ],
-    "assertions": []
-  },
-  {
-    "text": "dòng picc đã đặt",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1278,
-      1294
-    ],
-    "assertions": []
-  },
-  {
-    "text": "không có quá trình bệnh lý tim phổi cấp tính",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1296,
-      1340
     ],
     "assertions": []
   },

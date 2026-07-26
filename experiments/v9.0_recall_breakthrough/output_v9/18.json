@@ -69,7 +69,10 @@
       127,
       135
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "I21.9"
+    ]
   },
   {
     "text": "CK-MB",
@@ -95,15 +98,6 @@
     "position": [
       164,
       181
-    ],
-    "assertions": []
-  },
-  {
-    "text": "chức năng thất trái",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      199,
-      218
     ],
     "assertions": []
   },
@@ -144,7 +138,22 @@
       416,
       424
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "I21.9"
+    ]
+  },
+  {
+    "text": "mảng xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      548,
+      559
+    ],
+    "assertions": [],
+    "candidates": [
+      "I70.9"
+    ]
   },
   {
     "text": "Can thiệp mạch vành qua da",
@@ -179,15 +188,6 @@
     "position": [
       705,
       733
-    ],
-    "assertions": []
-  },
-  {
-    "text": "CABG",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      735,
-      739
     ],
     "assertions": []
   },
@@ -227,15 +227,6 @@
     "position": [
       1113,
       1116
-    ],
-    "assertions": []
-  },
-  {
-    "text": "38.3°C",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1125,
-      1131
     ],
     "assertions": []
   },
@@ -303,15 +294,6 @@
     "assertions": []
   },
   {
-    "text": "38.3°C",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1343,
-      1349
-    ],
-    "assertions": []
-  },
-  {
     "text": "đau hạ sườn phải",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -369,10 +351,7 @@
       1629,
       1652
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "đau ngực",
@@ -411,24 +390,6 @@
     "position": [
       1818,
       1838
-    ],
-    "assertions": []
-  },
-  {
-    "text": "túi mật căng to",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1866,
-      1881
-    ],
-    "assertions": []
-  },
-  {
-    "text": "dịch quanh túi mật",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1886,
-      1904
     ],
     "assertions": []
   },
@@ -526,15 +487,6 @@
     "assertions": []
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2269,
-      2287
-    ],
-    "assertions": []
-  },
-  {
     "text": "siêu âm vùng gan mật",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -553,6 +505,20 @@
     "assertions": [],
     "candidates": [
       "K80.2"
+    ]
+  },
+  {
+    "text": "viêm túi mật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2347,
+      2359
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "K81.9"
     ]
   },
   {
@@ -593,24 +559,6 @@
     "position": [
       2480,
       2500
-    ],
-    "assertions": []
-  },
-  {
-    "text": "túi mật căng to",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      2519,
-      2534
-    ],
-    "assertions": []
-  },
-  {
-    "text": "dịch quanh túi mật",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      2539,
-      2557
     ],
     "assertions": []
   },

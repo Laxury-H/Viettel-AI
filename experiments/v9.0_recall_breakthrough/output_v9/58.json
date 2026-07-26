@@ -70,48 +70,13 @@
     ]
   },
   {
-    "text": "nước tiểu trong",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      318,
-      333
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Nhịp tim",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      343,
-      351
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "85 lần/phút",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
       357,
       368
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "130/75mmHg",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      374,
-      384
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "XN máu",
@@ -120,9 +85,7 @@
       394,
       400
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Glucose",
@@ -244,21 +207,6 @@
     ],
     "candidates": [
       "I10"
-    ]
-  },
-  {
-    "text": "dị ứng",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      739,
-      745
-    ],
-    "assertions": [
-      "isNegated",
-      "isHistorical"
-    ],
-    "candidates": [
-      "T78.4"
     ]
   },
   {
@@ -550,15 +498,6 @@
     "assertions": []
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1506,
-      1524
-    ],
-    "assertions": []
-  },
-  {
     "text": "chụp x-quang ngực",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -566,6 +505,18 @@
       1543
     ],
     "assertions": []
+  },
+  {
+    "text": "Tăng gánh nhẹ tuần hoàn phổi",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1545,
+      1573
+    ],
+    "assertions": [],
+    "candidates": [
+      "J81"
+    ]
   },
   {
     "text": "tràn dịch màng phổi hai bên",
@@ -589,30 +540,6 @@
     "assertions": [],
     "candidates": [
       "I51.7"
-    ]
-  },
-  {
-    "text": "insulin",
-    "type": "THUỐC",
-    "position": [
-      1654,
-      1661
-    ],
-    "assertions": [],
-    "candidates": [
-      "5856"
-    ]
-  },
-  {
-    "text": "dextrose",
-    "type": "THUỐC",
-    "position": [
-      1665,
-      1673
-    ],
-    "assertions": [],
-    "candidates": [
-      "4850"
     ]
   },
   {

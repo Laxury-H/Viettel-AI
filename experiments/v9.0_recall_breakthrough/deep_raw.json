@@ -1,0 +1,2709 @@
+[
+ {
+  "surface": "vành tai đầy đủ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tai ko có lỗ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "nhỏ hơn tai còn lại",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "nghe nói bình thường",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "kiểm tra việc nghe",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lúng túng khi xác định hướng âm thanh",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "nghe bìng thường",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "vành tai đẹp",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "phản xạ được âm thanh",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "nghe khá tốt",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "tai trái khỏe mạnh",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "tròn vành rõ chữ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   48
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "xâm nhập của tế bào một nhân",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Bạn đay vô căn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "medium",
+  "codes": [
+   "L50.1"
+  ]
+ },
+ {
+  "surface": "tế bào cột sống tăng lượng hạ bì",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "bạch huyết T",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đại thực bào",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "sợi fibrin",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "dịch sinh học",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "bệnh mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   76,
+   83
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "da vùng bẹn tổn thương",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   84
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "nhiều nếp gấp da",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   84
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Trichophyton rubrum",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   84
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "T. mentagrophytes",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   84
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "vi nấm",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   84
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "phun xăm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   96
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "phun môi",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   96
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "thương tổn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   96
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "môi chưa lên màu",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   96
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "làn da nhạy cảm",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   96
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đau đầu gối",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   82
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "nôn ói",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   82
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "buồn nôn thoáng qua",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   82
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "thăm dò",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   82
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đau lưng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   82
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "lan ra phía trước bụng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   82
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "02 viên sỏi",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   82
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "nội soi dạ dày",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "thăm khám chuyên khoa",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "khó thở",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "mạch máu vùng viêm giãn nở",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đau bụng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "kết quả khám",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "nghệ",
+  "type": "THUỐC",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "mật ong",
+  "type": "THUỐC",
+  "doc_ids": [
+   86
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "hr",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "110",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "can thiệp phẫu thuật",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "albuterol",
+  "type": "THUỐC",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "medium",
+  "codes": [
+   "435"
+  ]
+ },
+ {
+  "surface": "ipratropium",
+  "type": "THUỐC",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "medium",
+  "codes": [
+   "7213"
+  ]
+ },
+ {
+  "surface": "hội chứng turner, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "medium",
+  "codes": [
+   "Q96.9"
+  ]
+ },
+ {
+  "surface": "phẫu thuật",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đờm",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "khó thở tăng lên",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "cơn đau",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   91
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "axit uric",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   95
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "cơn gout cấp",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   95
+  ],
+  "confidence": "high",
+  "codes": [
+   "M10.9"
+  ]
+ },
+ {
+  "surface": "tăng nhanh",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   95
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "hạt tophi bị vỡ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   95
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "hạt nhỏ màu trắng trên da",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   95
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "hạt lớn dần lên",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   95
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "khó lành",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   95
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Sinh thiết tuyến tiền liệt",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   97
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "đánh giá trước ghép thận",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   97
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Phẫu thuật cắt bỏ u dây thần kinh số VIII",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   97
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "bệnh trĩ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   97
+  ],
+  "confidence": "medium",
+  "codes": [
+   "K64.9"
+  ]
+ },
+ {
+  "surface": "AVF",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   97
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "HD",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   97
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "tỉnh",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   97
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "XQ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "SHM",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "glucose",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Glucose máu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thấp",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "< ½",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "que thử đường máu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   53
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "phẫu thuật",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61,
+   67,
+   78
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "thủ thuật",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61,
+   67
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "tháo que cũ",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "lấy que cũ ra",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "biện pháp tránh thai",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "ngừa thai",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "cấy que tránh thai",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "cấy que mới",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "đau bụng gián đoạn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   61
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "biệt hóa kém",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   67
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "dương tính",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   67
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "nội soi dạ dày",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   67
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "thăm khám chuyên khoa",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   67
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "nghệ",
+  "type": "THUỐC",
+  "doc_ids": [
+   67
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "mật ong",
+  "type": "THUỐC",
+  "doc_ids": [
+   67
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "giãn nở",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   67
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "nghĩ tự bắn vào đầu",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   72
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Lạm dụng chất kích thích",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   72
+  ],
+  "codes": [
+   "F19.1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "opioid",
+  "type": "THUỐC",
+  "doc_ids": [
+   72
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "nội soi mũi họng",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   78
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "tổn thương điểm mạch",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   78
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "chảy máu tái phát",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   78
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "chảy máu ít",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   78
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "hắt hơi mạnh",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   78
+  ],
+  "codes": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "chảy ở mũi bên phải",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   78
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "Phẫu thuật đặt cảng",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   23
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Hệ thống dẫn lưu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   23
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "khám ngoại trú",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   23
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "sang chấn tâm lý",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   23
+  ],
+  "confidence": "low",
+  "codes": [
+   "F43.9"
+  ]
+ },
+ {
+  "surface": "thai kỳ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   23
+  ],
+  "confidence": "low",
+  "codes": [
+   "Z33.1"
+  ]
+ },
+ {
+  "surface": "thuốc lá",
+  "type": "THUỐC",
+  "doc_ids": [
+   23
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "chất kích thích",
+  "type": "THUỐC",
+  "doc_ids": [
+   23
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đau thắt ngực",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "high",
+  "codes": [
+   "I20.9"
+  ]
+ },
+ {
+  "surface": "Đau thắt ngực",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "high",
+  "codes": [
+   "I20.9"
+  ]
+ },
+ {
+  "surface": "CAD",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "medium",
+  "codes": [
+   "I25.1"
+  ]
+ },
+ {
+  "surface": "ĐTĐ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "medium",
+  "codes": [
+   "E11.9"
+  ]
+ },
+ {
+  "surface": "huyết khối",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "mảng xơ vữa",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "medium",
+  "codes": [
+   "I70.9"
+  ]
+ },
+ {
+  "surface": "thiếu oxy cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "giảm tưới máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đau bụng trên",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "sốt nhẹ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Đau dữ dội",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đè nặng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "bóp nghẹt",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "thắt chặt",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Hút thuốc lá",
+  "type": "THUỐC",
+  "doc_ids": [
+   26
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đau đầu gối",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   31
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "đau lưng âm ỉ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   31
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "buồn nôn thoáng qua",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   31
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đau nhẹ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   31
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "điều trị phẫu thuật",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   31
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "2.5mm",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   31
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "02 viên sỏi",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   31
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Thuốc giảm đau",
+  "type": "THUỐC",
+  "doc_ids": [
+   34,
+   43
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "thuốc giảm đau",
+  "type": "THUỐC",
+  "doc_ids": [
+   34,
+   43
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "đau cả hai bên",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   34
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đau vừa",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   34
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đau dữ dội",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   34
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "cơn đau tăng dần",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   34
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đau nửa đầu không cố định",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   34
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "sữa công thức",
+  "type": "THUỐC",
+  "doc_ids": [
+   43
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "không hấp thu",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   43
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "nhìn/nghe thấy có nhiều người",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   43
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "HA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "XN",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "bình thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "căng thẳng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "tăng HA",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "medium",
+  "codes": [
+   "I10"
+  ]
+ },
+ {
+  "surface": "tăng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   93,
+   59
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "lên cao",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "cao hơn",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "phim chụp",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "khám bệnh",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   93
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "mô bệnh học",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "kính hiển vi quang học",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "kính hiển vi điện tử",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "tổn thương",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tế bào mast",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lympho T",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đại thực bào",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "xâm nhập của tế bào một nhân",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tăng số lượng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "thoát bọng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lắng đọng các phức hợp miễn dịch",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "bổ thể",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "sợi fibrin",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   28
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "mụn cám",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "mụn đầu trắng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "da mụn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "mụn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "sonde tiểu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "khám da liễu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "C. acne",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Viêm tại chỗ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Cận lâm sàng",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   59
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "thương tổn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   65,
+   49
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "UVA",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   65,
+   49
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Tiêm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   65,
+   49
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "mức độ trung bình",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   49
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Liệu phát miễn dịch tiếp xúc",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   49
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "bên tai ko có lỗ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "nhỏ hơn tai còn lại",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "vành tai đầy đủ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "nghe nói bình thường",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "kiểm tra việc nghe",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đau đớn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tổn thương",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lúng túng khi xác định hướng âm thanh",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "nghe khá tốt",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "cải thiện một phần",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "phát triển đều",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "phát âm có tròn vành rõ chữ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "lo lắng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   37
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "đại tiện ra máu đỏ tươi",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   100
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "nguy cơ tiền sản giật cao",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   100
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "xét nghiệm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   100
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "nóng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   100
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "phân giai đoạn phẫu thuật",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   75
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tổn thương",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   75
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Trichophyton rubrum",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   75
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "T. mentagrophytes",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   75
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "vi nấm",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   75
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "tem",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   75
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Thiếu một số vi chất",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   88
+  ],
+  "confidence": "medium",
+  "codes": [
+   "E61.9"
+  ]
+ },
+ {
+  "surface": "không có dấu hiệu gì bất thường",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   88
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "giảm kích thước",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   88
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "sắt",
+  "type": "THUỐC",
+  "doc_ids": [
+   88
+  ],
+  "confidence": "medium",
+  "codes": [
+   "5987"
+  ]
+ },
+ {
+  "surface": "kẽm",
+  "type": "THUỐC",
+  "doc_ids": [
+   88
+  ],
+  "confidence": "medium",
+  "codes": [
+   "11416"
+  ]
+ },
+ {
+  "surface": "sẹo",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "nang",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Sản xuất quá nhiều chất bã nhờn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Bít tắc nang lông",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Viêm tại chỗ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lên mụn trở lại",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "Propionibacterium acnes",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "C. acne",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "vi khuẩn kỵ khí",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "khám da liễu",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "ức chế về tâm lý",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Không viêm",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   41
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "nội soi dạ dày",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   94
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Cận lâm sàng",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   94
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "mạch máu vùng viêm giãn nở",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   94
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "nghệ",
+  "type": "THUỐC",
+  "doc_ids": [
+   94
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "mật ong",
+  "type": "THUỐC",
+  "doc_ids": [
+   94
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Bệnh amyloidosis tự miễn dịch",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   79
+  ],
+  "confidence": "high",
+  "codes": [
+   "E85.9"
+  ]
+ },
+ {
+  "surface": "lắng đọng protein amyloid",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   79
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lắng đọng protein",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   79
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "tử vong",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   79,
+   52
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "tổn thương chi dưới",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   71,
+   69
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Enterococcus kháng vancomycin",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   71,
+   69
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "lớp sừng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   71
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Tổn thương mô bệnh học",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "tự tử",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "kính hiển vi quang học",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "kính hiển vi điện tử",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "xâm nhập của tế bào một nhân",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tế bào mast tăng số lượng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lắng đọng các phức hợp miễn dịch",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "quá liều",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "medium",
+  "codes": [
+   "T50.9"
+  ]
+ },
+ {
+  "surface": "bổ thể",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "sợi fibrin",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "thoát bọng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   52
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "thuốc giảm đau",
+  "type": "THUỐC",
+  "doc_ids": [
+   69
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "sốc",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   69
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Tổn thương ở đầu chi",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "kháng sinh",
+  "type": "THUỐC",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "thuốc ức chế miễn dịch",
+  "type": "THUỐC",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "vắc xin sống",
+  "type": "THUỐC",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Nhiễm khuẩn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "high",
+  "codes": [
+   "A49.9"
+  ]
+ },
+ {
+  "surface": "39–40°C",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "dát",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "sẩn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "huyết khối",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   2
+  ],
+  "confidence": "medium",
+  "codes": [
+   "I82.9"
+  ]
+ },
+ {
+  "surface": "nứt",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   2,
+   8
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "hạch cổ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   2,
+   8
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "ghèn",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   2,
+   8
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "sốt siêu vi",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   8
+  ],
+  "confidence": "high",
+  "codes": [
+   "B34.9"
+  ]
+ },
+ {
+  "surface": "sốt phát ban",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   8
+  ],
+  "confidence": "high",
+  "codes": [
+   "B08.2"
+  ]
+ },
+ {
+  "surface": "nhiễm trùng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   8
+  ],
+  "confidence": "high",
+  "codes": [
+   "A49.9"
+  ]
+ },
+ {
+  "surface": "Môi – miệng thay đổi",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   8
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Nguyên nhân chưa rõ",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   8
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": ">1,5 cm",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   8
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "≥1,5 cm",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   8
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "mô bệnh học",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "kính hiển vi quang học",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "kính hiển vi điện tử",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Nhuộm huỳnh quang miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "tế bào mast",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tế bào một nhân",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lympho T",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "đại thực bào",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "phức hợp miễn dịch",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "bổ thể",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "sợi fibrin",
+  "type": "TÊN_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "tăng số lượng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "thoát bọng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "lắng đọng",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "buồn ngủ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   14,
+   19
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "Giai đoạn 4",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   14
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "quả mận khô",
+  "type": "THUỐC",
+  "doc_ids": [
+   19
+  ],
+  "confidence": "low",
+  "codes": []
+ },
+ {
+  "surface": "Da niêm mạc hồng",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   20
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "99 %",
+  "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+  "doc_ids": [
+   20
+  ],
+  "confidence": "high",
+  "codes": []
+ },
+ {
+  "surface": "trầy xước",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   20
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "bị thương nhẹ",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   20
+  ],
+  "confidence": "medium",
+  "codes": []
+ },
+ {
+  "surface": "không có máu",
+  "type": "TRIỆU_CHỨNG",
+  "doc_ids": [
+   20
+  ],
+  "confidence": "low",
+  "codes": []
+ }
+]

@@ -27,15 +27,6 @@
     "assertions": []
   },
   {
-    "text": "Hội chứng nhiễm trùng nhiễm độc",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      181,
-      212
-    ],
-    "assertions": []
-  },
-  {
     "text": "sốt",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -70,8 +61,7 @@
       306
     ],
     "assertions": [
-      "isNegated",
-      "isFamily"
+      "isNegated"
     ]
   },
   {
@@ -222,38 +212,11 @@
     "assertions": []
   },
   {
-    "text": "vàng sậm",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      795,
-      803
-    ],
-    "assertions": []
-  },
-  {
     "text": "vàng da",
     "type": "TRIỆU_CHỨNG",
     "position": [
       860,
       867
-    ],
-    "assertions": []
-  },
-  {
-    "text": "nước tiểu trong",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      874,
-      889
-    ],
-    "assertions": []
-  },
-  {
-    "text": "1000ml/24h",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      934,
-      944
     ],
     "assertions": []
   },
@@ -345,7 +308,10 @@
       1165,
       1194
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "K76.9"
+    ]
   },
   {
     "text": "GOT",
@@ -496,17 +462,6 @@
     ]
   },
   {
-    "text": "virus viêm gan B",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1647,
-      1663
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "mệt mỏi",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -536,19 +491,6 @@
     ]
   },
   {
-    "text": "1000ml/24h",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1792,
-      1802
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
     "text": "khó chịu vùng ngực",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -569,50 +511,6 @@
     "assertions": [],
     "candidates": [
       "4850"
-    ]
-  },
-  {
-    "text": "1500ml/ngày",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      2070,
-      2081
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "nước tiểu trong",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      2083,
-      2098
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Philpovin",
-    "type": "THUỐC",
-    "position": [
-      2108,
-      2117
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2162,
-      2166
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {
@@ -641,17 +539,6 @@
       2220
     ],
     "assertions": []
-  },
-  {
-    "text": "Fortex",
-    "type": "THUỐC",
-    "position": [
-      2230,
-      2236
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   },
   {
     "text": "ALT",

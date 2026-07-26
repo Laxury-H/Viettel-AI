@@ -6,9 +6,7 @@
       67,
       89
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "cắt bỏ phân đoạn bên trái gan",
@@ -17,9 +15,7 @@
       96,
       125
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "phẫu thuật nối ống gan - hỗng tràng",
@@ -28,9 +24,7 @@
       135,
       170
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ung thư đường mật",
@@ -53,11 +47,7 @@
       237,
       251
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "đặt 3 stent đường mật lưu dài hạn",
@@ -66,11 +56,7 @@
       253,
       286
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "run rẩy",
@@ -109,17 +95,6 @@
     "assertions": []
   },
   {
-    "text": "ổ dịch trong ổ bụng",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      504,
-      523
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "áp xe",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -129,17 +104,6 @@
     "assertions": [],
     "candidates": [
       "K65.0"
-    ]
-  },
-  {
-    "text": "kháng sinh tĩnh mạch",
-    "type": "THUỐC",
-    "position": [
-      562,
-      582
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {
@@ -155,74 +119,11 @@
     ]
   },
   {
-    "text": "chụp chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      768,
-      791
-    ],
-    "assertions": []
-  },
-  {
-    "text": "cân nặng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      813,
-      821
-    ],
-    "assertions": []
-  },
-  {
-    "text": "trong giới hạn bình thường",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      822,
-      848
-    ],
-    "assertions": []
-  },
-  {
     "text": "ra mồ hôi nhiều",
     "type": "TRIỆU_CHỨNG",
     "position": [
       921,
       936
-    ],
-    "assertions": []
-  },
-  {
-    "text": "calcium",
-    "type": "THUỐC",
-    "position": [
-      1052,
-      1059
-    ],
-    "assertions": []
-  },
-  {
-    "text": "ba stent mật kim loại",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1327,
-      1348
-    ],
-    "assertions": []
-  },
-  {
-    "text": "ổ dịch sau phẫu thuật",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1371,
-      1392
-    ],
-    "assertions": []
-  },
-  {
-    "text": "chụp chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1420,
-      1443
     ],
     "assertions": []
   }

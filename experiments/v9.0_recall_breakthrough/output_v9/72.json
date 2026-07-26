@@ -1,26 +1,5 @@
 [
   {
-    "text": "********",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      216,
-      224
-    ],
-    "assertions": []
-  },
-  {
-    "text": " đầu sau",
-    "type": "THUỐC",
-    "position": [
-      284,
-      293
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
     "text": "Rối loạn cảm xúc",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -163,6 +142,18 @@
     ]
   },
   {
+    "text": "hưng cảm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1177,
+      1185
+    ],
+    "assertions": [],
+    "candidates": [
+      "F30.9"
+    ]
+  },
+  {
     "text": "tăng hoạt động",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -223,6 +214,15 @@
     "position": [
       1443,
       1455
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nghĩ tự bắn vào đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1460,
+      1479
     ],
     "assertions": []
   },

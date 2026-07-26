@@ -273,8 +273,7 @@
       1014
     ],
     "assertions": [
-      "isNegated",
-      "isFamily"
+      "isNegated"
     ]
   },
   {
@@ -296,8 +295,7 @@
       1056
     ],
     "assertions": [
-      "isNegated",
-      "isFamily"
+      "isNegated"
     ]
   },
   {
@@ -342,42 +340,6 @@
     "position": [
       1169,
       1195
-    ],
-    "assertions": []
-  },
-  {
-    "text": "dấu hiệu sinh tồn",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1199,
-      1216
-    ],
-    "assertions": []
-  },
-  {
-    "text": "98.8 65 9360 20 95 2LNC",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1221,
-      1244
-    ],
-    "assertions": []
-  },
-  {
-    "text": "dấu hiệu sinh tồn",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1266,
-      1283
-    ],
-    "assertions": []
-  },
-  {
-    "text": "98.6 70 10356 17 962LNC",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1284,
-      1307
     ],
     "assertions": []
   },
@@ -468,15 +430,6 @@
     "position": [
       1500,
       1526
-    ],
-    "assertions": []
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1637,
-      1655
     ],
     "assertions": []
   },

@@ -241,9 +241,7 @@
       899,
       935
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "buồn nôn",
@@ -425,9 +423,7 @@
       1496,
       1532
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "buồn nôn",
@@ -574,37 +570,13 @@
     "assertions": []
   },
   {
-    "text": "nausea",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1930,
-      1936
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "diarrhea",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1943,
-      1951
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "abdominal pain",
     "type": "TRIỆU_CHỨNG",
     "position": [
       1958,
       1972
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "viêm dạ dày ruột do virus",
@@ -625,9 +597,7 @@
       2082,
       2118
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "buồn nôn",

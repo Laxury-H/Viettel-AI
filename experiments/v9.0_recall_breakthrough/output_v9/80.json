@@ -48,10 +48,7 @@
       467,
       486
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "hạt tophi",
@@ -129,24 +126,6 @@
     "assertions": []
   },
   {
-    "text": "khối u",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      835,
-      841
-    ],
-    "assertions": []
-  },
-  {
-    "text": "cản trở vận động",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      859,
-      875
-    ],
-    "assertions": []
-  },
-  {
     "text": "hạt tophi",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -154,17 +133,6 @@
       917
     ],
     "assertions": []
-  },
-  {
-    "text": "hoại tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      938,
-      945
-    ],
-    "assertions": [
-      "isFamily"
-    ]
   },
   {
     "text": "biến dạng xương khớp",
@@ -250,8 +218,9 @@
       1136,
       1154
     ],
-    "assertions": [
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "4603"
     ]
   },
   {

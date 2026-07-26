@@ -112,67 +112,11 @@
     ]
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      969,
-      973
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1016,
-      1020
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1041,
-      1045
-    ],
-    "assertions": []
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1063,
-      1071
-    ],
-    "assertions": []
-  },
-  {
-    "text": "hắt hơi",
+    "text": "hắt hơi mạnh",
     "type": "TRIỆU_CHỨNG",
     "position": [
       1073,
-      1080
-    ],
-    "assertions": []
-  },
-  {
-    "text": "viêm nhiễm",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1087,
-      1097
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1153,
-      1157
+      1085
     ],
     "assertions": []
   },

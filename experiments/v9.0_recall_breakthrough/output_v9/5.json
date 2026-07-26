@@ -17,9 +17,7 @@
       112,
       145
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "RNY hepaticojejunostomy",
@@ -28,9 +26,7 @@
       185,
       208
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ung thư biểu mô tế bào mật",
@@ -68,17 +64,6 @@
     "assertions": []
   },
   {
-    "text": "xét nghiệm cận lâm sàng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      588,
-      611
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "siêu âm",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -112,8 +97,9 @@
       879,
       895
     ],
-    "assertions": [
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "4124"
     ]
   },
   {
@@ -135,9 +121,7 @@
       1021,
       1029
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "béo phì",
@@ -279,9 +263,9 @@
       1605,
       1626
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "C22.1"
     ]
   },
   {
@@ -291,9 +275,7 @@
       1726,
       1735
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "buồn nôn",
@@ -347,17 +329,6 @@
       2014
     ],
     "assertions": []
-  },
-  {
-    "text": "cân nặng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2243,
-      2251
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   },
   {
     "text": "buồn nôn",
@@ -457,10 +428,7 @@
       2762,
       2779
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ung thư biểu mô tuyến",
@@ -469,9 +437,9 @@
       2798,
       2819
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "C22.1"
     ]
   },
   {
@@ -481,9 +449,7 @@
       2919,
       2928
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "đau",
@@ -519,18 +485,10 @@
       3187,
       3208
     ],
-    "assertions": [
-      "isFamily"
+    "assertions": [],
+    "candidates": [
+      "C22.1"
     ]
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      3221,
-      3239
-    ],
-    "assertions": []
   },
   {
     "text": "cholangiogram",

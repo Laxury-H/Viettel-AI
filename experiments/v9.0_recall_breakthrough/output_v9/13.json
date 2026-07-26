@@ -33,17 +33,6 @@
     ]
   },
   {
-    "text": "chỉ khô",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      549,
-      556
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
     "text": "bệnh dại",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -80,11 +69,11 @@
     ]
   },
   {
-    "text": " do cào ho",
+    "text": "trầy xước",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      744,
-      754
+      795,
+      804
     ],
     "assertions": []
   },
@@ -125,22 +114,16 @@
     ]
   },
   {
-    "text": "gười bị cắ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1170,
-      1180
-    ],
-    "assertions": []
-  },
-  {
-    "text": " Phòng bệnh bằng ",
+    "text": "vaccine phòng dại",
     "type": "THUỐC",
     "position": [
-      1290,
-      1307
+      1312,
+      1329
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "9097"
+    ]
   },
   {
     "text": "Bệnh dại",
@@ -191,11 +174,11 @@
     ]
   },
   {
-    "text": "bị dại ",
+    "text": "trầy xước",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      1574,
-      1581
+      1617,
+      1626
     ],
     "assertions": []
   },
@@ -252,38 +235,5 @@
       2301
     ],
     "assertions": []
-  },
-  {
-    "text": "c độ ng",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2304,
-      2311
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "nh nhân\nVù",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2394,
-      2404
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "và cổ, cũn",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2433,
-      2443
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   }
 ]

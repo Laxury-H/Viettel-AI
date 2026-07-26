@@ -1,0 +1,1452 @@
+[
+ {
+  "surface": "bệnh nấm bẹn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   74
+  ],
+  "codes": [
+   "B35.6"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "mề đay",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   71
+  ],
+  "codes": [
+   "L50.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Bệnh amyloidosis di truyền hoặc gia đình",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   73
+  ],
+  "codes": [
+   "E85.2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Bệnh amyloidosis tự miễn dịch",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   79
+  ],
+  "codes": [
+   "E85.3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "giãn nh đường mật trong gan hai bên",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   77
+  ],
+  "codes": [
+   "K83.8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thay đổi thoái hóa nghiêm trọng của khớp bánh chè đùi phải",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   77
+  ],
+  "codes": [
+   "M17.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Enterococcus kháng vancomycin",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   71
+  ],
+  "codes": [
+   "B95.2"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Buồng thất trái giãn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   77
+  ],
+  "codes": [
+   "I42.0"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "chấn thương",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   76
+  ],
+  "codes": [
+   "T14.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "hạ huyết áp, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   61
+  ],
+  "codes": [
+   "I95.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "tăng lipid máu, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   64
+  ],
+  "codes": [
+   "E78.5"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "B12",
+  "type": "THUỐC",
+  "doc_ids": [
+   66
+  ],
+  "codes": [
+   "2418"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "cơn đau thắt ngực",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   64
+  ],
+  "codes": [
+   "I20.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "u lành về tuyến vú",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   66
+  ],
+  "codes": [
+   "D24"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thiếu vitamin B12",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   66
+  ],
+  "codes": [
+   "E53.8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "b12",
+  "type": "THUỐC",
+  "doc_ids": [
+   66
+  ],
+  "codes": [
+   "2418"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "b6",
+  "type": "THUỐC",
+  "doc_ids": [
+   66
+  ],
+  "codes": [
+   "8696"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "b1",
+  "type": "THUỐC",
+  "doc_ids": [
+   66
+  ],
+  "codes": [
+   "11256"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   67
+  ],
+  "codes": [
+   "K31.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Tăng gánh nhẹ tuần hoàn phổi",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   66
+  ],
+  "codes": [
+   "J81"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "bệnh nhiễm trùng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   68
+  ],
+  "codes": [
+   "B99"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Enterococcus kháng vancomycin",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   69
+  ],
+  "codes": [
+   "B95.2"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "tăng HA",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   55
+  ],
+  "codes": [
+   "I10"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   56
+  ],
+  "codes": [
+   "K31.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Folate",
+  "type": "THUỐC",
+  "doc_ids": [
+   57
+  ],
+  "codes": [
+   "4511"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "dây chằng chéo trước",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   51
+  ],
+  "codes": [
+   "S83.5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Tăng gánh nhẹ tuần hoàn phổi",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   58
+  ],
+  "codes": [
+   "J81"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thở oxy",
+  "type": "THUỐC",
+  "doc_ids": [
+   51
+  ],
+  "codes": [
+   "7806"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "tự tử",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   52
+  ],
+  "codes": [
+   "X84"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "mang thai",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   54
+  ],
+  "codes": [
+   "Z34.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "bất thường về nhiễm sắc thể",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   54
+  ],
+  "codes": [
+   "Q99.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Uống rượu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   58
+  ],
+  "codes": [
+   "F10.1"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "viêm túi mật",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   18
+  ],
+  "codes": [
+   "K81.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "Thở oxy tại nhà",
+  "type": "THUỐC",
+  "doc_ids": [
+   12,
+   15
+  ],
+  "codes": [
+   "7806"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "tật bẩm sinh",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   11
+  ],
+  "codes": [
+   "Q89.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "cao răng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   17
+  ],
+  "codes": [
+   "K03.6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "các bệnh hô hấp",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   17
+  ],
+  "codes": [
+   "J98.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Varicella Zoster Virus",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   12,
+   15
+  ],
+  "codes": [
+   "B02.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "sang chấn răng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   17
+  ],
+  "codes": [
+   "S02.5"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Hút thuốc lá",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   17
+  ],
+  "codes": [
+   "Z72.0"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "albuterol",
+  "type": "THUỐC",
+  "doc_ids": [
+   91
+  ],
+  "codes": [
+   "435"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "ipratropium",
+  "type": "THUỐC",
+  "doc_ids": [
+   91
+  ],
+  "codes": [
+   "7213"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "hội chứng turner, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   91
+  ],
+  "codes": [
+   "Q96.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "tổn thương chức năng thận",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   91
+  ],
+  "codes": [
+   "N28.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "viêm tủy xương mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   92
+  ],
+  "codes": [
+   "M86.6"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "nhiễm khuẩn đường tiết niệu tái phát",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   92
+  ],
+  "codes": [
+   "N39.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Vancomycin",
+  "type": "THUỐC",
+  "doc_ids": [
+   92
+  ],
+  "codes": [
+   "11124"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "Tăng sản tuyến bã nhờn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   92
+  ],
+  "codes": [
+   "L73.8"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "tăng HA",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   93
+  ],
+  "codes": [
+   "I10"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   94
+  ],
+  "codes": [
+   "K31.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "cơn gout cấp",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   95
+  ],
+  "codes": [
+   "M10.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "bệnh trĩ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   97
+  ],
+  "codes": [
+   "K64.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "đường huyết thấp",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   99
+  ],
+  "codes": [
+   "E16.2"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "tăng men gan",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   44
+  ],
+  "codes": [
+   "R74.0"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "bệnh phổi tắc nghẽn mạn tính, không xác định",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   47
+  ],
+  "codes": [
+   "J44.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "hạ huyết áp, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   47
+  ],
+  "codes": [
+   "I95.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "tăng bilirubin máu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   44
+  ],
+  "codes": [
+   "E80.7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "não úng thuỷ khác",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   45,
+   50
+  ],
+  "codes": [
+   "G91.8"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Trứng cá viêm nhẹ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   41
+  ],
+  "codes": [
+   "L70.0"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "sẹo",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   41
+  ],
+  "codes": [
+   "L90.5"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Tăng sản tuyến bã nhờn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   41
+  ],
+  "codes": [
+   "L73.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Sừng hóa nang lông bất thường",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   41
+  ],
+  "codes": [
+   "L73.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "niêm mạc phù nề, sung huyết đỏ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   42
+  ],
+  "codes": [
+   "K29.7"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "xẹp phổi thùy dưới phải",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   47
+  ],
+  "codes": [
+   "J98.1"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "bất thường bẩm sinh",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   50
+  ],
+  "codes": [
+   "Q89.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "covid",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   31
+  ],
+  "codes": [
+   "U07.1"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "lắng đọng protein amyloid",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   32
+  ],
+  "codes": [
+   "E85.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Bệnh amyloidosis tự miễn dịch",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   32
+  ],
+  "codes": [
+   "E85.3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "mụn cám",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   33
+  ],
+  "codes": [
+   "L70.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "mụn đầu trắng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   33
+  ],
+  "codes": [
+   "L70.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "mất thị lực",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   34
+  ],
+  "codes": [
+   "H54.7"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "mù vĩnh viễn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   34
+  ],
+  "codes": [
+   "H54.0"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Thuốc giảm đau",
+  "type": "THUỐC",
+  "doc_ids": [
+   34
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   35
+  ],
+  "codes": [
+   "K31.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "không có lỗ tai",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   37
+  ],
+  "codes": [
+   "Q16.1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "bên tai ko có lỗ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   37
+  ],
+  "codes": [
+   "Q16.1"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "vành tai không phát triển đều",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   37
+  ],
+  "codes": [
+   "Q17.2"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "đái tháo đường",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   38
+  ],
+  "codes": [
+   "E11.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "tụt huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   39
+  ],
+  "codes": [
+   "I95.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "hạ huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   39
+  ],
+  "codes": [
+   "I95.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thay khớp háng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   40
+  ],
+  "codes": [
+   "Z96.6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "gen đông máu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   81
+  ],
+  "codes": [
+   "D68.5"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "thuốc chống đông máu",
+  "type": "THUỐC",
+  "doc_ids": [
+   81
+  ],
+  "codes": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   86
+  ],
+  "codes": [
+   "K31.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "calcium",
+  "type": "THUỐC",
+  "doc_ids": [
+   88
+  ],
+  "codes": [
+   "1897"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "sắt",
+  "type": "THUỐC",
+  "doc_ids": [
+   88
+  ],
+  "codes": [
+   "5482"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "kẽm",
+  "type": "THUỐC",
+  "doc_ids": [
+   88
+  ],
+  "codes": [
+   "11295"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "nghệ",
+  "type": "THUỐC",
+  "doc_ids": [
+   86
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "mật ong",
+  "type": "THUỐC",
+  "doc_ids": [
+   86
+  ],
+  "codes": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "Bệnh amyloidosis tự miễn dịch",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   21
+  ],
+  "codes": [
+   "E85.3"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Bệnh amyloidosis di truyền hoặc gia đình",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   21
+  ],
+  "codes": [
+   "E85.2"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "tăng men gan",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   22
+  ],
+  "codes": [
+   "R74.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "tăng bilirubin máu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   22
+  ],
+  "codes": [
+   "E80.7"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "túi mật giãn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   22
+  ],
+  "codes": [
+   "K82.8"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "stress",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   23
+  ],
+  "codes": [
+   "F43.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "mãn kinh",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   23
+  ],
+  "codes": [
+   "N95.1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Hội chứng viêm gan vàng da ứ mật",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   24
+  ],
+  "codes": [
+   "B16.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "mang virus viêm gan B",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   24
+  ],
+  "codes": [
+   "Z22.5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "cấp tính do virus B",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   24
+  ],
+  "codes": [
+   "B16.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "nám",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   25
+  ],
+  "codes": [
+   "L81.1"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "không rụng trứng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   25
+  ],
+  "codes": [
+   "N97.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Đau thắt ngực",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "codes": [
+   "I20.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "đau thắt ngực",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "codes": [
+   "I20.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "ĐTĐ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "codes": [
+   "E11.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "CAD",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "codes": [
+   "I25.1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thiếu oxy cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "codes": [
+   "I25.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "rối loạn cảm xúc lưỡng cực khác",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   26
+  ],
+  "codes": [
+   "F31.8"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "áp-xe nhỏ",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   27
+  ],
+  "codes": [
+   "J85.2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "ổ áp xe",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   27
+  ],
+  "codes": [
+   "J85.2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "hoại tử nhu mô phổi",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   27
+  ],
+  "codes": [
+   "J85.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "nhiễm vi khuẩn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   27
+  ],
+  "codes": [
+   "A49.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "VP",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   27
+  ],
+  "codes": [
+   "J18.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "vòng kiềng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   29
+  ],
+  "codes": [
+   "M21.1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "bệnh thận mạn, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   29
+  ],
+  "codes": [
+   "N18.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "thận bệnh",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   30
+  ],
+  "codes": [
+   "N28.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "vàng da sơ sinh",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   1
+  ],
+  "codes": [
+   "P59.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "Nhiễm khuẩn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   1,
+   2
+  ],
+  "codes": [
+   "A49.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "sốt rét",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   1
+  ],
+  "codes": [
+   "B54"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "Ảo giác do rượu",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   2
+  ],
+  "codes": [
+   "F10.5"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "viêm lan tỏa hệ mạch máu nhỏ và vừa",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   2
+  ],
+  "codes": [
+   "I77.6"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Viêm kết mạc 2 bên",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   2
+  ],
+  "codes": [
+   "H10.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "nhiễm trùng",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   3,
+   8
+  ],
+  "codes": [
+   "B99"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "cryptosporidium",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   4
+  ],
+  "codes": [
+   "A07.2"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "hormone tuyến giáp tổng hợp",
+  "type": "THUỐC",
+  "doc_ids": [
+   4
+  ],
+  "codes": [
+   "10582"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "loét nông sạch đáy ở tá tràng và hồi tràng sớm",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   4
+  ],
+  "codes": [
+   "K26.9"
+  ],
+  "confidence": "low"
+ },
+ {
+  "surface": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   5
+  ],
+  "codes": [
+   "K83.1"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "viên sỏi 4mm",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   7,
+   9
+  ],
+  "codes": [
+   "N20.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "sốt siêu vi",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   8
+  ],
+  "codes": [
+   "B34.9"
+  ],
+  "confidence": "high"
+ },
+ {
+  "surface": "sốt phát ban",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   8
+  ],
+  "codes": [
+   "B09"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Tăng men gan",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   8
+  ],
+  "codes": [
+   "R74.0"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Viêm kết mạc 2 bên không ghèn",
+  "type": "CHẨN_ĐOÁN",
+  "doc_ids": [
+   8
+  ],
+  "codes": [
+   "H10.9"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "surface": "caffeine",
+  "type": "THUỐC",
+  "doc_ids": [
+   10
+  ],
+  "codes": [
+   "1886"
+  ],
+  "confidence": "low"
+ }
+]

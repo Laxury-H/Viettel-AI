@@ -1,0 +1,611 @@
+[
+  {
+    "text": "Đi ngoài phân đen",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      34,
+      51
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      53,
+      60
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau bụng quanh rốn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      106,
+      124
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nôn thức ăn lẫn máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      126,
+      145
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đi ngoài phân đen",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      150,
+      167
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      169,
+      176
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      196,
+      199
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nội soi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      223,
+      230
+    ],
+    "assertions": []
+  },
+  {
+    "text": "XHTH",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      251,
+      255
+    ],
+    "assertions": [],
+    "candidates": [
+      "K92.2"
+    ]
+  },
+  {
+    "text": "thuốc kháng vitamin K",
+    "type": "THUỐC",
+    "position": [
+      265,
+      286
+    ],
+    "assertions": [],
+    "candidates": [
+      "11289"
+    ]
+  },
+  {
+    "text": "INR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      288,
+      291
+    ],
+    "assertions": []
+  },
+  {
+    "text": "15",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      292,
+      294
+    ],
+    "assertions": []
+  },
+  {
+    "text": "130 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      473,
+      485
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Da niêm mạc nhợt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      520,
+      536
+    ],
+    "assertions": []
+  },
+  {
+    "text": "phù",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      567,
+      570
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "xuất huyết",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      578,
+      588
+    ],
+    "assertions": []
+  },
+  {
+    "text": "RRPN giảm 2 phế trường",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      665,
+      687
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      724,
+      727
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "130 / 70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      766,
+      779
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhịp thở",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      781,
+      789
+    ],
+    "assertions": []
+  },
+  {
+    "text": "21 l/p",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      792,
+      798
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Xuất huyết tiêu hóa",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      812,
+      831
+    ],
+    "assertions": [],
+    "candidates": [
+      "K92.2"
+    ]
+  },
+  {
+    "text": "vitamin K",
+    "type": "THUỐC",
+    "position": [
+      856,
+      865
+    ],
+    "assertions": [],
+    "candidates": [
+      "8151"
+    ]
+  },
+  {
+    "text": "Viêm phổi",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      868,
+      877
+    ],
+    "assertions": [],
+    "candidates": [
+      "J18.9"
+    ]
+  },
+  {
+    "text": "Đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      909,
+      923
+    ],
+    "assertions": [],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      970,
+      984
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Khí máu động mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      993,
+      1010
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tổng phân tích tế bào máu ngoại vi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1048,
+      1082
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Thời gian Thromboplastin một phần hoạt hóa",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1105,
+      1147
+    ],
+    "assertions": []
+  },
+  {
+    "text": "aPTT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1149,
+      1153
+    ],
+    "assertions": []
+  },
+  {
+    "text": "TCK",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1156,
+      1159
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Thời gian Prothrombin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1178,
+      1199
+    ],
+    "assertions": []
+  },
+  {
+    "text": "PT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1201,
+      1203
+    ],
+    "assertions": []
+  },
+  {
+    "text": "TQ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1206,
+      1208
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tỷ lệ Prothrombin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1211,
+      1228
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Định lượng Fibrinogen",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1247,
+      1268
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Men tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1339,
+      1346
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Glucose",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1358,
+      1365
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Creatinin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1372,
+      1381
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Điện giải đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1386,
+      1398
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Na",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1400,
+      1402
+    ],
+    "assertions": []
+  },
+  {
+    "text": "K",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1405,
+      1406
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cl",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1409,
+      1411
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Men gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1415,
+      1422
+    ],
+    "assertions": []
+  },
+  {
+    "text": "AST",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1435,
+      1438
+    ],
+    "assertions": []
+  },
+  {
+    "text": "GOT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1440,
+      1443
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ALT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1448,
+      1451
+    ],
+    "assertions": []
+  },
+  {
+    "text": "GPT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1453,
+      1456
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Men tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1466,
+      1473
+    ],
+    "assertions": []
+  },
+  {
+    "text": "CRP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1486,
+      1489
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Troponin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1493,
+      1501
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hs-Troponin T",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1515,
+      1528
+    ],
+    "assertions": []
+  },
+  {
+    "text": "co giật",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1568,
+      1575
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "cứng đờ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1577,
+      1584
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "cắn lưỡi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1586,
+      1594
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "tiểu tiện không tự chủ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1600,
+      1622
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "CRP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1647,
+      1650
+    ],
+    "assertions": []
+  },
+  {
+    "text": "227.0 mg/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1652,
+      1662
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Creatinin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1663,
+      1672
+    ],
+    "assertions": []
+  },
+  {
+    "text": "46 µmol/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1675,
+      1684
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Kali",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1685,
+      1689
+    ],
+    "assertions": []
+  },
+  {
+    "text": "3.6 mmol/L",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1693,
+      1703
+    ],
+    "assertions": []
+  },
+  {
+    "text": "CT",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1748,
+      1750
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ceftriaxone 1g",
+    "type": "THUỐC",
+    "position": [
+      1886,
+      1900
+    ],
+    "assertions": [],
+    "candidates": [
+      "1665021"
+    ]
+  }
+]

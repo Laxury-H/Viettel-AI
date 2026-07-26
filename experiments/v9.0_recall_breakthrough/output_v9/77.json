@@ -65,18 +65,6 @@
     "assertions": []
   },
   {
-    "text": "giãn nh đường mật trong gan hai bên",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      690,
-      725
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
     "text": "Siêu âm Doppler tim, van tim",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -86,37 +74,13 @@
     "assertions": []
   },
   {
-    "text": "Buồng thất trái giãn",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      759,
-      779
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "chức năng tâm thu thất trái",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      781,
-      808
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "giảm nhiều",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
       809,
       819
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "EF BP",
@@ -173,26 +137,13 @@
     ]
   },
   {
-    "text": "Thất phải giãn",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      877,
-      891
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "chức năng tâm thu thất phải",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
       893,
       920
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "giảm",
@@ -240,9 +191,7 @@
       972,
       994
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "bóng tim to",
@@ -293,29 +242,11 @@
     ]
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1384,
-      1402
-    ],
-    "assertions": []
-  },
-  {
     "text": "x-quang",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
       1409,
       1416
-    ],
-    "assertions": []
-  },
-  {
-    "text": "thay đổi thoái hóa",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1449,
-      1467
     ],
     "assertions": []
   },

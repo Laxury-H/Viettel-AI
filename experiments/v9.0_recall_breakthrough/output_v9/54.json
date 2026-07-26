@@ -1,14 +1,5 @@
 [
   {
-    "text": "mang thai",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      58,
-      67
-    ],
-    "assertions": []
-  },
-  {
     "text": "Bệnh bạch cầu dòng tủy mãn tính",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -209,15 +200,13 @@
     "assertions": []
   },
   {
-    "text": "ng: Cực kỳ",
+    "text": "Cực kỳ yếu",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      845,
-      855
+      849,
+      859
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ảo giác",
@@ -283,21 +272,6 @@
     "assertions": []
   },
   {
-    "text": " về dị tật bẩm ",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1204,
-      1219
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ],
-    "candidates": [
-      "Q89.9"
-    ]
-  },
-  {
     "text": "nipt",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -316,17 +290,6 @@
     "assertions": []
   },
   {
-    "text": " cơ bất thường về nhiễm sắc",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1489,
-      1516
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "siêu âm",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -334,16 +297,5 @@
       1580
     ],
     "assertions": []
-  },
-  {
-    "text": " đi khám ",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1709,
-      1718
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   }
 ]

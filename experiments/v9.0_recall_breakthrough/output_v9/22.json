@@ -1,16 +1,5 @@
 [
   {
-    "text": "khó chịu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      52,
-      60
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "acetaminophen 500mg",
     "type": "THUỐC",
     "position": [
@@ -42,9 +31,9 @@
       310,
       323
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "3322"
     ]
   },
   {
@@ -197,9 +186,7 @@
       899,
       910
     ],
-    "assertions": [
-      "isNegated"
-    ]
+    "assertions": []
   },
   {
     "text": "đau",
@@ -251,8 +238,7 @@
       1078
     ],
     "assertions": [
-      "isNegated",
-      "isFamily"
+      "isNegated"
     ]
   },
   {
@@ -263,8 +249,7 @@
       1101
     ],
     "assertions": [
-      "isNegated",
-      "isFamily"
+      "isNegated"
     ]
   },
   {
@@ -286,18 +271,10 @@
       1253,
       1266
     ],
-    "assertions": [
-      "isFamily"
+    "assertions": [],
+    "candidates": [
+      "3322"
     ]
-  },
-  {
-    "text": "khó chịu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1458,
-      1466
-    ],
-    "assertions": []
   },
   {
     "text": "dị ứng thời tiết",
@@ -306,9 +283,9 @@
       1652,
       1668
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
+    "assertions": [],
+    "candidates": [
+      "T78.4"
     ]
   },
   {
@@ -447,33 +424,6 @@
     "assertions": []
   },
   {
-    "text": "đang chờ kết quả",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      2154,
-      2170
-    ],
-    "assertions": []
-  },
-  {
-    "text": "đang chờ kết quả",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      2171,
-      2187
-    ],
-    "assertions": []
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2222,
-      2240
-    ],
-    "assertions": []
-  },
-  {
     "text": "siêu âm bụng có doppler",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -519,20 +469,11 @@
     "assertions": []
   },
   {
-    "text": "túi mật giãn nở rõ rệt",
+    "text": "túi mật giãn nở",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
       2319,
-      2341
-    ],
-    "assertions": []
-  },
-  {
-    "text": "túi mật giãn",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      2342,
-      2354
+      2334
     ],
     "assertions": []
   },

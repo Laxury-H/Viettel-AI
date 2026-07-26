@@ -33,17 +33,6 @@
     ]
   },
   {
-    "text": "chỉ khô",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      558,
-      565
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
     "text": "bệnh dại",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -80,11 +69,11 @@
     ]
   },
   {
-    "text": " do cào ho",
+    "text": "trầy xước",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      754,
-      764
+      805,
+      814
     ],
     "assertions": []
   },
@@ -123,15 +112,6 @@
     "candidates": [
       "A82.9"
     ]
-  },
-  {
-    "text": "gười bị cắ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1182,
-      1192
-    ],
-    "assertions": []
   },
   {
     "text": "Bệnh dại",
@@ -182,11 +162,11 @@
     ]
   },
   {
-    "text": "bị dại ",
+    "text": "trầy xước",
     "type": "TRIỆU_CHỨNG",
     "position": [
-      1588,
-      1595
+      1631,
+      1640
     ],
     "assertions": []
   },
@@ -249,23 +229,5 @@
     "candidates": [
       "330371"
     ]
-  },
-  {
-    "text": "nh nhân\nVù",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2326,
-      2336
-    ],
-    "assertions": []
-  },
-  {
-    "text": "và cổ, cũn",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2365,
-      2375
-    ],
-    "assertions": []
   }
 ]

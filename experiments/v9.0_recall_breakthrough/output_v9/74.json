@@ -84,9 +84,7 @@
       673,
       691
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "buồn nôn",
@@ -167,43 +165,7 @@
       885,
       905
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "1800 ml",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      909,
-      916
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "300 ml",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      927,
-      933
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "350 ml",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1008,
-      1014
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "đau bụng",
@@ -221,9 +183,7 @@
       1133,
       1151
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "nôn",
@@ -331,8 +291,9 @@
       1471,
       1492
     ],
-    "assertions": [
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "7052"
     ]
   },
   {
@@ -342,8 +303,9 @@
       1505,
       1526
     ],
-    "assertions": [
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "7052"
     ]
   }
 ]

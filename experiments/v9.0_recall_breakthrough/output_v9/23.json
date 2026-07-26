@@ -1,33 +1,5 @@
 [
   {
-    "text": "mãn kinh",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      189,
-      197
-    ],
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "N95.1"
-    ]
-  },
-  {
-    "text": "mãn kinh",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      237,
-      245
-    ],
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "N95.1"
-    ]
-  },
-  {
     "text": "đổ mồ hôi đêm",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -45,21 +17,7 @@
       264,
       271
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "gián đoạn giấc ngủ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      283,
-      301
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Mất ngủ",
@@ -101,18 +59,13 @@
     ]
   },
   {
-    "text": "stress",
-    "type": "CHẨN_ĐOÁN",
+    "text": "Phẫu thuật đặt cảng",
+    "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      463,
-      469
+      810,
+      829
     ],
-    "assertions": [
-      "isHistorical"
-    ],
-    "candidates": [
-      "F43.9"
-    ]
+    "assertions": []
   },
   {
     "text": "tăng nhãn áp",
@@ -176,9 +129,7 @@
       1246,
       1263
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "não úng thủy",
@@ -223,9 +174,7 @@
       1468,
       1482
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "phù gai thị",

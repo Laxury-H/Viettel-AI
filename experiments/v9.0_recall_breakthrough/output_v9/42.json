@@ -149,22 +149,20 @@
     "assertions": []
   },
   {
-    "text": "n môn vị, niêm ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      524,
-      539
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "phù",
     "type": "TRIỆU_CHỨNG",
     "position": [
       543,
       546
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sung huyết đỏ",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      551,
+      564
     ],
     "assertions": []
   },
@@ -241,17 +239,6 @@
       962
     ],
     "assertions": []
-  },
-  {
-    "text": "h nhân n",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      975,
-      983
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   },
   {
     "text": "sốt",
@@ -401,33 +388,20 @@
     ]
   },
   {
-    "text": "    ",
+    "text": "spo2",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      1541,
-      1545
+      1567,
+      1571
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
-    "text": "P gh",
+    "text": "spo2",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      1556,
-      1560
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": " Kết quả xét nghi",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1712,
-      1729
+      1582,
+      1586
     ],
     "assertions": []
   },

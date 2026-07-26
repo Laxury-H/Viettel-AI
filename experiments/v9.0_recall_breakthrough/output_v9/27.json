@@ -36,15 +36,6 @@
     ]
   },
   {
-    "text": "VPHT",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      141,
-      145
-    ],
-    "assertions": []
-  },
-  {
     "text": "Viêm phổi",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -81,35 +72,13 @@
     ]
   },
   {
-    "text": "vi khuẩn",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      451,
-      459
-    ],
-    "assertions": []
-  },
-  {
-    "text": "thuốc kháng sinh",
-    "type": "THUỐC",
-    "position": [
-      466,
-      482
-    ],
-    "assertions": [
-      "isNegated"
-    ]
-  },
-  {
     "text": "suy giảm miễn dịch",
     "type": "CHẨN_ĐOÁN",
     "position": [
       529,
       547
     ],
-    "assertions": [
-      "isFamily"
-    ],
+    "assertions": [],
     "candidates": [
       "D84.9"
     ]
@@ -121,7 +90,10 @@
       551,
       570
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "J85.0"
+    ]
   },
   {
     "text": "Viêm phổi hoại tử",
@@ -148,45 +120,6 @@
     ]
   },
   {
-    "text": "hoại tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      787,
-      794
-    ],
-    "assertions": []
-  },
-  {
-    "text": "hóa mủ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      909,
-      915
-    ],
-    "assertions": []
-  },
-  {
-    "text": "hoại tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1045,
-      1052
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "hoại tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1093,
-      1100
-    ],
-    "assertions": []
-  },
-  {
     "text": "áp xe phổi",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -204,15 +137,6 @@
     "position": [
       1244,
       1254
-    ],
-    "assertions": []
-  },
-  {
-    "text": "hoại tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1271,
-      1278
     ],
     "assertions": []
   },
@@ -335,14 +259,5 @@
     "candidates": [
       "J85.2"
     ]
-  },
-  {
-    "text": "hoại tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2279,
-      2286
-    ],
-    "assertions": []
   }
 ]

@@ -188,11 +188,11 @@
     "assertions": []
   },
   {
-    "text": "túi mật giãn nở rõ rệt",
+    "text": "túi mật giãn nở",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
       291,
-      313
+      306
     ],
     "assertions": []
   },
@@ -269,33 +269,13 @@
     ]
   },
   {
-    "text": "mô bệnh học",
+    "text": "tế bào một nhân",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      739,
-      750
+      786,
+      801
     ],
     "assertions": []
-  },
-  {
-    "text": "kính hiển thị vi quang học",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      883,
-      909
-    ],
-    "assertions": []
-  },
-  {
-    "text": "kính hiển thị vi điện tử",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      936,
-      960
-    ],
-    "assertions": [
-      "isFamily"
-    ]
   },
   {
     "text": "bệnh lý mày đay vô căn",
@@ -307,18 +287,6 @@
     "assertions": [],
     "candidates": [
       "L50.1"
-    ]
-  },
-  {
-    "text": "buồn ngủ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1631,
-      1639
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
     ]
   }
 ]

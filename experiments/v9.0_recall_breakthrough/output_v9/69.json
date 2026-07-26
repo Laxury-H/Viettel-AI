@@ -39,17 +39,6 @@
     ]
   },
   {
-    "text": "tự tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      202,
-      207
-    ],
-    "assertions": [
-      "isNegated"
-    ]
-  },
-  {
     "text": "buồn chán",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -57,53 +46,6 @@
       323
     ],
     "assertions": []
-  },
-  {
-    "text": "uống nhiều rượu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      325,
-      340
-    ],
-    "assertions": []
-  },
-  {
-    "text": "hút cần sa",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      341,
-      351
-    ],
-    "assertions": []
-  },
-  {
-    "text": "tự tử",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      427,
-      432
-    ],
-    "assertions": []
-  },
-  {
-    "text": "Bệnh nhân tỉnh",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      505,
-      519
-    ],
-    "assertions": []
-  },
-  {
-    "text": "tiếp xúc tốt",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      521,
-      533
-    ],
-    "assertions": [
-      "isNegated"
-    ]
   },
   {
     "text": "trầm cảm",
@@ -196,33 +138,15 @@
     "assertions": []
   },
   {
-    "text": "kháng sinh tĩnh mạch",
-    "type": "THUỐC",
-    "position": [
-      943,
-      963
-    ],
-    "assertions": []
-  },
-  {
-    "text": "khó chịu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1143,
-      1151
-    ],
-    "assertions": []
-  },
-  {
     "text": "dị ứng thời tiết",
     "type": "CHẨN_ĐOÁN",
     "position": [
       1337,
       1353
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
+    "assertions": [],
+    "candidates": [
+      "T78.4"
     ]
   }
 ]

@@ -48,15 +48,6 @@
     ]
   },
   {
-    "text": "BiPAP",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      151,
-      156
-    ],
-    "assertions": []
-  },
-  {
     "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -75,9 +66,7 @@
       230,
       245
     ],
-    "assertions": [
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "Viêm hang vị sung huyết",
@@ -89,39 +78,6 @@
     "assertions": [],
     "candidates": [
       "K29.7"
-    ]
-  },
-  {
-    "text": "niêm mạc vùng hang vị dạ dày viêm",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      374,
-      407
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      413,
-      417
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "ứ máu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      443,
-      448
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {
@@ -168,17 +124,6 @@
       554
     ],
     "assertions": []
-  },
-  {
-    "text": "bệnh dạ dày",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      566,
-      577
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   },
   {
     "text": "nội soi",

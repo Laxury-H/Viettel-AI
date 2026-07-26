@@ -74,19 +74,6 @@
     ]
   },
   {
-    "text": "Da niêm mạc hồng",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      286,
-      302
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
     "text": "phù",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -104,11 +91,7 @@
       321,
       331
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Tim nhịp đều",
@@ -117,11 +100,7 @@
       333,
       345
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "RRPN thô",
@@ -130,37 +109,7 @@
       352,
       360
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Bụng mềm",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      362,
-      370
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Tiểu được",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      372,
-      381
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "110/ 70 mmHg",
@@ -169,9 +118,7 @@
       387,
       399
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "70 l/p",
@@ -180,9 +127,7 @@
       417,
       423
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Thời gian prothrombin",
@@ -209,9 +154,7 @@
       482,
       498
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "TQ",
@@ -382,9 +325,7 @@
       853,
       884
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Cơn đau thắt ngực không ổn định",
@@ -408,50 +349,6 @@
     "assertions": [],
     "candidates": [
       "I10"
-    ]
-  },
-  {
-    "text": "giảm cân",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1203,
-      1211
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "tăng cân trở lại",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1215,
-      1231
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "giảm cân",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1294,
-      1302
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "tăng cân trở lại",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1336,
-      1352
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   }
 ]

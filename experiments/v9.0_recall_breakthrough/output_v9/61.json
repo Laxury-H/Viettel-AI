@@ -1,32 +1,5 @@
 [
   {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      120,
-      127
-    ],
-    "assertions": []
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      203,
-      210
-    ],
-    "assertions": []
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      275,
-      282
-    ],
-    "assertions": []
-  },
-  {
     "text": "Implanon",
     "type": "THUỐC",
     "position": [
@@ -37,24 +10,6 @@
     "candidates": [
       "389221"
     ]
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      400,
-      407
-    ],
-    "assertions": []
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      475,
-      482
-    ],
-    "assertions": []
   },
   {
     "text": "mệt mỏi",
@@ -117,10 +72,7 @@
       813,
       840
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "đau bụng",
@@ -159,69 +111,11 @@
     "assertions": []
   },
   {
-    "text": "que tránh thai",
-    "type": "THUỐC",
+    "text": "cấy que tránh thai",
+    "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      1018,
+      1014,
       1032
-    ],
-    "assertions": []
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1126,
-      1133
-    ],
-    "assertions": [
-      "isNegated"
-    ]
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1235,
-      1242
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1275,
-      1282
-    ],
-    "assertions": []
-  },
-  {
-    "text": "que cấy",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1487,
-      1494
-    ],
-    "assertions": []
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1522,
-      1529
-    ],
-    "assertions": []
-  },
-  {
-    "text": "que cấy",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1608,
-      1615
     ],
     "assertions": []
   },
