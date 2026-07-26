@@ -164,15 +164,6 @@
     "assertions": []
   },
   {
-    "text": "khám lâm sàng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      771,
-      784
-    ],
-    "assertions": []
-  },
-  {
     "text": "đau",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -202,47 +193,11 @@
     "assertions": []
   },
   {
-    "text": "Nhiệt độ",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      902,
-      910
-    ],
-    "assertions": []
-  },
-  {
-    "text": "36.7°c",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      911,
-      917
-    ],
-    "assertions": []
-  },
-  {
-    "text": "Huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      919,
-      927
-    ],
-    "assertions": []
-  },
-  {
     "text": "139/68 mmhg",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
       928,
       939
-    ],
-    "assertions": []
-  },
-  {
-    "text": "Mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      941,
-      945
     ],
     "assertions": []
   },
@@ -283,53 +238,11 @@
     "assertions": []
   },
   {
-    "text": "nhiệt độ",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1008,
-      1016
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "36.7°c",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1017,
-      1023
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1025,
-      1033
-    ],
-    "assertions": []
-  },
-  {
     "text": "139/68 mmhg",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
       1034,
       1045
-    ],
-    "assertions": []
-  },
-  {
-    "text": "nhịp tim",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1047,
-      1055
     ],
     "assertions": []
   },

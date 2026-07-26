@@ -1,14 +1,5 @@
 [
   {
-    "text": "khám sức khỏe",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      63,
-      76
-    ],
-    "assertions": []
-  },
-  {
     "text": "160/70 mmHg",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
@@ -54,15 +45,6 @@
     "assertions": []
   },
   {
-    "text": "nhịp tim",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      394,
-      402
-    ],
-    "assertions": []
-  },
-  {
     "text": "cảm giác rợn người",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -88,27 +70,6 @@
       486
     ],
     "assertions": []
-  },
-  {
-    "text": "hoang mang",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      733,
-      743
-    ],
-    "assertions": []
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      806,
-      814
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
   },
   {
     "text": "Suy thận mạn giai đoạn V",
@@ -173,9 +134,7 @@
       1015,
       1029
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "u dây thần kinh số VIII",
@@ -198,9 +157,7 @@
       1121,
       1145
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Sinh thiết",
@@ -230,47 +187,11 @@
     "assertions": []
   },
   {
-    "text": "Huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1289,
-      1297
-    ],
-    "assertions": []
-  },
-  {
     "text": "lo âu",
     "type": "TRIỆU_CHỨNG",
     "position": [
       1376,
       1381
-    ],
-    "assertions": []
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1397,
-      1405
-    ],
-    "assertions": []
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1501,
-      1509
-    ],
-    "assertions": []
-  },
-  {
-    "text": "huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1600,
-      1608
     ],
     "assertions": []
   }

@@ -42,33 +42,6 @@
     "assertions": []
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      142,
-      146
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      176,
-      180
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      188,
-      192
-    ],
-    "assertions": []
-  },
-  {
     "text": "Kawasaki",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -102,18 +75,6 @@
     "assertions": [],
     "candidates": [
       "I25.4"
-    ]
-  },
-  {
-    "text": "đột tử",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      592,
-      598
-    ],
-    "assertions": [],
-    "candidates": [
-      "I46.1"
     ]
   },
   {
@@ -199,15 +160,6 @@
     "candidates": [
       "B34.9"
     ]
-  },
-  {
-    "text": "vi khuẩn",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      983,
-      991
-    ],
-    "assertions": []
   },
   {
     "text": "bệnh Kawasaki",
@@ -312,6 +264,15 @@
     "assertions": []
   },
   {
+    "text": "Tổn thương ở đầu chi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1686,
+      1706
+    ],
+    "assertions": []
+  },
+  {
     "text": "Sưng",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -398,21 +359,6 @@
     "assertions": []
   },
   {
-    "text": "loạn thần",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      2030,
-      2039
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ],
-    "candidates": [
-      "F29"
-    ]
-  },
-  {
     "text": "Công thức máu",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -494,15 +440,6 @@
     "assertions": []
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2190,
-      2194
-    ],
-    "assertions": []
-  },
-  {
     "text": "ECG",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -533,33 +470,6 @@
     ]
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2337,
-      2341
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2428,
-      2432
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2513,
-      2517
-    ],
-    "assertions": []
-  },
-  {
     "text": "ASA",
     "type": "THUỐC",
     "position": [
@@ -581,15 +491,6 @@
     "assertions": []
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2867,
-      2871
-    ],
-    "assertions": []
-  },
-  {
     "text": "Kawasaki",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -600,33 +501,6 @@
     "candidates": [
       "M30.3"
     ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      3168,
-      3172
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      3305,
-      3309
-    ],
-    "assertions": []
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      3329,
-      3333
-    ],
-    "assertions": []
   },
   {
     "text": "Bệnh Kawasaki",
@@ -686,11 +560,11 @@
     "assertions": []
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
+    "text": "hạch cổ",
+    "type": "TRIỆU_CHỨNG",
     "position": [
-      3730,
-      3734
+      3643,
+      3650
     ],
     "assertions": []
   }

@@ -206,9 +206,7 @@
       605,
       615
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ảo giác",
@@ -378,41 +376,6 @@
     "assertions": []
   },
   {
-    "text": "que cấy tránh thai",
-    "type": "THUỐC",
-    "position": [
-      1303,
-      1321
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Que tránh thai",
-    "type": "THUỐC",
-    "position": [
-      1323,
-      1337
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "cấy que",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1491,
-      1498
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
     "text": "bạch cầu",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -546,17 +509,6 @@
       1729
     ],
     "assertions": []
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1774,
-      1792
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
   },
   {
     "text": "chụp x-quang ngực",

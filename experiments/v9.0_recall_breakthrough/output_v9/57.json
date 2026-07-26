@@ -493,15 +493,6 @@
     "assertions": []
   },
   {
-    "text": "Folate",
-    "type": "THUỐC",
-    "position": [
-      1565,
-      1571
-    ],
-    "assertions": []
-  },
-  {
     "text": "Vitamin C",
     "type": "THUỐC",
     "position": [
@@ -511,30 +502,6 @@
     "assertions": [],
     "candidates": [
       "1151"
-    ]
-  },
-  {
-    "text": "insulin",
-    "type": "THUỐC",
-    "position": [
-      1675,
-      1682
-    ],
-    "assertions": [],
-    "candidates": [
-      "5856"
-    ]
-  },
-  {
-    "text": "dextrose",
-    "type": "THUỐC",
-    "position": [
-      1686,
-      1694
-    ],
-    "assertions": [],
-    "candidates": [
-      "4850"
     ]
   },
   {

@@ -35,8 +35,6 @@
       142
     ],
     "assertions": [
-      "isNegated",
-      "isFamily",
       "isHistorical"
     ]
   },
@@ -281,28 +279,6 @@
     ]
   },
   {
-    "text": "đánh giá tổng quát về tiêu hóa",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      864,
-      894
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "đánh giá tổng quát về tiêu hóa",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      901,
-      931
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "khó nuốt",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -334,24 +310,6 @@
     "candidates": [
       "N20.1"
     ]
-  },
-  {
-    "text": "lớn hơn 7mm",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1061,
-      1072
-    ],
-    "assertions": []
-  },
-  {
-    "text": "tổn thương chức năng thận",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1208,
-      1233
-    ],
-    "assertions": []
   },
   {
     "text": "metoprolol",

@@ -1,12 +1,15 @@
 [
   {
-    "text": "u lành",
+    "text": "u lành về tuyến vú",
     "type": "CHẨN_ĐOÁN",
     "position": [
       70,
-      76
+      88
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "D24"
+    ]
   },
   {
     "text": "u xơ tuyến vú",
@@ -51,27 +54,10 @@
       237,
       248
     ],
-    "assertions": [
-      "isFamily"
+    "assertions": [],
+    "candidates": [
+      "2418"
     ]
-  },
-  {
-    "text": "khối u",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      264,
-      270
-    ],
-    "assertions": []
-  },
-  {
-    "text": "ung thư",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      271,
-      278
-    ],
-    "assertions": []
   },
   {
     "text": "khối u lành tính",
@@ -92,16 +78,22 @@
       390,
       401
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "2418"
+    ]
   },
   {
-    "text": "vitamin B12",
-    "type": "THUỐC",
+    "text": "thiếu vitamin B12",
+    "type": "CHẨN_ĐOÁN",
     "position": [
-      647,
+      641,
       658
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "E53.8"
+    ]
   },
   {
     "text": "viêm teo niêm mạc dạ dày",
@@ -114,15 +106,6 @@
     "candidates": [
       "K29.4"
     ]
-  },
-  {
-    "text": "rối loạn sản xuất máu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      792,
-      813
-    ],
-    "assertions": []
   },
   {
     "text": "dị cảm",
@@ -161,15 +144,6 @@
     "assertions": []
   },
   {
-    "text": "ung thư",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      958,
-      965
-    ],
-    "assertions": []
-  },
-  {
     "text": "u nang tuyến vú",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -192,15 +166,6 @@
     "candidates": [
       "N60.2"
     ]
-  },
-  {
-    "text": "ung thư",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1118,
-      1125
-    ],
-    "assertions": []
   },
   {
     "text": "u nang tuyến vú",
@@ -263,18 +228,6 @@
     ]
   },
   {
-    "text": "Estrogen",
-    "type": "THUỐC",
-    "position": [
-      1369,
-      1377
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
     "text": "cúm",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -293,15 +246,6 @@
     "assertions": []
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1401,
-      1419
-    ],
-    "assertions": []
-  },
-  {
     "text": "chụp x-quang ngực",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -309,6 +253,18 @@
       1438
     ],
     "assertions": []
+  },
+  {
+    "text": "Tăng gánh nhẹ tuần hoàn phổi",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1440,
+      1468
+    ],
+    "assertions": [],
+    "candidates": [
+      "J81"
+    ]
   },
   {
     "text": "tràn dịch màng phổi hai bên",
@@ -357,14 +313,5 @@
     "candidates": [
       "N60.0"
     ]
-  },
-  {
-    "text": "khối u",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1655,
-      1661
-    ],
-    "assertions": []
   }
 ]

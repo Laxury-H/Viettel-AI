@@ -14,28 +14,6 @@
     ]
   },
   {
-    "text": "corticoid",
-    "type": "THUỐC",
-    "position": [
-      68,
-      77
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Thở oxy tại nhà",
-    "type": "THUỐC",
-    "position": [
-      102,
-      117
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "Hội chứng kháng enzym tổng hợp protein",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -87,28 +65,6 @@
     "assertions": []
   },
   {
-    "text": "Corticoid",
-    "type": "THUỐC",
-    "position": [
-      317,
-      326
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Thở oxy tại nhà",
-    "type": "THUỐC",
-    "position": [
-      350,
-      365
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "bactrim",
     "type": "THUỐC",
     "position": [
@@ -157,9 +113,7 @@
       584,
       605
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "tổn thương vùng âm hộ",
@@ -168,9 +122,7 @@
       682,
       703
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "cotrimoxazol",
@@ -224,9 +176,7 @@
       1114,
       1123
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "đau",
@@ -253,9 +203,7 @@
       1344,
       1365
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "đau",
@@ -273,9 +221,7 @@
       1432,
       1457
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "dịch giống mủ có màu vàng",
@@ -284,10 +230,7 @@
       1510,
       1535
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "dị tật thiểu sản vành tai",
@@ -320,9 +263,7 @@
       2093,
       2121
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "chụp cắt lớp",
@@ -331,9 +272,7 @@
       2226,
       2238
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "tạo hình ống tai ngoài",
@@ -342,9 +281,7 @@
       2282,
       2304
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "doxycycline",

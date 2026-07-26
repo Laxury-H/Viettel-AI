@@ -1,0 +1,689 @@
+[
+ {
+  "surface": "tăng men gan",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "R74.0"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "hoại tử nhu mô phổi",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "J85.0"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "VPHT",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "J85.0"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "tật bẩm sinh",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "Q89.9"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "u lành",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "D36.9"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "bất thường về nhiễm sắc thể",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "Q99.9"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "chấn thương",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "T14.9"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "bệnh dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "K31.9"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Dị ứng furosemide",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "T78.4"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "dị ứng thời tiết",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "T78.4"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "hẹp lỗ liên hợp",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "M48.0"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "mang thai",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "Z33"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "quá liều thuốc kháng vitamin K",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "T45.5"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "suy giảm chức năng gan",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "K72.9"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "sạm da",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "L81.4"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "sốt phát ban",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "B09"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Trứng cá viêm",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "L70.0"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Tăng sản tuyến bã nhờn",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "L73.8"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "tắc mạch",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "I74.9"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "tắc mạch cấp",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "I74.9"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "ung thư",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "C80"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "túi mật giãn",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "K82.8"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "teo niêm mạc tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "N85.8"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "tổn thương chức năng thận",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "N28.9"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "Rối loạn tiêu hóa",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "K92.9"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "rối loạn chức năng thất trái",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "I50.9"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "Hội chứng hủy hoại tế bào gan",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "K76.9"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "nhiễm trùng lợi",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "K05.1"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "Vitamin B12",
+  "type": "THUỐC",
+  "codes": [
+   "2418"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Vitamin K",
+  "type": "THUỐC",
+  "codes": [
+   "8151"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "calcium",
+  "type": "THUỐC",
+  "codes": [
+   "1893"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Folate",
+  "type": "THUỐC",
+  "codes": [
+   "4511"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "2 sl ntg",
+  "type": "THUỐC",
+  "codes": [
+   "4917"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Nitralmyl",
+  "type": "THUỐC",
+  "codes": [
+   "4917"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "Thở oxy tại nhà",
+  "type": "THUỐC",
+  "codes": [
+   "7806"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "dịch dưới màng cứng",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "I62.0"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Hội chứng nhiễm trùng nhiễm độc",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "B99"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "Hội chứng viêm gan vàng da ứ mật",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "K75.9"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "nhồi máu",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "I21.9"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "ung thư biểu mô tuyến",
+  "type": "CHẨN_ĐOÁN",
+  "codes": [
+   "C22.1"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Aquima",
+  "type": "THUỐC",
+  "codes": [
+   "612"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Bacillus clausii",
+  "type": "THUỐC",
+  "codes": [
+   "2600050"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Biogermin",
+  "type": "THUỐC",
+  "codes": [
+   "2600050"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Enterogermina",
+  "type": "THUỐC",
+  "codes": [
+   "2600050"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Simenic",
+  "type": "THUỐC",
+  "codes": [
+   "17627"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Philpovin",
+  "type": "THUỐC",
+  "codes": [
+   "32541"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Fortex",
+  "type": "THUỐC",
+  "codes": [
+   "16193"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "corticoid",
+  "type": "THUỐC",
+  "codes": [
+   "8638"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "Corticosteroid",
+  "type": "THUỐC",
+  "codes": [
+   "8638"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "dinitrochlorobenzene",
+  "type": "THUỐC",
+  "codes": [
+   "3470"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "diphencyprone",
+  "type": "THUỐC",
+  "codes": [
+   "23377"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "diphenylcyclopropenone",
+  "type": "THUỐC",
+  "codes": [
+   "23377"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "psoralen",
+  "type": "THUỐC",
+  "codes": [
+   "2103294"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Estrogen",
+  "type": "THUỐC",
+  "codes": [
+   "4100"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "Kháng histamin H1",
+  "type": "THUỐC",
+  "codes": [
+   "28889"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "thuốc kháng B-histamin",
+  "type": "THUỐC",
+  "codes": [
+   "28889"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "kháng vitamin K",
+  "type": "THUỐC",
+  "codes": [
+   "11289"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "thuốc kháng vitamin K",
+  "type": "THUỐC",
+  "codes": [
+   "11289"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "thuốc chống đông",
+  "type": "THUỐC",
+  "codes": [
+   "67108"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "lợi tiểu",
+  "type": "THUỐC",
+  "codes": [
+   "4603"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thuốc lợi tiểu",
+  "type": "THUỐC",
+  "codes": [
+   "4603"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "liệu pháp lợi tiểu",
+  "type": "THUỐC",
+  "codes": [
+   "4603"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thuốc chống nôn",
+  "type": "THUỐC",
+  "codes": [
+   "6915"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thuốc chống trầm cảm",
+  "type": "THUỐC",
+  "codes": [
+   "704"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "thuốc an thần",
+  "type": "THUỐC",
+  "codes": [
+   "3322"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "thuốc giảm đau opioid",
+  "type": "THUỐC",
+  "codes": [
+   "7052"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thuốc kháng nấm",
+  "type": "THUỐC",
+  "codes": [
+   "6135"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "thuốc cản quang",
+  "type": "THUỐC",
+  "codes": [
+   "5956"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "thuốc tránh thai",
+  "type": "THUỐC",
+  "codes": [
+   "4124"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "NSAID",
+  "type": "THUỐC",
+  "codes": [
+   "5640"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "NSAIDs",
+  "type": "THUỐC",
+  "codes": [
+   "5640"
+  ],
+  "doc_ids": [],
+  "confidence": "medium"
+ },
+ {
+  "surface": "men tiêu hóa",
+  "type": "THUỐC",
+  "codes": [
+   "7880"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "vaccine phòng dại",
+  "type": "THUỐC",
+  "codes": [
+   "9097"
+  ],
+  "doc_ids": [],
+  "confidence": "high"
+ },
+ {
+  "surface": "vắc xin sống",
+  "type": "THUỐC",
+  "codes": [
+   "29406"
+  ],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "thuốc kháng sinh",
+  "type": "THUỐC",
+  "codes": [],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "kháng sinh tĩnh mạch",
+  "type": "THUỐC",
+  "codes": [],
+  "doc_ids": [],
+  "confidence": "low"
+ },
+ {
+  "surface": "kháng sinh tại chỗ",
+  "type": "THUỐC",
+  "codes": [],
+  "doc_ids": [],
+  "confidence": "low"
+ }
+]

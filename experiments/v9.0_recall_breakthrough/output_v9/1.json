@@ -60,15 +60,6 @@
     ]
   },
   {
-    "text": "sàng lọc sớm",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1082,
-      1094
-    ],
-    "assertions": []
-  },
-  {
     "text": "thiếu men G6PD",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -100,15 +91,6 @@
     "candidates": [
       "D55.0"
     ]
-  },
-  {
-    "text": "xét nghiệm chuyên sâu",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1279,
-      1300
-    ],
-    "assertions": []
   },
   {
     "text": "thiếu men G6PD",
@@ -248,15 +230,6 @@
     "position": [
       1904,
       1911
-    ],
-    "assertions": []
-  },
-  {
-    "text": "tổn thương thần kinh",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1945,
-      1965
     ],
     "assertions": []
   },
@@ -411,17 +384,6 @@
     ]
   },
   {
-    "text": "sàng lọc sớm",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2889,
-      2901
-    ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
     "text": "tan huyết",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -503,7 +465,10 @@
       3583,
       3592
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "8151"
+    ]
   },
   {
     "text": "nhiễm khuẩn tiết niệu",
@@ -524,9 +489,7 @@
       3819,
       3828
     ],
-    "assertions": [
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "thiếu men G6PD",

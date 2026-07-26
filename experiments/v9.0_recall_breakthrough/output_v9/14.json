@@ -33,15 +33,6 @@
     ]
   },
   {
-    "text": "khó chịu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      176,
-      184
-    ],
-    "assertions": []
-  },
-  {
     "text": "ngứa",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -49,21 +40,6 @@
       192
     ],
     "assertions": []
-  },
-  {
-    "text": "dị ứng",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      357,
-      363
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ],
-    "candidates": [
-      "T78.4"
-    ]
   },
   {
     "text": "Bệnh bạch cầu dòng tủy mãn tính",
@@ -272,9 +248,7 @@
       1190,
       1200
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ảo giác",
@@ -295,50 +269,6 @@
     "assertions": []
   },
   {
-    "text": " mô bệnh h",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1329,
-      1340
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "ơng khó quan sát trê",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1463,
-      1485
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "ông thường mà cần",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1515,
-      1535
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": " độ thoát bọng khác nha",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1634,
-      1661
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "sinh thiết",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -346,22 +276,6 @@
       1741
     ],
     "assertions": []
-  },
-  {
-    "text": "g các ",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1784,
-      1791
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ],
-    "candidates": [
-      "L50.9"
-    ]
   },
   {
     "text": "bệnh lý mày đay vô căn",
@@ -376,22 +290,6 @@
     ]
   },
   {
-    "text": "biến ch",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1896,
-      1903
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ],
-    "candidates": [
-      "L50.9"
-    ]
-  },
-  {
     "text": "Mày đay vô căn",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -401,28 +299,6 @@
     "assertions": [],
     "candidates": [
       "L50.1"
-    ]
-  },
-  {
-    "text": "̣u chứn",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2237,
-      2245
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": ". *******",
-    "type": "THUỐC",
-    "position": [
-      2305,
-      2314
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   }
 ]

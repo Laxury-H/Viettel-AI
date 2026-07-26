@@ -1,0 +1,1531 @@
+{
+ "drop": [
+  {
+   "surface": "mạch",
+   "reason": "Chuỗi con cắt ra từ bên trong 'động mạch vành', 'tim mạch', 'tĩnh mạch', 'vành mạch' (doc 2 x9, doc 8 x1, doc 10 x1). Không phải khái niệm, lại còn gán TÊN_XÉT_NGHIỆM. Lỗi nghiêm trọng nhất của batch.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "Tiêu đề mục ('Các thủ thuật đã thực hiện', 'Tiền sử phẫu thuật / thủ thuật', 'dung nạp thủ thuật tốt') — danh từ chung, không phải tên một thủ thuật cụ thể. Xuất hiện ở doc 3,4,5,8.",
+   "severity": "high"
+  },
+  {
+   "surface": "Thủ thuật",
+   "reason": "Tiêu đề mục 'Thủ thuật - Dịch vụ kỹ thuật' / 'Thủ thuật thực hiện:' (doc 5, doc 6). Danh từ chung.",
+   "severity": "high"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "Tiêu đề mục 'Kết quả chẩn đoán hình ảnh:' (doc 5, 8, 10). Là tên nhóm phương thức, không phải một xét nghiệm cụ thể.",
+   "severity": "high"
+  },
+  {
+   "surface": "Chẩn đoán hình ảnh",
+   "reason": "Tiêu đề mục trong doc 3. Cùng lý do như trên.",
+   "severity": "high"
+  },
+  {
+   "surface": "khám lâm sàng",
+   "reason": "Tiêu đề mục 'Kết quả khám lâm sàng' (doc 10). Không phải tên xét nghiệm.",
+   "severity": "high"
+  },
+  {
+   "surface": "Khám lâm sàng",
+   "reason": "Tiêu đề mục 'Khám lâm sàng:' (doc 6). Không phải tên xét nghiệm.",
+   "severity": "high"
+  },
+  {
+   "surface": "vi khuẩn",
+   "reason": "Cắt từ 'độc tố vi khuẩn' (doc 2). Tên tác nhân vi sinh chung chung, hoàn toàn không phải TÊN_XÉT_NGHIỆM.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "đang chờ kết quả",
+   "reason": "Doc 8 x2. Trạng thái hành chính của xét nghiệm, không phải giá trị/kết luận xét nghiệm.",
+   "severity": "high"
+  },
+  {
+   "surface": "Nguyên nhân chưa rõ",
+   "reason": "Doc 8. Cụm diễn giải, không phải kết quả xét nghiệm.",
+   "severity": "high"
+  },
+  {
+   "surface": "sàng lọc sớm",
+   "reason": "Doc 1 x2. Cụm động từ chung ('được sàng lọc sớm các bệnh bẩm sinh'), không phải tên xét nghiệm định danh.",
+   "severity": "medium"
+  },
+  {
+   "surface": "xét nghiệm chuyên sâu",
+   "reason": "Doc 1. Cụm chung chung 'các xét nghiệm chuyên sâu', không định danh xét nghiệm nào.",
+   "severity": "medium"
+  },
+  {
+   "surface": "xét nghiệm cận lâm sàng",
+   "reason": "Doc 5. Danh từ nhóm ('các xét nghiệm cận lâm sàng như siêu âm...'), không phải một xét nghiệm.",
+   "severity": "medium"
+  },
+  {
+   "surface": "phim chụp",
+   "reason": "Doc 9: 'chưa phát hiện bất thường trên phim chụp'. 'Phim' là vật mang hình ảnh, không phải tên xét nghiệm.",
+   "severity": "medium"
+  },
+  {
+   "surface": "cân nặng",
+   "reason": "Doc 5: 'cân nặng đã cải thiện'. Chỉ số nhân trắc trong câu kể, gán TÊN_XÉT_NGHIỆM rất khó trùng đáp án.",
+   "severity": "medium"
+  },
+  {
+   "surface": "tổn thương thần kinh",
+   "reason": "Doc 1: 'các tổn thương thần kinh có thể rất nghiêm trọng'. Cụm mô tả chung dạng 'tổn thương', đúng loại cạm bẫy đã cảnh báo.",
+   "severity": "medium"
+  },
+  {
+   "surface": "loạn thần",
+   "reason": "Doc 2: 'Không được coi là thực sự loạn thần' — bị PHỦ ĐỊNH rõ ràng nhưng assertions rỗng; lại nằm trong đoạn văn bản lỗi/lạc đề (ảo giác do rượu) giữa mục Kawasaki. Sai cả ngữ cảnh lẫn assertion.",
+   "severity": "high"
+  },
+  {
+   "surface": "vắc xin sống",
+   "reason": "Doc 2: nhóm chế phẩm chung chung ('Tránh tiêm vắc xin sống'), không phải hoạt chất/biệt dược. RxNorm 29406 không tương ứng.",
+   "severity": "high"
+  },
+  {
+   "surface": "viêm lan tỏa hệ mạch máu nhỏ và vừa",
+   "reason": "Doc 2. Span mô tả bệnh học dài lê thê nằm trong câu định nghĩa Kawasaki, không phải một tên chẩn đoán. Khả năng khớp span rất thấp.",
+   "severity": "medium"
+  },
+  {
+   "surface": "đột tử",
+   "reason": "Doc 2. Biến cố tử vong trong danh sách hệ quả, cùng loại với 'tử vong' đã bị cảnh báo; mã I46.1 cũng không chắc.",
+   "severity": "medium"
+  },
+  {
+   "surface": "rối loạn thị lực",
+   "reason": "Doc 3. Nằm trong câu mô tả CHỐNG CHỈ ĐỊNH của thuốc ('chống chỉ định ở người bị chóng mặt, ù tai, rối loạn thị lực'), không phải triệu chứng của bệnh nhân. Lại còn gán isHistorical sai.",
+   "severity": "high"
+  },
+  {
+   "surface": "Parkinson",
+   "reason": "Doc 3. Câu chống chỉ định chung ('không dùng thuốc ở người bị Parkinson'), bệnh nhân không mắc Parkinson. Gán isHistorical là sai hẳn.",
+   "severity": "high"
+  },
+  {
+   "surface": "nang",
+   "reason": "Doc 5. Cắt chuỗi con từ 'siêu âm buồng trứng có nhiều nang'; span cụt và gán TRIỆU_CHỨNG trong khi đây là mô tả hình ảnh siêu âm.",
+   "severity": "high"
+  },
+  {
+   "surface": "tắc nghẽn kéo dài gần chỗ nối mật tụy",
+   "reason": "Doc 5 x3. Span mô tả dài của kết quả cholangiogram nhưng bị gán CHẨN_ĐOÁN + K83.1 → rủi ro phạt kép; xác suất khớp span chuẩn thấp.",
+   "severity": "high"
+  },
+  {
+   "surface": "dịch dưới màng cứng",
+   "reason": "Doc 6 x2. Là mô tả hình ảnh CT ('một lớp dịch dưới màng cứng mỏng') chứ không phải chẩn đoán; mã I62.0 (xuất huyết dưới màng cứng không do chấn thương) sai bản chất vì đây là DỊCH, không phải máu, và cơ chế lại do ngã (chấn thương).",
+   "severity": "high"
+  },
+  {
+   "surface": "bệnh nhân tỉnh",
+   "reason": "Doc 6. Cắt từ 'bệnh nhân tỉnh táo hoàn toàn' — span vừa dính chủ ngữ vừa cụt đuôi, và mô tả trạng thái BÌNH THƯỜNG, không phải triệu chứng.",
+   "severity": "high"
+  },
+  {
+   "surface": "thuốc cản quang",
+   "reason": "Doc 6. Nhóm chế phẩm chung trong mô tả kỹ thuật CT ('có tiêm thuốc cản quang'), không phải hoạt chất/biệt dược.",
+   "severity": "medium"
+  },
+  {
+   "surface": "ghèn",
+   "reason": "Doc 2 và doc 8. Span cụt đầu, tách khỏi cụm phủ định 'không có ghèn'/'không ghèn'; hơn nữa hai lần gán assertion mâu thuẫn nhau (doc 2 có isNegated, doc 8 rỗng dù cùng ngữ cảnh phủ định).",
+   "severity": "medium"
+  },
+  {
+   "surface": "39–40°C",
+   "reason": "Doc 2. Là mức nhiệt độ trong mô tả triệu chứng 'Sốt 39–40°C', không phải giá trị/kết luận của một xét nghiệm; nhiều khả năng đáp án gộp vào triệu chứng sốt.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mạch",
+   "reason": "Doc 94 vị trí 120-124 cắt ra từ cụm \"các mạch máu vùng viêm giãn nở\" — đây là MẠCH MÁU (blood vessel), không phải mạch/nhịp mạch. Span sai hoàn toàn về nghĩa, không phải xét nghiệm nào cả.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thuốc kháng sinh",
+   "reason": "Doc 92 — nhóm thuốc chung chung, không phải hoạt chất/biệt dược. Ngoài ra thiếu hẳn trường candidates (RxNorm) nên chắc chắn 0 điểm ở metric candidates. Baseline đã bắt đúng vanco/zosyn/bactrim.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "huyết áp",
+   "reason": "Doc 93 — 4 lần xuất hiện đều nằm trong đoạn tư vấn chung chung của bác sĩ (\"huyết áp tăng lên đáng kể\", \"huyết áp thường hơi cao hơn\"), không phải chỉ định/kết quả đo. Riêng bản ở vị trí 806 còn bị gán isNegated SAI: \"không có\" phủ định \"cảm giác đó\" chứ không phủ định huyết áp. Baseline đã kiểm chứng của doc 93 cố tình không đánh dấu bất kỳ mention HA nào.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "Tiêu đề mục (\"Tiền sử phẫu thuật / thủ thuật\", \"Các thủ thuật đã thực hiện\") ở doc 91 (x2), 97, 99. Đây là nhãn đề mục hành chính, không phải tên thủ thuật cụ thể. Bằng chứng: baseline doc 99 đánh dấu \"xét nghiệm máu\", \"cấy nước tiểu\" nhưng KHÔNG đánh dấu từ đề mục.",
+   "severity": "high"
+  },
+  {
+   "surface": "Thủ thuật",
+   "reason": "Doc 92 và 96 — cùng lỗi tiêu đề mục như trên, chỉ khác chữ hoa.",
+   "severity": "high"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "Doc 93, 96, 99 (x2) — từ đề mục \"Kết quả chẩn đoán hình ảnh\", không phải tên một kỹ thuật CĐHA. Baseline đã kiểm chứng ở doc 93 và 99 đánh dấu \"chụp ct\"/\"chụp x-quang ngực\" mà bỏ qua đề mục này => bằng chứng trực tiếp đáp án không chứa nó.",
+   "severity": "high"
+  },
+  {
+   "surface": "thương tổn",
+   "reason": "Doc 96 (x3) — đúng dạng cạm bẫy \"tổn thương\": danh từ chung chung trong văn phong tư vấn (\"chịu một thương tổn không nhỏ\", \"khu vực da còn thương tổn này\"), không phải triệu chứng cụ thể. 3 lần lặp nhân rủi ro lên gấp 3 trên một doc chỉ có 7 khái niệm nền.",
+   "severity": "high"
+  },
+  {
+   "surface": "phun xăm",
+   "reason": "Doc 96 (x4) — dịch vụ thẩm mỹ, không phải xét nghiệm/CĐHA/thủ thuật y khoa do nhân viên y tế thực hiện. Thêm nữa tại vị trí 767 span \"phun xăm\" cắt ngang cụm \"phun xăm môi\", gây lỗi ranh giới. 4 lần lặp trên doc nhỏ là rủi ro precision rất lớn.",
+   "severity": "high"
+  },
+  {
+   "surface": "phun môi",
+   "reason": "Doc 96 — cùng lý do với \"phun xăm\": thủ thuật thẩm mỹ, không thuộc phạm vi TÊN_XÉT_NGHIỆM y khoa.",
+   "severity": "medium"
+  },
+  {
+   "surface": "môi chưa lên màu",
+   "reason": "Doc 96 — không phải triệu chứng bệnh lý mà là kết quả thẩm mỹ chưa hoàn thiện. Ranh giới còn bị vướng: nguồn là \"phun xăm môi chưa lên màu\", chữ \"môi\" thuộc về cụm \"phun xăm môi\".",
+   "severity": "high"
+  },
+  {
+   "surface": "không có tiếng tim bệnh lí",
+   "reason": "Doc 99 — mô tả khám bình thường và nhét cả từ phủ định vào span. Baseline doc 99 (đã kiểm chứng) xử lý phủ định theo kiểu \"đau\"+isNegated, \"phù\"+isNegated chứ KHÔNG lấy cả cụm \"Không có điểm đau\". Span này sai phong cách gán nhãn.",
+   "severity": "high"
+  },
+  {
+   "surface": "không có tiếng rales bệnh lí",
+   "reason": "Doc 99 — cùng lỗi: nuốt từ phủ định vào span, lại còn để assertions rỗng (mâu thuẫn nội tại). Là dấu hiệu khám bình thường.",
+   "severity": "high"
+  },
+  {
+   "surface": "không chướng",
+   "reason": "Doc 99 — dấu hiệu âm tính, đúng ra phải là \"chướng\" + isNegated. Hiện assertions rỗng nên vừa sai span vừa sai assertion.",
+   "severity": "high"
+  },
+  {
+   "surface": "gan lách không sờ thấy",
+   "reason": "Doc 99 — khám bình thường, span chứa phủ định. Kiểu gán nhãn này trái với baseline đã kiểm chứng cùng doc.",
+   "severity": "high"
+  },
+  {
+   "surface": "T1, T2 rõ",
+   "reason": "Doc 99 — mô tả tiếng tim BÌNH THƯỜNG, thuộc nhóm cạm bẫy \"nghe khá tốt\"/\"phát triển đều\". Span có dấu phẩy cũng bất thường.",
+   "severity": "medium"
+  },
+  {
+   "surface": "tiểu được",
+   "reason": "Doc 99 — trạng thái bình thường, diễn đạt khẩu ngữ (\"tiểu được không rõ số lượng\"), không phải triệu chứng.",
+   "severity": "medium"
+  },
+  {
+   "surface": "Bệnh nhân tỉnh",
+   "reason": "Doc 92 — span gộp chủ ngữ \"Bệnh nhân\" vào khái niệm, và \"tỉnh\" là trạng thái ý thức bình thường. Baseline doc 97 gặp cụm tương tự (\"Bệnh nhân tỉnhi\") và đã bỏ qua.",
+   "severity": "high"
+  },
+  {
+   "surface": "hoang mang",
+   "reason": "Doc 93 — cảm xúc thường ngày của người đặt câu hỏi về tình trạng của mình (\"Em cảm thấy rất hoang mang\"), đúng dạng cạm bẫy \"lo lắng\". Không phải triệu chứng lâm sàng.",
+   "severity": "high"
+  },
+  {
+   "surface": "nhịp tim",
+   "reason": "Doc 93 — trong câu \"nó HA nhịp tim đều tăng\", đây không phải một xét nghiệm được chỉ định mà là mô tả tim đập nhanh; nếu gán thì phải là TRIỆU_CHỨNG. Type mơ hồ hai chiều nên giữ lại là rủi ro phạt kép.",
+   "severity": "high"
+  },
+  {
+   "surface": "lên cao",
+   "reason": "Doc 93 — cụm động từ thông thường trong câu tư vấn \"huyết áp cũng lên cao\", không phải kết quả xét nghiệm được ghi nhận.",
+   "severity": "high"
+  },
+  {
+   "surface": "phim chụp",
+   "reason": "Doc 93 — cách nói chung chỉ tấm phim, trùng lặp với \"chụp ct\" mà baseline đã đánh dấu. Không phải tên kỹ thuật.",
+   "severity": "medium"
+  },
+  {
+   "surface": "khám lâm sàng",
+   "reason": "Doc 92 — cụm chung chung \"vì khám lâm sàng ổn\", không phải một xét nghiệm/thủ thuật định danh.",
+   "severity": "medium"
+  },
+  {
+   "surface": "thăm khám chuyên khoa",
+   "reason": "Doc 94 — cụm chung chung trong văn tư vấn (\"cần được thăm khám chuyên khoa\"), không phải tên xét nghiệm. Baseline cùng câu đã bắt \"nội soi\" là đúng trọng tâm.",
+   "severity": "medium"
+  },
+  {
+   "surface": "bệnh dạ dày",
+   "reason": "Doc 94 — cụm mơ hồ trong câu tu từ \"Trước kia bệnh dạ dày được coi là bệnh nan y\", không phải chẩn đoán của bệnh nhân. Baseline đã có chẩn đoán cụ thể \"Viêm hang vị sung huyết\"/\"viêm sung huyết hang vị dạ dày\" (K29.7).",
+   "severity": "medium"
+  },
+  {
+   "surface": "can thiệp phẫu thuật",
+   "reason": "Doc 91 — cụm chung chung trong đoạn tư vấn về sỏi niệu quản (\"cần được can thiệp phẫu thuật\"), không phải tên thủ thuật cụ thể.",
+   "severity": "medium"
+  },
+  {
+   "surface": "acid uric",
+   "reason": "Doc 95 vị trí 1024 — ngữ cảnh \"acid uric tron hạt tophi giải phóng vào máu\" nói về PHÂN TỬ trong hạt tophi, không phải xét nghiệm được chỉ định hay kết quả. Lưu ý bản \"axit uric\" xuất hiện trước đó cũng không được baseline đánh dấu.",
+   "severity": "medium"
+  },
+  {
+   "surface": "đánh giá trước ghép thận",
+   "reason": "Doc 97 — mô tả một quy trình chung, không phải tên xét nghiệm/thủ thuật định danh. \"ghép thận\" ngay câu sau đã bắt đúng phần có giá trị.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mạch",
+   "reason": "DOC 78 (3 lần: 969-973, 1016-1020, 1041-1045). Hai lần đầu là MẢNH CẮT của từ 'mạch máu' (giải phẫu, không phải xét nghiệm); lần thứ ba là 'các điểm mạch' - thuật ngữ giải phẫu (đám rối Kiesselbach). Không có lần nào là đo mạch/nhịp mạch. Gán TÊN_XÉT_NGHIỆM là sai hoàn toàn -> phạt kép.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "DOC 73, 74 (170-179) và DOC 80 (1242-1251): đều nằm trong TIÊU ĐỀ MỤC ('Tiền sử phẫu thuật / thủ thuật:', 'Các thủ thuật đã thực hiện'). Đây là từ cấu trúc văn bản, không phải một thủ thuật cụ thể nào. Người chú thích không bao giờ đánh dấu tiêu đề mục.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "DOC 77 (1384-1402): nằm trong tiêu đề mục 'Kết quả chẩn đoán hình ảnh'. Là tên nhóm/tiêu đề, không phải một xét nghiệm cụ thể (xét nghiệm cụ thể là 'x-quang' và 'chụp cắt lớp vi tính' đã có riêng).",
+   "severity": "fatal"
+  },
+  {
+   "surface": "Bệnh nhân tỉnh",
+   "reason": "DOC 71 (56-70): ranh giới span dính chủ ngữ 'Bệnh nhân'. Ngoài ra 'tỉnh' là mô tả trạng thái BÌNH THƯỜNG, cùng loại với các ví dụ đáng ngờ ('nghe khá tốt'). Xác suất có trong đáp án rất thấp.",
+   "severity": "high"
+  },
+  {
+   "surface": "tiếp xúc tốt",
+   "reason": "DOC 71 (72-84): mô tả trạng thái bình thường/không bất thường, không phải triệu chứng. Cùng nhóm với 'nghe khá tốt', 'phát triển đều'.",
+   "severity": "high"
+  },
+  {
+   "surface": "tổn thương chi dưới",
+   "reason": "DOC 71 (184-203): văn bản gốc lỗi lặp ('bị tổn thương tổn thương chi dưới nghiêm trọng'), span cắt cụt đuôi 'nghiêm trọng'. Thêm nữa type mập mờ giữa TRIỆU_CHỨNG và CHẨN_ĐOÁN (chấn thương chi dưới) -> rủi ro phạt kép.",
+   "severity": "high"
+  },
+  {
+   "surface": "1800 ml",
+   "reason": "DOC 73 (683-690), DOC 74 (909-916): chỉ là con số thể tích nước tiểu trong một câu MÔ TẢ TRIỆU CHỨNG ('giảm lượng nước tiểu từ 1800 ml xuống còn 300 ml'), không gắn với TÊN_XÉT_NGHIỆM nào. Bằng chứng nội tại cho thấy đây là nhiễu: '1200 ml' trong cùng câu KHÔNG được trích -> quy tắc không nhất quán.",
+   "severity": "high"
+  },
+  {
+   "surface": "300 ml",
+   "reason": "DOC 73 (701-707), DOC 74 (927-933): như trên - giá trị thể tích trong câu triệu chứng, không phải kết quả xét nghiệm. Không nhất quán với '1200 ml' bị bỏ qua.",
+   "severity": "high"
+  },
+  {
+   "surface": "350 ml",
+   "reason": "DOC 73 (782-788), DOC 74 (1008-1014): lượng dịch ống thông hồi tràng trong câu triệu chứng; cặp giá trị '1200 ml' lại không được trích. Nhiễu.",
+   "severity": "high"
+  },
+  {
+   "surface": "phân giai đoạn phẫu thuật",
+   "reason": "DOC 75 (140-165): câu gốc lỗi ('phân giai đoạn phẫu thuật với tem (viết tắt)'). 'Phân giai đoạn' là hoạt động đánh giá, không phải một thủ thuật/xét nghiệm cụ thể; span ghép lạ, khó khớp chính xác với đáp án.",
+   "severity": "medium"
+  },
+  {
+   "surface": "tiết quá nhiều mồ hôi",
+   "reason": "DOC 75 (840-861 và 1011-1032): xuất hiện trong phần LỜI KHUYÊN SINH HOẠT giả định ('Nếu cơ thể tiết quá nhiều mồ hôi...'), không phải triệu chứng của bệnh nhân. Span là mệnh đề động từ dài, không phải thuật ngữ y khoa chuẩn.",
+   "severity": "medium"
+  },
+  {
+   "surface": "da vùng bẹn tổn thương",
+   "reason": "DOC 75 (1158-1180): mệnh đề giả định trong lời khuyên ('ma sát sẽ làm da vùng bẹn tổn thương'), ranh giới span dính động từ, không phải khái niệm y khoa được chú thích.",
+   "severity": "medium"
+  },
+  {
+   "surface": "đại thực bào",
+   "reason": "DOC 76 (479-491): 'đại thực bào' là TÊN TẾ BÀO, không phải tên xét nghiệm. Gán TÊN_XÉT_NGHIỆM sai type -> phạt kép. Nếu có, nó phải là một phần của KẾT_QUẢ mô bệnh học. Chú ý 'bạch huyết T' đứng ngay cạnh lại không được trích -> không nhất quán.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "sợi fibrin",
+   "reason": "DOC 76 (816-826): nằm trong câu văn bị hỏng nặng ('Quảng cáo quảng cáo thiết bị thương mại miễn phí dịch sinh học không tìm thấy...'), lại nằm sau phủ định 'không tìm thấy' nhưng assertions để rỗng. Vừa nhiễu vừa sai assertion.",
+   "severity": "high"
+  },
+  {
+   "surface": "Bạn đay vô căn",
+   "reason": "DOC 76 (956-970): span BẮT ĐẦU BẰNG 'Bạn' - lỗi OCR/typo của 'Mày đay'. Không người chú thích nào đưa đại từ 'Bạn' vào span. Bài nền đã có 'bệnh lý mày đay vô căn' và 'MÀY đay VÔ CĂN' đúng chuẩn rồi.",
+   "severity": "high"
+  },
+  {
+   "surface": "buồn ngủ",
+   "reason": "DOC 76 (1280-1288): trong câu nói về tác dụng phụ của nhóm thuốc bị che ('*** có thể hệ sau không gây buồn ngủ'), lại còn trong ngữ cảnh PHỦ ĐỊNH nhưng assertions rỗng. Ngoài ra DOC 72 có câu song song y hệt nhưng KHÔNG trích 'buồn ngủ' -> tự mâu thuẫn.",
+   "severity": "high"
+  },
+  {
+   "surface": "thay đổi thoái hóa nghiêm trọng của khớp bánh chè đùi phải",
+   "reason": "DOC 77 (1449-1507): span dài 58 ký tự, gộp cả từ mức độ 'nghiêm trọng' và cả cụm 'thay đổi ... của' -> gần như không thể khớp chính xác đáp án. Thêm nữa type mập mờ: đây là phát hiện trên x-quang ('x-quang ... cho thấy'), có thể phải là KẾT_QUẢ_XÉT_NGHIỆM chứ không phải CHẨN_ĐOÁN -> nguy cơ phạt kép. Mã M17.9 (thoái hóa khớp gối) cũng không khớp khớp bánh chè-đùi (M22.x).",
+   "severity": "high"
+  },
+  {
+   "surface": "huyết áp",
+   "reason": "DOC 78 (1063-1071): 'Khi có thay đổi huyết áp, hắt hơi mạnh...' - đây là câu giải thích cơ chế chảy máu mũi, KHÔNG có phép đo huyết áp nào được thực hiện. Gán TÊN_XÉT_NGHIỆM ở đây là suy diễn từ khóa.",
+   "severity": "medium"
+  },
+  {
+   "surface": "tổn thương điểm mạch",
+   "reason": "DOC 78 (1137-1157): mệnh đề giả định ('có thể gây tổn thương điểm mạch'), 'tổn thương' thuộc nhóm cụm từ chung chung đáng ngờ; type cũng mập mờ giữa TRIỆU_CHỨNG và CHẨN_ĐOÁN.",
+   "severity": "medium"
+  },
+  {
+   "surface": "ung thư",
+   "reason": "DOC 79 (1043-1050): 'bệnh thoái hóa tinh bột KHÔNG được xếp thành một loại ung thư' - vừa là mệnh đề PHỦ ĐỊNH (assertions lại rỗng), vừa là danh từ chung chung nhất có thể. Mã C80 (ung thư không rõ vị trí) là mã 'rác'. Xác suất nằm trong đáp án rất thấp.",
+   "severity": "high"
+  },
+  {
+   "surface": "hóa trị",
+   "reason": "DOC 79 (1427-1434): hóa trị là PHƯƠNG PHÁP ĐIỀU TRỊ, không phải xét nghiệm/chẩn đoán hình ảnh/thủ thuật. Gán TÊN_XÉT_NGHIỆM là sai type -> phạt kép. ('ghép gan' ngay cạnh thì đúng vì là phẫu thuật.)",
+   "severity": "high"
+  },
+  {
+   "surface": "cản trở vận động",
+   "reason": "DOC 80 (859-875): mệnh đề động từ mô tả hệ quả trong câu giải thích giả định ('khối u này lớn dần lên, cản trở vận động'), không phải thuật ngữ triệu chứng chuẩn (nếu có sẽ là 'hạn chế vận động').",
+   "severity": "medium"
+  },
+  {
+   "surface": "nang",
+   "reason": "DOC41: 2/3 lần xuất hiện là span bị CẮT ĐÔI khỏi 'nang lông' (vị trí 572 trong 'tại nang lông', 884 trong 'Sừng hóa nang lông') — span vô nghĩa về y khoa. Ranh giới hỏng.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "huyết khối",
+   "reason": "DOC47: ngữ cảnh 'Kết quả xét nghiệm: huyết khối 26.3, giảm so với hôm qua, ổn định ở mức 28 hậu phẫu' — đây rõ ràng là một GIÁ TRỊ XÉT NGHIỆM (nhiều khả năng hematocrit dịch sai), không phải chẩn đoán huyết khối. Gán CHẨN_ĐOÁN + mã I82.9 là sai cả type lẫn mã => phạt kép.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "đại thực bào",
+   "reason": "DOC44: 'đại thực bào' là một LOẠI TẾ BÀO trong mô tả mô bệnh học, hoàn toàn không phải tên xét nghiệm. Sai type nghiêm trọng.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "vi khuẩn",
+   "reason": "DOC41: từ chung chung trong ngoặc giải thích '(vi khuẩn kỵ khí thông thường)'. Không phải tên xét nghiệm, không phải khái niệm y khoa được chú thích.",
+   "severity": "high"
+  },
+  {
+   "surface": "Vi khuẩn",
+   "reason": "DOC41: '- Vi khuẩn C. acne' — 'Vi khuẩn' là từ định danh chung, bị tách riêng khỏi tên tác nhân. Gán TÊN_XÉT_NGHIỆM sai.",
+   "severity": "high"
+  },
+  {
+   "surface": "C. acne",
+   "reason": "DOC41: tên vi khuẩn xuất hiện trong danh sách CƠ CHẾ BỆNH SINH (không phải kết quả nuôi cấy/xét nghiệm). Gán TÊN_XÉT_NGHIỆM khó có trong đáp án.",
+   "severity": "medium"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "DOC45/47/49/50: lấy từ TIÊU ĐỀ MỤC ('Tiền sử phẫu thuật / thủ thuật', 'Các thủ thuật đã thực hiện'). Là từ hành chính của biểu mẫu, không phải một xét nghiệm/thủ thuật cụ thể.",
+   "severity": "high"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "DOC42/47/49: lấy từ tiêu đề mục 'Kết quả chẩn đoán hình ảnh:'. Từ hành chính, không phải tên một phương tiện chẩn đoán hình ảnh cụ thể (x-quang/CT đã được trích riêng).",
+   "severity": "high"
+  },
+  {
+   "surface": "Hệ thống dẫn lưu",
+   "reason": "DOC45/50: 'Hệ thống dẫn lưu được chỉnh sửa/thay thế' — đây là THIẾT BỊ (shunt), không phải tên xét nghiệm/thủ thuật. Thủ thuật thực sự đã được bắt bằng 'đặt dẫn lưu shunt'.",
+   "severity": "high"
+  },
+  {
+   "surface": "kháng sinh tại chỗ",
+   "reason": "DOC41: nhóm thuốc chung chung + đường dùng, không có mã RxNorm. Đúng cạm bẫy 'nhóm thuốc chung gán THUỐC'.",
+   "severity": "high"
+  },
+  {
+   "surface": "men tiêu hóa",
+   "reason": "DOC43: nhóm chế phẩm chung chung ('Về men tiêu hóa hỗ trợ...'), không phải hoạt chất/biệt dược. Mã RxNorm 7880 không tương ứng. Hoạt chất thật (Bacillus clausii/Enterogermina/Biogermin) đã được bắt riêng.",
+   "severity": "high"
+  },
+  {
+   "surface": "thuốc cản quang",
+   "reason": "DOC50: thuật ngữ chung, lại nằm trong cụm mô tả hình ảnh 'vùng giảm bắt thuốc cản quang' (là dấu hiệu hình ảnh chứ không phải chỉ định thuốc). Mã RxNorm 5956 không xác đáng.",
+   "severity": "medium"
+  },
+  {
+   "surface": "khạc nhổ",
+   "reason": "DOC42: ngữ cảnh 'nhưng ông ấy KHÔNG khạc nhổ gì' — bị PHỦ ĐỊNH, nhưng V9 gán isHistorical. Sai assertion hoàn toàn; bản thân khái niệm cũng yếu.",
+   "severity": "high"
+  },
+  {
+   "surface": "paroxysmal nocturnal dyspnea",
+   "reason": "DOC42: nằm trong 'Phủ nhận khó thở khi nằm đột ngột (paroxysmal nocturnal dyspnea)' — bị phủ định nhưng gán isHistorical. Ngoài ra trùng lặp với khái niệm tiếng Việt đã có trong bài nền.",
+   "severity": "high"
+  },
+  {
+   "surface": "lo sợ",
+   "reason": "DOC43: cắt ra từ 'hoang tưởng/lo sợ rằng họ sẽ chạm vào da'. Cụm cảm xúc thông thường, ranh giới xấu, isHistorical sai. Bài nền đã có 'hoang tưởng'.",
+   "severity": "high"
+  },
+  {
+   "surface": "mô bệnh học",
+   "reason": "DOC44: cắt từ 'Tổ thương mô bệnh học chủ yếu là...' — mệnh đề giáo khoa chung, không phải một xét nghiệm được chỉ định cho bệnh nhân.",
+   "severity": "medium"
+  },
+  {
+   "surface": "xâm nhập của tế bào một nhân",
+   "reason": "DOC44: mô tả giáo khoa về cơ chế mày đay mạn, không phải kết quả xét nghiệm của bệnh nhân này. Span dài lê thê, bắt đầu bằng danh động từ.",
+   "severity": "high"
+  },
+  {
+   "surface": "sợi fibrin",
+   "reason": "DOC44: nằm trong câu OCR hỏng ('báo cáo thiết bị thương mại miễn phí dịch sinh học không tìm thấy... hay sợi fibrin'). Là một chất, không phải kết quả xét nghiệm; ngữ cảnh phủ định nhưng assertions rỗng.",
+   "severity": "high"
+  },
+  {
+   "surface": "Bạn đay vô căn",
+   "reason": "DOC44: span chứa từ 'Bạn' (lỗi OCR của 'Mày'), tạo ra một chuỗi vô nghĩa. Bài nền đã có 'bệnh lý mày đay vô căn' và 'MÀY đay VÔ CĂN' đúng. Đây là bản sao hỏng.",
+   "severity": "high"
+  },
+  {
+   "surface": "buồn ngủ",
+   "reason": "DOC44: 'thuốc ... KHÔNG gây buồn ngủ' — là tác dụng phụ giả định của thuốc, bị phủ định, nhưng assertions rỗng. Không phải triệu chứng của bệnh nhân.",
+   "severity": "high"
+  },
+  {
+   "surface": "Sản xuất quá nhiều chất bã nhờn",
+   "reason": "DOC41: mục trong danh sách CƠ CHẾ BỆNH SINH của mụn, không phải triệu chứng bệnh nhân. Span dài dạng mệnh đề.",
+   "severity": "high"
+  },
+  {
+   "surface": "Bít tắc nang lông",
+   "reason": "DOC41: tương tự — yếu tố sinh bệnh học trong bài giảng, không phải triệu chứng ghi nhận trên bệnh nhân.",
+   "severity": "high"
+  },
+  {
+   "surface": "Viêm tại chỗ",
+   "reason": "DOC41: mục thứ tư trong danh sách 'bốn yếu tố chính' gây trứng cá — khái niệm cơ chế, quá chung chung để là TRIỆU_CHỨNG.",
+   "severity": "medium"
+  },
+  {
+   "surface": "khám da liễu",
+   "reason": "DOC41: 'cháu đi khám da liễu' — là lần đi khám chuyên khoa, không phải xét nghiệm/CĐHA/thủ thuật theo định nghĩa nhãn.",
+   "severity": "medium"
+  },
+  {
+   "surface": "lên mụn trở lại",
+   "reason": "DOC41: span dính trạng từ 'trở lại' từ 'bắt đầu lên mụn trở lại'. Ranh giới nhiều khả năng lệch so với đáp án ('lên mụn' hoặc 'mụn').",
+   "severity": "medium"
+  },
+  {
+   "surface": "da dầu",
+   "reason": "DOC41: cắt ra giữa cụm 'chăm sóc da dầu mụn'; là mô tả loại da trong câu hỏi chăm sóc, ranh giới lệch.",
+   "severity": "medium"
+  },
+  {
+   "surface": "da mụn",
+   "reason": "DOC41: 2 lần đều nằm trong 'chăm sóc da mụn' — cụm sinh hoạt thường ngày, không phải triệu chứng được chú thích.",
+   "severity": "medium"
+  },
+  {
+   "surface": "Glasgow",
+   "reason": "DOC46: thang điểm tri giác trong phần khám, và bài nền (đã kiểm chứng) trích rất đầy đủ mọi cặp tên/giá trị xét nghiệm của tài liệu này nhưng KHÔNG lấy Glasgow => tín hiệu mạnh là đáp án không có.",
+   "severity": "medium"
+  },
+  {
+   "surface": "15 điểm",
+   "reason": "DOC46: giá trị Glasgow bình thường; bài nền bỏ qua toàn bộ thông số sinh tồn/khám. Kèm theo 'Glasgow' bị loại thì giá trị này thành mồ côi.",
+   "severity": "medium"
+  },
+  {
+   "surface": "Da niêm mạc hồng",
+   "reason": "DOC46: dấu hiệu khám BÌNH THƯỜNG. Bài nền đã trích 'rale ẩm' (bất thường) ngay cùng đoạn khám nhưng bỏ toàn bộ các mô tả bình thường => đáp án không đánh dấu chúng.",
+   "severity": "high"
+  },
+  {
+   "surface": "Tim đều",
+   "reason": "DOC46: dấu hiệu khám bình thường, cùng lý do trên. Phần bất thường cùng dòng ('TTT ở mỏm 3/6') mới đáng giữ.",
+   "severity": "high"
+  },
+  {
+   "surface": "RRPN rõ",
+   "reason": "DOC46: mô tả rì rào phế nang BÌNH THƯỜNG; bài nền chỉ lấy 'rale ẩm' từ chính dòng này.",
+   "severity": "high"
+  },
+  {
+   "surface": "Bụng mềm",
+   "reason": "DOC46: khám bụng bình thường, không phải triệu chứng.",
+   "severity": "high"
+  },
+  {
+   "surface": "không chướng",
+   "reason": "DOC46: span CỤT ĐẦU, tách khỏi 'Bụng mềm không chướng' — riêng 'không chướng' vô nghĩa và lại là mô tả bình thường.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "82 ck/ph",
+   "reason": "DOC46: giá trị mạch, mồ côi (tên 'M' không được trích). Bài nền trích rất kỹ mọi cặp xét nghiệm nhưng bỏ hết dấu hiệu sinh tồn.",
+   "severity": "medium"
+  },
+  {
+   "surface": "160/ 80 mmHg",
+   "reason": "DOC46: giá trị huyết áp mồ côi (không có 'HA' đi kèm), cùng lý do trên; ngoài ra span còn giữ khoảng trắng lỗi '160/ 80'.",
+   "severity": "medium"
+  },
+  {
+   "surface": "Giảm vận động",
+   "reason": "DOC46: span CỤT ĐUÔI của 'Giảm vận động 2/3 thành bên và 2/3 thành sau dưới thất trái'; ngoài ra đây là kết quả siêu âm tim, gán TRIỆU_CHỨNG mâu thuẫn với quy ước của bài nền (các phát hiện siêu âm khác được gán CHẨN_ĐOÁN).",
+   "severity": "high"
+  },
+  {
+   "surface": "chức năng tâm thu thất trái",
+   "reason": "DOC46: cụm mô tả thông số, phần định lượng thực sự (EF BP / 55%) đã có trong bài nền. Thừa và ranh giới xấu.",
+   "severity": "medium"
+  },
+  {
+   "surface": "khó chịu",
+   "reason": "DOC46: 'cảm thấy khó chịu mệt mỏi nhiều' — cụm cảm giác mơ hồ, thuộc nhóm cạm bẫy; 'mệt mỏi' đã có trong bài nền.",
+   "severity": "high"
+  },
+  {
+   "surface": "dấu hiệu sinh tồn",
+   "reason": "DOC47: cụm hành chính đầu dòng ('- dấu hiệu sinh tồn là: 98.8 65 9360 20 95 2LNC'), không phải một tên xét nghiệm cụ thể. Xuất hiện 2 lần nên rủi ro nhân đôi.",
+   "severity": "medium"
+  },
+  {
+   "surface": "vành tai đầy đủ",
+   "reason": "DOC48: mô tả BÌNH THƯỜNG, đúng nguyên mẫu cạm bẫy 'vành tai đẹp'. Không phải triệu chứng.",
+   "severity": "high"
+  },
+  {
+   "surface": "nghe nói bình thường",
+   "reason": "DOC48: mô tả bình thường ('nghe nói bình thường, mọi sinh hoạt bình thường'), đúng nguyên mẫu cạm bẫy 'nghe khá tốt'.",
+   "severity": "high"
+  },
+  {
+   "surface": "tai ko có lỗ",
+   "reason": "DOC48: viết tắt khẩu ngữ 'ko', trùng lặp nội dung với 'không có lỗ tai' đã trích ở trên; span cắt từ 'bên tai ko có lỗ kia'.",
+   "severity": "high"
+  },
+  {
+   "surface": "nhỏ hơn tai còn lại",
+   "reason": "DOC48: mệnh đề so sánh ('nó nhỏ hơn tai còn lại'), không phải một khái niệm y khoa độc lập.",
+   "severity": "high"
+  },
+  {
+   "surface": "kiểm tra việc nghe",
+   "reason": "DOC48: câu hỏi khẩu ngữ của người nhà ('Mình có cách gì kiểm tra việc nghe của bé'), không phải tên xét nghiệm. Xét nghiệm thật là 'đo thính lực'/'đo âm tai' đã có.",
+   "severity": "high"
+  },
+  {
+   "surface": "lúng túng khi xác định hướng âm thanh",
+   "reason": "DOC48: mệnh đề mô tả GIẢ ĐỊNH ('có thể làm con lúng túng...'), dài lê thê, không phải triệu chứng đã ghi nhận.",
+   "severity": "high"
+  },
+  {
+   "surface": "mức độ trung bình",
+   "reason": "DOC49: chỉ là bổ ngữ mức độ của 'tràn dịch màng ngoài tim' (đã có trong bài nền), tách ra thành KẾT_QUẢ_XÉT_NGHIỆM là span mồ côi.",
+   "severity": "high"
+  },
+  {
+   "surface": "thương tổn",
+   "reason": "DOC49: 2 lần đều là từ chung chung ('Tiêm ... nội thương tổn', 'diện tích thương tổn'), đúng nguyên mẫu cạm bẫy 'tổn thương'.",
+   "severity": "high"
+  },
+  {
+   "surface": "đông đặc phổi",
+   "reason": "DOC50: là dấu hiệu trên phim CT ('Các hình ảnh chính trong VPHT: có vùng đông đặc phổi'), gán TRIỆU_CHỨNG là sai nhóm; hơn nữa isHistorical hoàn toàn không có căn cứ (câu giáo khoa).",
+   "severity": "high"
+  },
+  {
+   "surface": "mạch",
+   "reason": "FATAL: span là chuỗi con cắt cụt của từ khác. Doc 86 pos[209,213] lấy từ 'các mạch máu vùng viêm giãn nở' (giải phẫu, không phải xét nghiệm); Doc 90 pos[1135,1139] lấy từ 'bệnh lý tim mạch' — cắt đôi cụm 'tim mạch'. Cả hai đều không phải khái niệm y khoa độc lập.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "Từ tiêu đề mục ('Các thủ thuật đã thực hiện:', 'Tiền sử phẫu thuật / thủ thuật', 'Đã xử trí thuốc và thủ thuật') ở doc 81, 88, 89, 90. Không phải tên một thủ thuật cụ thể; annotator sẽ đánh dấu thủ thuật đứng sau, không đánh dấu chữ tiêu đề.",
+   "severity": "high"
+  },
+  {
+   "surface": "Thủ thuật",
+   "reason": "Tiêu đề mục 'Thủ thuật được thực hiện:' (doc 82) và 'Thủ thuật: Ghi điện tim...' (doc 87). Baseline 82 đã bắt 'Nội soi mật tụy ngược dòng (ERCP)' ngay sau đó và cố tình bỏ chữ tiêu đề.",
+   "severity": "high"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "Tiêu đề mục lặp ('Kết quả chẩn đoán hình ảnh chẩn đoán hình ảnh' doc 85; 'Kết quả chẩn đoán hình ảnh' / '- chẩn đoán hình ảnh không cho thấy...' doc 90). Baseline hai doc này bắt rất kỹ tên xét nghiệm cụ thể (chụp x-quang ngực, tổng phân tích nước tiểu) nhưng bỏ hẳn cụm tiêu đề này.",
+   "severity": "high"
+  },
+  {
+   "surface": "Chẩn đoán hình ảnh",
+   "reason": "Doc 82: tiêu đề 'Chẩn đoán hình ảnh và thăm dò:'. Không phải tên xét nghiệm cụ thể; baseline đã bắt 'Nội soi thực quản - dạ dày - tá tràng' ngay sau.",
+   "severity": "high"
+  },
+  {
+   "surface": "chụp chẩn đoán hình ảnh",
+   "reason": "Doc 88 (2 lần): 'Kết quả chụp chẩn đoán hình ảnh' và 'so với lần chụp chẩn đoán hình ảnh trước' — cụm chung chung, không định danh xét nghiệm nào.",
+   "severity": "high"
+  },
+  {
+   "surface": "thăm dò",
+   "reason": "Doc 82: cắt ra từ tiêu đề 'Chẩn đoán hình ảnh và thăm dò:'. Đứng một mình là từ thường, vô nghĩa về mặt khái niệm.",
+   "severity": "high"
+  },
+  {
+   "surface": "khám lâm sàng",
+   "reason": "Doc 89: cắt cụt đầu từ 'Kết quả thăm khám lâm sàng' (mất chữ 'thăm'), lại là tiêu đề mục chứ không phải xét nghiệm.",
+   "severity": "high"
+  },
+  {
+   "surface": "thăm khám chuyên khoa",
+   "reason": "Doc 86: 'người bệnh cần được thăm khám chuyên khoa, nội soi dạ dày' — hành động khám chung chung. Baseline doc 86 bắt 'nội soi' ở pos 608 ngay kế bên nhưng bỏ cụm này.",
+   "severity": "high"
+  },
+  {
+   "surface": "vi khuẩn",
+   "reason": "Doc 85 ('12 bạch cầu, không vi khuẩn, 1 hồng cầu, âm tính nitrite') và Doc 90 ('vài vi khuẩn (vi khuẩn), nitrite'). Baseline ĐÃ ĐƯỢC KIỂM CHỨNG của cả hai doc bắt đầy đủ bạch cầu / hồng cầu / nitrite quanh đó nhưng cố ý bỏ 'vi khuẩn' — tín hiệu rõ là đáp án không có. Ngoài ra type mập mờ giữa TÊN_XÉT_NGHIỆM và KẾT_QUẢ_XÉT_NGHIỆM.",
+   "severity": "high"
+  },
+  {
+   "surface": "hóa trị",
+   "reason": "Doc 82: nằm trong câu tư vấn giả định 'sẽ có phương pháp điều trị khác nhau như: Uống thuốc, hóa trị, ghép gan,…'. Đây là phương pháp ĐIỀU TRỊ giả định, không phải xét nghiệm/thủ thuật đã làm. Lại còn bị gán sai isHistorical trong khi nội dung là tương lai.",
+   "severity": "high"
+  },
+  {
+   "surface": "ghép gan",
+   "reason": "Doc 82: cùng câu liệt kê giả định như trên. Là phẫu thuật điều trị chưa xảy ra, gán TÊN_XÉT_NGHIỆM + isHistorical đều sai ngữ cảnh.",
+   "severity": "high"
+  },
+  {
+   "surface": "đại thực bào",
+   "reason": "Doc 83: 'kết hợp với bạch huyết T và đại thực bào' — đây là TẾ BÀO, hoàn toàn không phải tên xét nghiệm. Sai type nặng, lại nằm trong đoạn mô tả bệnh học tổng quát chứ không phải kết quả của bệnh nhân.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "xâm nhập của tế bào một nhân",
+   "reason": "Doc 83: câu văn giáo khoa mô tả mày đay mạn nói chung, không phải kết quả xét nghiệm của bệnh nhân. Baseline doc 83 chỉ có 3 khái niệm và toàn bộ là CHẨN_ĐOÁN — doc này rõ ràng được chú thích thưa. Ranh giới span cũng bắt đầu từ 'xâm nhập' cắt khỏi 'tình trạng xâm nhập'.",
+   "severity": "medium"
+  },
+  {
+   "surface": "sợi fibrin",
+   "reason": "Doc 83: 'không tìm thấy hình ảnh giảm phức tạp, bổ sung hay sợi fibrin' — văn bản OCR hỏng, và 'sợi fibrin' là một chất chứ không phải kết luận xét nghiệm; assertions để rỗng dù nằm trong ngữ cảnh phủ định 'không tìm thấy'.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mô bệnh học",
+   "reason": "Doc 83: 'Tổ thương mô bệnh học chủ yếu là...' — mô tả cơ chế bệnh học tổng quát trong bài tư vấn, không phải xét nghiệm được chỉ định/thực hiện cho bệnh nhân. Baseline doc này không có bất kỳ TÊN_XÉT_NGHIỆM nào.",
+   "severity": "medium"
+  },
+  {
+   "surface": "buồn ngủ",
+   "reason": "Doc 83: 'thuốc thế hệ sau không gây buồn ngủ' — tác dụng phụ của thuốc nói chung, không phải triệu chứng của bệnh nhân; ngữ cảnh còn là phủ định ('không gây') mà assertions để rỗng.",
+   "severity": "medium"
+  },
+  {
+   "surface": "tiết quá nhiều mồ hôi",
+   "reason": "Doc 84 (2 lần): đều nằm trong câu khuyên giả định 'Nếu cơ thể tiết quá nhiều mồ hôi, có thể sử dụng bột...'. Không phải triệu chứng của bệnh nhân, và bị gán isHistorical hoàn toàn sai (nội dung là điều kiện tương lai).",
+   "severity": "high"
+  },
+  {
+   "surface": "da vùng bẹn tổn thương",
+   "reason": "Doc 84: 'ma sát sẽ làm da vùng bẹn tổn thương' — hệ quả giả định trong lời khuyên phòng bệnh, không phải dấu hiệu thực thể. Span dạng mệnh đề (danh từ + động từ) rất khó khớp đáp án, lại gán thừa isHistorical.",
+   "severity": "high"
+  },
+  {
+   "surface": "thương tổn",
+   "reason": "Doc 85: 'khu vực da còn thương tổn này' — từ chung chung đúng loại bị cảnh báo (như 'tổn thương'). Baseline doc 85 chú thích rất chi tiết nhưng không hề đánh dấu cụm này.",
+   "severity": "high"
+  },
+  {
+   "surface": "không có quá trình bệnh lý tim phổi cấp tính",
+   "reason": "Doc 85: sai type nhiều khả năng. Ngay trong cùng doc, baseline đã kiểm chứng xử lý các phát hiện hình ảnh phủ định theo kiểu CHẨN_ĐOÁN + isNegated ('gãy xương', 'viêm xương tủy', 'huyết khối tĩnh mạch sâu' đều isNegated) và span KHÔNG bao gồm chữ 'không'. Span này ôm cả 'không có' + gán KẾT_QUẢ_XÉT_NGHIỆM nên gần như chắc chắn lệch đáp án.",
+   "severity": "high"
+  },
+  {
+   "surface": "bệnh dạ dày",
+   "reason": "Doc 86: 'Trước kia bệnh dạ dày được coi là bệnh nan y và nguy hiểm' — mệnh đề tu từ nói về nhóm bệnh nói chung, không phải chẩn đoán của bệnh nhân. Baseline doc 86 đã bắt đủ 3 lần 'viêm sung huyết hang vị dạ dày' nhưng bỏ cụm này.",
+   "severity": "medium"
+  },
+  {
+   "surface": "kháng sinh tĩnh mạch",
+   "reason": "Doc 88: nhóm thuốc chung chung theo đường dùng, không phải hoạt chất/biệt dược. Lại KHÔNG có mã RxNorm (candidates = null) trong khi THUỐC bắt buộc có mã — vừa rủi ro text vừa chắc chắn 0 điểm candidates. Baseline doc 88 chỉ đánh dấu 'Augmentin' là THUỐC.",
+   "severity": "high"
+  },
+  {
+   "surface": "cân nặng",
+   "reason": "Doc 88: 'Bé 14 tháng tuổi có cân nặng trong giới hạn bình thường' — chỉ số nhân trắc trong câu văn tư vấn, không phải xét nghiệm được chỉ định. Không nhất quán với baseline (không doc nào trong nhóm đánh dấu chỉ số nhân trắc).",
+   "severity": "medium"
+  },
+  {
+   "surface": "trong giới hạn bình thường",
+   "reason": "Doc 88: cụm mở đầu bằng giới từ 'trong', là văn nói thường trong lời tư vấn chứ không gắn với một xét nghiệm cụ thể nào. Ranh giới span kém.",
+   "severity": "high"
+  },
+  {
+   "surface": "không có dấu hiệu gì bất thường",
+   "reason": "Doc 88: câu văn tư vấn chung ('và không có dấu hiệu gì bất thường khác'), không phải kết luận của một xét nghiệm. Đúng loại cụm thông thường bị cảnh báo.",
+   "severity": "high"
+  },
+  {
+   "surface": "Thiếu một số vi chất",
+   "reason": "Doc 88: nằm trong liệt kê phỏng đoán nguyên nhân ('có thể là 1... 2. Thiếu một số vi chất... 3. Mắc một bệnh tiềm ẩn'). Không phải chẩn đoán xác lập; span chứa lượng từ mơ hồ 'một số' nên gần như không thể khớp ranh giới đáp án.",
+   "severity": "medium"
+  },
+  {
+   "surface": "calcium",
+   "reason": "Doc 88: 'thiếu... vi chất... như calcium, sắt, kẽm' — nhắc tới vi chất dinh dưỡng bị thiếu, không phải thuốc được kê/dùng. Bất nhất: chỉ trích 'calcium' mà bỏ 'sắt', 'kẽm' cùng danh sách — dấu hiệu nhiễu của mô hình.",
+   "severity": "medium"
+  },
+  {
+   "surface": "giảm kích thước",
+   "reason": "Doc 88: mảnh vụn của phát hiện 'một ổ dịch sau phẫu thuật giảm kích thước so với lần chụp trước'. Đáp án nhiều khả năng đánh dấu cả cụm 'ổ dịch sau phẫu thuật...' hoặc không đánh dấu; span cụt đầu này khó khớp.",
+   "severity": "medium"
+  },
+  {
+   "surface": "vi khuẩn",
+   "reason": "Doc 17, 5 lần. \"Vi khuẩn\" là danh từ thông thường trong văn giải thích (\"tạo điều kiện cho vi khuẩn xâm nhập\", \"loại bỏ vi khuẩn gây hại\"), KHÔNG phải tên xét nghiệm. Gán TÊN_XÉT_NGHIỆM là sai type hoàn toàn -> phạt kép x5 lần. Bài nền doc 17 dày 45 khái niệm nhưng không hề đánh dấu 'vi khuẩn'.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "Doc 12, 15, 17. Cắt ra từ tiêu đề mục \"Tiền sử phẫu thuật / thủ thuật:\". Đây là nhãn cấu trúc biểu mẫu, không phải một thủ thuật cụ thể. Bài nền chỉ đánh dấu 'Sinh thiết' (thủ thuật thật) ngay sau đó.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "khám lâm sàng",
+   "reason": "Doc 11. Tiêu đề mục / cụm chung chung (\"khám lâm sàng để đánh giá các thiếu hụt về phần mềm\"), không phải một xét nghiệm/thủ thuật định danh. Bài nền chỉ lấy 'CT'.",
+   "severity": "high"
+  },
+  {
+   "surface": "Khám lâm sàng",
+   "reason": "Doc 11 @2306. Đúng nghĩa là tiêu đề section \"Khám lâm sàng:\" trước danh sách triệu chứng. Không phải TÊN_XÉT_NGHIỆM.",
+   "severity": "high"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "Doc 18 @2269. Cắt từ tiêu đề \"Kết quả chẩn đoán hình ảnh\" — tên một nhóm phương tiện, không phải xét nghiệm cụ thể. Bài nền đã có 'siêu âm vùng gan mật', 'chụp ct bụng chậu' là các mục đúng.",
+   "severity": "high"
+  },
+  {
+   "surface": "Thở oxy tại nhà",
+   "reason": "Doc 12 & 15, 2 lần mỗi file. Liệu pháp oxy KHÔNG phải THUỐC; gán RxNorm 7806 (oxygen) cho cụm có trạng ngữ nơi chốn \"tại nhà\" là sai cả type lẫn mã. Nếu có trong đáp án thì phải là TÊN_XÉT_NGHIỆM/thủ thuật. Span kèm 'tại nhà' cũng sai ranh giới.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "dịch dưới màng cứng",
+   "reason": "Doc 11, 2 lần. Đây là MÔ TẢ HÌNH ẢNH CT (\"kèm một lớp dịch dưới màng cứng mỏng\") -> thuộc KẾT_QUẢ_XÉT_NGHIỆM chứ không phải CHẨN_ĐOÁN. Mã I62.0 (xuất huyết dưới màng cứng không do chấn thương) sai hẳn với 'dịch'. Hơn nữa bài nền đã bắt đúng 'nang màng nhện' (G93.0) và 'tụ máu dưới màng cứng mạn tính' (I62.0) ngay trong cùng câu -> khả năng cao đây là khái niệm dư thừa chồng lấn.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "tật bẩm sinh",
+   "reason": "Doc 11. Cụm mô tả chung chung (\"đây là tật bẩm sinh không ảnh hưởng nhiều đến sức khỏe\") nói về bàn chân bẹt. Bài nền đã có 'bệnh bàn chân bẹt' (Q66.5) là chẩn đoán thật. Q89.9 chỉ là mã rác.",
+   "severity": "high"
+  },
+  {
+   "surface": "insulin",
+   "reason": "Doc 17 @1292. Ngữ cảnh \"cơ thể sẽ giảm sản xuất insulin\" — insulin nội sinh, KHÔNG phải thuốc được dùng. Gán THUỐC + RxNorm 5856 là sai ngữ cảnh; người chú thích sẽ không đánh dấu.",
+   "severity": "high"
+  },
+  {
+   "surface": "Kháng histamin H1",
+   "reason": "Doc 17. Nhóm dược lý chung chung. Bằng chứng quyết định: trong CÙNG câu liệt kê đó bài nền (đã kiểm chứng) đánh dấu 'trầm cảm' (F32.9) và 'nôn' — tức quy ước là đánh dấu BỆNH bên trong cụm nhóm thuốc, KHÔNG đánh dấu 'thuốc chống trầm cảm'/'thuốc chống nôn' là THUỐC. Vậy các nhóm thuốc ở đây không nằm trong đáp án.",
+   "severity": "high"
+  },
+  {
+   "surface": "thuốc lợi tiểu",
+   "reason": "Doc 17. Cùng danh sách nhóm thuốc như trên; quy ước bài nền cho thấy nhóm thuốc chung không được gán THUỐC. Mã RxNorm 4603 gán cho một nhóm dược lý cũng không vững.",
+   "severity": "high"
+  },
+  {
+   "surface": "thuốc kháng sinh",
+   "reason": "Doc 17. Nhóm thuốc chung chung, lại KHÔNG có candidates -> kể cả nếu trúng text vẫn ăn 0 điểm candidates (40% trọng số). Cùng danh sách với 'thuốc chống nôn' mà bài nền cố tình bỏ.",
+   "severity": "high"
+  },
+  {
+   "surface": "các bệnh hô hấp",
+   "reason": "Doc 17 @966. Cụm phạm trù chung chung kèm lượng từ 'các', không phải một chẩn đoán. Mã J98.9 là mã rác gán bừa. Trong cùng liệt kê bài nền chỉ lấy các bệnh cụ thể ('viêm khớp dạng thấp', 'đột quỵ').",
+   "severity": "high"
+  },
+  {
+   "surface": "nhiễm trùng lợi",
+   "reason": "Doc 17 @738. Đây là mệnh đề ĐỊNH NGHĨA (\"Viêm nha chu: Đây là dạng nhiễm trùng lợi nặng\"), không phải chẩn đoán độc lập. Bài nền đã đánh dấu 'Viêm nha chu' (K05.3) ở đúng vị trí này -> thêm vào chỉ tạo khái niệm chồng lấn thừa.",
+   "severity": "medium"
+  },
+  {
+   "surface": "gai lưỡi phát triển quá mức",
+   "reason": "Doc 17. Span mô tả dài 27 ký tự, dạng mệnh đề chứ không phải thuật ngữ triệu chứng chuẩn. Xác suất khớp ranh giới với đáp án rất thấp.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mùi hôi",
+   "reason": "Doc 17, 3 lần. Từ thông thường (\"làm phát sinh mùi hôi\", \"khử mùi hôi do viêm\", \"loại bỏ mùi hôi trong khoang miệng\"). Triệu chứng thật là 'hôi miệng' — bài nền đã bắt 'hôi miệng' 6 lần và 'miệng thấy hơi thở mùi khó chịu'. 'mùi hôi' đứng lẻ là cụt và trùng lặp.",
+   "severity": "medium"
+  },
+  {
+   "surface": "khó chịu",
+   "reason": "Doc 14 & 19. \"Những dấu mề đay nổi rất khó chịu và ngứa\" — 'khó chịu' ở đây là tính từ cảm thán, không phải triệu chứng được chú thích. Bài nền chỉ lấy 'ngứa' ở đúng câu này.",
+   "severity": "high"
+  },
+  {
+   "surface": "dị ứng",
+   "reason": "Doc 14 & 19 @357. Ngữ cảnh PHỦ ĐỊNH rõ ràng (\"Cả hai người đều không phải dị ứng do thời tiết hay thức ăn\") nhưng assertions để RỖNG -> sai assertion. Bản thân 'dị ứng' ở đây là loại trừ nguyên nhân chứ không phải chẩn đoán của bệnh nhân. Rủi ro cao trên cả 3 metric.",
+   "severity": "medium"
+  },
+  {
+   "surface": "lympho T",
+   "reason": "Doc 14 & 19. Ngữ cảnh \"xâm nhập của tế bào một nhân kết hợp với lympho T và đại thực bào\" — đây là LOẠI TẾ BÀO trong mô tả mô bệnh học, tuyệt đối không phải tên xét nghiệm. Sai type -> phạt kép. Nếu có thì phải là KẾT_QUẢ_XÉT_NGHIỆM.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thoát bọng",
+   "reason": "Doc 14 & 19. Thuật ngữ cụt/sai chính tả của 'thoát hạt' (degranulation) tế bào mast; span 'thoát bọng' trong \"các mức độ thoát bọng khác nhau\" không phải một kết quả xét nghiệm định danh. Rất khó khớp đáp án.",
+   "severity": "medium"
+  },
+  {
+   "surface": "chức năng thất trái",
+   "reason": "Doc 18 @199. Cắt từ \"Đánh giá chức năng thất trái\" — đây là thông số được đánh giá qua siêu âm tim, không phải tên xét nghiệm. Bài nền đã có 'Siêu âm tim' là mục đúng. Span cụt đầu (mất động từ 'Đánh giá') lại vẫn không thành thuật ngữ chuẩn.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mạch",
+   "reason": "FATAL: mọi vị trí đều là mảnh vụn cắt từ cụm khác — doc64@890 'làm giãn [mạch] vành', doc64@1581 'chuyên khoa tim [mạch]', doc67@413 'các [mạch] máu vùng viêm giãn nở'. Không phải xét nghiệm, không phải khái niệm. Sai type + sai span, phạt kép.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "vi khuẩn",
+   "reason": "doc68 x3: 'do vi khuẩn chưa diệt hết', 'phát triển vi khuẩn đề kháng thuốc', 'vi khuẩn lờn thuốc'. Đây là danh từ chung 'bacteria', KHÔNG phải tên xét nghiệm và cũng không phải tên vi khuẩn cụ thể. Sai type rõ ràng, 3 lần phạt kép.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "Xuất hiện ở doc62/66/68, luôn nằm trong tiêu đề mục 'Kết quả chẩn đoán hình ảnh:'. Là nhãn section, không phải tên xét nghiệm. Xét nghiệm thật ('chụp x-quang ngực', 'Đo sức bền cơ tim bằng đồng vị phóng xạ') đã có trong bài nền.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "doc67@299 và doc68@696 là tiêu đề mục ('Tiền sử phẫu thuật / thủ thuật', 'Các thủ thuật đã thực hiện'); doc61@1557 là 'trong một lần thủ thuật'. Từ chung chung, không phải tên thủ thuật cụ thể. doc67 còn gán isHistorical cho một tiêu đề.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "Dị ứng",
+   "reason": "doc70: vị trí 182 là nhãn mục 'Dị ứng:' , vị trí 190 là phần đầu bị cắt cụt của 'Dị ứng furosemide'. Bài nền đã có 'furosemide' (THUỐC, 4603). Thêm 2 span 'Dị ứng' trần là vừa trùng lặp vừa cụt đuôi, lại gán isHistorical.",
+   "severity": "high"
+  },
+  {
+   "surface": "lợi tiểu",
+   "reason": "doc70@1631 trong danh sách xử trí: '- lợi tiểu 600cc' = lượng nước tiểu bài xuất (diuresis 600cc), KHÔNG phải một thuốc. Tệ hơn: gán RxNorm 4603 = furosemide, trong khi tiền sử bệnh nhân ghi rõ 'Dị ứng furosemide'. Mã sai về mặt lâm sàng.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "Bệnh nhân tỉnh",
+   "reason": "doc68@231 và doc69@505. Span nuốt cả chủ ngữ 'Bệnh nhân'; nội dung là dấu hiệu bình thường ('tỉnh'). Người chú thích chuyên nghiệp hoặc bỏ qua, hoặc chỉ đánh 'tỉnh' — ranh giới chắc chắn lệch.",
+   "severity": "high"
+  },
+  {
+   "surface": "tiếp xúc tốt",
+   "reason": "doc69@521: mô tả trạng thái bình thường khi khám, cùng loại với các ví dụ bị cấm trong đề ('nghe khá tốt'). Không phải triệu chứng.",
+   "severity": "high"
+  },
+  {
+   "surface": "khó chịu",
+   "reason": "doc69@1143 nằm trong đoạn văn bản người dùng bị nhiễu/loạn nghĩa ('Những thuốc giảm đau nổi bật rất khó chịu và tư vấn'). Từ quá chung, ngữ cảnh vô nghĩa.",
+   "severity": "high"
+  },
+  {
+   "surface": "kháng sinh tĩnh mạch",
+   "reason": "doc69@943: nhóm thuốc chung chung, đúng cạm bẫy đề bài nêu. Ngoài ra gán type THUỐC nhưng KHÔNG có trường candidates -> mất trắng 0.4 candidates_score dù text có đúng.",
+   "severity": "high"
+  },
+  {
+   "surface": "tự tử",
+   "reason": "doc69@202 ('do tự tử không thành') và @427 ('nhảy cầu tự tử'). Bài nền đã kiểm chứng dùng span 'ý định tự tử' cho TRIỆU_CHỨNG. 'tự tử' trần là một hành vi/sự kiện, không phải triệu chứng; nguy cơ sai type cao.",
+   "severity": "high"
+  },
+  {
+   "surface": "thương tổn",
+   "reason": "doc65@373 là mảnh của 'Tiêm ... nội thương tổn' (thủ thuật tiêm nội thương tổn), @437 là mảnh của 'diện tích thương tổn dưới 50%'. Vừa cắt vụn cụm từ, vừa là từ chung ('tổn thương') mà đề bài nêu đích danh là đáng ngờ.",
+   "severity": "high"
+  },
+  {
+   "surface": "rụng tóc",
+   "reason": "doc65: 2/3 vị trí (@1198, @1299) là bổ ngữ chỉ vị trí 'quét lên vùng rụng tóc' / 'trên vùng rụng tóc' — không phải mention chẩn đoán. Thêm nữa 'rụng tóc' trần rất dễ bị đáp án gán TRIỆU_CHỨNG chứ không phải CHẨN_ĐOÁN, trong khi bài nền đã có 'rụng tóc từng mảng'/'rụng tóc từng vùng' (L63.9). Rủi ro phạt kép x3.",
+   "severity": "high"
+  },
+  {
+   "surface": "paroxysmal nocturnal dyspnea",
+   "reason": "doc62@990: đây là phần chú giải tiếng Anh trong ngoặc của cụm 'khó thở khi nằm đột ngột', mà bài nền ĐÃ có span tiếng Việt kèm isNegated. Bản mới trùng lặp và assertions rỗng dù câu là 'Phủ nhận khó thở khi nằm đột ngột (...)' -> thiếu isNegated.",
+   "severity": "high"
+  },
+  {
+   "surface": "khạc nhổ",
+   "reason": "doc62@741: 'ông ấy không khạc nhổ gì' — phủ định rõ ràng nhưng assertions rỗng, trái với quy ước bài nền (đã gán isNegated cho 'đau ngực', 'buồn nôn', 'khó thở khi nằm'...). Giá trị khái niệm thấp + assertion sai.",
+   "severity": "medium"
+  },
+  {
+   "surface": "thuốc kháng B-histamin",
+   "reason": "doc63@136: (1) nhóm thuốc chung chung, span còn nuốt cả từ 'thuốc'; (2) mã RxNorm 28889 = loratadine, một hoạt chất CỤ THỂ, không khớp với tên nhóm -> candidates chắc chắn 0; (3) isHistorical đáng ngờ vì bệnh nhân mô tả tình trạng đang tiếp diễn ('triệu chứng giảm nhưng k hết. Và hiện tại...'). Sai 2/3 metric.",
+   "severity": "high"
+  },
+  {
+   "surface": "lo sợ",
+   "reason": "doc63@1321: nửa sau của cụm 'hoang tưởng/lo sợ' mà bài nền ĐÃ đánh 'hoang tưởng'. 'lo sợ' là trạng thái cảm xúc chung (cùng loại với 'lo lắng' đề bài nêu là đáng ngờ), lại gán isHistorical trong khi câu mô tả hiện tại ('Bệnh nhân thường hoang tưởng/lo sợ').",
+   "severity": "high"
+  },
+  {
+   "surface": "bệnh dạ dày",
+   "reason": "doc67@566: câu 'Trước kia bệnh dạ dày được coi là bệnh nan y' là nhận định lịch sử về y học, KHÔNG phải chẩn đoán của bệnh nhân. isHistorical bị hiểu nhầm từ 'Trước kia'. Bài nền đã có chẩn đoán thật ('Viêm hang vị sung huyết', K29.7).",
+   "severity": "high"
+  },
+  {
+   "surface": "thăm khám chuyên khoa",
+   "reason": "doc67@789: 'người bệnh cần được thăm khám chuyên khoa, nội soi dạ dày' — cụm chung chung chỉ hành động khám, không phải tên xét nghiệm/thủ thuật. 'nội soi' đã có trong bài nền. isHistorical sai hoàn toàn (đây là khuyến nghị tương lai).",
+   "severity": "high"
+  },
+  {
+   "surface": "cân nặng",
+   "reason": "doc68@975: 'đúng với cân nặng của Bé' — danh từ thường trong câu tư vấn liều, không phải chỉ định xét nghiệm.",
+   "severity": "high"
+  },
+  {
+   "surface": "dị tật cố định vùng trước vách và vách dưới",
+   "reason": "doc68@485: span 43 ký tự, quá dài để khớp chính xác ranh giới. Ngoài ra bài nền (đã kiểm chứng) gán các phát hiện hình ảnh cùng câu/cùng bộ dữ liệu là CHẨN_ĐOÁN ('giảm chức năng tâm thu thất trái' I51.8; doc66 'tim to' I51.7, 'tràn dịch màng phổi hai bên' J90) -> gán KẾT_QUẢ_XÉT_NGHIỆM ở đây mâu thuẫn quy ước, rủi ro phạt kép.",
+   "severity": "medium"
+  },
+  {
+   "surface": "ngừa thai",
+   "reason": "doc61 x3 (@72, @93, @438): 'các biện pháp ngừa thai', 'ngừa thai bằng phương pháp cấy que', 'muốn tiếp tục ngừa thai'. Đây là mục đích/khái niệm trừu tượng, không phải xét nghiệm hay thủ thuật. Sai type.",
+   "severity": "high"
+  },
+  {
+   "surface": "biện pháp tránh thai",
+   "reason": "doc61 x3 (@1148, @1461, @1581): 'phương pháp tránh thai' chung chung, không phải một thủ thuật cụ thể. Bản @1148 còn gán isNegated sai ('chỉ cấy que khi không còn biện pháp tránh thai nào khác' — không phủ định khái niệm).",
+   "severity": "high"
+  },
+  {
+   "surface": "que cấy",
+   "reason": "doc61 @1487, @1608: 'que cấy' là DỤNG CỤ/thuốc cấy (bài nền đã có 'Implanon' THUỐC, RxNorm 389221), không phải tên xét nghiệm/thủ thuật. Sai type.",
+   "severity": "high"
+  },
+  {
+   "surface": "lấy que cũ ra",
+   "reason": "doc61@383: cụm động từ trần thuật ('phải thực hiện lấy que cũ ra và cấy que mới vào'), không phải tên thủ thuật chuẩn hoá. Ranh giới dính động từ.",
+   "severity": "high"
+  },
+  {
+   "surface": "tháo que cũ",
+   "reason": "doc61@1507: cùng lỗi — cụm động từ ('sẽ được tháo que cũ và cấy que mới vào ngay'), không phải danh xưng thủ thuật.",
+   "severity": "high"
+  },
+  {
+   "surface": "cấy que mới",
+   "reason": "doc61 @400, @1522: biến thể động từ + tính từ của 'cấy que'; nếu đáp án có, gần như chắc chắn là 'cấy que' hoặc 'cấy que tránh thai'. Trùng lặp gây tụt precision.",
+   "severity": "medium"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "Là NHÃN TIÊU ĐỀ MỤC ('Tiền sử phẫu thuật / thủ thuật', 'Các thủ thuật đã thực hiện'), không phải một xét nghiệm/thủ thuật cụ thể nào. Xuất hiện 4 lần ở doc 55, 56, 57, 58 — nhân 4 lần sai.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "Nhãn tiêu đề mục 'Kết quả chẩn đoán hình ảnh' — tên nhóm phương thức, không phải tên kỹ thuật cụ thể (bài nền chỉ đánh dấu 'chụp x-quang ngực', 'MRI'). 3 lần ở doc 56, 58, 59.",
+   "severity": "high"
+  },
+  {
+   "surface": "nang",
+   "reason": "SPAN VỠ: văn bản gốc là 'Sừng hóa nang lông bất thường' — 'nang' chỉ là nửa của 'nang lông' (cấu trúc giải phẫu). Gán TRIỆU_CHỨNG cho một mảnh từ là sai hoàn toàn. (doc 59)",
+   "severity": "fatal"
+  },
+  {
+   "surface": "mạch",
+   "reason": "SPAN VỠ: ngữ cảnh 'các mạch máu vùng viêm giãn nở' — 'mạch' là mảnh của 'mạch máu' (giải phẫu), KHÔNG phải sinh hiệu mạch. Gán TÊN_XÉT_NGHIỆM là sai. (doc 56, chỉ loại bản viết thường; 'Mạch' viết hoa ở doc 53/60 là sinh hiệu thật nên giữ)",
+   "severity": "fatal"
+  },
+  {
+   "surface": "dây chằng chéo trước",
+   "reason": "Là CẤU TRÚC GIẢI PHẪU, không phải chẩn đoán, nhưng bị gán CHẨN_ĐOÁN + ICD S83.5 => phạt kép trên cả 3 metric. Chẩn đoán thật phải là 'đứt dây chằng chéo trước'. (doc 51)",
+   "severity": "fatal"
+  },
+  {
+   "surface": "lợi tiểu",
+   "reason": "Ngữ cảnh 'lợi tiểu 600cc' chỉ lượng nước tiểu/tác dụng lợi tiểu, không phải tên thuốc. Nhóm tác dụng chung chung bị gán THUỐC, lại ánh xạ RxNorm 4603 = furosemide (một hoạt chất cụ thể) — mã rõ ràng sai. Thêm isHistorical sai. (doc 51)",
+   "severity": "fatal"
+  },
+  {
+   "surface": "Dị ứng",
+   "reason": "Vị trí [182,188] chính là NHÃN MỤC 'Dị ứng:' của biểu mẫu; vị trí [190,196] là đầu cụm 'Dị ứng furosemide' bị CẮT CỤT. Cả hai gán CHẨN_ĐOÁN + T78.4. Span đúng phải là 'Dị ứng furosemide'. (doc 51)",
+   "severity": "high"
+  },
+  {
+   "surface": "huyết áp",
+   "reason": "4 lần ở doc 55 đều nằm trong văn tư vấn chung chung ('khi lo âu thì huyết áp tăng', 'nói chuyện khi đo, huyết áp cũng lên cao'), không phải chỉ định đo thật. Riêng bản [806,814] còn gán isNegated SAI trắng trợn — câu gốc là 'huyết áp của em mỗi lần đo đều bình thường', không hề phủ định. (chỉ loại bản viết thường; giữ 'Huyết áp' viết hoa ở doc 60)",
+   "severity": "high"
+  },
+  {
+   "surface": "lên cao",
+   "reason": "'huyết áp cũng lên cao' là cụm động từ trong câu tư vấn, không phải giá trị/kết luận xét nghiệm. Gán KẾT_QUẢ_XÉT_NGHIỆM cho cụm từ thông thường. (doc 55)",
+   "severity": "high"
+  },
+  {
+   "surface": "Vi khuẩn",
+   "reason": "SPAN CẮT CỤT khỏi 'Vi khuẩn C. acne'. Từ 'Vi khuẩn' đứng một mình không phải tên xét nghiệm. (doc 59)",
+   "severity": "high"
+  },
+  {
+   "surface": "vi khuẩn",
+   "reason": "Ngữ cảnh 'nhiễm khuẩn đường tiết niệu có các vi khuẩn hỗn hợp' — đây là KẾT QUẢ cấy nước tiểu bị cắt cụt (span đúng: 'vi khuẩn hỗn hợp'), lại gán TÊN_XÉT_NGHIỆM. Sai cả span lẫn type. (doc 59)",
+   "severity": "high"
+  },
+  {
+   "surface": "lympho T",
+   "reason": "Ngữ cảnh 'xâm nhập của tế bào một nhân kết hợp với lympho T và đại thực bào' — LOẠI TẾ BÀO trong mô tả mô bệnh học, không phải xét nghiệm được chỉ định. (doc 52)",
+   "severity": "high"
+  },
+  {
+   "surface": "thoát bọng",
+   "reason": "Span cắt lơ lửng giữa câu 'tế bào mast tăng số lượng vùng hạ bì với các mức độ thoát bọng khác nhau'. Riêng 'thoát bọng' không phải kết quả xét nghiệm hoàn chỉnh. (doc 52)",
+   "severity": "medium"
+  },
+  {
+   "surface": "dị ứng",
+   "reason": "Doc 52: 'Cả hai người đều không phải dị ứng do thời tiết hay thức ăn' — bị PHỦ ĐỊNH rõ ràng nhưng assertions rỗng, span cắt cụt. Doc 58: 'Tiền sử dị ứng: Không có' — vừa là nhãn mục vừa bị phủ định, lại gán isHistorical thay vì isNegated. Cả hai đều sai.",
+   "severity": "high"
+  },
+  {
+   "surface": "dị tật bẩm sinh",
+   "reason": "Ngữ cảnh là tư vấn GIẢ ĐỊNH chung ('bất kỳ thai kỳ nào... bé vẫn có thể có các nguy cơ về dị tật bẩm sinh'), không phải chẩn đoán của bệnh nhân. Gán isHistorical hoàn toàn sai. (doc 54)",
+   "severity": "medium"
+  },
+  {
+   "surface": "hoang mang",
+   "reason": "'Em cảm thấy rất hoang mang' là phản ứng cảm xúc của người hỏi về tình huống, không phải triệu chứng lâm sàng — cùng loại ví dụ đáng ngờ 'lo lắng'. (doc 55)",
+   "severity": "medium"
+  },
+  {
+   "surface": "khó chịu",
+   "reason": "'Những dấu mề đay nổi rất khó chịu và ngứa' — tính từ mô tả cảm giác chung; triệu chứng thật ('ngứa') đã được bài nền đánh dấu riêng. (doc 52)",
+   "severity": "medium"
+  },
+  {
+   "surface": "bệnh dạ dày",
+   "reason": "'Trước kia bệnh dạ dày được coi là bệnh nan y' — nhắc chung chung về một nhóm bệnh trong văn tư vấn, không phải chẩn đoán của bệnh nhân này. (doc 56)",
+   "severity": "medium"
+  },
+  {
+   "surface": "thăm khám chuyên khoa",
+   "reason": "Cụm hành chính chung chung ('người bệnh cần được thăm khám chuyên khoa'), không phải xét nghiệm/thủ thuật cụ thể. (doc 56)",
+   "severity": "medium"
+  },
+  {
+   "surface": "khám da liễu",
+   "reason": "'cháu đi khám da liễu' — việc đi khám ở chuyên khoa, không phải xét nghiệm/thủ thuật/chẩn đoán hình ảnh. 2 lần ở doc 59, 60.",
+   "severity": "medium"
+  },
+  {
+   "surface": "Phổi thông khí đều",
+   "reason": "Kết quả khám BÌNH THƯỜNG (thông khí đều = không bất thường) bị gán TRIỆU_CHỨNG. Cùng loại ví dụ đáng ngờ 'nghe khá tốt'. Nếu giữ cũng phải là KẾT_QUẢ_XÉT_NGHIỆM. (doc 59)",
+   "severity": "high"
+  },
+  {
+   "surface": "sonde tiểu",
+   "reason": "'Còn sonde tiểu' mô tả DỤNG CỤ đang lưu, không phải xét nghiệm hay thủ thuật được thực hiện. (doc 59)",
+   "severity": "medium"
+  },
+  {
+   "surface": "lên mụn trở lại",
+   "reason": "RANH GIỚI SPAN xấu: dính động từ 'lên' và trạng ngữ 'trở lại'. Khái niệm thật là 'mụn' / 'mụn cám' / 'mụn đầu trắng' (V9 lại không lấy). 2 lần ở doc 59, 60.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mụn ở trán",
+   "reason": "Cắt cụt tùy tiện từ danh sách 'mụn ở trán, má, 2 bên quai hàm và cằm'. Thêm rủi ro TYPE: bài nền gán 'mụn trứng cá' là CHẨN_ĐOÁN nên tổn thương mụn gán TRIỆU_CHỨNG có nguy cơ phạt kép. 2 lần ở doc 59, 60.",
+   "severity": "medium"
+  },
+  {
+   "surface": "da dầu",
+   "reason": "Cắt cụt từ 'chăm sóc da dầu mụn' trong câu khuyên chung; triệu chứng thật là 'da rất nhiều dầu' ở đầu văn bản (V9 không lấy). 2 lần ở doc 59, 60.",
+   "severity": "medium"
+  },
+  {
+   "surface": "da mụn",
+   "reason": "'chăm sóc da mụn' / 'Chăm sóc da mụn một cách khoa học' — cụm từ thông thường trong câu khuyên, không phải triệu chứng được ghi nhận. 4 lần ở doc 59, 60.",
+   "severity": "medium"
+  },
+  {
+   "surface": "dấu hiệu sinh tồn",
+   "reason": "Nhãn tiêu đề mục ('Kết quả khám thực thể: dấu hiệu sinh tồn'), là tên nhóm; các thành phần cụ thể (Nhiệt độ, Mạch, Huyết áp, Nhịp thở, SPO2) đã được đánh dấu riêng. (doc 60)",
+   "severity": "medium"
+  },
+  {
+   "surface": "mạch",
+   "reason": "FATAL — cả 3 lần đều là mảnh cắt từ danh từ giải phẫu, không phải mạch/nhịp mạch: doc35@820 trong 'các mạch máu vùng viêm giãn nở', doc40@890 trong 'Van động mạch chủ cơ học', doc40@1949 trong 'Truyền tĩnh mạch (sáng)'. Chỉ loại bề mặt CHỮ THƯỜNG; giữ 'Mạch' viết hoa ở doc40@467.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "lipid",
+   "reason": "FATAL — doc36@1430 nằm trong câu CHẾ ĐỘ ĂN: 'cơm nhạt, uống ít nước < 1l/ngày, tăng protein (2 lạng thịt/ngày), không lipid, tăng glucid'. Là khuyến cáo dinh dưỡng, không phải xét nghiệm lipid máu.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "nang",
+   "reason": "FATAL — doc36@1877 là mảnh cắt của 'cấu trúc vi nang' trong 'FNA của một nốt sần tuyến giáp phải có cấu trúc vi nang'. Vừa sai ranh giới vừa sai type (nếu có thì là KẾT_QUẢ_XÉT_NGHIỆM chứ không phải TRIỆU_CHỨNG).",
+   "severity": "fatal"
+  },
+  {
+   "surface": "thăm dò",
+   "reason": "FATAL — doc31@1872 là nửa sau của tiêu đề mục 'Chẩn đoán hình ảnh và thăm dò:'. Không tương ứng xét nghiệm nào.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "Chẩn đoán hình ảnh",
+   "reason": "Tiêu đề mục hành chính: doc31@1850 'Chẩn đoán hình ảnh và thăm dò:', doc40@1534 '2. Chẩn đoán hình ảnh', doc40@1706 '. Chẩn đoán hình ảnh (Ngày 03/07/2026)'. Bài nền đã kiểm chứng không trích nhãn mục.",
+   "severity": "high"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "Cùng lỗi tiêu đề mục: doc38@1774 và doc39@1727 đều là 'Kết quả chẩn đoán hình ảnh: chụp x-quang ngực...'. Xét nghiệm thật ('chụp x-quang ngực') đã có trong bài nền.",
+   "severity": "high"
+  },
+  {
+   "surface": "Thủ thuật",
+   "reason": "doc31@1983 là tiêu đề 'Thủ thuật được thực hiện :'. Thủ thuật thật (Nội soi mật tụy ngược dòng (ERCP)) đã có trong bài nền @2011.",
+   "severity": "high"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "Tiêu đề mục ở cả 3 vị trí: doc33@1877 'Các thủ thuật đã thực hiện', doc39@173 'Tiền sử phẫu thuật / thủ thuật:', doc39@1832 'Các thủ thuật đã thực hiện'.",
+   "severity": "high"
+  },
+  {
+   "surface": "khám lâm sàng",
+   "reason": "Cụm chung chung, không phải xét nghiệm định danh: doc35@670 'Kết quả thăm khám lâm sàng', doc39@1308 'khám lâm sàng để đánh giá các thiếu hụt về phần mềm'.",
+   "severity": "high"
+  },
+  {
+   "surface": "thăm khám chuyên khoa",
+   "reason": "doc35@1196 — lời khuyên chung ('người bệnh cần được thăm khám chuyên khoa, nội soi dạ dày để tìm nguyên nhân'). Khái niệm thật là 'nội soi dạ dày'.",
+   "severity": "high"
+  },
+  {
+   "surface": "khám da liễu",
+   "reason": "doc33@195 'cháu đi khám da liễu' — một lần đi khám chuyên khoa, không phải xét nghiệm/thủ thuật. Sai type.",
+   "severity": "medium"
+  },
+  {
+   "surface": "bệnh dạ dày",
+   "reason": "doc35@973 — danh từ chung trong câu kể lịch sử y học: 'Trước kia bệnh dạ dày được coi là bệnh nan y và nguy hiểm'. Không phải chẩn đoán của bệnh nhân; gán K31.9 cho từ chung là vô nghĩa.",
+   "severity": "high"
+  },
+  {
+   "surface": "mạch đập",
+   "reason": "doc34@518 và @629 — nằm trong đoạn giải thích chung về Migraine, không phải triệu chứng của bệnh nhân cụ thể; ranh giới cụt (span hợp lý phải là 'mạch đập ở vùng thái dương' hoặc 'đau kiểu mạch đập').",
+   "severity": "medium"
+  },
+  {
+   "surface": "hóa trị",
+   "reason": "doc32@2106 — nằm trong liệt kê giả định ('Tùy vào loại amyloidosis mà sẽ có phương pháp điều trị khác nhau như: Uống thuốc, hóa trị, ghép gan,…'). Ngoài ra hóa trị là LIỆU PHÁP điều trị, không phải xét nghiệm/thủ thuật → sai type.",
+   "severity": "high"
+  },
+  {
+   "surface": "ghép gan",
+   "reason": "doc32@2115 — cùng câu liệt kê giả định như 'hóa trị', không phải thủ thuật đã/sẽ thực hiện trên bệnh nhân; bỏ 'Uống thuốc' mà giữ 2 mục còn lại là không nhất quán.",
+   "severity": "medium"
+  },
+  {
+   "surface": "lên mụn trở lại",
+   "reason": "doc33@322 — cụm động từ dính trạng ngữ ('da cháu bắt đầu lên mụn trở lại'). Khái niệm chuẩn là 'mụn'/'mụn trứng cá' (bài nền đã có @145). Thêm nữa isHistorical sai vì đây là than phiền hiện tại.",
+   "severity": "medium"
+  },
+  {
+   "surface": "nhịp tim",
+   "reason": "doc33@2175 — 'nhịp tim cải thiện thành' là nhận định lâm sàng ở cuối file bị cắt cụt, không phải xét nghiệm được chỉ định. Gán TÊN_XÉT_NGHIỆM rủi ro sai type kép.",
+   "severity": "medium"
+  },
+  {
+   "surface": "vành tai đầy đủ",
+   "reason": "doc37@108 — mô tả BÌNH THƯỜNG ('vẫn có vành tai đầy đủ'), cùng loại với 'vành tai đẹp' mà đề bài đã cảnh báo. Không phải triệu chứng.",
+   "severity": "high"
+  },
+  {
+   "surface": "nghe nói bình thường",
+   "reason": "doc37@250 — câu nói thường ngày của phụ huynh ('Bé nay đã 2 tuổi, nghe nói bình thường, mọi sinh hoạt bình thường, phát triển đều'), mô tả bình thường.",
+   "severity": "high"
+  },
+  {
+   "surface": "nhỏ hơn tai còn lại",
+   "reason": "doc37@409 — mệnh đề so sánh ('nó nhỏ hơn tai còn lại'), không đứng độc lập thành khái niệm; nội dung đã nằm trong 'vành tai không phát triển đều' liền trước.",
+   "severity": "high"
+  },
+  {
+   "surface": "kiểm tra việc nghe",
+   "reason": "doc37@819 — khẩu ngữ trong câu hỏi của phụ huynh ('Mình có cách gì kiểm tra việc nghe của bé thường xuyên để theo dõi không?'). Xét nghiệm thật là 'đo thính lực'/'đo âm tai'.",
+   "severity": "high"
+  },
+  {
+   "surface": "lúng túng khi xác định hướng âm thanh",
+   "reason": "doc37@1526 — mệnh đề GIẢ ĐỊNH của bác sĩ ('có thể làm con lúng túng khi xác định hướng âm thanh hoặc ở môi trường ồn ào'), span dài lê thê, ngôn ngữ thường ngày, chưa phải triệu chứng ghi nhận.",
+   "severity": "high"
+  },
+  {
+   "surface": "que cấy",
+   "reason": "doc38@1303 — 'que cấy tránh thai' là biện pháp/thuốc tránh thai, KHÔNG phải xét nghiệm hay thủ thuật → sai type; span còn bị cắt cụt khỏi 'que cấy tránh thai'; isHistorical ngược nghĩa (là tư vấn tương lai).",
+   "severity": "high"
+  },
+  {
+   "surface": "cấy que",
+   "reason": "doc38@1491 — 'tư vấn việc cấy que', khẩu ngữ rút gọn, là kế hoạch tương lai chứ không phải thủ thuật đã thực hiện; isHistorical hoàn toàn ngược nghĩa.",
+   "severity": "high"
+  },
+  {
+   "surface": "tật bẩm sinh",
+   "reason": "doc39@1099 — danh từ PHÂN LOẠI chung ('bệnh bàn chân bẹt, đây là tật bẩm sinh không ảnh hưởng nhiều đến sức khỏe'). Chẩn đoán thật 'bệnh bàn chân bẹt' đã có trong bài nền @1073; Q89.9 gán cho từ chung là vô nghĩa.",
+   "severity": "high"
+  },
+  {
+   "surface": "Bệnh nhân tỉnh",
+   "reason": "doc40@487 — span dính chủ ngữ 'Bệnh nhân'; nội dung là ý thức BÌNH THƯỜNG và trùng thông tin với 'glasgow 15 điểm' ngay sau. Nếu chú thích thì chỉ là 'tỉnh'.",
+   "severity": "medium"
+  },
+  {
+   "surface": "xuất huyết dưới da",
+   "reason": "doc40@578 — văn bản là 'Không phù, không xuất huyết dưới da': PHỦ ĐỊNH rõ ràng nhưng assertions chỉ có isHistorical, THIẾU isNegated. Bài nền cùng câu đã trích 'phù' với isNegated. Sai 2 assertion cùng lúc.",
+   "severity": "high"
+  },
+  {
+   "surface": "tiếng thổi",
+   "reason": "doc40@653 — văn bản 'không tiếng thổi': phủ định rõ ràng nhưng thiếu isNegated, lại gán isHistorical trong khi đây là mục 'Khám lúc vào viện' (hiện tại).",
+   "severity": "high"
+  },
+  {
+   "surface": "không chướng",
+   "reason": "doc40@699 — nhét TỪ PHỦ ĐỊNH vào trong span, trái quy ước đã kiểm chứng của bài nền (bài nền trích 'phù' + isNegated cho 'Không phù', không trích 'không phù'). Span đúng phải là 'chướng' + isNegated.",
+   "severity": "high"
+  },
+  {
+   "surface": "quá liều",
+   "reason": "doc40@841 — cắt vụn cụm 'quá liều kháng vitamin K' thành 2 khái niệm rời; 'quá liều' đứng một mình không phải chẩn đoán, và T50.9 mâu thuẫn với chính T45.5 đã gán cho 'quá liều thuốc kháng vitamin K' @256.",
+   "severity": "high"
+  },
+  {
+   "surface": "thuốc cản quang",
+   "reason": "doc40@1785 — nằm trong mô tả thông số kỹ thuật chụp CT '(64–128 dãy, có thuốc cản quang, không in phim)', không phải thuốc điều trị được kê cho bệnh nhân; RxNorm 5956 cũng không tương ứng danh từ chung này.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mạch",
+   "reason": "FATAL: 6 lần, đều là mẩu chuỗi con cắt ra từ 'tĩnh mạch' / 'động mạch vành' / 'mạch máu' / 'lòng mạch' / liệt kê giải phẫu 'tim, mạch, gan, thận'. Không phải tên xét nghiệm ở bất kỳ vị trí nào. Doc24 pos 2162 còn nằm LỌT trong span THUỐC đã kiểm chứng 'Glucose 5% x 1000ml truyền tĩnh mạch' [1997,2033].",
+   "severity": "fatal"
+  },
+  {
+   "surface": "nang",
+   "reason": "FATAL: doc27 pos 254 là chuỗi con của 'phế nang' (giải phẫu). Pos 2210 tuy là 'nang chứa khí' thật nhưng gán TRIỆU_CHỨNG sai (phát hiện trên CT => KẾT_QUẢ_XÉT_NGHIỆM). Cả hai đều lỗ.",
+   "severity": "fatal"
+  },
+  {
+   "surface": "hoại tử",
+   "reason": "5 lần trong doc27, gán TRIỆU_CHỨNG. Hoại tử là quá trình bệnh học trong đoạn văn giải thích cơ chế ('hoại tử chủ mô phổi', 'ổ viêm sẽ hoại tử lan rộng', 'tổ chức hoại tử'), không phải triệu chứng cơ năng/dấu hiệu thực thể. Baseline đã đánh 'viêm phổi hoại tử'/'áp xe phổi' rồi; đây là keyword-match máy móc.",
+   "severity": "high"
+  },
+  {
+   "surface": "thương tổn",
+   "reason": "3 lần doc27, gán TRIỆU_CHỨNG. Đúng loại từ chung chung mà đề bài cảnh báo ('tổn thương'). 'thương tổn có thể phục hồi', 'thương tổn các phế quản lân cận', 'gây nên các thương tổn mới' - văn giải thích cơ chế, không phải khái niệm y khoa được chú thích.",
+   "severity": "high"
+  },
+  {
+   "surface": "khó chịu",
+   "reason": "3 lần (doc22 x2, doc28). Cụm mơ hồ. Bằng chứng đối chiếu: doc28 câu 'mề đay nổi rất khó chịu và ngứa' - baseline đã kiểm chứng đánh 'ngứa' [188,192] nhưng KHÔNG đánh 'khó chịu'. Doc22 pos 1458 nằm trong đoạn văn bị lỗi ASR vô nghĩa.",
+   "severity": "high"
+  },
+  {
+   "surface": "đang chờ kết quả",
+   "reason": "2 lần doc22, gán KẾT_QUẢ_XÉT_NGHIỆM. 'ceruloplasmin vẫn đang chờ kết quả' - đây là TRẠNG THÁI CHƯA CÓ kết quả, không phải giá trị/kết luận. Baseline đã đánh 'ceruloplasmin' là TÊN_XÉT_NGHIỆM và cố tình BỎ TRỐNG phần kết quả. Ngoài ra text gốc lặp 2 lần do lỗi, tạo 2 span trùng nội dung.",
+   "severity": "high"
+  },
+  {
+   "surface": "chẩn đoán hình ảnh",
+   "reason": "doc22: chỉ là tiêu đề mục 'Kết quả chẩn đoán hình ảnh', tên danh mục chung, không phải một xét nghiệm cụ thể. Baseline đánh riêng 'siêu âm bụng có doppler', 'chụp hida', 'ercp' - không đánh tiêu đề.",
+   "severity": "high"
+  },
+  {
+   "surface": "Thủ thuật",
+   "reason": "doc22: tiêu đề mục 'Thủ thuật thực hiện: ercp'. Từ danh mục, không phải tên thủ thuật. Baseline đã đánh 'ercp' [2428,2432] ngay sau đó.",
+   "severity": "high"
+  },
+  {
+   "surface": "thủ thuật",
+   "reason": "2 lần (doc23, doc26): đều nằm trong tiêu đề 'Tiền sử phẫu thuật / thủ thuật'. Từ danh mục thuần túy.",
+   "severity": "high"
+  },
+  {
+   "surface": "Hệ thống dẫn lưu",
+   "reason": "2 lần doc23, gán TÊN_XÉT_NGHIỆM. Đây là THIẾT BỊ (shunt system), không phải xét nghiệm/thủ thuật. Thủ thuật thật là 'chỉnh sửa/thay thế' - span đang bắt sai phần. (Span 'đặt dẫn lưu shunt' pos 1246 mới đúng và tôi giữ lại.)",
+   "severity": "high"
+  },
+  {
+   "surface": "mãn kinh",
+   "reason": "2 lần doc23, gán CHẨN_ĐOÁN + isHistorical. Đây là đoạn giáo dục chung ('trong thời kỳ mãn kinh có thể đóng một vai trò'), mãn kinh là trạng thái sinh lý chứ không phải chẩn đoán của bệnh nhân; isHistorical hoàn toàn bịa. Bằng chứng: baseline đã kiểm chứng đánh 'đổ mồ hôi đêm' [247,260] NGAY TRONG CÙNG CÂU nhưng bỏ qua 'mãn kinh'.",
+   "severity": "high"
+  },
+  {
+   "surface": "gián đoạn giấc ngủ",
+   "reason": "doc23: cụm động từ 'thường làm gián đoạn giấc ngủ'. Baseline đánh 'Mất ngủ' [303,310] ngay câu kế nhưng bỏ cụm này. Ranh giới lởm và trùng ý với 'Mất ngủ'.",
+   "severity": "medium"
+  },
+  {
+   "surface": "Hội chứng nhiễm trùng nhiễm độc",
+   "reason": "doc24: tiêu đề mục của bệnh án VN. Bằng chứng mạnh: baseline (rất chi li, đánh từng 'sốt', từng giá trị lab) KHÔNG đánh tiêu đề song song 'Hội chứng viêm gan' ở pos ~640. Thêm nữa mã B99 (bệnh nhiễm trùng khác, không xác định) là mã rác không mô tả được khái niệm.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mang virus viêm gan B",
+   "reason": "doc24: (1) câu nói về NGƯỜI KHÁC - 'Trong đơn vị có 3 người mang virus viêm gan B' (tiền sử dịch tễ), (2) span dính động từ 'mang'. Baseline chuẩn cho khái niệm tương tự là 'nhiễm virus viêm gan B, C' [1566,1591] - đáp án gần như chắc chắn cắt 'virus viêm gan B' chứ không kèm 'mang'.",
+   "severity": "medium"
+  },
+  {
+   "surface": "1500ml/ngày",
+   "reason": "doc24: không phải kết quả xét nghiệm mà là MỤC TIÊU ĐIỀU TRỊ nằm trong y lệnh thuốc ('Glucose 5% ... dùng đến khi nước tiểu 1500ml/ngày'). Ngoài ra bị gán isHistorical sai (đây là y lệnh hiện tại).",
+   "severity": "medium"
+  },
+  {
+   "surface": "quá liều",
+   "reason": "doc25: 'sử dụng thuốc quá liều gây ảnh hưởng đến tim, mạch...' - 'quá liều' ở đây là bổ ngữ cách dùng thuốc, không phải chẩn đoán ngộ độc. Span cắt rời khỏi 'sử dụng thuốc quá liều'. Mã T50.9 gán bừa.",
+   "severity": "medium"
+  },
+  {
+   "surface": "lipid",
+   "reason": "doc26 pos 459 'Lắng đọng lipid → hình thành mảng xơ vữa' - lipid là CHẤT trong cơ chế bệnh sinh, không phải tên xét nghiệm. (Lần thứ hai pos 2214 'Kiểm soát HA – đường huyết – lipid' thì tạm chấp nhận được, nhưng lại bị gán isHistorical sai; tổng thể rủi ro > lợi.)",
+   "severity": "medium"
+  },
+  {
+   "surface": "cân nặng",
+   "reason": "doc26: 'Giữ cân nặng hợp lý' - lời khuyên lối sống, không phải chỉ định đo/xét nghiệm. Kèm isHistorical bịa.",
+   "severity": "medium"
+  },
+  {
+   "surface": "vi khuẩn",
+   "reason": "doc27: 'có thể do nhiễm vi khuẩn nặng'. Gán TÊN_XÉT_NGHIỆM là sai hoàn toàn - đây là tác nhân gây bệnh chung chung, không phải xét nghiệm, cũng không có tên loài cụ thể.",
+   "severity": "high"
+  },
+  {
+   "surface": "thuốc kháng sinh",
+   "reason": "doc27: nhóm thuốc chung chung (đúng cạm bẫy đề bài nêu), lại còn THIẾU HẲN trường candidates trong khi nhãn THUỐC bắt buộc có mã RxNorm => mất luôn 0.4 candidates. Ngữ cảnh 'thuốc kháng sinh không đáp ứng' là bàn luận chung, không phải thuốc kê cho bệnh nhân.",
+   "severity": "high"
+  },
+  {
+   "surface": "áp-xe nhỏ",
+   "reason": "doc27: ranh giới sai - 'nhỏ' là tính từ kích thước ('áp-xe nhỏ (<2cm)'). Baseline đã kiểm chứng luôn cắt 'áp xe phổi'/'áp-xe phổi'/'Áp xe phổi', không bao giờ kèm tính từ kích thước.",
+   "severity": "medium"
+  },
+  {
+   "surface": "ổ áp xe",
+   "reason": "doc27: span dính tiền tố 'ổ'. Baseline chuẩn cắt 'áp xe phổi' ở 4 vị trí khác. Ranh giới lệch => 0 điểm cả 3 metric.",
+   "severity": "medium"
+  },
+  {
+   "surface": "lympho T",
+   "reason": "doc28: tên LOẠI TẾ BÀO ('xâm nhập của tế bào một nhân kết hợp với lympho T và đại thực bào'), gán TÊN_XÉT_NGHIỆM là sai bản chất. Không phải xét nghiệm, không phải chẩn đoán hình ảnh, không phải thủ thuật.",
+   "severity": "high"
+  },
+  {
+   "surface": "thoát bọng",
+   "reason": "doc28: 'các mức độ thoát bọng khác nhau' - cụm mô tả mô học lệch chuẩn (dịch lỗi của 'thoát hạt/degranulation'), không phải một giá trị/kết luận xét nghiệm.",
+   "severity": "medium"
+  },
+  {
+   "surface": "nhiệt độ",
+   "reason": "doc29: 'nhiệt độ cao nhất khoảng 38,3°C'. Thân nhiệt là dấu hiệu sinh tồn, không thuộc định nghĩa TÊN_XÉT_NGHIỆM (xét nghiệm / CĐHA / thủ thuật). Baseline đã đánh 'sốt' ngay trước đó.",
+   "severity": "medium"
+  },
+  {
+   "surface": "lợi tiểu",
+   "reason": "doc29: nhóm thuốc chung chung + ranh giới cụt ('không đáp ứng đáng kể với điều trị lợi tiểu' - span cắt rời khỏi 'điều trị lợi tiểu'). Mã RxNorm 4603 (furosemide) gán cho cả nhóm là sai.",
+   "severity": "medium"
+  },
+  {
+   "surface": "tật bẩm sinh",
+   "reason": "doc29: 'đây là tật bẩm sinh không ảnh hưởng nhiều' - cụm mô tả chung chung, đại từ trỏ lại 'bệnh bàn chân bẹt' mà baseline đã đánh ở [1700,1717]. Mã Q89.9 vô nghĩa lâm sàng.",
+   "severity": "medium"
+  },
+  {
+   "surface": "khám lâm sàng",
+   "reason": "doc29: 'khám lâm sàng để đánh giá các thiếu hụt về phần mềm' - danh mục chung, không phải một xét nghiệm/thủ thuật cụ thể.",
+   "severity": "medium"
+  },
+  {
+   "surface": "mô bệnh học",
+   "reason": "doc30: dùng như tính ngữ trong 'Tổ thương mô bệnh học chủ yếu là...'. Không phải chỉ định xét nghiệm. Bất nhất: tài liệu song sinh doc28 có câu y hệt nhưng V9 KHÔNG thêm khái niệm này. Thêm isHistorical bịa.",
+   "severity": "medium"
+  },
+  {
+   "surface": "xâm nhập của tế bào một nhân",
+   "reason": "doc30: cụm mô tả dài lê thê trong đoạn giáo dục về mô bệnh học của mày đay, không phải kết quả xét nghiệm của bệnh nhân. isHistorical bịa.",
+   "severity": "high"
+  },
+  {
+   "surface": "đại thực bào",
+   "reason": "doc30: tên loại tế bào, gán TÊN_XÉT_NGHIỆM sai bản chất (giống lỗi 'lympho T' ở doc28). isHistorical bịa.",
+   "severity": "high"
+  },
+  {
+   "surface": "sợi fibrin",
+   "reason": "doc30: nằm trong câu đã bị lỗi OCR nặng ('quảng cáo thiết bị thương mại miễn phí dịch sinh học không tìm thấy hình ảnh...'), lại là thành phần mô chứ không phải kết luận xét nghiệm. Nếu có thì phải isNegated, nhưng lại gán isHistorical.",
+   "severity": "medium"
+  },
+  {
+   "surface": "buồn ngủ",
+   "reason": "doc30: 'thể hệ sau không gây buồn ngủ' - tác dụng phụ của nhóm thuốc trong lời khuyên chung, đang bị phủ định nhưng gán isHistorical thay vì isNegated. Bất nhất: doc28 có câu y hệt nhưng V9 không thêm.",
+   "severity": "medium"
+  },
+  {
+   "surface": "ung thư",
+   "reason": "doc21: 'bệnh thoái hóa tinh bột KHÔNG được xếp thành một loại ung thư' - nhắc chung chung trong câu phủ định định nghĩa, lại để assertions rỗng (thiếu isNegated). Mã C80 là mã rác. Baseline đã đánh 'đa u tủy' và 'ung thư máu' - phần có giá trị đã được lấy.",
+   "severity": "medium"
+  }
+ ],
+ "retype": [
+  {
+   "surface": "viên sỏi 4mm",
+   "current_type": "CHẨN_ĐOÁN",
+   "correct_type": "KẾT_QUẢ_XÉT_NGHIỆM"
+  },
+  {
+   "surface": "sung huyết đỏ",
+   "current_type": "TRIỆU_CHỨNG",
+   "correct_type": "KẾT_QUẢ_XÉT_NGHIỆM"
+  },
+  {
+   "surface": "túi mật giãn nở",
+   "current_type": "TRIỆU_CHỨNG",
+   "correct_type": "KẾT_QUẢ_XÉT_NGHIỆM"
+  },
+  {
+   "surface": "Thành thất trái dày",
+   "current_type": "TRIỆU_CHỨNG",
+   "correct_type": "KẾT_QUẢ_XÉT_NGHIỆM"
+  },
+  {
+   "surface": "Phổi thông khí đều",
+   "current_type": "TRIỆU_CHỨNG",
+   "correct_type": "KẾT_QUẢ_XÉT_NGHIỆM"
+  },
+  {
+   "surface": "vi khuẩn",
+   "current_type": "TÊN_XÉT_NGHIỆM",
+   "correct_type": "KẾT_QUẢ_XÉT_NGHIỆM"
+  },
+  {
+   "surface": "lên cao",
+   "current_type": "KẾT_QUẢ_XÉT_NGHIỆM",
+   "correct_type": "TRIỆU_CHỨNG"
+  },
+  {
+   "surface": "huyết khối",
+   "current_type": "CHẨN_ĐOÁN",
+   "correct_type": "TÊN_XÉT_NGHIỆM"
+  },
+  {
+   "surface": "túi mật giãn nở",
+   "current_type": "TRIỆU_CHỨNG",
+   "correct_type": "KẾT_QUẢ_XÉT_NGHIỆM"
+  }
+ ]
+}

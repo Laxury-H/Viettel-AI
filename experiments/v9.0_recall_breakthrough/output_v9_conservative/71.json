@@ -1,0 +1,144 @@
+[
+  {
+    "text": "trầm cảm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      106,
+      114
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "F32.9"
+    ]
+  },
+  {
+    "text": "ý định tự tử",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      146,
+      158
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "thuyên tắc phổi hai bên",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      319,
+      342
+    ],
+    "assertions": [],
+    "candidates": [
+      "I26.9"
+    ]
+  },
+  {
+    "text": "nhiễm trùng chi dưới bên phải",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      346,
+      375
+    ],
+    "assertions": [],
+    "candidates": [
+      "L08.9"
+    ]
+  },
+  {
+    "text": "vancomycin",
+    "type": "THUỐC",
+    "position": [
+      398,
+      408
+    ],
+    "assertions": [],
+    "candidates": [
+      "11124"
+    ]
+  },
+  {
+    "text": "nổi mẩn ở vùng lưng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      632,
+      651
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nổi mẩn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      691,
+      698
+    ],
+    "assertions": []
+  },
+  {
+    "text": "viêm nang lông",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      914,
+      928
+    ],
+    "assertions": [],
+    "candidates": [
+      "L73.9"
+    ]
+  },
+  {
+    "text": "nổi mẩn vùng lưng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1064,
+      1081
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nổi mẩn đỏ ngứa ở lưng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1171,
+      1193
+    ],
+    "assertions": []
+  },
+  {
+    "text": "suy giảm chức năng gan",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1387,
+      1409
+    ],
+    "assertions": [],
+    "candidates": [
+      "K72.9"
+    ]
+  },
+  {
+    "text": "nổi mề đay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1411,
+      1421
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh vảy nến",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1423,
+      1435
+    ],
+    "assertions": [],
+    "candidates": [
+      "L40.9"
+    ]
+  }
+]

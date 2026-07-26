@@ -1,0 +1,244 @@
+[
+  {
+    "text": "đau vùng xương bánh chè – đùi phải",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      73,
+      107
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      202,
+      218
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Đau bánh chè đùi phải",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      434,
+      455
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      495,
+      498
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      499,
+      502
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau đầu gối phải",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      609,
+      625
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      626,
+      633
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Siêu âm Doppler tim, van tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      728,
+      756
+    ],
+    "assertions": []
+  },
+  {
+    "text": "EF BP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      821,
+      826
+    ],
+    "assertions": []
+  },
+  {
+    "text": "28%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      828,
+      831
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Hở hai lá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      834,
+      843
+    ],
+    "assertions": [],
+    "candidates": [
+      "I34.0"
+    ]
+  },
+  {
+    "text": "Hở chủ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      849,
+      855
+    ],
+    "assertions": [],
+    "candidates": [
+      "I35.1"
+    ]
+  },
+  {
+    "text": "Hở ba lá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      861,
+      869
+    ],
+    "assertions": [],
+    "candidates": [
+      "I36.1"
+    ]
+  },
+  {
+    "text": "giảm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      921,
+      925
+    ],
+    "assertions": []
+  },
+  {
+    "text": "FAC",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      927,
+      930
+    ],
+    "assertions": []
+  },
+  {
+    "text": "30%",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      932,
+      935
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tăng áp lực động mạch phổi",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      938,
+      964
+    ],
+    "assertions": [],
+    "candidates": [
+      "I27.2"
+    ]
+  },
+  {
+    "text": "Chụp Xquang ngực thẳng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      972,
+      994
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bóng tim to",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1005,
+      1016
+    ],
+    "assertions": [],
+    "candidates": [
+      "I51.7"
+    ]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1029,
+      1036
+    ],
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "suy thận mạn giai đoạn 5",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1039,
+      1063
+    ],
+    "assertions": [],
+    "candidates": [
+      "N18.5"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1063,
+      1076
+    ],
+    "assertions": [],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "x-quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1409,
+      1416
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1514,
+      1534
+    ],
+    "assertions": []
+  }
+]

@@ -1,26 +1,5 @@
 [
   {
-    "text": "lắp chân giả",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      22,
-      34
-    ],
-    "assertions": []
-  },
-  {
-    "text": "chấn thương",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      124,
-      135
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
     "text": "MÀY đay VÔ CĂN",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -45,33 +24,13 @@
     ]
   },
   {
-    "text": "mô bệnh học",
+    "text": "tế bào một nhân",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      388,
-      399
+      435,
+      450
     ],
     "assertions": []
-  },
-  {
-    "text": "kính hiển thị vi quang học",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      532,
-      558
-    ],
-    "assertions": []
-  },
-  {
-    "text": "kính hiển thị vi điện tử",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      585,
-      609
-    ],
-    "assertions": [
-      "isFamily"
-    ]
   },
   {
     "text": "bệnh lý mày đay vô căn",
@@ -83,18 +42,6 @@
     "assertions": [],
     "candidates": [
       "L50.1"
-    ]
-  },
-  {
-    "text": "buồn ngủ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1280,
-      1288
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
     ]
   }
 ]

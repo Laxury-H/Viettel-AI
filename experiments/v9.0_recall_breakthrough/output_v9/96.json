@@ -30,15 +30,6 @@
     ]
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      181,
-      199
-    ],
-    "assertions": []
-  },
-  {
     "text": "chụp cắt lớp vi tính",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -102,9 +93,7 @@
       1301,
       1310
     ],
-    "assertions": [
-      "isNegated"
-    ],
+    "assertions": [],
     "candidates": [
       "1151"
     ]

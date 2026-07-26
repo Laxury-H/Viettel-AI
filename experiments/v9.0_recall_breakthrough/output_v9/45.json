@@ -6,10 +6,7 @@
       110,
       130
     ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ct",
@@ -58,18 +55,27 @@
     ]
   },
   {
-    "text": "não úng thuỷ",
+    "text": "não úng thuỷ khác",
     "type": "CHẨN_ĐOÁN",
     "position": [
       388,
-      400
+      405
     ],
     "assertions": [
       "isHistorical"
     ],
     "candidates": [
-      "G91.9"
+      "G91.8"
     ]
+  },
+  {
+    "text": "Phẫu thuật đặt cảng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      466,
+      485
+    ],
+    "assertions": []
   },
   {
     "text": "tăng nhãn áp",
@@ -133,9 +139,7 @@
       902,
       919
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "não úng thủy",
@@ -180,9 +184,7 @@
       1124,
       1138
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "phù gai thị",
@@ -242,9 +244,7 @@
       1421,
       1437
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "TQ",
@@ -394,9 +394,7 @@
       1792,
       1812
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ct",

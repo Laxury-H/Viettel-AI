@@ -105,9 +105,7 @@
       275,
       302
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "xuất huyết dưới nhện",
@@ -131,17 +129,6 @@
     "assertions": [],
     "candidates": [
       "S06.30"
-    ]
-  },
-  {
-    "text": "lớp dịch dưới màng cứng",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      419,
-      442
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {
@@ -196,17 +183,6 @@
     "assertions": [],
     "candidates": [
       "S06.4"
-    ]
-  },
-  {
-    "text": "tổn thương mạn tính",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      798,
-      817
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {
@@ -288,9 +264,7 @@
       1596,
       1610
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ý thức dao động",
@@ -299,9 +273,7 @@
       1694,
       1709
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "run giật tay chân",
@@ -402,26 +374,6 @@
     "assertions": []
   },
   {
-    "text": "bệnh nhân tỉnh",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      2236,
-      2250
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Khám lâm sàng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2323,
-      2336
-    ],
-    "assertions": []
-  },
-  {
     "text": "mất định hướng",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -481,15 +433,6 @@
     "position": [
       2518,
       2520
-    ],
-    "assertions": []
-  },
-  {
-    "text": "thuốc cản quang",
-    "type": "THUỐC",
-    "position": [
-      2589,
-      2604
     ],
     "assertions": []
   },
@@ -626,15 +569,6 @@
     ]
   },
   {
-    "text": "Lớp dịch dưới màng cứng",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      3041,
-      3064
-    ],
-    "assertions": []
-  },
-  {
     "text": "nang màng nhện",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -669,14 +603,5 @@
     "candidates": [
       "S06.4"
     ]
-  },
-  {
-    "text": "tổn thương mạn tính",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      3197,
-      3216
-    ],
-    "assertions": []
   }
 ]

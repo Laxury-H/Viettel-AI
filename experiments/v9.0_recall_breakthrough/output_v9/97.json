@@ -62,9 +62,7 @@
       153,
       167
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "u dây thần kinh số VIII",
@@ -87,9 +85,7 @@
       259,
       283
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Sinh thiết",
@@ -115,15 +111,6 @@
     "position": [
       396,
       416
-    ],
-    "assertions": []
-  },
-  {
-    "text": "khó chịu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      439,
-      447
     ],
     "assertions": []
   },
@@ -257,6 +244,15 @@
     "assertions": []
   },
   {
+    "text": "24.6 -32.5 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      983,
+      1000
+    ],
+    "assertions": []
+  },
+  {
     "text": "photpho",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -275,20 +271,20 @@
     "assertions": []
   },
   {
-    "text": "ước ghép ",
+    "text": "ghép thận",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      1097,
-      1106
+      1101,
+      1110
     ],
     "assertions": []
   },
   {
-    "text": "oãn ghép ",
+    "text": "ghép thận",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      1122,
-      1131
+      1126,
+      1135
     ],
     "assertions": []
   },
@@ -305,11 +301,11 @@
     ]
   },
   {
-    "text": "đầu chạy thận nhân",
+    "text": "chạy thận nhân tạo",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
-      1291,
-      1309
+      1295,
+      1313
     ],
     "assertions": []
   }

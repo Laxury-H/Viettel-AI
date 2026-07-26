@@ -1,0 +1,550 @@
+[
+  {
+    "text": "Bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      3,
+      16
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "Bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      25,
+      38
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      53,
+      56
+    ],
+    "assertions": []
+  },
+  {
+    "text": "phát ban toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      84,
+      102
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      274,
+      282
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "viêm tim",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      555,
+      563
+    ],
+    "assertions": [],
+    "candidates": [
+      "I51.8"
+    ]
+  },
+  {
+    "text": "phình giãn động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      565,
+      590
+    ],
+    "assertions": [],
+    "candidates": [
+      "I25.4"
+    ]
+  },
+  {
+    "text": "nhồi máu cơ tim",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      600,
+      615
+    ],
+    "assertions": [],
+    "candidates": [
+      "I21.9"
+    ]
+  },
+  {
+    "text": "hẹp tắc mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      622,
+      639
+    ],
+    "assertions": [],
+    "candidates": [
+      "I25.1"
+    ]
+  },
+  {
+    "text": "suy tim",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      644,
+      651
+    ],
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
+    "text": "Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      670,
+      678
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "bệnh viêm mạch máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      682,
+      700
+    ],
+    "assertions": [],
+    "candidates": [
+      "I77.6"
+    ]
+  },
+  {
+    "text": "bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      775,
+      788
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1336,
+      1349
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1423,
+      1426
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Sốt cao kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1439,
+      1454
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1458,
+      1461
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1509,
+      1512
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Mắt đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1534,
+      1540
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Viêm kết mạc",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1544,
+      1556
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Môi đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1619,
+      1625
+    ],
+    "assertions": []
+  },
+  {
+    "text": "rỉ máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1639,
+      1645
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Lưỡi đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1650,
+      1657
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Họng đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1674,
+      1681
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tổn thương ở đầu chi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1686,
+      1706
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Sưng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1710,
+      1714
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đỏ mu bàn tay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1716,
+      1729
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Đỏ gan bàn tay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1741,
+      1755
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bong da đầu ngón tay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1767,
+      1787
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ban đỏ toàn thân",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1827,
+      1843
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ban dạng đa hình",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1847,
+      1863
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh đa xơ cứng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1916,
+      1931
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "G35"
+    ]
+  },
+  {
+    "text": "Ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1971,
+      1978
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Công thức máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2042,
+      2055
+    ],
+    "assertions": []
+  },
+  {
+    "text": "CRP",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2057,
+      2060
+    ],
+    "assertions": []
+  },
+  {
+    "text": "máu lắng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2062,
+      2070
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Men gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2074,
+      2081
+    ],
+    "assertions": []
+  },
+  {
+    "text": "albumin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2083,
+      2090
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Xét nghiệm nước tiểu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2094,
+      2114
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Cấy máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2118,
+      2125
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dịch hầu họng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2127,
+      2140
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Siêu âm tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2144,
+      2155
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ECG",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2204,
+      2207
+    ],
+    "assertions": []
+  },
+  {
+    "text": "điện tâm đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2208,
+      2219
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2233,
+      2246
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "ASA",
+    "type": "THUỐC",
+    "position": [
+      2543,
+      2546
+    ],
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "siêu âm tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2841,
+      2852
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      3036,
+      3044
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "Bệnh Kawasaki",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      3407,
+      3420
+    ],
+    "assertions": [],
+    "candidates": [
+      "M30.3"
+    ]
+  },
+  {
+    "text": "sốt cao kéo dài",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3550,
+      3565
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đỏ mắt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3587,
+      3593
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3595,
+      3601
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lưỡi đỏ dâu tây",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3617,
+      3632
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sưng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3638,
+      3642
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hạch cổ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3643,
+      3650
+    ],
+    "assertions": []
+  }
+]

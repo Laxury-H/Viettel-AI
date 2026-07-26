@@ -42,24 +42,6 @@
     ]
   },
   {
-    "text": " có con thì ",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      250,
-      264
-    ],
-    "assertions": []
-  },
-  {
-    "text": "áo nay để bác s",
-    "type": "THUỐC",
-    "position": [
-      288,
-      304
-    ],
-    "assertions": []
-  },
-  {
     "text": "thrombophilia",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -69,17 +51,6 @@
     "assertions": [],
     "candidates": [
       "D68.5"
-    ]
-  },
-  {
-    "text": "̉a người bệnh ",
-    "type": "THUỐC",
-    "position": [
-      472,
-      488
-    ],
-    "assertions": [
-      "isNegated"
     ]
   },
   {
@@ -105,15 +76,6 @@
     "candidates": [
       "D68.5"
     ]
-  },
-  {
-    "text": "tránh tình trạng",
-    "type": "THUỐC",
-    "position": [
-      961,
-      977
-    ],
-    "assertions": []
   },
   {
     "text": "sẩy thai",
@@ -146,6 +108,30 @@
     ]
   },
   {
+    "text": "thuốc chống đông",
+    "type": "THUỐC",
+    "position": [
+      1036,
+      1052
+    ],
+    "assertions": [],
+    "candidates": [
+      "67108"
+    ]
+  },
+  {
+    "text": "Thuốc chống đông",
+    "type": "THUỐC",
+    "position": [
+      1062,
+      1078
+    ],
+    "assertions": [],
+    "candidates": [
+      "67108"
+    ]
+  },
+  {
     "text": "ra máu bất thường",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -164,25 +150,16 @@
     "assertions": []
   },
   {
-    "text": "ủa bạn c",
+    "text": "tắc mạch",
     "type": "CHẨN_ĐOÁN",
     "position": [
-      1345,
-      1353
+      1420,
+      1428
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
+    "assertions": [],
+    "candidates": [
+      "I74.9"
     ]
-  },
-  {
-    "text": "ch d",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1426,
-      1430
-    ],
-    "assertions": []
   },
   {
     "text": "cục máu đông",
@@ -194,5 +171,14 @@
     "assertions": [
       "isFamily"
     ]
+  },
+  {
+    "text": "đặt shunt dẫn lưu tĩnh mạch cửa qua da",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1478,
+      1516
+    ],
+    "assertions": []
   }
 ]

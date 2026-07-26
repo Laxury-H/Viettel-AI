@@ -248,9 +248,7 @@
       1423,
       1445
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "buồn nôn",
@@ -301,9 +299,7 @@
       1655,
       1665
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ngoại tâm thu nhĩ",
@@ -353,17 +349,6 @@
     ],
     "candidates": [
       "1202"
-    ]
-  },
-  {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1907,
-      1911
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {
@@ -478,15 +463,6 @@
     "assertions": []
   },
   {
-    "text": "khám lâm sàng",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2462,
-      2475
-    ],
-    "assertions": []
-  },
-  {
     "text": "Viêm gan cấp tính do virus B thể thông thường điển hình mức độ nặng giai đoạn toàn phát",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -515,18 +491,6 @@
       2675
     ],
     "assertions": []
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2688,
-      2706
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
   },
   {
     "text": "chụp x-quang ngực",
@@ -580,10 +544,7 @@
       2860,
       2870
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "ngoại tâm thu nhĩ",

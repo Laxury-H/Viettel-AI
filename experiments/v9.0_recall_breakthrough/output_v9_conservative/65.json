@@ -1,0 +1,137 @@
+[
+  {
+    "text": "rụng tóc từng mảng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      35,
+      53
+    ],
+    "assertions": [],
+    "candidates": [
+      "L63.9"
+    ]
+  },
+  {
+    "text": "rụng tóc từng vùng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      404,
+      422
+    ],
+    "assertions": [],
+    "candidates": [
+      "L63.9"
+    ]
+  },
+  {
+    "text": "rụng tóc toàn bộ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      713,
+      729
+    ],
+    "assertions": [],
+    "candidates": [
+      "L63.0"
+    ]
+  },
+  {
+    "text": "rụng tóc toàn thể",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      735,
+      752
+    ],
+    "assertions": [],
+    "candidates": [
+      "L63.1"
+    ]
+  },
+  {
+    "text": "Nghiệm pháp gắng sức",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      962,
+      982
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dương tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      983,
+      993
+    ],
+    "assertions": []
+  },
+  {
+    "text": "thiếu máu cơ tim cục bộ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      998,
+      1021
+    ],
+    "assertions": [],
+    "candidates": [
+      "I25.9"
+    ]
+  },
+  {
+    "text": "ST chênh xuống",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1033,
+      1047
+    ],
+    "assertions": []
+  },
+  {
+    "text": "viêm da tiếp xúc dị ứng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1221,
+      1244
+    ],
+    "assertions": [],
+    "candidates": [
+      "L23.9"
+    ]
+  },
+  {
+    "text": "viêm da tiếp xúc",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1349,
+      1365
+    ],
+    "assertions": [],
+    "candidates": [
+      "L25.9"
+    ]
+  },
+  {
+    "text": "mày đay",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1367,
+      1374
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "bạch biến",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1402,
+      1411
+    ],
+    "assertions": [],
+    "candidates": [
+      "L80"
+    ]
+  }
+]

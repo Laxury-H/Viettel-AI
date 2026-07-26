@@ -141,15 +141,6 @@
     "assertions": []
   },
   {
-    "text": "2L/ph",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      564,
-      569
-    ],
-    "assertions": []
-  },
-  {
     "text": "Tim nhịp không đều",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -159,52 +150,22 @@
     "assertions": []
   },
   {
-    "text": "tần số",
-    "type": "TÊN_XÉT_NGHIỆM",
+    "text": "105 chu  kì/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
-      591,
-      597
+      598,
+      614
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
-    "text": "T1, T2 rõ",
-    "type": "TRIỆU_CHỨNG",
+    "text": "110/70  mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
-      616,
-      625
+      663,
+      675
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "không có tiếng tim bệnh lí",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      627,
-      653
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "Huyết áp",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      654,
-      662
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
+    "assertions": []
   },
   {
     "text": "rì rào phế nang giảm",
@@ -213,43 +174,7 @@
       682,
       702
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "không có tiếng rales bệnh lí",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      704,
-      732
-    ],
     "assertions": []
-  },
-  {
-    "text": "Bụng mềm",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      733,
-      741
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "không chướng",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      743,
-      755
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
   },
   {
     "text": "đau",
@@ -263,18 +188,6 @@
     ]
   },
   {
-    "text": "gan lách không sờ thấy",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      776,
-      798
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
     "text": "phù",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -283,18 +196,6 @@
     ],
     "assertions": [
       "isNegated"
-    ]
-  },
-  {
-    "text": "tiểu được",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      811,
-      820
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
     ]
   },
   {
@@ -358,24 +259,6 @@
     ]
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      958,
-      976
-    ],
-    "assertions": []
-  },
-  {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      983,
-      1001
-    ],
-    "assertions": []
-  },
-  {
     "text": "chụp x-quang ngực",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -409,9 +292,7 @@
       1144,
       1164
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "xét nghiệm máu",

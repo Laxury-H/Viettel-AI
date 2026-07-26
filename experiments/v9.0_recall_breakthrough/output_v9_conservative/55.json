@@ -1,0 +1,189 @@
+[
+  {
+    "text": "160/70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      89,
+      100
+    ],
+    "assertions": []
+  },
+  {
+    "text": "170/60 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      123,
+      134
+    ],
+    "assertions": []
+  },
+  {
+    "text": "150/60 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      159,
+      170
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hồi hợp",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      197,
+      204
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cảm giác rợn người",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      206,
+      224
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cảm giác rợn người",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      427,
+      445
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hồi hộp",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      447,
+      454
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tim đập rất mạnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      470,
+      486
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Suy thận mạn giai đoạn V",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      910,
+      934
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N18.5"
+    ]
+  },
+  {
+    "text": "đái tháo đường",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      938,
+      952
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      956,
+      969
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "u ác của tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      976,
+      1000
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C61"
+    ]
+  },
+  {
+    "text": "u dây thần kinh số VIII",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1090,
+      1113
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "D33.3"
+    ]
+  },
+  {
+    "text": "Đặt shunt động tĩnh mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1121,
+      1145
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1179,
+      1189
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1249,
+      1256
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mất trí nhớ chi tiết",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1258,
+      1278
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1376,
+      1381
+    ],
+    "assertions": []
+  }
+]

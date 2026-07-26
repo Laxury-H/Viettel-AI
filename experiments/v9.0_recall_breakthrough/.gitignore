@@ -1,0 +1,7 @@
+# Bản giải nén của bài nền 41.9973 điểm — build_all.py tự sinh lại từ output.zip
+_baseline/
+
+# File nháp do agent ghi ra trong quá trình khai thác, đã được gộp vào deep_raw.json
+agentF_additions_*.json
+__pycache__/
+*.pyc

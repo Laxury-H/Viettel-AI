@@ -45,8 +45,9 @@
       280,
       301
     ],
-    "assertions": [
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "7052"
     ]
   },
   {
@@ -83,9 +84,7 @@
       447,
       465
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "buồn nôn",
@@ -166,43 +165,7 @@
       659,
       679
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "1800 ml",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      683,
-      690
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "300 ml",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      701,
-      707
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "350 ml",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      782,
-      788
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "amyloidosis di truyền hoặc gia đình",
@@ -226,18 +189,6 @@
     "assertions": [],
     "candidates": [
       "E85.9"
-    ]
-  },
-  {
-    "text": "bệnh đa hệ thống",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      934,
-      950
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
     ]
   },
   {
@@ -358,8 +309,9 @@
       1477,
       1498
     ],
-    "assertions": [
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "7052"
     ]
   },
   {
@@ -369,8 +321,9 @@
       1511,
       1532
     ],
-    "assertions": [
-      "isHistorical"
+    "assertions": [],
+    "candidates": [
+      "7052"
     ]
   }
 ]

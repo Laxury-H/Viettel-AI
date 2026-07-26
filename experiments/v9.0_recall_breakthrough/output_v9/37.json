@@ -105,17 +105,6 @@
       1323,
       1345
     ],
-    "assertions": [
-      "isFamily"
-    ]
-  },
-  {
-    "text": "chỉ nghe một bên",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1494,
-      1510
-    ],
     "assertions": []
   },
   {

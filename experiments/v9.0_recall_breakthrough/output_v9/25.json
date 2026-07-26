@@ -45,7 +45,22 @@
       801,
       821
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "N85.8"
+    ]
+  },
+  {
+    "text": "không rụng trứng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      823,
+      839
+    ],
+    "assertions": [],
+    "candidates": [
+      "N97.0"
+    ]
   },
   {
     "text": "vô sinh",
@@ -84,15 +99,6 @@
     ]
   },
   {
-    "text": "mạch",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1101,
-      1105
-    ],
-    "assertions": []
-  },
-  {
     "text": "mụn trứng cá",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -123,7 +129,10 @@
       1257,
       1263
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "L81.4"
+    ]
   },
   {
     "text": "bồn chồn",
@@ -158,15 +167,6 @@
     "position": [
       1361,
       1374
-    ],
-    "assertions": []
-  },
-  {
-    "text": "lãnh cảm",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1376,
-      1384
     ],
     "assertions": []
   },

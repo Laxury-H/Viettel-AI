@@ -74,17 +74,6 @@
     "assertions": []
   },
   {
-    "text": "NYHA III-IV",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      208,
-      219
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "mệt mỏi",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -146,9 +135,7 @@
       329,
       344
     ],
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
       "Z95.5"
     ]
@@ -187,40 +174,6 @@
     "assertions": []
   },
   {
-    "text": "Glasgow",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      451,
-      458
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "15 điểm",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      460,
-      467
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "Da niêm mạc hồng",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      469,
-      485
-    ],
-    "assertions": [
-      "isNegated",
-      "isHistorical"
-    ]
-  },
-  {
     "text": "phù",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -243,65 +196,13 @@
     ]
   },
   {
-    "text": "Tim đều",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      509,
-      516
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
     "text": "TTT ở mỏm 3/6",
     "type": "TRIỆU_CHỨNG",
     "position": [
       517,
       530
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "82 ck/ph",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      535,
-      543
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "160/ 80 mmHg",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      549,
-      561
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "RRPN rõ",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      568,
-      575
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "rale ẩm",
@@ -313,40 +214,13 @@
     "assertions": []
   },
   {
-    "text": "Bụng mềm",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      586,
-      594
-    ],
-    "assertions": [
-      "isNegated",
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "không chướng",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      595,
-      607
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "Khí máu",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
       624,
       631
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Lactat",
@@ -445,9 +319,7 @@
       703,
       734
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "không biến đổi ST-T",
@@ -456,9 +328,7 @@
       755,
       774
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Lactat",
@@ -566,47 +436,19 @@
       909,
       947
     ],
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
       "I25.3"
     ]
   },
   {
-    "text": "Giảm vận động",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      949,
-      962
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
     "text": "Thành thất trái dày",
-    "type": "TRIỆU_CHỨNG",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
       1022,
       1041
     ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "chức năng tâm thu thất trái bảo tồn",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1071,
-      1106
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily",
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "EF BP",
@@ -693,9 +535,7 @@
       1217,
       1232
     ],
-    "assertions": [
-      "isHistorical"
-    ],
+    "assertions": [],
     "candidates": [
       "Z95.5"
     ]
@@ -731,9 +571,7 @@
       1316,
       1340
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "Sinh thiết",
@@ -759,15 +597,6 @@
     "position": [
       1453,
       1473
-    ],
-    "assertions": []
-  },
-  {
-    "text": "khó chịu",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      1496,
-      1504
     ],
     "assertions": []
   },

@@ -36,15 +36,6 @@
     ]
   },
   {
-    "text": "suy các cơ quan",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      713,
-      728
-    ],
-    "assertions": []
-  },
-  {
     "text": "Bệnh bạch cầu dòng tủy mãn tính",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -251,9 +242,7 @@
       1313,
       1323
     ],
-    "assertions": [
-      "isHistorical"
-    ]
+    "assertions": []
   },
   {
     "text": "ảo giác",
@@ -394,18 +383,6 @@
     ]
   },
   {
-    "text": "bệnh đa hệ thống",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1784,
-      1800
-    ],
-    "assertions": [
-      "isFamily",
-      "isHistorical"
-    ]
-  },
-  {
     "text": "amyloidosis",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -427,28 +404,6 @@
     "assertions": [],
     "candidates": [
       "E85.9"
-    ]
-  },
-  {
-    "text": "hóa trị",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2106,
-      2113
-    ],
-    "assertions": [
-      "isHistorical"
-    ]
-  },
-  {
-    "text": "ghép gan",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      2115,
-      2123
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   }
 ]

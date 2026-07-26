@@ -202,8 +202,7 @@
       755
     ],
     "assertions": [
-      "isNegated",
-      "isFamily"
+      "isNegated"
     ],
     "candidates": [
       "N20.0"
@@ -216,10 +215,7 @@
       777,
       790
     ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ],
+    "assertions": [],
     "candidates": [
       "N05.9"
     ]
@@ -460,15 +456,6 @@
     ]
   },
   {
-    "text": "tổn thương mạn tính",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1165,
-      1184
-    ],
-    "assertions": []
-  },
-  {
     "text": "protein niệu 24h",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -503,30 +490,6 @@
       1337
     ],
     "assertions": []
-  },
-  {
-    "text": "lipid",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1430,
-      1435
-    ],
-    "assertions": [
-      "isNegated",
-      "isFamily"
-    ]
-  },
-  {
-    "text": "VCTM",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1504,
-      1508
-    ],
-    "assertions": [],
-    "candidates": [
-      "N03.9"
-    ]
   },
   {
     "text": "phù",
@@ -595,17 +558,6 @@
     "assertions": [],
     "candidates": [
       "E04.1"
-    ]
-  },
-  {
-    "text": "cấu trúc vi nang",
-    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
-    "position": [
-      1865,
-      1881
-    ],
-    "assertions": [
-      "isHistorical"
     ]
   },
   {

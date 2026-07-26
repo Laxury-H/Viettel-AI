@@ -1,25 +1,5 @@
 [
   {
-    "text": "Bệnh nhân tỉnh",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      56,
-      70
-    ],
-    "assertions": []
-  },
-  {
-    "text": "tiếp xúc tốt",
-    "type": "TRIỆU_CHỨNG",
-    "position": [
-      72,
-      84
-    ],
-    "assertions": [
-      "isNegated"
-    ]
-  },
-  {
     "text": "trầm cảm",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -171,7 +151,10 @@
       1387,
       1409
     ],
-    "assertions": []
+    "assertions": [],
+    "candidates": [
+      "K72.9"
+    ]
   },
   {
     "text": "nổi mề đay",

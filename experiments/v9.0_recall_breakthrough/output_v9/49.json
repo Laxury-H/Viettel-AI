@@ -57,15 +57,6 @@
     ]
   },
   {
-    "text": "chẩn đoán hình ảnh",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      377,
-      395
-    ],
-    "assertions": []
-  },
-  {
     "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -99,24 +90,6 @@
     ]
   },
   {
-    "text": "Corticosteroid",
-    "type": "THUỐC",
-    "position": [
-      742,
-      756
-    ],
-    "assertions": []
-  },
-  {
-    "text": "corticoid",
-    "type": "THUỐC",
-    "position": [
-      916,
-      925
-    ],
-    "assertions": []
-  },
-  {
     "text": "rụng tóc toàn bộ",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -141,45 +114,6 @@
     ]
   },
   {
-    "text": "diphenylcyclopropenone",
-    "type": "THUỐC",
-    "position": [
-      1284,
-      1306
-    ],
-    "assertions": []
-  },
-  {
-    "text": "diphencyprone",
-    "type": "THUỐC",
-    "position": [
-      1308,
-      1321
-    ],
-    "assertions": []
-  },
-  {
-    "text": "dinitrochlorobenzene",
-    "type": "THUỐC",
-    "position": [
-      1326,
-      1346
-    ],
-    "assertions": []
-  },
-  {
-    "text": "rụng tóc",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1366,
-      1374
-    ],
-    "assertions": [],
-    "candidates": [
-      "L65.9"
-    ]
-  },
-  {
     "text": "viêm da tiếp xúc dị ứng",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -189,18 +123,6 @@
     "assertions": [],
     "candidates": [
       "L23.9"
-    ]
-  },
-  {
-    "text": "rụng tóc",
-    "type": "CHẨN_ĐOÁN",
-    "position": [
-      1467,
-      1475
-    ],
-    "assertions": [],
-    "candidates": [
-      "L65.9"
     ]
   },
   {
@@ -250,32 +172,5 @@
     "candidates": [
       "L80"
     ]
-  },
-  {
-    "text": "PUVA",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1592,
-      1596
-    ],
-    "assertions": []
-  },
-  {
-    "text": "psoralen",
-    "type": "THUỐC",
-    "position": [
-      1598,
-      1606
-    ],
-    "assertions": []
-  },
-  {
-    "text": "PUVA",
-    "type": "TÊN_XÉT_NGHIỆM",
-    "position": [
-      1620,
-      1624
-    ],
-    "assertions": []
   }
 ]

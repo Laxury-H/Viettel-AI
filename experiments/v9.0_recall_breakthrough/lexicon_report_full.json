@@ -1,0 +1,270 @@
+{
+  "raw_entries": 1277,
+  "kept": 422,
+  "kept_by_type": {
+    "TRIỆU_CHỨNG": 156,
+    "CHẨN_ĐOÁN": 84,
+    "TÊN_XÉT_NGHIỆM": 106,
+    "KẾT_QUẢ_XÉT_NGHIỆM": 57,
+    "THUỐC": 19
+  },
+  "kept_with_codes": 102,
+  "rejected": 443,
+  "rejected_by_reason": {
+    "below_confidence_floor": 172,
+    "numeric_only": 14,
+    "stop_surface": 45,
+    "single_syllable": 46,
+    "too_short": 26,
+    "already_in_baseline": 13,
+    "type_conflict": 9,
+    "not_grounded": 1,
+    "audit_drop": 117
+  },
+  "rejected_samples": [
+    {
+      "surface": "cấy Implanon",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "90-92%",
+      "reason": "numeric_only"
+    },
+    {
+      "surface": "93%",
+      "reason": "numeric_only"
+    },
+    {
+      "surface": "101",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Thuốc giảm đau",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "Corticosteroid",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "corticoid",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "diphenylcyclopropenone",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "diphencyprone",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "dinitrochlorobenzene",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "psoralen",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "B12",
+      "reason": "too_short"
+    },
+    {
+      "surface": "Estrogen",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "rối loạn sản xuất máu",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "dương tính",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "BiPAP",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "kháng sinh",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "Enterococcus kháng vancomycin",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "kháng sinh tĩnh mạch",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "uống nhiều rượu",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "hút cần sa",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "Dị ứng furosemide",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "que thử 2 vạch",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "buồn ngủ",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "mô bệnh học",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "kính hiển thị vi điện tử",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "giảm cân",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "tăng cân trở lại",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "đái tháo đường",
+      "reason": "already_in_baseline"
+    },
+    {
+      "surface": "UTIs",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "vi khuẩn",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "dòng picc đã đặt",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "HA",
+      "reason": "too_short"
+    },
+    {
+      "surface": "chụp chẩn đoán hình ảnh",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "ổ dịch trong ổ bụng",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "ổ dịch sau phẫu thuật",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "ba stent mật kim loại",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "calcium",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "sắt",
+      "reason": "too_short"
+    },
+    {
+      "surface": "kẽm",
+      "reason": "too_short"
+    },
+    {
+      "surface": "cân nặng",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "36.7°c",
+      "reason": "single_syllable"
+    },
+    {
+      "surface": "Huyết áp",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "Mạch",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "100%",
+      "reason": "numeric_only"
+    },
+    {
+      "surface": "88-92 %",
+      "reason": "numeric_only"
+    },
+    {
+      "surface": "chẩn đoán hình ảnh",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "86",
+      "reason": "numeric_only"
+    },
+    {
+      "surface": "khó chịu",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "dị ứng",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "XQ",
+      "reason": "too_short"
+    },
+    {
+      "surface": "SHM",
+      "reason": "too_short"
+    },
+    {
+      "surface": "glucose",
+      "reason": "already_in_baseline"
+    },
+    {
+      "surface": "thấp",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "mang thai",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "bất thường về nhiễm sắc thể",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "khám thai",
+      "reason": "below_confidence_floor"
+    },
+    {
+      "surface": "bình thường",
+      "reason": "stop_surface"
+    },
+    {
+      "surface": "tăng HA",
+      "reason": "already_in_baseline"
+    },
+    {
+      "surface": "căng thẳng",
+      "reason": "already_in_baseline"
+    }
+  ],
+  "codes_backfilled": 31,
+  "min_confidence": "medium",
+  "audit_dropped": 117,
+  "audit_retyped": 7
+}
