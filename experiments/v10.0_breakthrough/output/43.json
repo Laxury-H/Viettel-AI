@@ -176,6 +176,36 @@
     "assertions": []
   },
   {
+    "text": "đi cầu phân sống",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1252,
+      1268
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đi cầu phân sống",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1396,
+      1412
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bacillus clausii",
+    "type": "THUỐC",
+    "position": [
+      1635,
+      1651
+    ],
+    "assertions": [],
+    "candidates": [
+      "2600050"
+    ]
+  },
+  {
     "text": "gleevec",
     "type": "THUỐC",
     "position": [

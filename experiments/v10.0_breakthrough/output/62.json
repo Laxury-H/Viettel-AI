@@ -9,6 +9,15 @@
     "assertions": []
   },
   {
+    "text": "acid uric máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      81,
+      94
+    ],
+    "assertions": []
+  },
+  {
     "text": "ho",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -291,6 +300,24 @@
     "candidates": [
       "214599"
     ]
+  },
+  {
+    "text": "spo2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1307,
+      1311
+    ],
+    "assertions": []
+  },
+  {
+    "text": "spo2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1322,
+      1326
+    ],
+    "assertions": []
   },
   {
     "text": "bạch cầu",

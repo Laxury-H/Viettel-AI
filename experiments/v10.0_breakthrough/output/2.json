@@ -150,6 +150,18 @@
     ]
   },
   {
+    "text": "nhiễm virus",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      959,
+      970
+    ],
+    "assertions": [],
+    "candidates": [
+      "B34.9"
+    ]
+  },
+  {
     "text": "bệnh Kawasaki",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -252,6 +264,15 @@
     "assertions": []
   },
   {
+    "text": "Tổn thương ở đầu chi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1686,
+      1706
+    ],
+    "assertions": []
+  },
+  {
     "text": "Sưng",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -261,11 +282,56 @@
     "assertions": []
   },
   {
+    "text": "đỏ mu bàn tay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1716,
+      1729
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Đỏ gan bàn tay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1741,
+      1755
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bong da đầu ngón tay",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1767,
+      1787
+    ],
+    "assertions": []
+  },
+  {
     "text": "Ban đỏ toàn thân",
     "type": "TRIỆU_CHỨNG",
     "position": [
       1827,
       1843
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ban dạng đa hình",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1847,
+      1863
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mảng đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1877,
+      1884
     ],
     "assertions": []
   },
@@ -458,6 +524,15 @@
     "assertions": []
   },
   {
+    "text": "đỏ mắt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3587,
+      3593
+    ],
+    "assertions": []
+  },
+  {
     "text": "ban đỏ",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -481,6 +556,15 @@
     "position": [
       3638,
       3642
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hạch cổ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3643,
+      3650
     ],
     "assertions": []
   }

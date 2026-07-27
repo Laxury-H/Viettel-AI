@@ -69,6 +69,15 @@
     ]
   },
   {
+    "text": "dẫn lưu dịch màng tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      474,
+      495
+    ],
+    "assertions": []
+  },
+  {
     "text": "rụng tóc từng vùng",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -78,6 +87,30 @@
     "assertions": [],
     "candidates": [
       "L63.9"
+    ]
+  },
+  {
+    "text": "rụng tóc toàn bộ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      948,
+      964
+    ],
+    "assertions": [],
+    "candidates": [
+      "L63.0"
+    ]
+  },
+  {
+    "text": "rụng tóc toàn thể",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      970,
+      987
+    ],
+    "assertions": [],
+    "candidates": [
+      "L63.1"
     ]
   },
   {
@@ -102,6 +135,42 @@
     "assertions": [],
     "candidates": [
       "L25.9"
+    ]
+  },
+  {
+    "text": "mày đay",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1535,
+      1542
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.9"
+    ]
+  },
+  {
+    "text": "bất thường sắc tố",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1544,
+      1561
+    ],
+    "assertions": [],
+    "candidates": [
+      "L81.9"
+    ]
+  },
+  {
+    "text": "bạch biến",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1570,
+      1579
+    ],
+    "assertions": [],
+    "candidates": [
+      "L80"
     ]
   }
 ]

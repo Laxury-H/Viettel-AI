@@ -70,6 +70,24 @@
     ]
   },
   {
+    "text": "85 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      357,
+      368
+    ],
+    "assertions": []
+  },
+  {
+    "text": "XN máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      394,
+      400
+    ],
+    "assertions": []
+  },
+  {
     "text": "Glucose",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -487,6 +505,18 @@
       1543
     ],
     "assertions": []
+  },
+  {
+    "text": "Tăng gánh nhẹ tuần hoàn phổi",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1545,
+      1573
+    ],
+    "assertions": [],
+    "candidates": [
+      "J81"
+    ]
   },
   {
     "text": "tràn dịch màng phổi hai bên",

@@ -108,6 +108,15 @@
     "assertions": []
   },
   {
+    "text": "không thể tự đứng dậy",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1263,
+      1284
+    ],
+    "assertions": []
+  },
+  {
     "text": "yếu sức chân phải",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -131,6 +140,15 @@
     "position": [
       1376,
       1379
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khuỵu chân",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1428,
+      1438
     ],
     "assertions": []
   },
@@ -215,6 +233,15 @@
     "position": [
       1852,
       1861
+    ],
+    "assertions": []
+  },
+  {
+    "text": "phản xạ kém",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1862,
+      1873
     ],
     "assertions": []
   },
@@ -400,6 +427,15 @@
     ]
   },
   {
+    "text": "không thể tự đứng dậy",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3083,
+      3104
+    ],
+    "assertions": []
+  },
+  {
     "text": "yếu sức chân phải",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -409,11 +445,29 @@
     "assertions": []
   },
   {
+    "text": "khuỵu chân",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3174,
+      3184
+    ],
+    "assertions": []
+  },
+  {
     "text": "tỉnh chậm",
     "type": "TRIỆU_CHỨNG",
     "position": [
       3192,
       3201
+    ],
+    "assertions": []
+  },
+  {
+    "text": "phản xạ kém",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3203,
+      3214
     ],
     "assertions": []
   },
@@ -463,11 +517,38 @@
     "assertions": []
   },
   {
+    "text": "không nhấc chân phải khỏi mặt giường",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3399,
+      3435
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khuỵ xuống",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3461,
+      3471
+    ],
+    "assertions": []
+  },
+  {
     "text": "tỉnh chậm",
     "type": "TRIỆU_CHỨNG",
     "position": [
       3478,
       3487
+    ],
+    "assertions": []
+  },
+  {
+    "text": "phản xạ kém",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3489,
+      3500
     ],
     "assertions": []
   },
@@ -522,6 +603,15 @@
     "position": [
       3676,
       3696
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Truyền dịch tĩnh mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      3703,
+      3724
     ],
     "assertions": []
   }

@@ -28,6 +28,17 @@
     ]
   },
   {
+    "text": "phẫu thuật cắt bỏ đại tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      115,
+      142
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
     "text": "Ung thư đại tràng",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -95,6 +106,17 @@
     ],
     "candidates": [
       "11289"
+    ]
+  },
+  {
+    "text": "Cắt đại tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      294,
+      307
+    ],
+    "assertions": [
+      "isHistorical"
     ]
   },
   {

@@ -12,6 +12,18 @@
     ]
   },
   {
+    "text": "Coronary Artery Disease",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      17,
+      40
+    ],
+    "assertions": [],
+    "candidates": [
+      "I25.10"
+    ]
+  },
+  {
     "text": "Bệnh mạch vành",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -118,6 +130,54 @@
       445
     ],
     "assertions": []
+  },
+  {
+    "text": "mảng xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      478,
+      489
+    ],
+    "assertions": [],
+    "candidates": [
+      "I70.9"
+    ]
+  },
+  {
+    "text": "Mảng xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      493,
+      504
+    ],
+    "assertions": [],
+    "candidates": [
+      "I70.9"
+    ]
+  },
+  {
+    "text": "mảng xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      538,
+      549
+    ],
+    "assertions": [],
+    "candidates": [
+      "I70.9"
+    ]
+  },
+  {
+    "text": "tắc mạch cấp",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      565,
+      577
+    ],
+    "assertions": [],
+    "candidates": [
+      "I74.9"
+    ]
   },
   {
     "text": "bệnh tim mạch",

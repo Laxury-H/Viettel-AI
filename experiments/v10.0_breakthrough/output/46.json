@@ -9,6 +9,20 @@
     "assertions": []
   },
   {
+    "text": "stent mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      53,
+      68
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "Z95.5"
+    ]
+  },
+  {
     "text": "suy tim",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -115,6 +129,18 @@
     ]
   },
   {
+    "text": "stent mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      329,
+      344
+    ],
+    "assertions": [],
+    "candidates": [
+      "Z95.5"
+    ]
+  },
+  {
     "text": "tăng huyết áp",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -170,11 +196,29 @@
     ]
   },
   {
+    "text": "TTT ở mỏm 3/6",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      517,
+      530
+    ],
+    "assertions": []
+  },
+  {
     "text": "rale ẩm",
     "type": "TRIỆU_CHỨNG",
     "position": [
       577,
       584
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Khí máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      624,
+      631
     ],
     "assertions": []
   },
@@ -265,6 +309,24 @@
     "position": [
       693,
       698
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ghi điện tim cấp cứu tại giường",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      703,
+      734
+    ],
+    "assertions": []
+  },
+  {
+    "text": "không biến đổi ST-T",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      755,
+      774
     ],
     "assertions": []
   },
@@ -368,6 +430,27 @@
     "assertions": []
   },
   {
+    "text": "Phình thành sau và thành bên thất trái",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      909,
+      947
+    ],
+    "assertions": [],
+    "candidates": [
+      "I25.3"
+    ]
+  },
+  {
+    "text": "Thành thất trái dày",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1022,
+      1041
+    ],
+    "assertions": []
+  },
+  {
     "text": "EF BP",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -446,6 +529,18 @@
     ]
   },
   {
+    "text": "Stent mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1217,
+      1232
+    ],
+    "assertions": [],
+    "candidates": [
+      "Z95.5"
+    ]
+  },
+  {
     "text": "Tăng huyết áp",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -468,6 +563,15 @@
     "candidates": [
       "D33.3"
     ]
+  },
+  {
+    "text": "Đặt shunt động tĩnh mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1316,
+      1340
+    ],
+    "assertions": []
   },
   {
     "text": "Sinh thiết",

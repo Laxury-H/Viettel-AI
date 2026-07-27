@@ -67,6 +67,15 @@
     "assertions": []
   },
   {
+    "text": "chỉ số đông máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1026,
+      1041
+    ],
+    "assertions": []
+  },
+  {
     "text": "INR",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -149,5 +158,50 @@
     "assertions": [
       "isNegated"
     ]
+  },
+  {
+    "text": "36.5 độ C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1380,
+      1389
+    ],
+    "assertions": []
+  },
+  {
+    "text": "120/70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1414,
+      1425
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhịp thở",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1426,
+      1434
+    ],
+    "assertions": []
+  },
+  {
+    "text": "SPO2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1443,
+      1447
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1678,
+      1686
+    ],
+    "assertions": []
   }
 ]

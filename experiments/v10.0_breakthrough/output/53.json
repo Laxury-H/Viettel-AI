@@ -72,6 +72,24 @@
     "assertions": []
   },
   {
+    "text": "89 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      282,
+      293
+    ],
+    "assertions": []
+  },
+  {
+    "text": "180/100 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      299,
+      311
+    ],
+    "assertions": []
+  },
+  {
     "text": "Xét nghiệm máu",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -95,6 +113,33 @@
     "position": [
       350,
       361
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Quai ĐMC vồng cao",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      373,
+      390
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chỉ số tim/LN",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      392,
+      405
+    ],
+    "assertions": []
+  },
+  {
+    "text": "rốn phổi đậm",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      411,
+      423
     ],
     "assertions": []
   },
@@ -258,6 +303,15 @@
     "assertions": []
   },
   {
+    "text": "đường máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1228,
+      1237
+    ],
+    "assertions": []
+  },
+  {
     "text": "glargine",
     "type": "THUỐC",
     "position": [
@@ -284,6 +338,24 @@
     "position": [
       1374,
       1377
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chụp XQ phổi",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1384,
+      1396
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đường máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1414,
+      1423
     ],
     "assertions": []
   },

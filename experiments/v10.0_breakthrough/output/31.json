@@ -337,6 +337,15 @@
     ]
   },
   {
+    "text": "Cộng hưởng từ mật tụy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1932,
+      1953
+    ],
+    "assertions": []
+  },
+  {
     "text": "sỏi đoạn cuối ống mật chủ",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -365,6 +374,18 @@
       2066
     ],
     "assertions": []
+  },
+  {
+    "text": "sỏi tại đoạn cuối ống mật chủ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2091,
+      2120
+    ],
+    "assertions": [],
+    "candidates": [
+      "K80.5"
+    ]
   },
   {
     "text": "chụp cộng hưởng từ mật tụy",

@@ -171,6 +171,24 @@
     "assertions": []
   },
   {
+    "text": "chọc hút dịch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1842,
+      1855
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cấy mẫu bệnh phẩm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1864,
+      1881
+    ],
+    "assertions": []
+  },
+  {
     "text": "levafloxacin",
     "type": "THUỐC",
     "position": [

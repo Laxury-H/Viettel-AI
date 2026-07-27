@@ -56,6 +56,17 @@
     ]
   },
   {
+    "text": "Phẫu thuật mở cắt nối trực tràng/đại tràng sigma",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      231,
+      279
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
     "text": "ung thư tuyến đại tràng",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -160,6 +171,15 @@
     "position": [
       826,
       833
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó khăn khi ra khỏi giường",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      867,
+      894
     ],
     "assertions": []
   },
@@ -317,6 +337,24 @@
     "candidates": [
       "J90"
     ]
+  },
+  {
+    "text": "Truyền dịch tĩnh mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1857,
+      1878
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Xông khí dung",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1887,
+      1900
+    ],
+    "assertions": []
   },
   {
     "text": "Viêm phổi bệnh viện",

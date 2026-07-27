@@ -1,5 +1,14 @@
 [
   {
+    "text": "chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      110,
+      130
+    ],
+    "assertions": []
+  },
+  {
     "text": "ct",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -44,6 +53,27 @@
     "candidates": [
       "H47.1"
     ]
+  },
+  {
+    "text": "não úng thuỷ khác",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      388,
+      405
+    ],
+    "assertions": [],
+    "candidates": [
+      "G91.8"
+    ]
+  },
+  {
+    "text": "Phẫu thuật đặt cảng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      466,
+      485
+    ],
+    "assertions": []
   },
   {
     "text": "tăng nhãn áp",
@@ -101,6 +131,15 @@
     ]
   },
   {
+    "text": "đặt dẫn lưu shunt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      902,
+      919
+    ],
+    "assertions": []
+  },
+  {
     "text": "não úng thủy",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -135,6 +174,15 @@
     "assertions": [
       "isHistorical"
     ]
+  },
+  {
+    "text": "Khám nhãn khoa",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1124,
+      1138
+    ],
+    "assertions": []
   },
   {
     "text": "phù gai thị",
@@ -184,6 +232,15 @@
     "position": [
       1416,
       1418
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Prothrombin Time",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1421,
+      1437
     ],
     "assertions": []
   },
@@ -327,6 +384,15 @@
     "candidates": [
       "H40.9"
     ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1792,
+      1812
+    ],
+    "assertions": []
   },
   {
     "text": "ct",

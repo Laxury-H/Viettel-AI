@@ -92,6 +92,15 @@
     ]
   },
   {
+    "text": "xạ trị cấy hạt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1015,
+      1029
+    ],
+    "assertions": []
+  },
+  {
     "text": "u dây thần kinh số VIII",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -104,6 +113,15 @@
     "candidates": [
       "D33.3"
     ]
+  },
+  {
+    "text": "Đặt shunt động tĩnh mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1121,
+      1145
+    ],
+    "assertions": []
   },
   {
     "text": "Sinh thiết",

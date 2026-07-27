@@ -85,6 +85,42 @@
     ]
   },
   {
+    "text": "xuất huyết",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      321,
+      331
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tim nhịp đều",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      333,
+      345
+    ],
+    "assertions": []
+  },
+  {
+    "text": "RRPN thô",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      352,
+      360
+    ],
+    "assertions": []
+  },
+  {
+    "text": "110/ 70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      387,
+      399
+    ],
+    "assertions": []
+  },
+  {
     "text": "Thời gian prothrombin",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -99,6 +135,15 @@
     "position": [
       478,
       480
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Prothrombin Time",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      482,
+      498
     ],
     "assertions": []
   },
@@ -261,6 +306,15 @@
     "position": [
       811,
       839
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ghi điện tim cấp cứu tại giường",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      853,
+      884
     ],
     "assertions": []
   },

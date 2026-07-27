@@ -107,6 +107,24 @@
     ]
   },
   {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      584,
+      605
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      682,
+      703
+    ],
+    "assertions": []
+  },
+  {
     "text": "cotrimoxazol",
     "type": "THUỐC",
     "position": [
@@ -148,6 +166,15 @@
     "position": [
       1008,
       1014
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bọng nước",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1114,
+      1123
     ],
     "assertions": []
   },
@@ -262,6 +289,15 @@
     "position": [
       2083,
       2089
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dịch tiết có vẻ như mủ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2096,
+      2118
     ],
     "assertions": []
   },

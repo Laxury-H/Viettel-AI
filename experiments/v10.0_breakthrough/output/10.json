@@ -242,6 +242,15 @@
     "assertions": []
   },
   {
+    "text": "giảm dung nạp gắng sức",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1423,
+      1445
+    ],
+    "assertions": []
+  },
+  {
     "text": "buồn nôn",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -280,6 +289,15 @@
     "position": [
       1631,
       1645
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhịp xoang",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1655,
+      1665
     ],
     "assertions": []
   },
@@ -466,11 +484,29 @@
     "assertions": []
   },
   {
+    "text": "không có gì đáng chú ý",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      2653,
+      2675
+    ],
+    "assertions": []
+  },
+  {
     "text": "chụp x-quang ngực",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
       2708,
       2725
+    ],
+    "assertions": []
+  },
+  {
+    "text": "không có gì đáng chú ý",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      2726,
+      2748
     ],
     "assertions": []
   },
@@ -498,6 +534,15 @@
     "position": [
       2836,
       2850
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhịp xoang",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      2860,
+      2870
     ],
     "assertions": []
   },

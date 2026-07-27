@@ -1,5 +1,23 @@
 [
   {
+    "text": "bốc hỏa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      264,
+      271
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Phẫu thuật đặt cảng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      810,
+      829
+    ],
+    "assertions": []
+  },
+  {
     "text": "tăng nhãn áp",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -55,6 +73,15 @@
     ]
   },
   {
+    "text": "đặt dẫn lưu shunt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1246,
+      1263
+    ],
+    "assertions": []
+  },
+  {
     "text": "não úng thủy",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -89,6 +116,15 @@
     "assertions": [
       "isHistorical"
     ]
+  },
+  {
+    "text": "Khám nhãn khoa",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1468,
+      1482
+    ],
+    "assertions": []
   },
   {
     "text": "phù gai thị",
@@ -203,6 +239,15 @@
     "candidates": [
       "H40.9"
     ]
+  },
+  {
+    "text": "chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2351,
+      2371
+    ],
+    "assertions": []
   },
   {
     "text": "ct",

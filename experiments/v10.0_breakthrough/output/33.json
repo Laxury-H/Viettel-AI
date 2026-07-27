@@ -86,11 +86,29 @@
     "assertions": []
   },
   {
+    "text": "ngủ quên",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      751,
+      759
+    ],
+    "assertions": []
+  },
+  {
     "text": "ngất xỉu",
     "type": "TRIỆU_CHỨNG",
     "position": [
       772,
       780
+    ],
+    "assertions": []
+  },
+  {
+    "text": "giảm khả năng quan hệ tình dục",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      783,
+      813
     ],
     "assertions": []
   },
@@ -145,6 +163,15 @@
     "position": [
       1063,
       1066
+    ],
+    "assertions": []
+  },
+  {
+    "text": "shortness of breath",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1200,
+      1219
     ],
     "assertions": []
   },

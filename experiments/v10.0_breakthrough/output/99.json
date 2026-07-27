@@ -96,6 +96,15 @@
     "assertions": []
   },
   {
+    "text": "huyết áp tâm thu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      426,
+      442
+    ],
+    "assertions": []
+  },
+  {
     "text": "biến đổi ý thức",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -119,6 +128,51 @@
     "position": [
       520,
       535
+    ],
+    "assertions": []
+  },
+  {
+    "text": "SpO2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      546,
+      550
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tim nhịp không đều",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      571,
+      589
+    ],
+    "assertions": []
+  },
+  {
+    "text": "105 chu  kì/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      598,
+      614
+    ],
+    "assertions": []
+  },
+  {
+    "text": "110/70  mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      663,
+      675
+    ],
+    "assertions": []
+  },
+  {
+    "text": "rì rào phế nang giảm",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      682,
+      702
     ],
     "assertions": []
   },
@@ -214,11 +268,29 @@
     "assertions": []
   },
   {
+    "text": "không có hình ảnh tổn thương viêm cấp tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1030,
+      1072
+    ],
+    "assertions": []
+  },
+  {
     "text": "chụp x-quang ngực",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
       1080,
       1097
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Đặt sonde bàng quang",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1144,
+      1164
     ],
     "assertions": []
   },

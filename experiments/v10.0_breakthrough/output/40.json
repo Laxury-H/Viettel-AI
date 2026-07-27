@@ -84,6 +84,18 @@
     ]
   },
   {
+    "text": "quá liều thuốc kháng vitamin K",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      256,
+      286
+    ],
+    "assertions": [],
+    "candidates": [
+      "T45.5"
+    ]
+  },
+  {
     "text": "INR",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -102,6 +114,45 @@
     "assertions": []
   },
   {
+    "text": "Van động mạch chủ cơ học",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      370,
+      394
+    ],
+    "assertions": [],
+    "candidates": [
+      "Z95.2"
+    ]
+  },
+  {
+    "text": "130 lần/phút",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      473,
+      485
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Da niêm mạc nhợt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      520,
+      536
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Thể trạng nhiễm trùng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      538,
+      559
+    ],
+    "assertions": []
+  },
+  {
     "text": "phù",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -111,6 +162,33 @@
     "assertions": [
       "isNegated"
     ]
+  },
+  {
+    "text": "xuất huyết",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      578,
+      588
+    ],
+    "assertions": []
+  },
+  {
+    "text": "T1T2 rõ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      621,
+      628
+    ],
+    "assertions": []
+  },
+  {
+    "text": "RRPN giảm 2 phế trường",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      665,
+      687
+    ],
+    "assertions": []
   },
   {
     "text": "đau",
@@ -124,6 +202,24 @@
     ]
   },
   {
+    "text": "130 / 70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      766,
+      779
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhịp thở",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      781,
+      789
+    ],
+    "assertions": []
+  },
+  {
     "text": "Xuất huyết tiêu hóa",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -133,6 +229,18 @@
     "assertions": [],
     "candidates": [
       "K92.2"
+    ]
+  },
+  {
+    "text": "kháng vitamin K",
+    "type": "THUỐC",
+    "position": [
+      850,
+      865
+    ],
+    "assertions": [],
+    "candidates": [
+      "11289"
     ]
   },
   {
@@ -259,6 +367,15 @@
     "assertions": []
   },
   {
+    "text": "Men tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1339,
+      1346
+    ],
+    "assertions": []
+  },
+  {
     "text": "Glucose",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -354,6 +471,15 @@
     "position": [
       1453,
       1456
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Men tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1466,
+      1473
     ],
     "assertions": []
   },
@@ -488,6 +614,15 @@
     "position": [
       1748,
       1750
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dày thành một số quai ruột non",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1835,
+      1865
     ],
     "assertions": []
   },

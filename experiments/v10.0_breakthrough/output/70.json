@@ -95,6 +95,15 @@
     "assertions": []
   },
   {
+    "text": "khó nằm vào ban đêm để ngủ vì thở",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      455,
+      488
+    ],
+    "assertions": []
+  },
+  {
     "text": "căng cứng vai trái",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -205,11 +214,29 @@
     "assertions": []
   },
   {
+    "text": "độ bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1097,
+      1111
+    ],
+    "assertions": []
+  },
+  {
     "text": "thiếu oxy",
     "type": "TRIỆU_CHỨNG",
     "position": [
       1279,
       1288
+    ],
+    "assertions": []
+  },
+  {
+    "text": "độ bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1293,
+      1307
     ],
     "assertions": []
   },

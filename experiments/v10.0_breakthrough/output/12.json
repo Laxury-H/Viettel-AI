@@ -107,6 +107,24 @@
     ]
   },
   {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      584,
+      605
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      682,
+      703
+    ],
+    "assertions": []
+  },
+  {
     "text": "cotrimoxazol",
     "type": "THUỐC",
     "position": [
@@ -152,6 +170,15 @@
     "assertions": []
   },
   {
+    "text": "bọng nước",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1114,
+      1123
+    ],
+    "assertions": []
+  },
+  {
     "text": "đau",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -170,11 +197,38 @@
     "assertions": []
   },
   {
+    "text": "tổn thương vùng âm hộ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1344,
+      1365
+    ],
+    "assertions": []
+  },
+  {
     "text": "đau",
     "type": "TRIỆU_CHỨNG",
     "position": [
       1407,
       1410
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tổn thương dạng bóng nước",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1432,
+      1457
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dịch giống mủ có màu vàng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1510,
+      1535
     ],
     "assertions": []
   },

@@ -112,6 +112,15 @@
     ]
   },
   {
+    "text": "hắt hơi mạnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1073,
+      1085
+    ],
+    "assertions": []
+  },
+  {
     "text": "chảy máu mũi",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -153,6 +162,15 @@
     "position": [
       1329,
       1336
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đốt điểm mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1369,
+      1382
     ],
     "assertions": []
   },

@@ -18,6 +18,42 @@
     "assertions": []
   },
   {
+    "text": "ST chênh lên",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      35,
+      47
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Sóng T đảo",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      65,
+      75
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Q bệnh lý",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      79,
+      88
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Men tim",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      90,
+      97
+    ],
+    "assertions": []
+  },
+  {
     "text": "Troponin I/T",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -25,6 +61,18 @@
       113
     ],
     "assertions": []
+  },
+  {
+    "text": "nhồi máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      127,
+      135
+    ],
+    "assertions": [],
+    "candidates": [
+      "I21.9"
+    ]
   },
   {
     "text": "CK-MB",
@@ -80,6 +128,66 @@
     "position": [
       285,
       299
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhồi máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      416,
+      424
+    ],
+    "assertions": [],
+    "candidates": [
+      "I21.9"
+    ]
+  },
+  {
+    "text": "mảng xơ vữa",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      548,
+      559
+    ],
+    "assertions": [],
+    "candidates": [
+      "I70.9"
+    ]
+  },
+  {
+    "text": "Can thiệp mạch vành qua da",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      645,
+      671
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nong bóng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      681,
+      690
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Đặt stent",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      694,
+      703
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Phẫu thuật bắc cầu mạch vành",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      705,
+      733
     ],
     "assertions": []
   },
@@ -237,6 +345,15 @@
     ]
   },
   {
+    "text": "thay đổi chức năng ruột",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1629,
+      1652
+    ],
+    "assertions": []
+  },
+  {
     "text": "đau ngực",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -388,6 +505,20 @@
     "assertions": [],
     "candidates": [
       "K80.2"
+    ]
+  },
+  {
+    "text": "viêm túi mật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2347,
+      2359
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "K81.9"
     ]
   },
   {

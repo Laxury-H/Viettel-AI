@@ -120,6 +120,42 @@
     "assertions": []
   },
   {
+    "text": "130/76 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1179,
+      1190
+    ],
+    "assertions": []
+  },
+  {
+    "text": "36.3 độ C",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1215,
+      1224
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nhịp thở",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1225,
+      1233
+    ],
+    "assertions": []
+  },
+  {
+    "text": "SPO2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1243,
+      1247
+    ],
+    "assertions": []
+  },
+  {
     "text": "compazine",
     "type": "THUỐC",
     "position": [
@@ -196,6 +232,15 @@
     "candidates": [
       "A82.9"
     ]
+  },
+  {
+    "text": "trầy xước",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1560,
+      1569
+    ],
+    "assertions": []
   },
   {
     "text": "bệnh dại",

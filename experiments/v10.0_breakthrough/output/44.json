@@ -188,6 +188,15 @@
     "assertions": []
   },
   {
+    "text": "túi mật giãn nở",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      291,
+      306
+    ],
+    "assertions": []
+  },
+  {
     "text": "sỏi mật",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -258,6 +267,15 @@
     "candidates": [
       "L50.8"
     ]
+  },
+  {
+    "text": "tế bào một nhân",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      786,
+      801
+    ],
+    "assertions": []
   },
   {
     "text": "bệnh lý mày đay vô căn",

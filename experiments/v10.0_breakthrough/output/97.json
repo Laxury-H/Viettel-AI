@@ -56,6 +56,15 @@
     ]
   },
   {
+    "text": "xạ trị cấy hạt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      153,
+      167
+    ],
+    "assertions": []
+  },
+  {
     "text": "u dây thần kinh số VIII",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -68,6 +77,15 @@
     "candidates": [
       "D33.3"
     ]
+  },
+  {
+    "text": "Đặt shunt động tĩnh mạch",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      259,
+      283
+    ],
+    "assertions": []
   },
   {
     "text": "Sinh thiết",
@@ -226,6 +244,15 @@
     "assertions": []
   },
   {
+    "text": "24.6 -32.5 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      983,
+      1000
+    ],
+    "assertions": []
+  },
+  {
     "text": "photpho",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -244,6 +271,24 @@
     "assertions": []
   },
   {
+    "text": "ghép thận",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1101,
+      1110
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ghép thận",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1126,
+      1135
+    ],
+    "assertions": []
+  },
+  {
     "text": "u ác của tuyến tiền liệt",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -254,5 +299,14 @@
     "candidates": [
       "C61"
     ]
+  },
+  {
+    "text": "chạy thận nhân tạo",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1295,
+      1313
+    ],
+    "assertions": []
   }
 ]

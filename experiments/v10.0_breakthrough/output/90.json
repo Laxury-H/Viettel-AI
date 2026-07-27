@@ -123,6 +123,24 @@
     ]
   },
   {
+    "text": "độ bão hòa oxy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      550,
+      564
+    ],
+    "assertions": []
+  },
+  {
+    "text": "SPO2",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      566,
+      570
+    ],
+    "assertions": []
+  },
+  {
     "text": "nhịp thở nhanh",
     "type": "TRIỆU_CHỨNG",
     "position": [

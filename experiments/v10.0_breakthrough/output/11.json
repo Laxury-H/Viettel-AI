@@ -99,6 +99,15 @@
     ]
   },
   {
+    "text": "Chụp cắt lớp vi tính sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      275,
+      302
+    ],
+    "assertions": []
+  },
+  {
     "text": "xuất huyết dưới nhện",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -249,6 +258,24 @@
     "assertions": []
   },
   {
+    "text": "kích thích nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1596,
+      1610
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ý thức dao động",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1694,
+      1709
+    ],
+    "assertions": []
+  },
+  {
     "text": "bệnh bàn chân bẹt",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -286,6 +313,15 @@
     "position": [
       2361,
       2378
+    ],
+    "assertions": []
+  },
+  {
+    "text": "kích thích nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2425,
+      2439
     ],
     "assertions": []
   },

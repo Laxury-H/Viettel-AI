@@ -12,6 +12,15 @@
     ]
   },
   {
+    "text": "Nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      952,
+      960
+    ],
+    "assertions": []
+  },
+  {
     "text": "Tretinoin",
     "type": "THUỐC",
     "position": [
@@ -21,6 +30,18 @@
     "assertions": [],
     "candidates": [
       "10753"
+    ]
+  },
+  {
+    "text": "Trứng cá viêm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      982,
+      995
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.0"
     ]
   },
   {
@@ -42,6 +63,18 @@
     "assertions": []
   },
   {
+    "text": "trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1250,
+      1258
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
     "text": "mụn trứng cá",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -52,5 +85,14 @@
     "candidates": [
       "L70.9"
     ]
+  },
+  {
+    "text": "nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1953,
+      1961
+    ],
+    "assertions": []
   }
 ]

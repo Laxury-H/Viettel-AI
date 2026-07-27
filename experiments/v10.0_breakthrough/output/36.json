@@ -186,6 +186,41 @@
     "assertions": []
   },
   {
+    "text": "Trụ niệu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      671,
+      679
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sỏi đài bể thận",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      740,
+      755
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "N20.0"
+    ]
+  },
+  {
+    "text": "viêm cầu thận",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      777,
+      790
+    ],
+    "assertions": [],
+    "candidates": [
+      "N05.9"
+    ]
+  },
+  {
     "text": "suy thận",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -282,6 +317,15 @@
     "position": [
       904,
       911
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Điện giải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      919,
+      928
     ],
     "assertions": []
   },

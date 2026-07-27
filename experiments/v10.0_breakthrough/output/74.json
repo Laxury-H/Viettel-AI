@@ -28,6 +28,17 @@
     ]
   },
   {
+    "text": "phẫu thuật tạo hậu môn nhân tạo kiểu túi nối hồi tràng - hậu môn",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      184,
+      248
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
     "text": "nấm bẹn",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -63,6 +74,15 @@
     "position": [
       664,
       672
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó chịu vùng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      673,
+      691
     ],
     "assertions": []
   },
@@ -139,11 +159,29 @@
     "assertions": []
   },
   {
+    "text": "giảm lượng nước tiểu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      885,
+      905
+    ],
+    "assertions": []
+  },
+  {
     "text": "đau bụng",
     "type": "TRIỆU_CHỨNG",
     "position": [
       1124,
       1132
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khó chịu vùng bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1133,
+      1151
     ],
     "assertions": []
   },
@@ -245,5 +283,29 @@
       1437
     ],
     "assertions": []
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "type": "THUỐC",
+    "position": [
+      1471,
+      1492
+    ],
+    "assertions": [],
+    "candidates": [
+      "7052"
+    ]
+  },
+  {
+    "text": "thuốc giảm đau opioid",
+    "type": "THUỐC",
+    "position": [
+      1505,
+      1526
+    ],
+    "assertions": [],
+    "candidates": [
+      "7052"
+    ]
   }
 ]

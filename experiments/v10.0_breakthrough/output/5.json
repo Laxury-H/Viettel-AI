@@ -1,5 +1,34 @@
 [
   {
+    "text": "phẫu thuật cắt bỏ ống dẫn mật chung",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      75,
+      110
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "cắt bỏ một phần thùy gan bên trái",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      112,
+      145
+    ],
+    "assertions": []
+  },
+  {
+    "text": "RNY hepaticojejunostomy",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      185,
+      208
+    ],
+    "assertions": []
+  },
+  {
     "text": "ung thư biểu mô tế bào mật",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -62,6 +91,18 @@
     "assertions": []
   },
   {
+    "text": "thuốc tránh thai",
+    "type": "THUỐC",
+    "position": [
+      879,
+      895
+    ],
+    "assertions": [],
+    "candidates": [
+      "4124"
+    ]
+  },
+  {
     "text": "Hội chứng buồng trứng đa nang",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -72,6 +113,15 @@
     "candidates": [
       "E28.2"
     ]
+  },
+  {
+    "text": "rậm lông",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1021,
+      1029
+    ],
+    "assertions": []
   },
   {
     "text": "béo phì",
@@ -203,6 +253,27 @@
     "position": [
       1579,
       1589
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1605,
+      1626
+    ],
+    "assertions": [],
+    "candidates": [
+      "C22.1"
+    ]
+  },
+  {
+    "text": "đặt stent",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1726,
+      1735
     ],
     "assertions": []
   },
@@ -351,6 +422,36 @@
     "assertions": []
   },
   {
+    "text": "tế bào bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      2762,
+      2779
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2798,
+      2819
+    ],
+    "assertions": [],
+    "candidates": [
+      "C22.1"
+    ]
+  },
+  {
+    "text": "đặt stent",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2919,
+      2928
+    ],
+    "assertions": []
+  },
+  {
     "text": "đau",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -376,6 +477,18 @@
       3154
     ],
     "assertions": []
+  },
+  {
+    "text": "ung thư biểu mô tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      3187,
+      3208
+    ],
+    "assertions": [],
+    "candidates": [
+      "C22.1"
+    ]
   },
   {
     "text": "cholangiogram",

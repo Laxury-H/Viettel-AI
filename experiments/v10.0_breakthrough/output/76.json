@@ -24,6 +24,15 @@
     ]
   },
   {
+    "text": "tế bào một nhân",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      435,
+      450
+    ],
+    "assertions": []
+  },
+  {
     "text": "bệnh lý mày đay vô căn",
     "type": "CHẨN_ĐOÁN",
     "position": [

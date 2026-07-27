@@ -45,6 +45,26 @@
     "assertions": []
   },
   {
+    "text": "gai rét",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      277,
+      284
+    ],
+    "assertions": []
+  },
+  {
+    "text": "rét run",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      299,
+      306
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
     "text": "paracetamol viên",
     "type": "THUỐC",
     "position": [
@@ -192,6 +212,24 @@
     "assertions": []
   },
   {
+    "text": "Gan to",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      954,
+      960
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ấn tức",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1011,
+      1017
+    ],
+    "assertions": []
+  },
+  {
     "text": "Bilirubin",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -206,6 +244,15 @@
     "position": [
       1075,
       1084
+    ],
+    "assertions": []
+  },
+  {
+    "text": "27 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1097,
+      1106
     ],
     "assertions": []
   },
@@ -244,6 +291,18 @@
       1156
     ],
     "assertions": []
+  },
+  {
+    "text": "Hội chứng hủy hoại tế bào gan",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1165,
+      1194
+    ],
+    "assertions": [],
+    "candidates": [
+      "K76.9"
+    ]
   },
   {
     "text": "GOT",

@@ -74,6 +74,15 @@
     "assertions": []
   },
   {
+    "text": "giảm nhiều",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      809,
+      819
+    ],
+    "assertions": []
+  },
+  {
     "text": "EF BP",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -128,6 +137,15 @@
     ]
   },
   {
+    "text": "chức năng tâm thu thất phải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      893,
+      920
+    ],
+    "assertions": []
+  },
+  {
     "text": "giảm",
     "type": "KẾT_QUẢ_XÉT_NGHIỆM",
     "position": [
@@ -165,6 +183,15 @@
     "candidates": [
       "I27.2"
     ]
+  },
+  {
+    "text": "Chụp Xquang ngực thẳng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      972,
+      994
+    ],
+    "assertions": []
   },
   {
     "text": "bóng tim to",
@@ -220,6 +247,15 @@
     "position": [
       1409,
       1416
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1514,
+      1534
     ],
     "assertions": []
   }

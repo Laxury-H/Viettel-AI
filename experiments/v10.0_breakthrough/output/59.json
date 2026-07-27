@@ -109,5 +109,14 @@
     "candidates": [
       "L70.9"
     ]
+  },
+  {
+    "text": "nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1680,
+      1688
+    ],
+    "assertions": []
   }
 ]

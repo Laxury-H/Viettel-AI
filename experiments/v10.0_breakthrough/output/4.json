@@ -235,6 +235,15 @@
     ]
   },
   {
+    "text": "khó khăn khi ăn uống qua đường miệng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      899,
+      935
+    ],
+    "assertions": []
+  },
+  {
     "text": "buồn nôn",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -408,6 +417,15 @@
     ]
   },
   {
+    "text": "khó khăn khi ăn uống qua đường miệng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1496,
+      1532
+    ],
+    "assertions": []
+  },
+  {
     "text": "buồn nôn",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -552,6 +570,15 @@
     "assertions": []
   },
   {
+    "text": "abdominal pain",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1958,
+      1972
+    ],
+    "assertions": []
+  },
+  {
     "text": "viêm dạ dày ruột do virus",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -562,6 +589,15 @@
     "candidates": [
       "A08.4"
     ]
+  },
+  {
+    "text": "khó khăn khi ăn uống qua đường miệng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2082,
+      2118
+    ],
+    "assertions": []
   },
   {
     "text": "buồn nôn",

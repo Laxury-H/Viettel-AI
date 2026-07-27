@@ -135,6 +135,18 @@
     ]
   },
   {
+    "text": "vitamin C",
+    "type": "THUỐC",
+    "position": [
+      738,
+      747
+    ],
+    "assertions": [],
+    "candidates": [
+      "1151"
+    ]
+  },
+  {
     "text": "không vững khi đứng",
     "type": "TRIỆU_CHỨNG",
     "position": [

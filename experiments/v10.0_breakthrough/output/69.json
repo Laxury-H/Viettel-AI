@@ -39,6 +39,15 @@
     ]
   },
   {
+    "text": "buồn chán",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      314,
+      323
+    ],
+    "assertions": []
+  },
+  {
     "text": "trầm cảm",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -64,6 +73,24 @@
       "isNegated",
       "isHistorical"
     ]
+  },
+  {
+    "text": "Phẫu thuật cắt cụt chân trái bên trên gối",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      678,
+      719
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cắt cụt chân phải bên dưới gối",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      724,
+      754
+    ],
+    "assertions": []
   },
   {
     "text": "thuyên tắc phổi hai bên",
@@ -100,5 +127,14 @@
     "candidates": [
       "11124"
     ]
+  },
+  {
+    "text": "phẫu thuật cắt cụt chân trái trên gối",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      877,
+      914
+    ],
+    "assertions": []
   }
 ]

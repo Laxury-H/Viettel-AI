@@ -163,6 +163,18 @@
     ]
   },
   {
+    "text": "hưng cảm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      873,
+      881
+    ],
+    "assertions": [],
+    "candidates": [
+      "F30.9"
+    ]
+  },
+  {
     "text": "tăng hoạt động",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -223,6 +235,15 @@
     "position": [
       1139,
       1151
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nghĩ tự bắn vào đầu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1156,
+      1175
     ],
     "assertions": []
   },

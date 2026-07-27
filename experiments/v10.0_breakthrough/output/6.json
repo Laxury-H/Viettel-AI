@@ -99,6 +99,15 @@
     ]
   },
   {
+    "text": "Chụp cắt lớp vi tính sọ não",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      275,
+      302
+    ],
+    "assertions": []
+  },
+  {
     "text": "xuất huyết dưới nhện",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -249,6 +258,24 @@
     "assertions": []
   },
   {
+    "text": "kích thích nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1596,
+      1610
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ý thức dao động",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1694,
+      1709
+    ],
+    "assertions": []
+  },
+  {
     "text": "run giật tay chân",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -365,6 +392,15 @@
     "assertions": []
   },
   {
+    "text": "kích thích nhẹ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2442,
+      2456
+    ],
+    "assertions": []
+  },
+  {
     "text": "ngửa đầu ra sau",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -383,6 +419,15 @@
     "assertions": []
   },
   {
+    "text": "Chụp cắt lớp vi tính",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2496,
+      2516
+    ],
+    "assertions": []
+  },
+  {
     "text": "CT",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
@@ -397,6 +442,15 @@
     "position": [
       2655,
       2666
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ghi điện tim cấp cứu tại giường",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2668,
+      2699
     ],
     "assertions": []
   },

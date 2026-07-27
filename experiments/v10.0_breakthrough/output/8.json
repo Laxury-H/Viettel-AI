@@ -157,11 +157,29 @@
     "assertions": []
   },
   {
+    "text": "Ảo thanh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      660,
+      668
+    ],
+    "assertions": []
+  },
+  {
     "text": "ảo giác thính giác",
     "type": "TRIỆU_CHỨNG",
     "position": [
       675,
       693
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tưởng tượng về cái chết",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      761,
+      784
     ],
     "assertions": []
   },
@@ -184,6 +202,15 @@
     "assertions": []
   },
   {
+    "text": "Khó khăn về thị lực gần",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      856,
+      879
+    ],
+    "assertions": []
+  },
+  {
     "text": "rối loạn thị giác",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -198,6 +225,15 @@
     "position": [
       939,
       955
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ảo thanh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      957,
+      965
     ],
     "assertions": []
   },
@@ -246,6 +282,15 @@
     "position": [
       1384,
       1410
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đánh giá thần kinh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1417,
+      1435
     ],
     "assertions": []
   },
@@ -319,6 +364,24 @@
     "assertions": []
   },
   {
+    "text": "Đột sống thắt lưng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1938,
+      1956
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đánh giá thần kinh",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1997,
+      2015
+    ],
+    "assertions": []
+  },
+  {
     "text": "bệnh lý chất trắng",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -361,6 +424,15 @@
     "assertions": []
   },
   {
+    "text": "hạch cổ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2164,
+      2171
+    ],
+    "assertions": []
+  },
+  {
     "text": "Kawasaki",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -396,6 +468,15 @@
     "position": [
       2329,
       2336
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đỏ mắt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2348,
+      2354
     ],
     "assertions": []
   },
@@ -460,6 +541,18 @@
     "assertions": [],
     "candidates": [
       "I25.4"
+    ]
+  },
+  {
+    "text": "Hẹp – tắc động mạch vành",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2594,
+      2618
+    ],
+    "assertions": [],
+    "candidates": [
+      "I25.1"
     ]
   },
   {
@@ -541,6 +634,18 @@
     "assertions": []
   },
   {
+    "text": "Rối loạn tiêu hóa",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2817,
+      2834
+    ],
+    "assertions": [],
+    "candidates": [
+      "K92.9"
+    ]
+  },
+  {
     "text": "bệnh Kawasaki",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -571,6 +676,33 @@
     "assertions": []
   },
   {
+    "text": "Môi – miệng thay đổi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2955,
+      2975
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lưỡi dâu tây",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2986,
+      2998
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tổn thương đầu chi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3004,
+      3022
+    ],
+    "assertions": []
+  },
+  {
     "text": "phù",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -580,11 +712,29 @@
     "assertions": []
   },
   {
+    "text": "bong da",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3033,
+      3040
+    ],
+    "assertions": []
+  },
+  {
     "text": "Ban đỏ toàn thân",
     "type": "TRIỆU_CHỨNG",
     "position": [
       3046,
       3062
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Hạch cổ to",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3067,
+      3077
     ],
     "assertions": []
   }

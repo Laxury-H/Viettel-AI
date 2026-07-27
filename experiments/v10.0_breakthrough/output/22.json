@@ -25,6 +25,18 @@
     ]
   },
   {
+    "text": "thuốc an thần",
+    "type": "THUỐC",
+    "position": [
+      310,
+      323
+    ],
+    "assertions": [],
+    "candidates": [
+      "3322"
+    ]
+  },
+  {
     "text": "đau bụng",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -141,6 +153,15 @@
     "assertions": []
   },
   {
+    "text": "yếu sức",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      841,
+      848
+    ],
+    "assertions": []
+  },
+  {
     "text": "khó thở khi gắng sức",
     "type": "TRIỆU_CHỨNG",
     "position": [
@@ -155,6 +176,15 @@
     "position": [
       874,
       878
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tiểu ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      899,
+      910
     ],
     "assertions": []
   },
@@ -201,6 +231,28 @@
     ]
   },
   {
+    "text": "thay đổi thói quen đại tiện",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1051,
+      1078
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "phân có máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1090,
+      1101
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
     "text": "acetaminophen 500mg",
     "type": "THUỐC",
     "position": [
@@ -210,6 +262,18 @@
     "assertions": [],
     "candidates": [
       "198440"
+    ]
+  },
+  {
+    "text": "thuốc an thần",
+    "type": "THUỐC",
+    "position": [
+      1253,
+      1266
+    ],
+    "assertions": [],
+    "candidates": [
+      "3322"
     ]
   },
   {

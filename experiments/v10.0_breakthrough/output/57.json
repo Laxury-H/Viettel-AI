@@ -217,6 +217,15 @@
     "assertions": []
   },
   {
+    "text": "đường máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      898,
+      907
+    ],
+    "assertions": []
+  },
+  {
     "text": "glargine",
     "type": "THUỐC",
     "position": [
@@ -482,6 +491,18 @@
       1509
     ],
     "assertions": []
+  },
+  {
+    "text": "Vitamin C",
+    "type": "THUỐC",
+    "position": [
+      1573,
+      1582
+    ],
+    "assertions": [],
+    "candidates": [
+      "1151"
+    ]
   },
   {
     "text": "tăng kali máu",

@@ -457,5 +457,23 @@
       2349
     ],
     "assertions": []
+  },
+  {
+    "text": "bào láng gốc răng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2365,
+      2382
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ghép mô mềm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2462,
+      2473
+    ],
+    "assertions": []
   }
 ]

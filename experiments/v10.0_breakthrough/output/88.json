@@ -1,5 +1,32 @@
 [
   {
+    "text": "cắt bỏ ống dẫn mật chủ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      67,
+      89
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cắt bỏ phân đoạn bên trái gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      96,
+      125
+    ],
+    "assertions": []
+  },
+  {
+    "text": "phẫu thuật nối ống gan - hỗng tràng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      135,
+      170
+    ],
+    "assertions": []
+  },
+  {
     "text": "ung thư đường mật",
     "type": "CHẨN_ĐOÁN",
     "position": [
@@ -12,6 +39,24 @@
     "candidates": [
       "C22.1"
     ]
+  },
+  {
+    "text": "chụp đường mật",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      237,
+      251
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đặt 3 stent đường mật lưu dài hạn",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      253,
+      286
+    ],
+    "assertions": []
   },
   {
     "text": "run rẩy",
@@ -72,5 +117,14 @@
     "candidates": [
       "19711"
     ]
+  },
+  {
+    "text": "ra mồ hôi nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      921,
+      936
+    ],
+    "assertions": []
   }
 ]

@@ -115,6 +115,18 @@
     ]
   },
   {
+    "text": "rối loạn chức năng thất trái",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      589,
+      617
+    ],
+    "assertions": [],
+    "candidates": [
+      "I50.9"
+    ]
+  },
+  {
     "text": "Chụp động mạch vành",
     "type": "TÊN_XÉT_NGHIỆM",
     "position": [
