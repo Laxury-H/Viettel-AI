@@ -1,0 +1,282 @@
+{
+ "10582": {
+  "name": "levothyroxine",
+  "tty": "IN"
+ },
+ "10753": {
+  "name": "tretinoin",
+  "tty": "IN"
+ },
+ "10826": {
+  "name": "trimetazidine",
+  "tty": "IN"
+ },
+ "10831": {
+  "name": "sulfamethoxazole / trimethoprim",
+  "tty": "MIN"
+ },
+ "11124": {
+  "name": "vancomycin",
+  "tty": "IN"
+ },
+ "11251": {
+  "name": "vitamin B complex",
+  "tty": "IN"
+ },
+ "11289": {
+  "name": "warfarin",
+  "tty": "IN"
+ },
+ "1191": {
+  "name": "aspirin",
+  "tty": "IN"
+ },
+ "1202": {
+  "name": "atenolol",
+  "tty": "IN"
+ },
+ "1364436": {
+  "name": "Eliquis",
+  "tty": "BN"
+ },
+ "151399": {
+  "name": "Bactrim",
+  "tty": "BN"
+ },
+ "161": {
+  "name": "acetaminophen",
+  "tty": "IN"
+ },
+ "1665021": {
+  "name": "ceftriaxone 1000 MG Injection",
+  "tty": "SCD"
+ },
+ "1743704": {
+  "name": "methylprednisolone 125 MG Injection",
+  "tty": "SCD"
+ },
+ "17627": {
+  "name": "alverine",
+  "tty": "IN"
+ },
+ "1807513": {
+  "name": "vancomycin 1000 MG Injection",
+  "tty": "SCD"
+ },
+ "1808": {
+  "name": "bumetanide",
+  "tty": "IN"
+ },
+ "18631": {
+  "name": "azithromycin",
+  "tty": "IN"
+ },
+ "197": {
+  "name": "acetylcysteine",
+  "tty": "IN"
+ },
+ "19711": {
+  "name": "amoxicillin / clavulanate",
+  "tty": "MIN"
+ },
+ "197732": {
+  "name": "furosemide 80 MG Oral Tablet",
+  "tty": "SCD"
+ },
+ "198051": {
+  "name": "omeprazole 20 MG Delayed Release Oral Capsule",
+  "tty": "SCD"
+ },
+ "198440": {
+  "name": "acetaminophen 500 MG Oral Tablet",
+  "tty": "SCD"
+ },
+ "202433": {
+  "name": "Tylenol",
+  "tty": "BN"
+ },
+ "202991": {
+  "name": "Lasix",
+  "tty": "BN"
+ },
+ "20352": {
+  "name": "carvedilol",
+  "tty": "IN"
+ },
+ "203546": {
+  "name": "Compazine",
+  "tty": "BN"
+ },
+ "20481": {
+  "name": "cefepime",
+  "tty": "IN"
+ },
+ "212033": {
+  "name": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD"
+ },
+ "214199": {
+  "name": "albuterol / ipratropium",
+  "tty": "MIN"
+ },
+ "214599": {
+  "name": "guaifenesin / pseudoephedrine",
+  "tty": "MIN"
+ },
+ "215101": {
+  "name": "Aleve",
+  "tty": "BN"
+ },
+ "2231": {
+  "name": "cephalexin",
+  "tty": "IN"
+ },
+ "224913": {
+  "name": "Dilaudid",
+  "tty": "BN"
+ },
+ "2598": {
+  "name": "clonazepam",
+  "tty": "IN"
+ },
+ "2599": {
+  "name": "clonidine",
+  "tty": "IN"
+ },
+ "274783": {
+  "name": "insulin glargine",
+  "tty": "IN"
+ },
+ "282386": {
+  "name": "Gleevec",
+  "tty": "BN"
+ },
+ "29046": {
+  "name": "lisinopril",
+  "tty": "IN"
+ },
+ "301542": {
+  "name": "rosuvastatin",
+  "tty": "IN"
+ },
+ "313988": {
+  "name": "furosemide 40 MG Oral Tablet",
+  "tty": "SCD"
+ },
+ "330371": {
+  "name": "levofloxacin 750 MG",
+  "tty": "SCDC"
+ },
+ "3443": {
+  "name": "diltiazem",
+  "tty": "IN"
+ },
+ "352364": {
+  "name": "buprenorphine / naloxone",
+  "tty": "MIN"
+ },
+ "3640": {
+  "name": "doxycycline",
+  "tty": "IN"
+ },
+ "38413": {
+  "name": "torsemide",
+  "tty": "IN"
+ },
+ "389221": {
+  "name": "etonogestrel 68 MG Drug Implant",
+  "tty": "SCD"
+ },
+ "435": {
+  "name": "albuterol",
+  "tty": "IN"
+ },
+ "4603": {
+  "name": "furosemide",
+  "tty": "IN"
+ },
+ "4850": {
+  "name": "glucose",
+  "tty": "IN"
+ },
+ "4917": {
+  "name": "nitroglycerin",
+  "tty": "IN"
+ },
+ "519": {
+  "name": "allopurinol",
+  "tty": "IN"
+ },
+ "6057": {
+  "name": "isosorbide",
+  "tty": "IN"
+ },
+ "612": {
+  "name": "aluminum hydroxide",
+  "tty": "IN"
+ },
+ "6470": {
+  "name": "lorazepam",
+  "tty": "IN"
+ },
+ "6581": {
+  "name": "magnesium hydroxide",
+  "tty": "IN"
+ },
+ "6813": {
+  "name": "methadone",
+  "tty": "IN"
+ },
+ "6902": {
+  "name": "methylprednisolone",
+  "tty": "IN"
+ },
+ "6915": {
+  "name": "metoclopramide",
+  "tty": "IN"
+ },
+ "6918": {
+  "name": "metoprolol",
+  "tty": "IN"
+ },
+ "7052": {
+  "name": "morphine",
+  "tty": "IN"
+ },
+ "7213": {
+  "name": "ipratropium",
+  "tty": "IN"
+ },
+ "74169": {
+  "name": "piperacillin / tazobactam",
+  "tty": "MIN"
+ },
+ "7646": {
+  "name": "omeprazole",
+  "tty": "IN"
+ },
+ "82122": {
+  "name": "levofloxacin",
+  "tty": "IN"
+ },
+ "83553": {
+  "name": "Seroquel",
+  "tty": "BN"
+ },
+ "855318": {
+  "name": "warfarin sodium 3 MG Oral Tablet",
+  "tty": "SCD"
+ },
+ "866924": {
+  "name": "metoprolol tartrate 25 MG Oral Tablet",
+  "tty": "SCD"
+ },
+ "9796": {
+  "name": "simethicone",
+  "tty": "IN"
+ },
+ "9863": {
+  "name": "sodium chloride",
+  "tty": "IN"
+ }
+}

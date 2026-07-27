@@ -1,0 +1,271 @@
+[
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      102,
+      106
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      188,
+      192
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh bạch cầu dòng tủy mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      642,
+      673
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C92.1"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      684,
+      691
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      698,
+      711
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      718,
+      732
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E78.5"
+    ]
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      755,
+      775
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "hẹp ống sống",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      782,
+      794
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "M48.09"
+    ]
+  },
+  {
+    "text": "Giả gout",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      801,
+      809
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "M11.29"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      816,
+      829
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N18.9"
+    ]
+  },
+  {
+    "text": "tăng sản tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      864,
+      888
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N40"
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      905,
+      908
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "Ngã",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      917,
+      920
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      927,
+      934
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      966,
+      973
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "Toàn trạng suy kiệt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1061,
+      1080
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1108,
+      1115
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1131,
+      1137
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1246,
+      1253
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1278,
+      1284
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1730,
+      1741
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1849,
+      1871
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "Mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1969,
+      1983
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  }
+]

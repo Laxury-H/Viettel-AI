@@ -1,0 +1,249 @@
+[
+  {
+    "text": "Viêm loét đại tràng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      57,
+      76
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K51.9"
+    ]
+  },
+  {
+    "text": "Bệnh gan do rượu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      114,
+      130
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "K70.9"
+    ]
+  },
+  {
+    "text": "nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      285,
+      292
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  },
+  {
+    "text": "ăn uống kém",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      634,
+      645
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      649,
+      657
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      664,
+      672
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      745,
+      753
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      760,
+      763
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      783,
+      786
+    ],
+    "assertions": []
+  },
+  {
+    "text": "run rẩy",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      790,
+      797
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mất cảm giác ngon miệng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      804,
+      827
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chán ăn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      828,
+      835
+    ],
+    "assertions": []
+  },
+  {
+    "text": "suy nhược",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      842,
+      851
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Toàn trạng suy kiệt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      859,
+      878
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1124,
+      1132
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1205,
+      1208
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1251,
+      1254
+    ],
+    "assertions": []
+  },
+  {
+    "text": "run rẩy",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1258,
+      1265
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mất cảm giác ngon miệng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1267,
+      1290
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chán ăn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1291,
+      1298
+    ],
+    "assertions": []
+  },
+  {
+    "text": "suy nhược",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1300,
+      1309
+    ],
+    "assertions": []
+  },
+  {
+    "text": "toàn trạng suy kiệt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1311,
+      1330
+    ],
+    "assertions": []
+  },
+  {
+    "text": "thiểu niệu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1332,
+      1342
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chảy dịch từ lỗ dò",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1344,
+      1362
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ăn uống kém",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1414,
+      1425
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1429,
+      1437
+    ],
+    "assertions": []
+  }
+]

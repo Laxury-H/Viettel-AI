@@ -1,0 +1,201 @@
+[
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      102,
+      106
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      188,
+      192
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      684,
+      691
+    ],
+    "assertions": [],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      696,
+      699
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      721,
+      728
+    ],
+    "assertions": [],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      761,
+      764
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      809,
+      817
+    ],
+    "assertions": []
+  },
+  {
+    "text": "táo bón",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      824,
+      831
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      838,
+      846
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau hố chậu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      886,
+      897
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      929,
+      932
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      962,
+      969
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      999,
+      1007
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tylenol",
+    "type": "THUỐC",
+    "position": [
+      1084,
+      1091
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "202433"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1161,
+      1175
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "MÀY ĐAY MẠN TÍNH",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1267,
+      1283
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.8"
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1697,
+      1708
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1816,
+      1838
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "Mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1936,
+      1950
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  }
+]

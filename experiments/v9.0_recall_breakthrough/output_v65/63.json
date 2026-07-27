@@ -1,0 +1,222 @@
+[
+  {
+    "text": "Bệnh bạch cầu dòng tủy mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      57,
+      88
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C92.1"
+    ]
+  },
+  {
+    "text": "tăng cholesterol máu đơn thuần",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      95,
+      125
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E78.0"
+    ]
+  },
+  {
+    "text": "mẩn ngứa",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      210,
+      218
+    ],
+    "assertions": []
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      368,
+      375
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "type": "THUỐC",
+    "position": [
+      417,
+      428
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      541,
+      548
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      629,
+      636
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      693,
+      743
+    ],
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      842,
+      892
+    ],
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      929,
+      936
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "type": "THUỐC",
+    "position": [
+      975,
+      986
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1025,
+      1032
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1097,
+      1104
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1254,
+      1261
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hoang tưởng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1309,
+      1320
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1410,
+      1460
+    ],
+    "assertions": [],
+    "candidates": [
+      "N39.0"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      1502,
+      1509
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "allopurinol",
+    "type": "THUỐC",
+    "position": [
+      1547,
+      1558
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "519"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1631,
+      1638
+    ],
+    "assertions": []
+  }
+]

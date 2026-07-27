@@ -1,0 +1,131 @@
+[
+  {
+    "text": "khối u trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      25,
+      42
+    ],
+    "assertions": [],
+    "candidates": [
+      "C20"
+    ]
+  },
+  {
+    "text": "u ác trực tràng",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      64,
+      79
+    ],
+    "assertions": [],
+    "candidates": [
+      "C20"
+    ]
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      90,
+      100
+    ],
+    "assertions": []
+  },
+  {
+    "text": "u tuyến",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      118,
+      125
+    ],
+    "assertions": [],
+    "candidates": [
+      "D12.8"
+    ]
+  },
+  {
+    "text": "Nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      220,
+      227
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  },
+  {
+    "text": "nhiễm nấm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      240,
+      249
+    ],
+    "assertions": [],
+    "candidates": [
+      "B49"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      412,
+      419
+    ],
+    "assertions": [],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "nhiễm nấm da",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      453,
+      465
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.9"
+    ]
+  },
+  {
+    "text": "nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      491,
+      498
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  },
+  {
+    "text": "thuốc kháng nấm",
+    "type": "THUỐC",
+    "position": [
+      521,
+      536
+    ],
+    "assertions": [],
+    "candidates": [
+      "6135"
+    ]
+  },
+  {
+    "text": "nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      691,
+      698
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+NGUON GOC & GIAY PHEP CUA DU LIEU TRONG THU MUC NAY
+====================================================
+Ngay tai: 2026-07-27
+
+--- who_icd10_2019.xml / who_icd10_2019_codes.txt /
+--- who_icd10_2019_code_description_pairs.txt / who_icd10_2019.json ---
+Nguon:  https://github.com/StefanoTrv/simple_icd_10  (thu muc data/)
+        raw: https://raw.githubusercontent.com/StefanoTrv/simple_icd_10/master/data/
+Noi dung: ICD-10 WHO ban 2019, trich tu https://icd.who.int/browse10/2019/en
+Giay phep repo: CC0 1.0 Universal (xem LICENSE_simple_icd_10.txt)
+CANH BAO PHAP LY: CC0 la tuyen bo cua tac gia repo, KHONG the vo hieu hoa ban
+quyen goc cua WHO doi voi noi dung ICD-10. WHO giu ban quyen ICD-10 va cap phep
+rieng (xem who-faq-licensing-icd-10.pdf). Su dung cho nghien cuu/phi thuong mai
+thuong duoc WHO cap phep mien phi qua dang ky. Dung o day chi de KIEM DINH ma
+noi bo luc phat trien.
+Thong ke: 12.542 muc = 22 chapter + 274 block + 2.050 category + 10.196 subcategory
+
+--- cm_only_not_in_who.txt / who_only_not_in_cm.txt ---
+Sinh ra bang cach diff giua bo WHO 2019 o tren va danh sach ICD-10-CM (Hoa Ky)
+ban April 2026 lay tu https://github.com/StefanoTrv/simple_icd_10_CM (MIT).
+ICD-10-CM la mien phi (NCHS/CMS, chinh phu My, public domain).
+cm_only_not_in_who.txt = 87.651 ma CHI co o ban My -> KHONG hop le voi WHO/BYT.
+who_only_not_in_cm.txt = 1.711 ma co o WHO nhung khong co o ban My.
+
+--- icd_audit_v63.json ---
+Ket qua join 309 cap (text CHAN_DOAN, ma ICD) trong v63_code_pairs.json voi ten
+chinh thuc WHO 2019. Truong in_who_icd10_2019 = false nghia la ma khong ton tai.

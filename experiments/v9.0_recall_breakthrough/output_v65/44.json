@@ -1,0 +1,274 @@
+[
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      31,
+      35
+    ],
+    "assertions": []
+  },
+  {
+    "text": "men gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      36,
+      43
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      48,
+      52
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      53,
+      62
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ast",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      68,
+      71
+    ],
+    "assertions": []
+  },
+  {
+    "text": "421",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      72,
+      75
+    ],
+    "assertions": []
+  },
+  {
+    "text": "alt",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      77,
+      80
+    ],
+    "assertions": []
+  },
+  {
+    "text": "336",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      81,
+      84
+    ],
+    "assertions": []
+  },
+  {
+    "text": "alp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      86,
+      89
+    ],
+    "assertions": []
+  },
+  {
+    "text": "185",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      90,
+      93
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bilirubin toàn phần",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      95,
+      114
+    ],
+    "assertions": []
+  },
+  {
+    "text": "0.9",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      115,
+      118
+    ],
+    "assertions": []
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      121,
+      128
+    ],
+    "assertions": []
+  },
+  {
+    "text": "siêu âm bụng có doppler",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      129,
+      152
+    ],
+    "assertions": []
+  },
+  {
+    "text": "âm tính",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      155,
+      162
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chụp hida",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      163,
+      172
+    ],
+    "assertions": []
+  },
+  {
+    "text": "acetaminophen",
+    "type": "THUỐC",
+    "position": [
+      204,
+      217
+    ],
+    "assertions": [],
+    "candidates": [
+      "161"
+    ]
+  },
+  {
+    "text": "nac",
+    "type": "THUỐC",
+    "position": [
+      235,
+      238
+    ],
+    "assertions": [
+      "isNegated"
+    ],
+    "candidates": [
+      "197"
+    ]
+  },
+  {
+    "text": "ercp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      270,
+      274
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ercp",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      277,
+      281
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sỏi mật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      413,
+      420
+    ],
+    "assertions": [],
+    "candidates": [
+      "K80.2"
+    ]
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      458,
+      462
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bilirubin",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      463,
+      472
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      480,
+      484
+    ],
+    "assertions": []
+  },
+  {
+    "text": "men gan",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      485,
+      492
+    ],
+    "assertions": []
+  },
+  {
+    "text": "MÀY đay VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      618,
+      632
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "MÀY đay MẠN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      716,
+      727
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.8"
+    ]
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1187,
+      1209
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  }
+]

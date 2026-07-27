@@ -1,0 +1,1306 @@
+{
+ "icd_issues": [
+  {
+   "idx": 28,
+   "text": "hẹp ống sống",
+   "code": "M48.0",
+   "official_vi": "Hẹp ống sống",
+   "official_en": "Spinal stenosis",
+   "mentions": 4,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 29,
+   "text": "Giả gout",
+   "code": "M11.2",
+   "official_vi": "Bệnh vôi hóa sụn khớp khác",
+   "official_en": "Other chondrocalcinosis",
+   "mentions": 4,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 30,
+   "text": "tăng sản tuyến tiền liệt",
+   "code": "N40",
+   "official_vi": "Phì đại [tăng sản] tuyến tiền liệt",
+   "official_en": "Hyperplasia of prostate",
+   "mentions": 4,
+   "issues": [
+    "MALE_ONLY"
+   ]
+  },
+  {
+   "idx": 39,
+   "text": "u ác của tuyến tiền liệt",
+   "code": "C61",
+   "official_vi": "U ác tính ở tuyến tiền liệt",
+   "official_en": "Malignant neoplasm of prostate",
+   "mentions": 5,
+   "issues": [
+    "MALE_ONLY"
+   ]
+  },
+  {
+   "idx": 75,
+   "text": "tiền sản giật",
+   "code": "O14.9",
+   "official_vi": "Tiền sản giật, không xác định",
+   "official_en": "Pre-eclampsia, unspecified",
+   "mentions": 4,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  },
+  {
+   "idx": 76,
+   "text": "viêm tủy xương",
+   "code": "M86.9",
+   "official_vi": "",
+   "official_en": "",
+   "mentions": 4,
+   "issues": [
+    "NOT_IN_TT06_VN"
+   ]
+  },
+  {
+   "idx": 81,
+   "text": "vô sinh",
+   "code": "N97.9",
+   "official_vi": "Vô sinh ở nữ giới, không xác định",
+   "official_en": "Female infertility, unspecified",
+   "mentions": 3,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  },
+  {
+   "idx": 87,
+   "text": "bầm dập nhu mô",
+   "code": "S06.3",
+   "official_vi": "Tổn thương não khu trú",
+   "official_en": "Focal brain injury",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC",
+    "CHAPTER_XIX_INJURY_needs_external_cause"
+   ]
+  },
+  {
+   "idx": 88,
+   "text": "tụ máu ngoài màng cứng phải cấp tính",
+   "code": "S06.4",
+   "official_vi": "Xuất huyết ngoài màng cứng",
+   "official_en": "Epidural haemorrhage",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC",
+    "CHAPTER_XIX_INJURY_needs_external_cause"
+   ]
+  },
+  {
+   "idx": 89,
+   "text": "Bầm dập nhu mô",
+   "code": "S06.3",
+   "official_vi": "Tổn thương não khu trú",
+   "official_en": "Focal brain injury",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC",
+    "CHAPTER_XIX_INJURY_needs_external_cause"
+   ]
+  },
+  {
+   "idx": 90,
+   "text": "Tụ máu ngoài màng cứng phải cấp tính",
+   "code": "S06.4",
+   "official_vi": "Xuất huyết ngoài màng cứng",
+   "official_en": "Epidural haemorrhage",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC",
+    "CHAPTER_XIX_INJURY_needs_external_cause"
+   ]
+  },
+  {
+   "idx": 107,
+   "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+   "code": "C60.9",
+   "official_vi": "U ác tính ở dương vật, không xác định",
+   "official_en": "Penis, unspecified",
+   "mentions": 2,
+   "issues": [
+    "MALE_ONLY"
+   ]
+  },
+  {
+   "idx": 138,
+   "text": "viêm xương tủy",
+   "code": "M86.9",
+   "official_vi": "",
+   "official_en": "",
+   "mentions": 2,
+   "issues": [
+    "NOT_IN_TT06_VN"
+   ]
+  },
+  {
+   "idx": 149,
+   "text": "bệnh gút",
+   "code": "M10.9",
+   "official_vi": "Bệnh gút, không xác định",
+   "official_en": "Gout, unspecified",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 150,
+   "text": "bệnhgout",
+   "code": "M10.9",
+   "official_vi": "Bệnh gút, không xác định",
+   "official_en": "Gout, unspecified",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 151,
+   "text": "bệnh gout mạn tính",
+   "code": "M10.9",
+   "official_vi": "Bệnh gút, không xác định",
+   "official_en": "Gout, unspecified",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 154,
+   "text": "liệt hai chi dưới",
+   "code": "G82.2",
+   "official_vi": "Hội chứng liệt nửa người [dưới thắt lưng], không định",
+   "official_en": "Paraplegia, unspecified",
+   "mentions": 2,
+   "issues": [
+    "DISCOURAGED_PRIMARY"
+   ]
+  },
+  {
+   "idx": 186,
+   "text": "bệnh lý chất trắng",
+   "code": "R90.8",
+   "official_vi": "Phát hiện bất thường khác của chẩn đoán hình ảnh ở hệ thần kinh trung ương",
+   "official_en": "Other abnormal findings on diagnostic imaging of central nervous system",
+   "mentions": 5,
+   "issues": [
+    "CHAPTER_R_SYMPTOM"
+   ]
+  },
+  {
+   "idx": 199,
+   "text": "Viêm thực quản độ C",
+   "code": "K20",
+   "official_vi": "",
+   "official_en": "",
+   "mentions": 2,
+   "issues": [
+    "NOT_IN_TT06_VN"
+   ]
+  },
+  {
+   "idx": 209,
+   "text": "giãn thừng tinh",
+   "code": "I86.1",
+   "official_vi": "Giãn tĩnh mạch bìu",
+   "official_en": "Scrotal varices",
+   "mentions": 2,
+   "issues": [
+    "MALE_ONLY"
+   ]
+  },
+  {
+   "idx": 214,
+   "text": "tắc hẹp 80% động mạch thận trái L",
+   "code": "I70.1",
+   "official_vi": "Xơ vữa [xơ cứng] động mạch thận",
+   "official_en": "Atherosclerosis of renal artery",
+   "mentions": 2,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 231,
+   "text": "Bệnh đa xơ cứng",
+   "code": "G35",
+   "official_vi": "",
+   "official_en": "",
+   "mentions": 1,
+   "issues": [
+    "NOT_IN_TT06_VN"
+   ]
+  },
+  {
+   "idx": 236,
+   "text": "Hội chứng buồng trứng đa nang",
+   "code": "E28.2",
+   "official_vi": "Hội chứng buồng trứng đa nang",
+   "official_en": "Polycystic ovarian syndrome",
+   "mentions": 1,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  },
+  {
+   "idx": 247,
+   "text": "viêm khớp dạng thấp",
+   "code": "M06.9",
+   "official_vi": "Viêm khớp dạng thấp, không xác định",
+   "official_en": "Rheumatoid arthritis, unspecified",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 249,
+   "text": "loãng xương",
+   "code": "M81.9",
+   "official_vi": "Loãng xương, không xác định",
+   "official_en": "Osteoporosis, unspecified",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 256,
+   "text": "nhiễm virus viêm gan B, C",
+   "code": "B19.1",
+   "official_vi": "",
+   "official_en": "",
+   "mentions": 1,
+   "issues": [
+    "NOT_IN_TT06_VN",
+    "NOT_IN_WHO_2019"
+   ]
+  },
+  {
+   "idx": 256,
+   "text": "nhiễm virus viêm gan B, C",
+   "code": "B19.2",
+   "official_vi": "",
+   "official_en": "",
+   "mentions": 1,
+   "issues": [
+    "NOT_IN_TT06_VN",
+    "NOT_IN_WHO_2019"
+   ]
+  },
+  {
+   "idx": 257,
+   "text": "tắc ống dẫn trứng",
+   "code": "N97.1",
+   "official_vi": "Vô sinh ở nữ giới do nguyên nhân vòi trứng",
+   "official_en": "Female infertility of tubal origin",
+   "mentions": 1,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  },
+  {
+   "idx": 258,
+   "text": "ung thư cổ tử cung",
+   "code": "C53.9",
+   "official_vi": "U ác tính ở cổ tử cung, không xác định",
+   "official_en": "Cervix uteri, unspecified",
+   "mentions": 1,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  },
+  {
+   "idx": 259,
+   "text": "thai ngoài tử cung",
+   "code": "O00.9",
+   "official_vi": "Thai ngoài tử cung, không xác định",
+   "official_en": "Ectopic pregnancy, unspecified",
+   "mentions": 1,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  },
+  {
+   "idx": 261,
+   "text": "xơ vữa động mạch",
+   "code": "I70.9",
+   "official_vi": "Xơ vữa động mạch toàn thể và/hoặc xơ vữa động mạch không xác định",
+   "official_en": "Generalized and unspecified atherosclerosis",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 276,
+   "text": "hẹp ống sống C4-5, C5-6, C6-7",
+   "code": "M48.0",
+   "official_vi": "Hẹp ống sống",
+   "official_en": "Spinal stenosis",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 278,
+   "text": "suy hô hấp",
+   "code": "J96.9",
+   "official_vi": "Suy hô hấp [tiến triển], tính không xác định",
+   "official_en": "Respiratory failure, unspecified",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 281,
+   "text": "Giãn thừng tinh",
+   "code": "I86.1",
+   "official_vi": "Giãn tĩnh mạch bìu",
+   "official_en": "Scrotal varices",
+   "mentions": 1,
+   "issues": [
+    "MALE_ONLY"
+   ]
+  },
+  {
+   "idx": 282,
+   "text": "vô sinh thứ phát",
+   "code": "N46",
+   "official_vi": "sinh ở nam giới",
+   "official_en": "Male infertility",
+   "mentions": 1,
+   "issues": [
+    "MALE_ONLY"
+   ]
+  },
+  {
+   "idx": 309,
+   "text": "ghép thận thất bại",
+   "code": "T86.1",
+   "official_vi": "Thất bại và/hoặc thải ghép thận",
+   "official_en": "Kidney transplant failure and rejection",
+   "mentions": 1,
+   "issues": [
+    "CHAPTER_XIX_INJURY_needs_external_cause"
+   ]
+  },
+  {
+   "idx": 323,
+   "text": "cổ trướng",
+   "code": "R18",
+   "official_vi": "Chứng cổ trướng",
+   "official_en": "Ascites",
+   "mentions": 1,
+   "issues": [
+    "CHAPTER_R_SYMPTOM"
+   ]
+  },
+  {
+   "idx": 330,
+   "text": "gãy xương",
+   "code": "T14.2",
+   "official_vi": "Gãy xương ở vùng cơ thể không xác định",
+   "official_en": "Fracture of unspecified body region",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC",
+    "CHAPTER_XIX_INJURY_needs_external_cause"
+   ]
+  },
+  {
+   "idx": 341,
+   "text": "hội chứng turner",
+   "code": "Q96.9",
+   "official_vi": "Hội chứng Turner, không xác định",
+   "official_en": "Turner syndrome, unspecified",
+   "mentions": 1,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  },
+  {
+   "idx": 347,
+   "text": "bệnh viêm tuỷ xương",
+   "code": "M86.9",
+   "official_vi": "",
+   "official_en": "",
+   "mentions": 1,
+   "issues": [
+    "NOT_IN_TT06_VN"
+   ]
+  },
+  {
+   "idx": 350,
+   "text": "gout",
+   "code": "M10.9",
+   "official_vi": "Bệnh gút, không xác định",
+   "official_en": "Gout, unspecified",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC"
+   ]
+  },
+  {
+   "idx": 355,
+   "text": "Nhiễm khuẩn đường tiêu hóa",
+   "code": "A09",
+   "official_vi": "Viêm dạ dày - ruột và/hoặc đại tràng do nhiễm trùng và/hoặc không xác định căn nguyênnhân",
+   "official_en": "Other gastroenteritis and colitis of infectious and unspecified origin",
+   "mentions": 1,
+   "issues": [
+    "UNUSED_HAS_MORE_SPECIFIC",
+    "CATEGORY_ONLY_has_2_subcodes"
+   ]
+  },
+  {
+   "idx": 356,
+   "text": "nhịp chậm xoang",
+   "code": "R00.1",
+   "official_vi": "Nhịp tim chậm, không xác định",
+   "official_en": "Bradycardia, unspecified",
+   "mentions": 1,
+   "issues": [
+    "CHAPTER_R_SYMPTOM"
+   ]
+  },
+  {
+   "idx": 357,
+   "text": "tiền sản giật",
+   "code": "O14.9",
+   "official_vi": "Tiền sản giật, không xác định",
+   "official_en": "Pre-eclampsia, unspecified",
+   "mentions": 1,
+   "issues": [
+    "FEMALE_ONLY"
+   ]
+  }
+ ],
+ "rx_tty": [
+  {
+   "idx": 5,
+   "text": "gleevec",
+   "rxcui": "282386",
+   "tty": "BN",
+   "rx_name": "Gleevec",
+   "mentions": 18
+  },
+  {
+   "idx": 18,
+   "text": "omeprazole",
+   "rxcui": "7646",
+   "tty": "IN",
+   "rx_name": "omeprazole",
+   "mentions": 10
+  },
+  {
+   "idx": 20,
+   "text": "bactrim",
+   "rxcui": "151399",
+   "tty": "BN",
+   "rx_name": "Bactrim",
+   "mentions": 8
+  },
+  {
+   "idx": 21,
+   "text": "tylenol",
+   "rxcui": "202433",
+   "tty": "BN",
+   "rx_name": "Tylenol",
+   "mentions": 8
+  },
+  {
+   "idx": 23,
+   "text": "doxycycline",
+   "rxcui": "3640",
+   "tty": "IN",
+   "rx_name": "doxycycline",
+   "mentions": 7
+  },
+  {
+   "idx": 38,
+   "text": "allopurinol",
+   "rxcui": "519",
+   "tty": "IN",
+   "rx_name": "allopurinol",
+   "mentions": 8
+  },
+  {
+   "idx": 41,
+   "text": "clonidine",
+   "rxcui": "2599",
+   "tty": "IN",
+   "rx_name": "clonidine",
+   "mentions": 5
+  },
+  {
+   "idx": 47,
+   "text": "mucinex d",
+   "rxcui": "214599",
+   "tty": "MIN",
+   "rx_name": "guaifenesin / pseudoephedrine",
+   "mentions": 4
+  },
+  {
+   "idx": 64,
+   "text": "klonopin",
+   "rxcui": "2598",
+   "tty": "IN",
+   "rx_name": "clonazepam",
+   "mentions": 3
+  },
+  {
+   "idx": 66,
+   "text": "suboxone",
+   "rxcui": "352364",
+   "tty": "MIN",
+   "rx_name": "buprenorphine / naloxone",
+   "mentions": 6
+  },
+  {
+   "idx": 77,
+   "text": "magie hydroxid",
+   "rxcui": "6581",
+   "tty": "IN",
+   "rx_name": "magnesium hydroxide",
+   "mentions": 4
+  },
+  {
+   "idx": 78,
+   "text": "isosorbide",
+   "rxcui": "6057",
+   "tty": "IN",
+   "rx_name": "isosorbide",
+   "mentions": 4
+  },
+  {
+   "idx": 79,
+   "text": "crestor",
+   "rxcui": "301542",
+   "tty": "IN",
+   "rx_name": "rosuvastatin",
+   "mentions": 4
+  },
+  {
+   "idx": 80,
+   "text": "carvedilol",
+   "rxcui": "20352",
+   "tty": "IN",
+   "rx_name": "carvedilol",
+   "mentions": 4
+  },
+  {
+   "idx": 155,
+   "text": "nhôm hydroxid",
+   "rxcui": "612",
+   "tty": "IN",
+   "rx_name": "aluminum hydroxide",
+   "mentions": 2
+  },
+  {
+   "idx": 156,
+   "text": "Alverin citrate 40mg",
+   "rxcui": "17627",
+   "tty": "IN",
+   "rx_name": "alverine",
+   "mentions": 2
+  },
+  {
+   "idx": 157,
+   "text": "Simethicon 100mg",
+   "rxcui": "9796",
+   "tty": "IN",
+   "rx_name": "simethicone",
+   "mentions": 2
+  },
+  {
+   "idx": 158,
+   "text": "Pimperam",
+   "rxcui": "6915",
+   "tty": "IN",
+   "rx_name": "metoclopramide",
+   "mentions": 2
+  },
+  {
+   "idx": 159,
+   "text": "metoclopramide 10mg",
+   "rxcui": "6915",
+   "tty": "IN",
+   "rx_name": "metoclopramide",
+   "mentions": 2
+  },
+  {
+   "idx": 160,
+   "text": "Nhôm hydroxid",
+   "rxcui": "612",
+   "tty": "IN",
+   "rx_name": "aluminum hydroxide",
+   "mentions": 2
+  },
+  {
+   "idx": 161,
+   "text": "cotrimoxazol",
+   "rxcui": "10831",
+   "tty": "MIN",
+   "rx_name": "sulfamethoxazole / trimethoprim",
+   "mentions": 2
+  },
+  {
+   "idx": 162,
+   "text": "doxycyclin",
+   "rxcui": "3640",
+   "tty": "IN",
+   "rx_name": "doxycycline",
+   "mentions": 2
+  },
+  {
+   "idx": 163,
+   "text": "nitroglycerin",
+   "rxcui": "4917",
+   "tty": "IN",
+   "rx_name": "nitroglycerin",
+   "mentions": 2
+  },
+  {
+   "idx": 164,
+   "text": "metoprolol",
+   "rxcui": "6918",
+   "tty": "IN",
+   "rx_name": "metoprolol",
+   "mentions": 2
+  },
+  {
+   "idx": 165,
+   "text": "azithromycin",
+   "rxcui": "18631",
+   "tty": "IN",
+   "rx_name": "azithromycin",
+   "mentions": 2
+  },
+  {
+   "idx": 166,
+   "text": "furosemide",
+   "rxcui": "4603",
+   "tty": "IN",
+   "rx_name": "furosemide",
+   "mentions": 2
+  },
+  {
+   "idx": 167,
+   "text": "aspirin 325mg",
+   "rxcui": "212033",
+   "tty": "SCD",
+   "rx_name": "aspirin 325 MG Oral Tablet",
+   "mentions": 2
+  },
+  {
+   "idx": 168,
+   "text": "albuterolipratropium nebulizer",
+   "rxcui": "214199",
+   "tty": "MIN",
+   "rx_name": "albuterol / ipratropium",
+   "mentions": 2
+  },
+  {
+   "idx": 169,
+   "text": "methylprednisolone 125mg iv",
+   "rxcui": "1743704",
+   "tty": "SCD",
+   "rx_name": "methylprednisolone 125 MG Injection",
+   "mentions": 2
+  },
+  {
+   "idx": 170,
+   "text": "Torsemide",
+   "rxcui": "38413",
+   "tty": "IN",
+   "rx_name": "torsemide",
+   "mentions": 2
+  },
+  {
+   "idx": 171,
+   "text": "Insulin glargine",
+   "rxcui": "274783",
+   "tty": "IN",
+   "rx_name": "insulin glargine",
+   "mentions": 2
+  },
+  {
+   "idx": 172,
+   "text": "Isosorbide",
+   "rxcui": "6057",
+   "tty": "IN",
+   "rx_name": "isosorbide",
+   "mentions": 2
+  },
+  {
+   "idx": 173,
+   "text": "Rosuvastatin",
+   "rxcui": "301542",
+   "tty": "IN",
+   "rx_name": "rosuvastatin",
+   "mentions": 2
+  },
+  {
+   "idx": 174,
+   "text": "Crestor",
+   "rxcui": "301542",
+   "tty": "IN",
+   "rx_name": "rosuvastatin",
+   "mentions": 2
+  },
+  {
+   "idx": 175,
+   "text": "Carvedilol",
+   "rxcui": "20352",
+   "tty": "IN",
+   "rx_name": "carvedilol",
+   "mentions": 2
+  },
+  {
+   "idx": 176,
+   "text": "Torsemide/ ngày",
+   "rxcui": "38413",
+   "tty": "IN",
+   "rx_name": "torsemide",
+   "mentions": 2
+  },
+  {
+   "idx": 177,
+   "text": "torsemide",
+   "rxcui": "38413",
+   "tty": "IN",
+   "rx_name": "torsemide",
+   "mentions": 2
+  },
+  {
+   "idx": 178,
+   "text": "glargine",
+   "rxcui": "274783",
+   "tty": "IN",
+   "rx_name": "insulin glargine",
+   "mentions": 2
+  },
+  {
+   "idx": 179,
+   "text": "lasix 40 mg once",
+   "rxcui": "202991",
+   "tty": "BN",
+   "rx_name": "Lasix",
+   "mentions": 2
+  },
+  {
+   "idx": 180,
+   "text": "Augmentin",
+   "rxcui": "19711",
+   "tty": "MIN",
+   "rx_name": "amoxicillin / clavulanate",
+   "mentions": 2
+  },
+  {
+   "idx": 181,
+   "text": "vancomycin",
+   "rxcui": "11124",
+   "tty": "IN",
+   "rx_name": "vancomycin",
+   "mentions": 2
+  },
+  {
+   "idx": 193,
+   "text": "ntg",
+   "rxcui": "4917",
+   "tty": "IN",
+   "rx_name": "nitroglycerin",
+   "mentions": 3
+  },
+  {
+   "idx": 194,
+   "text": "coumadin",
+   "rxcui": "11289",
+   "tty": "IN",
+   "rx_name": "warfarin",
+   "mentions": 3
+  },
+  {
+   "idx": 195,
+   "text": "zosyn",
+   "rxcui": "74169",
+   "tty": "MIN",
+   "rx_name": "piperacillin / tazobactam",
+   "mentions": 3
+  },
+  {
+   "idx": 215,
+   "text": "levothyroxine",
+   "rxcui": "10582",
+   "tty": "IN",
+   "rx_name": "levothyroxine",
+   "mentions": 2
+  },
+  {
+   "idx": 216,
+   "text": "metoprolol 25mg po bid",
+   "rxcui": "866924",
+   "tty": "SCD",
+   "rx_name": "metoprolol tartrate 25 MG Oral Tablet",
+   "mentions": 2
+  },
+  {
+   "idx": 217,
+   "text": "atenolol",
+   "rxcui": "1202",
+   "tty": "IN",
+   "rx_name": "atenolol",
+   "mentions": 2
+  },
+  {
+   "idx": 218,
+   "text": "acetaminophen 500mg",
+   "rxcui": "198440",
+   "tty": "SCD",
+   "rx_name": "acetaminophen 500 MG Oral Tablet",
+   "mentions": 2
+  },
+  {
+   "idx": 219,
+   "text": "Vastarel",
+   "rxcui": "10826",
+   "tty": "IN",
+   "rx_name": "trimetazidine",
+   "mentions": 2
+  },
+  {
+   "idx": 220,
+   "text": "vanco",
+   "rxcui": "11124",
+   "tty": "IN",
+   "rx_name": "vancomycin",
+   "mentions": 2
+  },
+  {
+   "idx": 358,
+   "text": "ASA",
+   "rxcui": "1191",
+   "tty": "IN",
+   "rx_name": "aspirin",
+   "mentions": 1
+  },
+  {
+   "idx": 359,
+   "text": "Vastarel (trimetazidin)",
+   "rxcui": "10826",
+   "tty": "IN",
+   "rx_name": "trimetazidine",
+   "mentions": 1
+  },
+  {
+   "idx": 360,
+   "text": "Berlthyrox",
+   "rxcui": "10582",
+   "tty": "IN",
+   "rx_name": "levothyroxine",
+   "mentions": 1
+  },
+  {
+   "idx": 361,
+   "text": "seroquel",
+   "rxcui": "83553",
+   "tty": "BN",
+   "rx_name": "Seroquel",
+   "mentions": 1
+  },
+  {
+   "idx": 362,
+   "text": "aspirin 325mg x 1",
+   "rxcui": "212033",
+   "tty": "SCD",
+   "rx_name": "aspirin 325 MG Oral Tablet",
+   "mentions": 1
+  },
+  {
+   "idx": 363,
+   "text": "Pimperan",
+   "rxcui": "6915",
+   "tty": "IN",
+   "rx_name": "metoclopramide",
+   "mentions": 1
+  },
+  {
+   "idx": 364,
+   "text": "metoclopramide",
+   "rxcui": "6915",
+   "tty": "IN",
+   "rx_name": "metoclopramide",
+   "mentions": 1
+  },
+  {
+   "idx": 365,
+   "text": "bumetanide 2mg iv",
+   "rxcui": "1808",
+   "tty": "IN",
+   "rx_name": "bumetanide",
+   "mentions": 1
+  },
+  {
+   "idx": 366,
+   "text": "vancomycin 1 gram",
+   "rxcui": "1807513",
+   "tty": "SCD",
+   "rx_name": "vancomycin 1000 MG Injection",
+   "mentions": 1
+  },
+  {
+   "idx": 367,
+   "text": "levofloxacin 750mg iv",
+   "rxcui": "330371",
+   "tty": "SCDC",
+   "rx_name": "levofloxacin 750 MG",
+   "mentions": 1
+  },
+  {
+   "idx": 368,
+   "text": "compazine",
+   "rxcui": "203546",
+   "tty": "BN",
+   "rx_name": "Compazine",
+   "mentions": 1
+  },
+  {
+   "idx": 369,
+   "text": "aleve",
+   "rxcui": "215101",
+   "tty": "BN",
+   "rx_name": "Aleve",
+   "mentions": 1
+  },
+  {
+   "idx": 370,
+   "text": "morphine",
+   "rxcui": "7052",
+   "tty": "IN",
+   "rx_name": "morphine",
+   "mentions": 1
+  },
+  {
+   "idx": 371,
+   "text": "lorazepam",
+   "rxcui": "6470",
+   "tty": "IN",
+   "rx_name": "lorazepam",
+   "mentions": 1
+  },
+  {
+   "idx": 372,
+   "text": "paracetamol viên",
+   "rxcui": "161",
+   "tty": "IN",
+   "rx_name": "acetaminophen",
+   "mentions": 1
+  },
+  {
+   "idx": 373,
+   "text": "Glucose 5% x 1000ml truyền tĩnh mạch",
+   "rxcui": "4850",
+   "tty": "IN",
+   "rx_name": "glucose",
+   "mentions": 1
+  },
+  {
+   "idx": 374,
+   "text": "Vitamin 3B x 4 viên",
+   "rxcui": "11251",
+   "tty": "IN",
+   "rx_name": "vitamin B complex",
+   "mentions": 1
+  },
+  {
+   "idx": 375,
+   "text": "levafloxacin",
+   "rxcui": "82122",
+   "tty": "IN",
+   "rx_name": "levofloxacin",
+   "mentions": 1
+  },
+  {
+   "idx": 376,
+   "text": "cephalexin",
+   "rxcui": "2231",
+   "tty": "IN",
+   "rx_name": "cephalexin",
+   "mentions": 1
+  },
+  {
+   "idx": 377,
+   "text": "eliquis",
+   "rxcui": "1364436",
+   "tty": "BN",
+   "rx_name": "Eliquis",
+   "mentions": 1
+  },
+  {
+   "idx": 378,
+   "text": "methadone",
+   "rxcui": "6813",
+   "tty": "IN",
+   "rx_name": "methadone",
+   "mentions": 1
+  },
+  {
+   "idx": 379,
+   "text": "80mg po lasix",
+   "rxcui": "197732",
+   "tty": "SCD",
+   "rx_name": "furosemide 80 MG Oral Tablet",
+   "mentions": 1
+  },
+  {
+   "idx": 380,
+   "text": "asa",
+   "rxcui": "1191",
+   "tty": "IN",
+   "rx_name": "aspirin",
+   "mentions": 1
+  },
+  {
+   "idx": 381,
+   "text": "80mg lasix iv",
+   "rxcui": "4603",
+   "tty": "IN",
+   "rx_name": "furosemide",
+   "mentions": 1
+  },
+  {
+   "idx": 382,
+   "text": "8mg morphine",
+   "rxcui": "7052",
+   "tty": "IN",
+   "rx_name": "morphine",
+   "mentions": 1
+  },
+  {
+   "idx": 383,
+   "text": "1mg dilaudid",
+   "rxcui": "224913",
+   "tty": "BN",
+   "rx_name": "Dilaudid",
+   "mentions": 1
+  },
+  {
+   "idx": 384,
+   "text": "10mg iv diltiazem",
+   "rxcui": "3443",
+   "tty": "IN",
+   "rx_name": "diltiazem",
+   "mentions": 1
+  },
+  {
+   "idx": 385,
+   "text": "Medrol 16mg x 3 viên, uống 8h sáng sau ăn no",
+   "rxcui": "6902",
+   "tty": "IN",
+   "rx_name": "methylprednisolone",
+   "mentions": 1
+  },
+  {
+   "idx": 386,
+   "text": "Omez 20mg x 1 viên, uống 8h sáng",
+   "rxcui": "198051",
+   "tty": "SCD",
+   "rx_name": "omeprazole 20 MG Delayed Release Oral Capsule",
+   "mentions": 1
+  },
+  {
+   "idx": 387,
+   "text": "Furosemid 40 mg x 1 viên, uống sáng",
+   "rxcui": "313988",
+   "tty": "SCD",
+   "rx_name": "furosemide 40 MG Oral Tablet",
+   "mentions": 1
+  },
+  {
+   "idx": 388,
+   "text": "Zestril 10mg x 1 viên, uống sáng",
+   "rxcui": "29046",
+   "tty": "IN",
+   "rx_name": "lisinopril",
+   "mentions": 1
+  },
+  {
+   "idx": 389,
+   "text": "Ceftriaxone 1g",
+   "rxcui": "1665021",
+   "tty": "SCD",
+   "rx_name": "ceftriaxone 1000 MG Injection",
+   "mentions": 1
+  },
+  {
+   "idx": 390,
+   "text": "Tretinoin",
+   "rxcui": "10753",
+   "tty": "IN",
+   "rx_name": "tretinoin",
+   "mentions": 1
+  },
+  {
+   "idx": 391,
+   "text": "acetaminophen",
+   "rxcui": "161",
+   "tty": "IN",
+   "rx_name": "acetaminophen",
+   "mentions": 1
+  },
+  {
+   "idx": 392,
+   "text": "nac",
+   "rxcui": "197",
+   "tty": "IN",
+   "rx_name": "acetylcysteine",
+   "mentions": 1
+  },
+  {
+   "idx": 393,
+   "text": "coumadin 3.0 mg /ngày",
+   "rxcui": "855318",
+   "tty": "SCD",
+   "rx_name": "warfarin sodium 3 MG Oral Tablet",
+   "mentions": 1
+  },
+  {
+   "idx": 394,
+   "text": "Implanon",
+   "rxcui": "389221",
+   "tty": "SCD",
+   "rx_name": "etonogestrel 68 MG Drug Implant",
+   "mentions": 1
+  },
+  {
+   "idx": 395,
+   "text": "trimetazidine",
+   "rxcui": "10826",
+   "tty": "IN",
+   "rx_name": "trimetazidine",
+   "mentions": 1
+  },
+  {
+   "idx": 396,
+   "text": "Nitramyl 2,5 mg/viên",
+   "rxcui": "4917",
+   "tty": "IN",
+   "rx_name": "nitroglycerin",
+   "mentions": 1
+  },
+  {
+   "idx": 397,
+   "text": "Nitramyl",
+   "rxcui": "4917",
+   "tty": "IN",
+   "rx_name": "nitroglycerin",
+   "mentions": 1
+  },
+  {
+   "idx": 398,
+   "text": "vitamin 3b",
+   "rxcui": "11251",
+   "tty": "IN",
+   "rx_name": "vitamin B complex",
+   "mentions": 1
+  },
+  {
+   "idx": 399,
+   "text": "Augmentin (amoxicillin/acid clavulanic)",
+   "rxcui": "19711",
+   "tty": "MIN",
+   "rx_name": "amoxicillin / clavulanate",
+   "mentions": 1
+  },
+  {
+   "idx": 400,
+   "text": "Albuterol",
+   "rxcui": "435",
+   "tty": "IN",
+   "rx_name": "albuterol",
+   "mentions": 1
+  },
+  {
+   "idx": 401,
+   "text": "Ipratropium 1 lần",
+   "rxcui": "7213",
+   "tty": "IN",
+   "rx_name": "ipratropium",
+   "mentions": 1
+  },
+  {
+   "idx": 402,
+   "text": "Ceftriaxone 1 gram dùng 1 liều",
+   "rxcui": "1665021",
+   "tty": "SCD",
+   "rx_name": "ceftriaxone 1000 MG Injection",
+   "mentions": 1
+  },
+  {
+   "idx": 403,
+   "text": "Tylenol 1 gram",
+   "rxcui": "202433",
+   "tty": "BN",
+   "rx_name": "Tylenol",
+   "mentions": 1
+  },
+  {
+   "idx": 404,
+   "text": "albuterolipratropium nebs x2",
+   "rxcui": "214199",
+   "tty": "MIN",
+   "rx_name": "albuterol / ipratropium",
+   "mentions": 1
+  },
+  {
+   "idx": 405,
+   "text": "4000 ml NS 0.9 %",
+   "rxcui": "9863",
+   "tty": "IN",
+   "rx_name": "sodium chloride",
+   "mentions": 1
+  },
+  {
+   "idx": 406,
+   "text": "Cefepim",
+   "rxcui": "20481",
+   "tty": "IN",
+   "rx_name": "cefepime",
+   "mentions": 1
+  },
+  {
+   "idx": 407,
+   "text": "Vancomycin truyền tĩnh mạch",
+   "rxcui": "11124",
+   "tty": "IN",
+   "rx_name": "vancomycin",
+   "mentions": 1
+  },
+  {
+   "idx": 408,
+   "text": "aspirin",
+   "rxcui": "1191",
+   "tty": "IN",
+   "rx_name": "aspirin",
+   "mentions": 1
+  }
+ ]
+}

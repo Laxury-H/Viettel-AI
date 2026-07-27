@@ -1,0 +1,302 @@
+[
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      45,
+      52
+    ],
+    "assertions": []
+  },
+  {
+    "text": "gầy sút cân",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      54,
+      65
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ăn nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      140,
+      148
+    ],
+    "assertions": []
+  },
+  {
+    "text": "khát nước",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      150,
+      159
+    ],
+    "assertions": []
+  },
+  {
+    "text": "uống nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      161,
+      171
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đi tiểu nhiều",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      173,
+      186
+    ],
+    "assertions": []
+  },
+  {
+    "text": "gầy sút cân",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      188,
+      199
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mệt mỏi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      219,
+      226
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Xét nghiệm máu",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      321,
+      335
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Glucose",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      337,
+      344
+    ],
+    "assertions": []
+  },
+  {
+    "text": "13,2 mmol/l",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      350,
+      361
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ĐTD typ II",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      458,
+      468
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "Torsemide",
+    "type": "THUỐC",
+    "position": [
+      554,
+      563
+    ],
+    "assertions": [],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "Insulin glargine",
+    "type": "THUỐC",
+    "position": [
+      604,
+      620
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "Isosorbide",
+    "type": "THUỐC",
+    "position": [
+      679,
+      689
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "6057"
+    ]
+  },
+  {
+    "text": "Rosuvastatin",
+    "type": "THUỐC",
+    "position": [
+      735,
+      747
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "301542"
+    ]
+  },
+  {
+    "text": "Crestor",
+    "type": "THUỐC",
+    "position": [
+      749,
+      756
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "301542"
+    ]
+  },
+  {
+    "text": "Carvedilol",
+    "type": "THUỐC",
+    "position": [
+      803,
+      813
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "20352"
+    ]
+  },
+  {
+    "text": "tăng kali máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      920,
+      933
+    ],
+    "assertions": [],
+    "candidates": [
+      "E87.5"
+    ]
+  },
+  {
+    "text": "Creatinine",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      937,
+      947
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tăng",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      948,
+      952
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Torsemide/ ngày",
+    "type": "THUỐC",
+    "position": [
+      1071,
+      1086
+    ],
+    "assertions": [],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "torsemide",
+    "type": "THUỐC",
+    "position": [
+      1135,
+      1144
+    ],
+    "assertions": [],
+    "candidates": [
+      "38413"
+    ]
+  },
+  {
+    "text": "đường huyết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1180,
+      1191
+    ],
+    "assertions": []
+  },
+  {
+    "text": "glargine",
+    "type": "THUỐC",
+    "position": [
+      1273,
+      1281
+    ],
+    "assertions": [],
+    "candidates": [
+      "274783"
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1295,
+      1298
+    ],
+    "assertions": []
+  },
+  {
+    "text": "CTM",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1374,
+      1377
+    ],
+    "assertions": []
+  },
+  {
+    "text": "rối loạn lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1436,
+      1454
+    ],
+    "assertions": [],
+    "candidates": [
+      "E78.5"
+    ]
+  }
+]

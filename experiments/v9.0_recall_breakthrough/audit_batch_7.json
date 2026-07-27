@@ -1,0 +1,652 @@
+[
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "codes": [
+   "C92.1"
+  ],
+  "mentions": 7,
+  "docs": [
+   14,
+   29,
+   32,
+   38,
+   43,
+   54,
+   63
+  ],
+  "ndocs": 7
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh thận mạn",
+  "codes": [
+   "N18.9"
+  ],
+  "mentions": 5,
+  "docs": [
+   14,
+   29,
+   32,
+   38,
+   54
+  ],
+  "ndocs": 5
+ },
+ {
+  "type": "THUỐC",
+  "text": "doxycycline",
+  "codes": [
+   "3640"
+  ],
+  "mentions": 7,
+  "docs": [
+   10,
+   12,
+   15,
+   37
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Mày đay vô căn",
+  "codes": [
+   "L50.1"
+  ],
+  "mentions": 4,
+  "docs": [
+   14,
+   19,
+   28,
+   52
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "u ác của tuyến tiền liệt",
+  "codes": [
+   "C61"
+  ],
+  "mentions": 5,
+  "docs": [
+   26,
+   55,
+   97
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "THUỐC",
+  "text": "mucinex d",
+  "codes": [
+   "214599"
+  ],
+  "mentions": 4,
+  "docs": [
+   42,
+   62,
+   95
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh amyloidosis chuỗi nhẹ",
+  "codes": [
+   "E85.8"
+  ],
+  "mentions": 3,
+  "docs": [
+   21,
+   32,
+   79
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "u dây thần kinh số VIII",
+  "codes": [
+   "D33.3"
+  ],
+  "mentions": 3,
+  "docs": [
+   46,
+   55,
+   97
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh thoái hóa tinh bột",
+  "codes": [
+   "E85.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   21,
+   79
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "crestor",
+  "codes": [
+   "301542"
+  ],
+  "mentions": 4,
+  "docs": [
+   57,
+   58
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bầm dập nhu mô",
+  "codes": [
+   "S06.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hội chứng kháng enzym tổng hợp protein",
+  "codes": [
+   "D89.8"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh thủy đậu/Zona",
+  "codes": [
+   "B02.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh tim mạch",
+  "codes": [
+   "I51.6"
+  ],
+  "mentions": 2,
+  "docs": [
+   26,
+   30
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "giãn phế quản",
+  "codes": [
+   "J47"
+  ],
+  "mentions": 2,
+  "docs": [
+   42,
+   62
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "rụng tóc từng vùng",
+  "codes": [
+   "L63.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   49,
+   65
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh thận mạn tính",
+  "codes": [
+   "N18.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   57,
+   58
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn lưỡng cực",
+  "codes": [
+   "F31.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   72,
+   98
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh gout mạn tính",
+  "codes": [
+   "M10.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   80,
+   95
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "metoclopramide 10mg",
+  "codes": [
+   "6915"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "aspirin 325mg",
+  "codes": [
+   "212033"
+  ],
+  "mentions": 2,
+  "docs": [
+   51,
+   70
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Carvedilol",
+  "codes": [
+   "20352"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày ruột do virus",
+  "codes": [
+   "A08.4"
+  ],
+  "mentions": 11,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng ruột kích thích",
+  "codes": [
+   "K58.8"
+  ],
+  "mentions": 3,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm thực quản độ C",
+  "codes": [
+   "K20"
+  ],
+  "mentions": 2,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "áp xe phổi",
+  "codes": [
+   "J85.2"
+  ],
+  "mentions": 2,
+  "docs": [
+   27
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "levothyroxine",
+  "codes": [
+   "10582"
+  ],
+  "mentions": 2,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu máu do tan huyết",
+  "codes": [
+   "D55.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh đa xơ cứng",
+  "codes": [
+   "G35"
+  ],
+  "mentions": 1,
+  "docs": [
+   2
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Thiếu máu cơ tim",
+  "codes": [
+   "I25.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm khớp dạng thấp",
+  "codes": [
+   "M06.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi ống mật",
+  "codes": [
+   "K80.5"
+  ],
+  "mentions": 1,
+  "docs": [
+   18
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Béo phì",
+  "codes": [
+   "E66.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm phổi hoại tử",
+  "codes": [
+   "J85.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   27
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+  "codes": [
+   "A41.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   29
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy thoái võng mạc",
+  "codes": [
+   "H35.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   34
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "XHTH",
+  "codes": [
+   "K92.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   40
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+  "codes": [
+   "C78.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   49
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu máu cơ tim cục bộ",
+  "codes": [
+   "I25.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   65
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bóng tim to",
+  "codes": [
+   "I51.7"
+  ],
+  "mentions": 1,
+  "docs": [
+   77
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tiểu đường loại 1 đái tháo đường",
+  "codes": [
+   "E10.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   85
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư đường mật",
+  "codes": [
+   "C22.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   88
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Cơn nhịp nhanh",
+  "codes": [
+   "I47.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   91
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "trĩ",
+  "codes": [
+   "K64.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   97
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Vastarel (trimetazidin)",
+  "codes": [
+   "10826"
+  ],
+  "mentions": 1,
+  "docs": [
+   3
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "levofloxacin 750mg iv",
+  "codes": [
+   "330371"
+  ],
+  "mentions": 1,
+  "docs": [
+   16
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "levafloxacin",
+  "codes": [
+   "82122"
+  ],
+  "mentions": 1,
+  "docs": [
+   25
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "1mg dilaudid",
+  "codes": [
+   "224913"
+  ],
+  "mentions": 1,
+  "docs": [
+   33
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "acetaminophen",
+  "codes": [
+   "161"
+  ],
+  "mentions": 1,
+  "docs": [
+   44
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Augmentin (amoxicillin/acid clavulanic)",
+  "codes": [
+   "19711"
+  ],
+  "mentions": 1,
+  "docs": [
+   68
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Vancomycin truyền tĩnh mạch",
+  "codes": [
+   "11124"
+  ],
+  "mentions": 1,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ }
+]

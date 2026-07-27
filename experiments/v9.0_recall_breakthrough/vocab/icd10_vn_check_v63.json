@@ -1,0 +1,1817 @@
+{
+ "A08.4": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhiễm trùng đường ruột do vi rút, không xác định"
+  },
+  "our_texts": [
+   "viêm dạ dày ruột do virus"
+  ]
+ },
+ "A09": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm dạ dày- ruột khác và viêm đại tràng do nhiễm trùng và nguyên nhân không xác định"
+  },
+  "our_texts": [
+   "Nhiễm khuẩn đường tiêu hóa"
+  ]
+ },
+ "A41.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhiễm khuẩn huyết do tụ cầu vàng"
+  },
+  "our_texts": [
+   "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin"
+  ]
+ },
+ "A41.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhiễm khuẩn huyết, không đặc hiệu"
+  },
+  "our_texts": [
+   "nhiễm trùng huyết",
+   "nhiễm trùng huyết đường vào tiết niệu",
+   "nhiễm trùng máu"
+  ]
+ },
+ "A82.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh dại, không đặc hiệu"
+  },
+  "our_texts": [
+   "Bệnh dại",
+   "bệnh dại"
+  ]
+ },
+ "B00.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh do nhiễm vi rút Herpes [herpes simplex], không xác định"
+  },
+  "our_texts": [
+   "HSV",
+   "Nhiễm virus Herpes simplex"
+  ]
+ },
+ "B02.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh Zoster không biến chứng"
+  },
+  "our_texts": [
+   "Bệnh thủy đậu/Zona"
+  ]
+ },
+ "B16.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh viêm gan vi rút B cấp tính không có tác nhân delta và không kèm hôn mê gan"
+  },
+  "our_texts": [
+   "Viêm gan cấp tính do virus B thể thông thường điển hình mức độ nặng giai đoạn toàn phát"
+  ]
+ },
+ "B19.1": {
+  "vn_official": null,
+  "our_texts": [
+   "nhiễm virus viêm gan B, C"
+  ]
+ },
+ "B19.2": {
+  "vn_official": null,
+  "our_texts": [
+   "nhiễm virus viêm gan B, C"
+  ]
+ },
+ "B35.6": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh nấm da đùi [nấm bẹn]"
+  },
+  "our_texts": [
+   "Nấm bẹn",
+   "nấm bẹn"
+  ]
+ },
+ "B35.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh nấm da, không xác định"
+  },
+  "our_texts": [
+   "nhiễm nấm da"
+  ]
+ },
+ "C18.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác của đại tràng không đặc hiệu"
+  },
+  "our_texts": [
+   "Ung thư biểu mô tuyến đại tràng",
+   "Ung thư đại tràng",
+   "ung thư tuyến đại tràng"
+  ]
+ },
+ "C20": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác trực tràng"
+  },
+  "our_texts": [
+   "khối u trực tràng",
+   "u ác trực tràng"
+  ]
+ },
+ "C22.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Ung thư biểu mô đường mật trong gan"
+  },
+  "our_texts": [
+   "ung thư biểu mô tế bào mật",
+   "ung thư đường mật"
+  ]
+ },
+ "C50.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác của vú không đặc hiệu"
+  },
+  "our_texts": [
+   "Ung thư vú di căn"
+  ]
+ },
+ "C53.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác của cổ tử cung không đặc hiệu"
+  },
+  "our_texts": [
+   "ung thư cổ tử cung"
+  ]
+ },
+ "C60.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác của dương vật không đặc hiệu"
+  },
+  "our_texts": [
+   "Ung thư biểu mô tế bào vảy xâm nhập của dương vật"
+  ]
+ },
+ "C61": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác của tuyến tiền liệt"
+  },
+  "our_texts": [
+   "u ác của tuyến tiền liệt"
+  ]
+ },
+ "C73": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác của tuyến giáp"
+  },
+  "our_texts": [
+   "ung thư tuyến giáp"
+  ]
+ },
+ "C78.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U ác thứ phát tại phổi"
+  },
+  "our_texts": [
+   "ung thư di căn theo đường bạch huyết ở hai phổi"
+  ]
+ },
+ "C90.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Đa u tuỷ xương"
+  },
+  "our_texts": [
+   "đa u tủy"
+  ]
+ },
+ "C92.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh bạch cầu mạn dòng tuỷ [CML], BCR/ ABL- dương tính"
+  },
+  "our_texts": [
+   "Bệnh bạch cầu dòng tủy mãn tính",
+   "cml"
+  ]
+ },
+ "D12.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U lành của trực tràng"
+  },
+  "our_texts": [
+   "u tuyến"
+  ]
+ },
+ "D33.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U lành thần kinh sọ não"
+  },
+  "our_texts": [
+   "u dây thần kinh số VIII"
+  ]
+ },
+ "D55.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thiếu máu do thiếu men glucose- 6- phosphate dehydrogenase"
+  },
+  "our_texts": [
+   "THIẾU MEN G6PD",
+   "Thiếu men G6PD",
+   "thiếu hụt men G6PD",
+   "thiếu men G6PD",
+   "thiếu máu do tan huyết",
+   "thiếu máu tan huyết"
+  ]
+ },
+ "D64.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thiếu máu không đặc hiệu"
+  },
+  "our_texts": [
+   "thiếu máu"
+  ]
+ },
+ "D68.5": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh tăng đông máu nguyên phát"
+  },
+  "our_texts": [
+   "Thrombophilia",
+   "bệnh tăng đông máu",
+   "hội chứng tăng đông",
+   "thrombophilia"
+  ]
+ },
+ "D84.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Suy giảm miễn dịch đặc hiệu khác"
+  },
+  "our_texts": [
+   "Suy giảm miễn dịch do sử dụng corticoid kéo dài"
+  ]
+ },
+ "D89.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Rối loạn xác định khác liên quan đến cơ chế miễn dịch, không phân loại nơi khác"
+  },
+  "our_texts": [
+   "Hội chứng kháng enzym tổng hợp protein"
+  ]
+ },
+ "E04.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bướu giáp đơn nhân không độc"
+  },
+  "our_texts": [
+   "nốt sần tuyến giáp"
+  ]
+ },
+ "E05.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhiễm độc giáp với bướu lan toả"
+  },
+  "our_texts": [
+   "bệnh Graves"
+  ]
+ },
+ "E10.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh đái tháo đường type 1: chưa có biến chứng"
+  },
+  "our_texts": [
+   "Tiểu đường loại 1 đái tháo đường"
+  ]
+ },
+ "E11.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh đái tháo đường type 2: chưa có biến chứng"
+  },
+  "our_texts": [
+   "Tiểu đường",
+   "tiểu đường",
+   "ĐTD typ II",
+   "Đái tháo đường",
+   "Đái tháo đường typ II",
+   "Đái tháo đường típ 2",
+   "đái tháo đường"
+  ]
+ },
+ "E28.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hội chứng buồng trứng đa nang"
+  },
+  "our_texts": [
+   "Hội chứng buồng trứng đa nang"
+  ]
+ },
+ "E56.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thiếu vitamin K"
+  },
+  "our_texts": [
+   "thiếu hụt vitamin K"
+  ]
+ },
+ "E58": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thiếu Calci do chế độ ăn"
+  },
+  "our_texts": [
+   "Thiếu canxi"
+  ]
+ },
+ "E66.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Béo phì, không đặc hiệu"
+  },
+  "our_texts": [
+   "Béo phì",
+   "béo phì"
+  ]
+ },
+ "E78.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tăng cholesterol máu đơn thuần"
+  },
+  "our_texts": [
+   "tăng cholesterol máu đơn thuần"
+  ]
+ },
+ "E78.5": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tăng lipid máu, không đặc hiệu"
+  },
+  "our_texts": [
+   "Rối loạn lipid máu",
+   "rối loạn lipid máu",
+   "tăng lipid máu"
+  ]
+ },
+ "E85.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thoái hoá dạng bột mang tính di truyền gia đình, không đặc hiệu"
+  },
+  "our_texts": [
+   "amyloidosis di truyền hoặc gia đình"
+  ]
+ },
+ "E85.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thoái hoá dạng bột khác"
+  },
+  "our_texts": [
+   "Bệnh amyloidosis chuỗi nhẹ"
+  ]
+ },
+ "E85.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thoái hoá dạng bột, không đặc hiệu"
+  },
+  "our_texts": [
+   "Bệnh amyloidosis",
+   "Bệnh thoái hóa tinh bột",
+   "Rối loạn chuyển hóa tinh bột (amyloidosis)",
+   "amyloidosis",
+   "bệnh amyloidosis",
+   "bệnh thoái hóa tinh bột"
+  ]
+ },
+ "E87.5": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tăng kali máu"
+  },
+  "our_texts": [
+   "tăng kali máu"
+  ]
+ },
+ "F10.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hội chứng nghiện rượu"
+  },
+  "our_texts": [
+   "hội chứng nghiện rượu"
+  ]
+ },
+ "F11.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Sử dụng gây hại các chất dạng thuốc phiện"
+  },
+  "our_texts": [
+   "Lạm dụng chất kích thích, chất gây nghiện opioid"
+  ]
+ },
+ "F31.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Rối loạn cảm xúc lưỡng cực không biệt định"
+  },
+  "our_texts": [
+   "Rối loạn lưỡng cực",
+   "rối loạn cảm xúc lưỡng cực"
+  ]
+ },
+ "F32.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Giai đoạn trầm cảm không đặc hiệu"
+  },
+  "our_texts": [
+   "Rối loạn cảm xúc (trầm cảm)",
+   "trầm cảm"
+  ]
+ },
+ "F39": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Rối loạn khí sắc (cảm xúc) biệt định"
+  },
+  "our_texts": [
+   "Rối loạn cảm xúc"
+  ]
+ },
+ "F41.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Rối loạn lo âu, không biệt định"
+  },
+  "our_texts": [
+   "rối loạn lo âu"
+  ]
+ },
+ "G20": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh Parkinson"
+  },
+  "our_texts": [
+   "hội chứng Parkinson"
+  ]
+ },
+ "G35": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Đa xơ cứng, xơ cứng rải rác"
+  },
+  "our_texts": [
+   "Bệnh đa xơ cứng"
+  ]
+ },
+ "G43.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh đau nửa đầu [migraine], không đặc hiệu"
+  },
+  "our_texts": [
+   "Bệnh lý đau nửa đầu",
+   "bệnh đau nửa đầu Migraine",
+   "đau nửa đầu",
+   "đau nửa đầu"
+  ]
+ },
+ "G47.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Ngừng thở khi ngủ"
+  },
+  "our_texts": [
+   "Ngưng thở khi ngủ do tắc nghẽn",
+   "ngưng thở khi ngủ",
+   "ngưng thở khi ngủ do tắc nghẽn",
+   "ngừng thở khi ngủ"
+  ]
+ },
+ "G62.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh đa dây thần kinh, không đặc hiệu"
+  },
+  "our_texts": [
+   "bệnh lý thần kinh ngoại biên"
+  ]
+ },
+ "G80.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bại não, không đặc hiệu"
+  },
+  "our_texts": [
+   "Bại não",
+   "bại não"
+  ]
+ },
+ "G82.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Liệt hai chi dưới, không đặc hiệu"
+  },
+  "our_texts": [
+   "liệt hai chi dưới"
+  ]
+ },
+ "G91.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Não úng thuỷ, không đặc hiệu"
+  },
+  "our_texts": [
+   "não úng thủy"
+  ]
+ },
+ "G93.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nang dịch não"
+  },
+  "our_texts": [
+   "nang màng nhện"
+  ]
+ },
+ "H35.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Các bệnh lý võng mạc, không đặc hiệu"
+  },
+  "our_texts": [
+   "suy thoái võng mạc"
+  ]
+ },
+ "H40.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Glocom, không đặc hiệu"
+  },
+  "our_texts": [
+   "Tăng nhãn áp",
+   "tăng nhãn áp"
+  ]
+ },
+ "H47.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Phù gai thị, không đặc hiệu"
+  },
+  "our_texts": [
+   "Phù gai thị",
+   "phù gai thị"
+  ]
+ },
+ "I10": {
+  "vn_official": {
+   "model": "type",
+   "name_vi": "Tăng huyết áp vô căn (nguyên phát)"
+  },
+  "our_texts": [
+   "Tăng HA",
+   "Tăng huyết áp",
+   "Tăng huyết áp nguyên phát",
+   "bệnh tăng HA vô căn",
+   "tăng HA",
+   "tăng huyết áp",
+   "ăng huyết áp"
+  ]
+ },
+ "I20.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Cơn đau thắt ngực không ổn định"
+  },
+  "our_texts": [
+   "Cơn đau thắt ngực không ổn định",
+   "Đau thắt ngực không ổn định"
+  ]
+ },
+ "I20.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Dạng khác của cơn đau thắt ngực"
+  },
+  "our_texts": [
+   "Đau thắt ngực ổn định",
+   "đau thắt ngực ổn định"
+  ]
+ },
+ "I21.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhồi máu cơ tim xuyên thành cấp ở vị trí không xác định"
+  },
+  "our_texts": [
+   "Nhồi máu cơ tim ST chênh"
+  ]
+ },
+ "I21.4": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhồi máu cơ tim dưới nội tâm mạc cấp"
+  },
+  "our_texts": [
+   "Nhồi máu không ST chênh"
+  ]
+ },
+ "I21.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhồi máu cơ tim cấp, không đặc hiệu"
+  },
+  "our_texts": [
+   "Nhồi máu cơ tim",
+   "nhồi máu cơ tim"
+  ]
+ },
+ "I24.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh tim do thiếu máu cục bộ cấp, không đặc hiệu"
+  },
+  "our_texts": [
+   "Hội chứng vành cấp"
+  ]
+ },
+ "I25.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh tim mạch do xơ vữa động mạch"
+  },
+  "our_texts": [
+   "BỆNH MẠCH VÀNH",
+   "Bệnh mạch vành",
+   "Bệnh tim mạch do xơ vữa động mạch",
+   "Xơ vữa động mạch vành",
+   "bệnh ba thân động mạch vành nghiêm trọng",
+   "bệnh mạch vành",
+   "bệnh động mạch vành",
+   "hẹp tắc mạch vành"
+  ]
+ },
+ "I25.4": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Phình bóc tách động mạch vành"
+  },
+  "our_texts": [
+   "Phình giãn động mạch vành",
+   "phình giãn động mạch vành"
+  ]
+ },
+ "I25.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh tim thiếu máu cục bộ mạn, không đặc hiệu"
+  },
+  "our_texts": [
+   "Suy vành mạn tính",
+   "Thiếu máu cơ tim",
+   "thiếu máu cơ tim",
+   "thiếu máu cơ tim cục bộ"
+  ]
+ },
+ "I26.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thuyên tắc mạch phổi không có tâm phế cấp"
+  },
+  "our_texts": [
+   "Thuyên tắc phổi",
+   "thuyên tắc phổi",
+   "thuyên tắc phổi hai bên"
+  ]
+ },
+ "I27.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tăng áp động mạch phổi thứ phát khác"
+  },
+  "our_texts": [
+   "Tăng áp lực động mạch phổi"
+  ]
+ },
+ "I27.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh tim do phổi, không đặc hiệu"
+  },
+  "our_texts": [
+   "Tâm phế mạn"
+  ]
+ },
+ "I31.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tràn dịch màng ngoài tim (không do viêm)"
+  },
+  "our_texts": [
+   "Tràn dịch màng tim",
+   "tràn dịch màng ngoài tim"
+  ]
+ },
+ "I31.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh màng ngoài tim, không đặc hiệu"
+  },
+  "our_texts": [
+   "chèn ép tim"
+  ]
+ },
+ "I34.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hở (van) hai lá"
+  },
+  "our_texts": [
+   "HoHL",
+   "Hở hai lá"
+  ]
+ },
+ "I35.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hở (van) động mạch chủ"
+  },
+  "our_texts": [
+   "Hở chủ"
+  ]
+ },
+ "I36.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hở (van) ba lá không do thấp"
+  },
+  "our_texts": [
+   "Hở ba lá"
+  ]
+ },
+ "I47.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhịp nhanh kịch phát trên thất"
+  },
+  "our_texts": [
+   "Cơn nhịp nhanh",
+   "Cơn tim nhanh nhĩ",
+   "nhịp nhanh trên thất"
+  ]
+ },
+ "I48.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Rung nhĩ và cuồng nhĩ, không đặc hiệu"
+  },
+  "our_texts": [
+   "Rung nhĩ",
+   "Rung nhĩ kèm đáp ứng thất nhanh",
+   "rung nhĩ"
+  ]
+ },
+ "I49.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Ngoại tâm thu nhĩ"
+  },
+  "our_texts": [
+   "ngoại tâm thu nhĩ"
+  ]
+ },
+ "I49.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Ngoại tâm thu thất"
+  },
+  "our_texts": [
+   "ngoại tâm thu thất"
+  ]
+ },
+ "I50.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Suy tim, không đặc hiệu"
+  },
+  "our_texts": [
+   "Suy tim",
+   "Suy tim không do thiếu máu cơ tim",
+   "suy tim",
+   "suy tim, không đặc hiệu"
+  ]
+ },
+ "I51.4": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm cơ tim, không đặc hiệu"
+  },
+  "our_texts": [
+   "Viêm cơ tim"
+  ]
+ },
+ "I51.6": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh tim mạch, không đặc hiệu"
+  },
+  "our_texts": [
+   "bệnh tim mạch"
+  ]
+ },
+ "I51.7": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tim to"
+  },
+  "our_texts": [
+   "bóng tim to",
+   "tim to"
+  ]
+ },
+ "I51.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh lý tim mạch không rõ ràng khác"
+  },
+  "our_texts": [
+   "giảm chức năng tâm thu thất trái",
+   "viêm tim"
+  ]
+ },
+ "I60.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xuất huyết dưới nhện, không đặc hiệu"
+  },
+  "our_texts": [
+   "xuất huyết dưới nhện"
+  ]
+ },
+ "I62.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xuất huyết dưới màng cứng không do chấn thương"
+  },
+  "our_texts": [
+   "tụ máu dưới màng cứng mạn tính"
+  ]
+ },
+ "I64": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Đột quỵ (tai biến mạch máu não), không xác định do xuất huyết hay nhồi máu"
+  },
+  "our_texts": [
+   "tai biến mạch máu não",
+   "đột quỵ"
+  ]
+ },
+ "I70.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xơ vữa động mạch thận"
+  },
+  "our_texts": [
+   "tắc hẹp 80% động mạch thận trái L"
+  ]
+ },
+ "I70.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xơ vữa động mạch, toàn thể và không xác định"
+  },
+  "our_texts": [
+   "xơ vữa động mạch"
+  ]
+ },
+ "I73.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh mạch máu ngoại biên, không đặc hiệu"
+  },
+  "our_texts": [
+   "bệnh mạch máu ngoại biên"
+  ]
+ },
+ "I77.6": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm động mạch, không đặc hiệu"
+  },
+  "our_texts": [
+   "bệnh viêm mạch máu"
+  ]
+ },
+ "I80.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm tĩnh mạch và viêm tắc tĩnh mạch của các tĩnh mạch sâu khác ở chi dưới"
+  },
+  "our_texts": [
+   "DVT",
+   "huyết khối tĩnh mạch sâu"
+  ]
+ },
+ "I86.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Túi giãn tĩnh mạch bìu"
+  },
+  "our_texts": [
+   "Giãn thừng tinh",
+   "giãn thừng tinh"
+  ]
+ },
+ "J02.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm họng cấp, không đặc hiệu"
+  },
+  "our_texts": [
+   "viêm họng cấp"
+  ]
+ },
+ "J06.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhiễm trùng đường hô hấp trên cấp, không xác định"
+  },
+  "our_texts": [
+   "nhiễm trùng đường hô hấp trên"
+  ]
+ },
+ "J18.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm phổi, không đặc hiệu"
+  },
+  "our_texts": [
+   "RLL PNA",
+   "Viêm phổi",
+   "Viêm phổi bệnh viện",
+   "viêm phổi",
+   "viêm phổi thùy dưới phải"
+  ]
+ },
+ "J32.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm mũi xoang mạn tính, không đặc hiệu"
+  },
+  "our_texts": [
+   "viêm xoang"
+  ]
+ },
+ "J40": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm phế quản không xác định là cấp hay mạn tính"
+  },
+  "our_texts": [
+   "viêm phế quản"
+  ]
+ },
+ "J44.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh phổi tắc nghẽn mạn tính đợt cấp, không đặc hiệu"
+  },
+  "our_texts": [
+   "Đợt cấp COPD"
+  ]
+ },
+ "J44.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh phổi tắc nghẽn mạn tính, không xác định"
+  },
+  "our_texts": [
+   "bệnh phổi tắc nghẽn mạn tính"
+  ]
+ },
+ "J47": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Giãn phế quản"
+  },
+  "our_texts": [
+   "giãn phế quản"
+  ]
+ },
+ "J81": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Phù phổi"
+  },
+  "our_texts": [
+   "Phù phổi cấp",
+   "phù phổi cấp"
+  ]
+ },
+ "J84.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh phổi mô kẽ, không phân loại"
+  },
+  "our_texts": [
+   "Bệnh phổi kẽ",
+   "viêm phổi kẽ"
+  ]
+ },
+ "J85.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hoại thư và hoại tử ở phổi"
+  },
+  "our_texts": [
+   "Viêm phổi hoại tử",
+   "viêm phổi hoại tử"
+  ]
+ },
+ "J85.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Áp xe phổi không có viêm phổi"
+  },
+  "our_texts": [
+   "Áp xe phổi",
+   "áp xe phổi",
+   "áp-xe phổi"
+  ]
+ },
+ "J90": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tràn dịch màng phổi, không phân loại nơi khác"
+  },
+  "our_texts": [
+   "tràn dịch màng phổi",
+   "tràn dịch màng phổi hai bên"
+  ]
+ },
+ "J96.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Suy hô hấp, không xác định"
+  },
+  "our_texts": [
+   "suy hô hấp"
+  ]
+ },
+ "J98.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xẹp phổi"
+  },
+  "our_texts": [
+   "xẹp phổi"
+  ]
+ },
+ "K02.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Sâu răng, không đặc hiệu"
+  },
+  "our_texts": [
+   "sâu răng"
+  ]
+ },
+ "K05.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm quanh răng mạn tính"
+  },
+  "our_texts": [
+   "Viêm nha chu",
+   "Viêm quanh răng",
+   "viêm nha chu"
+  ]
+ },
+ "K12.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm mô tế bào và áp xe của miệng"
+  },
+  "our_texts": [
+   "nhiễm trùng răng miệng"
+  ]
+ },
+ "K20": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm thực quản"
+  },
+  "our_texts": [
+   "Viêm thực quản độ C"
+  ]
+ },
+ "K21.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh trào ngược dạ dày- thực quản không có viêm thực quản"
+  },
+  "our_texts": [
+   "trào ngược dạ dày thực quản"
+  ]
+ },
+ "K22.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Loét thực quản"
+  },
+  "our_texts": [
+   "loét thực quản"
+  ]
+ },
+ "K26.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Loét tá tràng: Không xác định là cấp hay mạn, không xuất huyết hay thủng"
+  },
+  "our_texts": [
+   "loét tá tràng"
+  ]
+ },
+ "K29.4": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm teo niêm mạc dạ dày mạn tính"
+  },
+  "our_texts": [
+   "viêm teo niêm mạc dạ dày"
+  ]
+ },
+ "K29.7": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm dạ dày, không đặc hiệu"
+  },
+  "our_texts": [
+   "Viêm hang vị sung huyết",
+   "viêm dạ dày",
+   "viêm sung huyết hang vị dạ dày"
+  ]
+ },
+ "K51.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm loét đại tràng chảy máu, không đặc hiệu"
+  },
+  "our_texts": [
+   "Viêm loét đại tràng"
+  ]
+ },
+ "K58.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hội chứng ruột kích thích khác và không đặc hiệu"
+  },
+  "our_texts": [
+   "hội chứng ruột kích thích"
+  ]
+ },
+ "K59.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Táo bón"
+  },
+  "our_texts": [
+   "Táo bón mãn tính"
+  ]
+ },
+ "K59.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Phình đại tràng, không phần loại nơi khác"
+  },
+  "our_texts": [
+   "đại tràng giãn"
+  ]
+ },
+ "K64.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Trĩ, không đặc hiệu"
+  },
+  "our_texts": [
+   "trĩ"
+  ]
+ },
+ "K65.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm phúc mạc cấp"
+  },
+  "our_texts": [
+   "áp xe"
+  ]
+ },
+ "K70.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xơ gan do rượu"
+  },
+  "our_texts": [
+   "xơ gan do rượu"
+  ]
+ },
+ "K70.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh gan do rượu, không đặc hiệu"
+  },
+  "our_texts": [
+   "Bệnh gan do rượu"
+  ]
+ },
+ "K74.6": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xơ gan khác và không xác định"
+  },
+  "our_texts": [
+   "xơ gan mất bù"
+  ]
+ },
+ "K76.6": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tăng áp lực tĩnh mạch cửa"
+  },
+  "our_texts": [
+   "tăng áp lực tĩnh mạch cửa"
+  ]
+ },
+ "K80.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Sỏi túi mật không có viêm túi mật"
+  },
+  "our_texts": [
+   "sỏi mật"
+  ]
+ },
+ "K80.5": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Sỏi mật không viêm đường mật hay viêm túi mật"
+  },
+  "our_texts": [
+   "sỏi đoạn cuối ống mật chủ",
+   "sỏi ống dẫn mật chung đoạn cuối",
+   "sỏi ống mật"
+  ]
+ },
+ "K81.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm túi mật cấp"
+  },
+  "our_texts": [
+   "viêm túi mật cấp"
+  ]
+ },
+ "K85.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm tuỵ cấp, không đặc hiệu"
+  },
+  "our_texts": [
+   "viêm tụy"
+  ]
+ },
+ "K92.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xuất huyết tiêu hoá, không đặc hiệu"
+  },
+  "our_texts": [
+   "XHTH",
+   "Xuất huyết tiêu hóa"
+  ]
+ },
+ "L03.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm mô bào không đặc hiệu"
+  },
+  "our_texts": [
+   "Viêm mô tế bào",
+   "viêm mô tế bào"
+  ]
+ },
+ "L08.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Các nhiễm trùng khu trú ở da và tổ chức dưới da không đặc hiệu"
+  },
+  "our_texts": [
+   "nhiễm trùng chi dưới bên phải",
+   "viêm nhiễm ngoài da"
+  ]
+ },
+ "L23.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm da tiếp xúc dị ứng, nguyên nhân không đặc hiệu"
+  },
+  "our_texts": [
+   "viêm da tiếp xúc dị ứng"
+  ]
+ },
+ "L25.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm da tiếp xúc không đặc hiệu, không xác định nguyên nhân"
+  },
+  "our_texts": [
+   "viêm da tiếp xúc"
+  ]
+ },
+ "L40.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Vảy nến, không đặc hiệu"
+  },
+  "our_texts": [
+   "bệnh vảy nến"
+  ]
+ },
+ "L50.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Mày đay tự phát"
+  },
+  "our_texts": [
+   "MÀY ĐAY VÔ CĂN",
+   "MÀY đay VÔ CĂN",
+   "Mày đay vô căn",
+   "bệnh lý mày đay vô căn"
+  ]
+ },
+ "L50.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Mày đay khác"
+  },
+  "our_texts": [
+   "MÀY ĐAY MẠN TÍNH",
+   "MÀY đay MẠN"
+  ]
+ },
+ "L63.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Rụng tóc từng mảng, không đặc hiệu"
+  },
+  "our_texts": [
+   "rụng tóc từng mảng",
+   "rụng tóc từng vùng"
+  ]
+ },
+ "L70.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Trứng cá, không đặc hiệu"
+  },
+  "our_texts": [
+   "mụn trứng cá"
+  ]
+ },
+ "L73.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm tuyến mồ hôi mủ (nhọt ổ gà)"
+  },
+  "our_texts": [
+   "viêm tuyến mồ hôi"
+  ]
+ },
+ "L73.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh nang lông, không đặc hiệu"
+  },
+  "our_texts": [
+   "viêm nang lông"
+  ]
+ },
+ "L81.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tàn nhang"
+  },
+  "our_texts": [
+   "tàn nhang"
+  ]
+ },
+ "L89.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Loét tì đè giai đoạn IV"
+  },
+  "our_texts": [
+   "loét tì đè giai đoạn IV mãn tính"
+  ]
+ },
+ "M06.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm khớp dạng thấp không đặc hiệu"
+  },
+  "our_texts": [
+   "viêm khớp dạng thấp"
+  ]
+ },
+ "M10.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh Gút không đặc hiệu"
+  },
+  "our_texts": [
+   "bệnh gout mạn tính",
+   "bệnh gút",
+   "bệnhgout",
+   "gout"
+  ]
+ },
+ "M11.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh vôi hoá sụn khác"
+  },
+  "our_texts": [
+   "Giả gout"
+  ]
+ },
+ "M30.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hội chứng hạch- da- niêm mạc [Kawasaki]"
+  },
+  "our_texts": [
+   "Bệnh Kawasaki",
+   "Kawasaki",
+   "bệnh Kawasaki"
+  ]
+ },
+ "M48.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hẹp ống sống"
+  },
+  "our_texts": [
+   "hẹp ống sống",
+   "hẹp ống sống C4-5, C5-6, C6-7"
+  ]
+ },
+ "M81.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Loãng xương không đặc hiệu"
+  },
+  "our_texts": [
+   "loãng xương"
+  ]
+ },
+ "M86.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Viêm xương tuỷ xương không đặc hiệu"
+  },
+  "our_texts": [
+   "bệnh viêm tuỷ xương",
+   "viêm tủy xương",
+   "viêm xương tủy"
+  ]
+ },
+ "N03.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hội chứng viêm thận mạn, không xác định"
+  },
+  "our_texts": [
+   "Tổn thương cầu thận mạn tính",
+   "Viêm cầu thận mạn"
+  ]
+ },
+ "N04.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hội chứng thận hư không xác định"
+  },
+  "our_texts": [
+   "Hội chứng thận hư"
+  ]
+ },
+ "N12": {
+  "vn_official": {
+   "model": "type",
+   "name_vi": "Viêm mô kẽ ống thận, không xác định cấp hay mạn"
+  },
+  "our_texts": [
+   "viêm bể thận"
+  ]
+ },
+ "N17.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Suy thận cấp không đặc hiệu"
+  },
+  "our_texts": [
+   "suy thận cấp"
+  ]
+ },
+ "N18.5": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh thận mạn, giai đoạn 5"
+  },
+  "our_texts": [
+   "Suy thận mạn giai đoạn V",
+   "suy thận mạn giai đoạn 5"
+  ]
+ },
+ "N18.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bệnh thận mạn, không đặc hiệu"
+  },
+  "our_texts": [
+   "Bệnh thận mạn tính",
+   "bệnh thận mạn"
+  ]
+ },
+ "N19": {
+  "vn_official": {
+   "model": "type",
+   "name_vi": "Suy thận không xác định"
+  },
+  "our_texts": [
+   "suy thận"
+  ]
+ },
+ "N20.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Sỏi thận"
+  },
+  "our_texts": [
+   "sỏi thận"
+  ]
+ },
+ "N20.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Sỏi niệu quản"
+  },
+  "our_texts": [
+   "Sỏi niệu quản"
+  ]
+ },
+ "N31.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Rối loạn chức năng thần kinh cơ bàng quang, không đặc hiệu"
+  },
+  "our_texts": [
+   "bàng quang thần kinh"
+  ]
+ },
+ "N39.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhiễm khuẩn đường tiết niệu, vị trí không xác định"
+  },
+  "our_texts": [
+   "Nhiễm trùng đường tiết niệu",
+   "nhiễm khuẩn đường tiết niệu",
+   "nhiễm khuẩn đường tiết niệu, vị trí không xác định"
+  ]
+ },
+ "N40": {
+  "vn_official": {
+   "model": "type",
+   "name_vi": "Tăng sản tuyến tiền liệt"
+  },
+  "our_texts": [
+   "tăng sản tuyến tiền liệt"
+  ]
+ },
+ "N46": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Vô sinh nam"
+  },
+  "our_texts": [
+   "vô sinh thứ phát"
+  ]
+ },
+ "N60.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nang đơn vú"
+  },
+  "our_texts": [
+   "u nang tuyến vú"
+  ]
+ },
+ "N60.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "U xơ tuyến vú"
+  },
+  "our_texts": [
+   "u xơ tuyến vú"
+  ]
+ },
+ "N97.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Vô sinh nữ do nguyên nhân vòi trứng"
+  },
+  "our_texts": [
+   "tắc ống dẫn trứng"
+  ]
+ },
+ "N97.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Vô sinh nữ, không đặc hiệu"
+  },
+  "our_texts": [
+   "vô sinh"
+  ]
+ },
+ "O00.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thai ngoài tử cung, không xác định"
+  },
+  "our_texts": [
+   "thai ngoài tử cung"
+  ]
+ },
+ "O14.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tiền sản giật, không đặc hiệu"
+  },
+  "our_texts": [
+   "tiền sản giật",
+   "tiền sản giật"
+  ]
+ },
+ "Q03.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Não úng thuỷ bẩm sinh, không đặc hiệu"
+  },
+  "our_texts": [
+   "não úng tuỷ từ thời kỳ sơ sinh"
+  ]
+ },
+ "Q16.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thiếu, teo hoặc chít hẹp bẩm sinh ống tai ngoài"
+  },
+  "our_texts": [
+   "tịt ống tai ngoài bẩm sinh"
+  ]
+ },
+ "Q17.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Dị tật tai nhỏ"
+  },
+  "our_texts": [
+   "dị tật thiểu sản vành tai"
+  ]
+ },
+ "Q25.0": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Còn ống động mạch"
+  },
+  "our_texts": [
+   "Dị tật còn ống động mạch"
+  ]
+ },
+ "Q66.5": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Bàn chân bẹt bẩm sinh"
+  },
+  "our_texts": [
+   "bàn chân bẹt bẩm sinh",
+   "bệnh bàn chân bẹt"
+  ]
+ },
+ "Q96.9": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Hội chứng Turner, không đặc hiệu"
+  },
+  "our_texts": [
+   "hội chứng turner"
+  ]
+ },
+ "R00.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Nhịp tim chậm, không đặc hiệu"
+  },
+  "our_texts": [
+   "nhịp chậm xoang"
+  ]
+ },
+ "R18": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Cổ trướng"
+  },
+  "our_texts": [
+   "cổ trướng"
+  ]
+ },
+ "R90.8": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Các phát hiện bất thường khác về chẩn đoán hình ảnh của hệ thần kinh trung ương"
+  },
+  "our_texts": [
+   "bệnh lý chất trắng"
+  ]
+ },
+ "S06.3": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Tổn thương não khu trú"
+  },
+  "our_texts": [
+   "Bầm dập nhu mô",
+   "bầm dập nhu mô"
+  ]
+ },
+ "S06.4": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Xuất huyết ngoài màng cứng"
+  },
+  "our_texts": [
+   "Tụ máu ngoài màng cứng phải cấp tính",
+   "tụ máu ngoài màng cứng phải cấp tính"
+  ]
+ },
+ "T14.2": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Gãy xương không xác định vùng cơ thể"
+  },
+  "our_texts": [
+   "gãy xương"
+  ]
+ },
+ "T86.1": {
+  "vn_official": {
+   "model": "disease",
+   "name_vi": "Thất bại và thải bỏ ghép thận"
+  },
+  "our_texts": [
+   "ghép thận thất bại"
+  ]
+ }
+}

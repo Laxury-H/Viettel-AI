@@ -1,0 +1,153 @@
+[
+  {
+    "text": "mụn trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      69,
+      81
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "ghép thận thất bại",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      755,
+      773
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "T86.1"
+    ]
+  },
+  {
+    "text": "coumadin 3.0 mg /ngày",
+    "type": "THUỐC",
+    "position": [
+      805,
+      826
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "855318"
+    ]
+  },
+  {
+    "text": "INR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      866,
+      869
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dưới ngưỡng điều trị",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      870,
+      890
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chảy máu mũi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      933,
+      945
+    ],
+    "assertions": []
+  },
+  {
+    "text": "INR",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1076,
+      1079
+    ],
+    "assertions": []
+  },
+  {
+    "text": "1.7",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1080,
+      1083
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chảy máu mũi",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1156,
+      1168
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1178,
+      1186
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1196,
+      1203
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau bụng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1213,
+      1221
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1232,
+      1240
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1248,
+      1251
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  }
+]

@@ -1,0 +1,389 @@
+[
+  {
+    "text": "ung thư biểu mô tế bào mật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      238,
+      264
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C22.1"
+    ]
+  },
+  {
+    "text": "vô sinh",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      356,
+      363
+    ],
+    "assertions": [],
+    "candidates": [
+      "N97.9"
+    ]
+  },
+  {
+    "text": "xét nghiệm tinh dịch đồ",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      519,
+      542
+    ],
+    "assertions": []
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      616,
+      623
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chụp tử cung vòi trứng",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      664,
+      686
+    ],
+    "assertions": []
+  },
+  {
+    "text": "xét nghiệm nội tiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      749,
+      768
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Hội chứng buồng trứng đa nang",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      982,
+      1011
+    ],
+    "assertions": [],
+    "candidates": [
+      "E28.2"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1031,
+      1038
+    ],
+    "assertions": [],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "siêu âm",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1040,
+      1047
+    ],
+    "assertions": []
+  },
+  {
+    "text": "vô sinh",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1108,
+      1115
+    ],
+    "assertions": [],
+    "candidates": [
+      "N97.9"
+    ]
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1169,
+      1177
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1179,
+      1182
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1184,
+      1187
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1189,
+      1196
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "dịch rò rỉ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1203,
+      1213
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "cholangiogram",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1250,
+      1263
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1478,
+      1488
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1492,
+      1513
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1541,
+      1562
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1579,
+      1589
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1939,
+      1947
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1949,
+      1952
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau ngực",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1954,
+      1962
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "khó thở",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1969,
+      1976
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2011,
+      2014
+    ],
+    "assertions": []
+  },
+  {
+    "text": "buồn nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2366,
+      2374
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2376,
+      2379
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "sốt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2381,
+      2384
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "ớn lạnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2386,
+      2393
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "dịch rò rỉ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      2400,
+      2410
+    ],
+    "assertions": [
+      "isNegated"
+    ]
+  },
+  {
+    "text": "cholangiogram",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2447,
+      2460
+    ],
+    "assertions": []
+  },
+  {
+    "text": "sinh thiết",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2664,
+      2674
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2678,
+      2699
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      2727,
+      2748
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      3002,
+      3005
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lấy mẫu bằng bàn chải",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      3106,
+      3127
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      3144,
+      3154
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cholangiogram",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      3241,
+      3254
+    ],
+    "assertions": []
+  }
+]

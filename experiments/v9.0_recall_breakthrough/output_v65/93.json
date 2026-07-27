@@ -1,0 +1,113 @@
+[
+  {
+    "text": "160/70 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      89,
+      100
+    ],
+    "assertions": []
+  },
+  {
+    "text": "170/60 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      123,
+      134
+    ],
+    "assertions": []
+  },
+  {
+    "text": "150/60 mmHg",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      159,
+      170
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hồi hợp",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      197,
+      204
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cảm giác rợn người",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      206,
+      224
+    ],
+    "assertions": []
+  },
+  {
+    "text": "cảm giác rợn người",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      427,
+      445
+    ],
+    "assertions": []
+  },
+  {
+    "text": "hồi hộp",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      447,
+      454
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tim đập rất mạnh",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      470,
+      486
+    ],
+    "assertions": []
+  },
+  {
+    "text": "lo âu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      986,
+      991
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chụp ct",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1302,
+      1309
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chưa phát hiện bất thường",
+    "type": "KẾT_QUẢ_XÉT_NGHIỆM",
+    "position": [
+      1309,
+      1334
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đại tràng giãn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1382,
+      1396
+    ],
+    "assertions": [],
+    "candidates": [
+      "K59.3"
+    ]
+  }
+]

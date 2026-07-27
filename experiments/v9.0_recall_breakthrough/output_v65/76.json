@@ -1,0 +1,47 @@
+[
+  {
+    "text": "MÀY đay VÔ CĂN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      267,
+      281
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  },
+  {
+    "text": "MÀY đay MẠN",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      365,
+      376
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.8"
+    ]
+  },
+  {
+    "text": "tế bào một nhân",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      435,
+      450
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bệnh lý mày đay vô căn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      836,
+      858
+    ],
+    "assertions": [],
+    "candidates": [
+      "L50.1"
+    ]
+  }
+]

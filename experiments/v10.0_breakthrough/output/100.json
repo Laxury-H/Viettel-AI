@@ -1,0 +1,98 @@
+[
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      157,
+      173
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "cục máu đông",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      280,
+      294
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đi tiêu ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      309,
+      324
+    ],
+    "assertions": []
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      584,
+      597
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      616,
+      629
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "tiền sản giật",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      664,
+      677
+    ],
+    "assertions": [],
+    "candidates": [
+      "O14.9"
+    ]
+  },
+  {
+    "text": "chảy máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      777,
+      785
+    ],
+    "assertions": []
+  },
+  {
+    "text": "aspirin",
+    "type": "THUỐC",
+    "position": [
+      1114,
+      1121
+    ],
+    "assertions": [],
+    "candidates": [
+      "1191"
+    ]
+  },
+  {
+    "text": "3 ngày đại tiện ra máu đỏ tươi gián đoạn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1212,
+      1252
+    ],
+    "assertions": []
+  }
+]

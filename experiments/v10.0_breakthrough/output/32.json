@@ -1,0 +1,400 @@
+[
+  {
+    "text": "Rối loạn chuyển hóa tinh bột (amyloidosis)",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      29,
+      71
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "Bệnh thoái hóa tinh bột",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      308,
+      331
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "bệnh amyloidosis",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      337,
+      353
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "Bệnh bạch cầu dòng tủy mãn tính",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      765,
+      796
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "C92.1"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      807,
+      814
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "Tăng huyết áp",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      821,
+      834
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "I10"
+    ]
+  },
+  {
+    "text": "tăng lipid máu",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      841,
+      855
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E78.5"
+    ]
+  },
+  {
+    "text": "Đái tháo đường típ 2",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      878,
+      898
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "E11.9"
+    ]
+  },
+  {
+    "text": "hẹp ống sống",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      905,
+      917
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "M48.0"
+    ]
+  },
+  {
+    "text": "Giả gout",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      924,
+      932
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "M11.2"
+    ]
+  },
+  {
+    "text": "bệnh thận mạn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      939,
+      952
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N18.9"
+    ]
+  },
+  {
+    "text": "tăng sản tuyến tiền liệt",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      987,
+      1011
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "N40"
+    ]
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1028,
+      1031
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "Ngã",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1040,
+      1043
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1050,
+      1057
+    ],
+    "assertions": [
+      "isHistorical"
+    ]
+  },
+  {
+    "text": "gleevec",
+    "type": "THUỐC",
+    "position": [
+      1089,
+      1096
+    ],
+    "assertions": [
+      "isHistorical"
+    ],
+    "candidates": [
+      "282386"
+    ]
+  },
+  {
+    "text": "Toàn trạng suy kiệt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1184,
+      1203
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1231,
+      1238
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1254,
+      1260
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1369,
+      1376
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1401,
+      1407
+    ],
+    "assertions": []
+  },
+  {
+    "text": "yếu cơ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1447,
+      1453
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ngã",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1462,
+      1465
+    ],
+    "assertions": []
+  },
+  {
+    "text": "toàn trạng suy kiệt",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1505,
+      1524
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ảo giác",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1531,
+      1538
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Lú lẫn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1545,
+      1551
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Ăn uống kém",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1558,
+      1569
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nôn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1581,
+      1584
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Nôn không ra máu",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1592,
+      1608
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Bệnh amyloidosis chuỗi nhẹ",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1637,
+      1663
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.8"
+    ]
+  },
+  {
+    "text": "Bệnh amyloidosis",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1673,
+      1689
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "amyloidosis di truyền hoặc gia đình",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1717,
+      1752
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.2"
+    ]
+  },
+  {
+    "text": "Bệnh thoái hóa tinh bột",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1753,
+      1776
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "amyloidosis",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1891,
+      1902
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  },
+  {
+    "text": "amyloidosis",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      2036,
+      2047
+    ],
+    "assertions": [],
+    "candidates": [
+      "E85.9"
+    ]
+  }
+]

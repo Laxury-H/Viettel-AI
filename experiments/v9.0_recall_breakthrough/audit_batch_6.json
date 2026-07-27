@@ -1,0 +1,652 @@
+[
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "trầm cảm",
+  "codes": [
+   "F32.9"
+  ],
+  "mentions": 8,
+  "docs": [
+   8,
+   17,
+   34,
+   69,
+   71,
+   72,
+   98
+  ],
+  "ndocs": 7
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường típ 2",
+  "codes": [
+   "E11.9"
+  ],
+  "mentions": 5,
+  "docs": [
+   14,
+   29,
+   32,
+   38,
+   54
+  ],
+  "ndocs": 5
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "phù gai thị",
+  "codes": [
+   "H47.1"
+  ],
+  "mentions": 7,
+  "docs": [
+   23,
+   27,
+   45,
+   50
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng sản tuyến tiền liệt",
+  "codes": [
+   "N40"
+  ],
+  "mentions": 4,
+  "docs": [
+   14,
+   32,
+   38,
+   54
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "THUỐC",
+  "text": "allopurinol",
+  "codes": [
+   "519"
+  ],
+  "mentions": 8,
+  "docs": [
+   34,
+   43,
+   63
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh lý thần kinh ngoại biên",
+  "codes": [
+   "G62.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   57,
+   58,
+   68
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh amyloidosis",
+  "codes": [
+   "E85.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   21,
+   32,
+   79
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy tim, không đặc hiệu",
+  "codes": [
+   "I50.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   33,
+   51,
+   70
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "codes": [
+   "I62.0"
+  ],
+  "mentions": 4,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "isosorbide",
+  "codes": [
+   "6057"
+  ],
+  "mentions": 4,
+  "docs": [
+   57,
+   58
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ăng huyết áp",
+  "codes": [
+   "I10"
+  ],
+  "mentions": 2,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh phổi kẽ",
+  "codes": [
+   "J84.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "HSV",
+  "codes": [
+   "B00.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tàn nhang",
+  "codes": [
+   "L81.2"
+  ],
+  "mentions": 2,
+  "docs": [
+   25,
+   98
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ngưng thở khi ngủ do tắc nghẽn",
+  "codes": [
+   "G47.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   42,
+   95
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "rụng tóc từng mảng",
+  "codes": [
+   "L63.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   49,
+   65
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Suy tim không do thiếu máu cơ tim",
+  "codes": [
+   "I50.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   57,
+   58
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn cảm xúc",
+  "codes": [
+   "F39"
+  ],
+  "mentions": 2,
+  "docs": [
+   72,
+   98
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnhgout",
+  "codes": [
+   "M10.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   80,
+   95
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Pimperam",
+  "codes": [
+   "6915"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "furosemide",
+  "codes": [
+   "4603"
+  ],
+  "mentions": 2,
+  "docs": [
+   51,
+   70
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Crestor",
+  "codes": [
+   "301542"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu men G6PD",
+  "codes": [
+   "D55.0"
+  ],
+  "mentions": 13,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh Kawasaki",
+  "codes": [
+   "M30.3"
+  ],
+  "mentions": 3,
+  "docs": [
+   2
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng răng miệng",
+  "codes": [
+   "K12.2"
+  ],
+  "mentions": 2,
+  "docs": [
+   3
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh mạch vành",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tắc hẹp 80% động mạch thận trái L",
+  "codes": [
+   "I70.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   96
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu hụt men G6PD",
+  "codes": [
+   "D55.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh viêm mạch máu",
+  "codes": [
+   "I77.6"
+  ],
+  "mentions": 1,
+  "docs": [
+   2
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Phình giãn động mạch vành",
+  "codes": [
+   "I25.4"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm quanh răng",
+  "codes": [
+   "K05.3"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu máu cơ tim",
+  "codes": [
+   "I25.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   18
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Xơ vữa động mạch vành",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "rối loạn cảm xúc lưỡng cực",
+  "codes": [
+   "F31.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy hô hấp",
+  "codes": [
+   "J96.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   29
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm xoang",
+  "codes": [
+   "J32.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   34
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "cml",
+  "codes": [
+   "C92.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   38
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tràn dịch màng ngoài tim",
+  "codes": [
+   "I31.3"
+  ],
+  "mentions": 1,
+  "docs": [
+   49
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh Graves",
+  "codes": [
+   "E05.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   64
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hở ba lá",
+  "codes": [
+   "I36.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   77
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh tăng đông máu",
+  "codes": [
+   "D68.5"
+  ],
+  "mentions": 1,
+  "docs": [
+   81
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh tăng HA vô căn",
+  "codes": [
+   "I10"
+  ],
+  "mentions": 1,
+  "docs": [
+   87
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư đại tràng",
+  "codes": [
+   "C18.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   91
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "gout",
+  "codes": [
+   "M10.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   95
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "ASA",
+  "codes": [
+   "1191"
+  ],
+  "mentions": 1,
+  "docs": [
+   2
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "vancomycin 1 gram",
+  "codes": [
+   "1807513"
+  ],
+  "mentions": 1,
+  "docs": [
+   16
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Vitamin 3B x 4 viên",
+  "codes": [
+   "11251"
+  ],
+  "mentions": 1,
+  "docs": [
+   24
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "8mg morphine",
+  "codes": [
+   "7052"
+  ],
+  "mentions": 1,
+  "docs": [
+   33
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Tretinoin",
+  "codes": [
+   "10753"
+  ],
+  "mentions": 1,
+  "docs": [
+   41
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "vitamin 3b",
+  "codes": [
+   "11251"
+  ],
+  "mentions": 1,
+  "docs": [
+   66
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Cefepim",
+  "codes": [
+   "20481"
+  ],
+  "mentions": 1,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ }
+]

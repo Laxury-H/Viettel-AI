@@ -1,0 +1,523 @@
+{
+ "161": {
+  "rxnorm_name": "acetaminophen",
+  "tty": "IN",
+  "our_texts": [
+   "acetaminophen",
+   "paracetamol viên"
+  ]
+ },
+ "197": {
+  "rxnorm_name": "acetylcysteine",
+  "tty": "IN",
+  "our_texts": [
+   "nac"
+  ]
+ },
+ "435": {
+  "rxnorm_name": "albuterol",
+  "tty": "IN",
+  "our_texts": [
+   "Albuterol"
+  ]
+ },
+ "519": {
+  "rxnorm_name": "allopurinol",
+  "tty": "IN",
+  "our_texts": [
+   "allopurinol"
+  ]
+ },
+ "612": {
+  "rxnorm_name": "aluminum hydroxide",
+  "tty": "IN",
+  "our_texts": [
+   "Nhôm hydroxid",
+   "nhôm hydroxid"
+  ]
+ },
+ "1191": {
+  "rxnorm_name": "aspirin",
+  "tty": "IN",
+  "our_texts": [
+   "ASA",
+   "asa",
+   "aspirin"
+  ]
+ },
+ "1202": {
+  "rxnorm_name": "atenolol",
+  "tty": "IN",
+  "our_texts": [
+   "atenolol"
+  ]
+ },
+ "1808": {
+  "rxnorm_name": "bumetanide",
+  "tty": "IN",
+  "our_texts": [
+   "bumetanide 2mg iv"
+  ]
+ },
+ "2231": {
+  "rxnorm_name": "cephalexin",
+  "tty": "IN",
+  "our_texts": [
+   "cephalexin"
+  ]
+ },
+ "2598": {
+  "rxnorm_name": "clonazepam",
+  "tty": "IN",
+  "our_texts": [
+   "klonopin"
+  ]
+ },
+ "2599": {
+  "rxnorm_name": "clonidine",
+  "tty": "IN",
+  "our_texts": [
+   "clonidine"
+  ]
+ },
+ "3443": {
+  "rxnorm_name": "diltiazem",
+  "tty": "IN",
+  "our_texts": [
+   "10mg iv diltiazem"
+  ]
+ },
+ "3640": {
+  "rxnorm_name": "doxycycline",
+  "tty": "IN",
+  "our_texts": [
+   "doxycyclin",
+   "doxycycline"
+  ]
+ },
+ "4603": {
+  "rxnorm_name": "furosemide",
+  "tty": "IN",
+  "our_texts": [
+   "80mg lasix iv",
+   "furosemide"
+  ]
+ },
+ "4850": {
+  "rxnorm_name": "glucose",
+  "tty": "IN",
+  "our_texts": [
+   "Glucose 5% x 1000ml truyền tĩnh mạch"
+  ]
+ },
+ "4917": {
+  "rxnorm_name": "nitroglycerin",
+  "tty": "IN",
+  "our_texts": [
+   "Nitramyl",
+   "Nitramyl 2,5 mg/viên",
+   "nitroglycerin",
+   "ntg"
+  ]
+ },
+ "6057": {
+  "rxnorm_name": "isosorbide",
+  "tty": "IN",
+  "our_texts": [
+   "Isosorbide",
+   "isosorbide"
+  ]
+ },
+ "6470": {
+  "rxnorm_name": "lorazepam",
+  "tty": "IN",
+  "our_texts": [
+   "lorazepam"
+  ]
+ },
+ "6581": {
+  "rxnorm_name": "magnesium hydroxide",
+  "tty": "IN",
+  "our_texts": [
+   "magie hydroxid"
+  ]
+ },
+ "6813": {
+  "rxnorm_name": "methadone",
+  "tty": "IN",
+  "our_texts": [
+   "methadone"
+  ]
+ },
+ "6902": {
+  "rxnorm_name": "methylprednisolone",
+  "tty": "IN",
+  "our_texts": [
+   "Medrol 16mg x 3 viên, uống 8h sáng sau ăn no"
+  ]
+ },
+ "6915": {
+  "rxnorm_name": "metoclopramide",
+  "tty": "IN",
+  "our_texts": [
+   "Pimperam",
+   "Pimperan",
+   "metoclopramide",
+   "metoclopramide 10mg"
+  ]
+ },
+ "6918": {
+  "rxnorm_name": "metoprolol",
+  "tty": "IN",
+  "our_texts": [
+   "metoprolol"
+  ]
+ },
+ "7052": {
+  "rxnorm_name": "morphine",
+  "tty": "IN",
+  "our_texts": [
+   "8mg morphine",
+   "morphine"
+  ]
+ },
+ "7213": {
+  "rxnorm_name": "ipratropium",
+  "tty": "IN",
+  "our_texts": [
+   "Ipratropium 1 lần"
+  ]
+ },
+ "7646": {
+  "rxnorm_name": "omeprazole",
+  "tty": "IN",
+  "our_texts": [
+   "omeprazole"
+  ]
+ },
+ "9796": {
+  "rxnorm_name": "simethicone",
+  "tty": "IN",
+  "our_texts": [
+   "Simethicon 100mg"
+  ]
+ },
+ "9863": {
+  "rxnorm_name": "sodium chloride",
+  "tty": "IN",
+  "our_texts": [
+   "4000 ml NS 0.9 %"
+  ]
+ },
+ "10582": {
+  "rxnorm_name": "levothyroxine",
+  "tty": "IN",
+  "our_texts": [
+   "Berlthyrox",
+   "levothyroxine"
+  ]
+ },
+ "10753": {
+  "rxnorm_name": "tretinoin",
+  "tty": "IN",
+  "our_texts": [
+   "Tretinoin"
+  ]
+ },
+ "10826": {
+  "rxnorm_name": "trimetazidine",
+  "tty": "IN",
+  "our_texts": [
+   "Vastarel",
+   "Vastarel (trimetazidin)",
+   "trimetazidine"
+  ]
+ },
+ "10831": {
+  "rxnorm_name": "sulfamethoxazole / trimethoprim",
+  "tty": "MIN",
+  "our_texts": [
+   "cotrimoxazol"
+  ]
+ },
+ "11124": {
+  "rxnorm_name": "vancomycin",
+  "tty": "IN",
+  "our_texts": [
+   "Vancomycin truyền tĩnh mạch",
+   "vanco",
+   "vancomycin"
+  ]
+ },
+ "11251": {
+  "rxnorm_name": "vitamin B complex",
+  "tty": "IN",
+  "our_texts": [
+   "Vitamin 3B x 4 viên",
+   "vitamin 3b"
+  ]
+ },
+ "11289": {
+  "rxnorm_name": "warfarin",
+  "tty": "IN",
+  "our_texts": [
+   "coumadin"
+  ]
+ },
+ "17627": {
+  "rxnorm_name": "alverine",
+  "tty": "IN",
+  "our_texts": [
+   "Alverin citrate 40mg"
+  ]
+ },
+ "18631": {
+  "rxnorm_name": "azithromycin",
+  "tty": "IN",
+  "our_texts": [
+   "azithromycin"
+  ]
+ },
+ "19711": {
+  "rxnorm_name": "amoxicillin / clavulanate",
+  "tty": "MIN",
+  "our_texts": [
+   "Augmentin",
+   "Augmentin (amoxicillin/acid clavulanic)"
+  ]
+ },
+ "20352": {
+  "rxnorm_name": "carvedilol",
+  "tty": "IN",
+  "our_texts": [
+   "Carvedilol",
+   "carvedilol"
+  ]
+ },
+ "20481": {
+  "rxnorm_name": "cefepime",
+  "tty": "IN",
+  "our_texts": [
+   "Cefepim"
+  ]
+ },
+ "29046": {
+  "rxnorm_name": "lisinopril",
+  "tty": "IN",
+  "our_texts": [
+   "Zestril 10mg x 1 viên, uống sáng"
+  ]
+ },
+ "38413": {
+  "rxnorm_name": "torsemide",
+  "tty": "IN",
+  "our_texts": [
+   "Torsemide",
+   "Torsemide/ ngày",
+   "torsemide"
+  ]
+ },
+ "74169": {
+  "rxnorm_name": "piperacillin / tazobactam",
+  "tty": "MIN",
+  "our_texts": [
+   "zosyn"
+  ]
+ },
+ "82122": {
+  "rxnorm_name": "levofloxacin",
+  "tty": "IN",
+  "our_texts": [
+   "levafloxacin"
+  ]
+ },
+ "83553": {
+  "rxnorm_name": "Seroquel",
+  "tty": "BN",
+  "our_texts": [
+   "seroquel"
+  ]
+ },
+ "151399": {
+  "rxnorm_name": "Bactrim",
+  "tty": "BN",
+  "our_texts": [
+   "bactrim"
+  ]
+ },
+ "197732": {
+  "rxnorm_name": "furosemide 80 MG Oral Tablet",
+  "tty": "SCD",
+  "our_texts": [
+   "80mg po lasix"
+  ]
+ },
+ "198051": {
+  "rxnorm_name": "omeprazole 20 MG Delayed Release Oral Capsule",
+  "tty": "SCD",
+  "our_texts": [
+   "Omez 20mg x 1 viên, uống 8h sáng"
+  ]
+ },
+ "198440": {
+  "rxnorm_name": "acetaminophen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "our_texts": [
+   "acetaminophen 500mg"
+  ]
+ },
+ "202433": {
+  "rxnorm_name": "Tylenol",
+  "tty": "BN",
+  "our_texts": [
+   "Tylenol 1 gram",
+   "tylenol"
+  ]
+ },
+ "202991": {
+  "rxnorm_name": "Lasix",
+  "tty": "BN",
+  "our_texts": [
+   "lasix 40 mg once"
+  ]
+ },
+ "203546": {
+  "rxnorm_name": "Compazine",
+  "tty": "BN",
+  "our_texts": [
+   "compazine"
+  ]
+ },
+ "212033": {
+  "rxnorm_name": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "our_texts": [
+   "aspirin 325mg",
+   "aspirin 325mg x 1"
+  ]
+ },
+ "214199": {
+  "rxnorm_name": "albuterol / ipratropium",
+  "tty": "MIN",
+  "our_texts": [
+   "albuterolipratropium nebs x2",
+   "albuterolipratropium nebulizer"
+  ]
+ },
+ "214599": {
+  "rxnorm_name": "guaifenesin / pseudoephedrine",
+  "tty": "MIN",
+  "our_texts": [
+   "mucinex d"
+  ]
+ },
+ "215101": {
+  "rxnorm_name": "Aleve",
+  "tty": "BN",
+  "our_texts": [
+   "aleve"
+  ]
+ },
+ "224913": {
+  "rxnorm_name": "Dilaudid",
+  "tty": "BN",
+  "our_texts": [
+   "1mg dilaudid"
+  ]
+ },
+ "274783": {
+  "rxnorm_name": "insulin glargine",
+  "tty": "IN",
+  "our_texts": [
+   "Insulin glargine",
+   "glargine"
+  ]
+ },
+ "282386": {
+  "rxnorm_name": "Gleevec",
+  "tty": "BN",
+  "our_texts": [
+   "gleevec"
+  ]
+ },
+ "301542": {
+  "rxnorm_name": "rosuvastatin",
+  "tty": "IN",
+  "our_texts": [
+   "Crestor",
+   "Rosuvastatin",
+   "crestor"
+  ]
+ },
+ "313988": {
+  "rxnorm_name": "furosemide 40 MG Oral Tablet",
+  "tty": "SCD",
+  "our_texts": [
+   "Furosemid 40 mg x 1 viên, uống sáng"
+  ]
+ },
+ "330371": {
+  "rxnorm_name": "levofloxacin 750 MG",
+  "tty": "SCDC",
+  "our_texts": [
+   "levofloxacin 750mg iv"
+  ]
+ },
+ "352364": {
+  "rxnorm_name": "buprenorphine / naloxone",
+  "tty": "MIN",
+  "our_texts": [
+   "suboxone"
+  ]
+ },
+ "389221": {
+  "rxnorm_name": "etonogestrel 68 MG Drug Implant",
+  "tty": "SCD",
+  "our_texts": [
+   "Implanon"
+  ]
+ },
+ "855318": {
+  "rxnorm_name": "warfarin sodium 3 MG Oral Tablet",
+  "tty": "SCD",
+  "our_texts": [
+   "coumadin 3.0 mg /ngày"
+  ]
+ },
+ "866924": {
+  "rxnorm_name": "metoprolol tartrate 25 MG Oral Tablet",
+  "tty": "SCD",
+  "our_texts": [
+   "metoprolol 25mg po bid"
+  ]
+ },
+ "1364436": {
+  "rxnorm_name": "Eliquis",
+  "tty": "BN",
+  "our_texts": [
+   "eliquis"
+  ]
+ },
+ "1665021": {
+  "rxnorm_name": "ceftriaxone 1000 MG Injection",
+  "tty": "SCD",
+  "our_texts": [
+   "Ceftriaxone 1 gram dùng 1 liều",
+   "Ceftriaxone 1g"
+  ]
+ },
+ "1743704": {
+  "rxnorm_name": "methylprednisolone 125 MG Injection",
+  "tty": "SCD",
+  "our_texts": [
+   "methylprednisolone 125mg iv"
+  ]
+ },
+ "1807513": {
+  "rxnorm_name": "vancomycin 1000 MG Injection",
+  "tty": "SCD",
+  "our_texts": [
+   "vancomycin 1 gram"
+  ]
+ }
+}

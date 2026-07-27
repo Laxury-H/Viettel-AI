@@ -1,0 +1,196 @@
+{
+ "_note": "Chỉ giữ các mã SỐNG SÓT sau vòng phản biện đối kháng. Mỗi mục đều thuộc loại 'mã không tồn tại trong danh mục WHO/BYT' hoặc 'nhầm chương ICD' — KHÔNG có mục nào thuộc loại chuẩn hóa mức đặc hiệu (loại đã làm V47 mất 0.4884 điểm). | BIEN THE B: bo sung 13 quy tac nang do dac hieu theo co cot 26 cua Thong tu 06/2026/TT-BYT. DAY LA GIA THUYET RIENG, chua duoc kiem chung bang diem.",
+ "confirmed": [
+  {
+   "text": "nhiễm virus viêm gan B, C",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "B19.1",
+   "proposed_code": "B18.1",
+   "reason": "B19.1 KHÔNG tồn tại trong ICD-10 WHO. Nhóm B19 chỉ có B19.0 và B19.9. B19.1/B19.2 là mã ICD-10-CM Hoa Kỳ. Mã không tồn tại thì chắc chắn giao rỗng với đáp án nên hiện đang ăn 0 điểm; đổi sang mã WHO hợp lệ là cược một chiều, không thể lỗ."
+  },
+  {
+   "text": "nhiễm virus viêm gan B, C",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "B19.2",
+   "proposed_code": "B18.2",
+   "reason": "Tương tự B19.1. B18.1/B18.2 (viêm gan virus B/C mạn) là mã WHO hợp lệ và giữ được phân biệt B/C mà span nêu rõ."
+  },
+  {
+   "text": "xuất huyết dưới nhện",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "I60.9",
+   "proposed_code": "S06.6",
+   "reason": "Nhầm chương ICD và nhầm căn nguyên. Khối I60-I69 có ghi chú loại trừ tường minh 'Excludes: traumatic intracranial haemorrhage (S06.-)', nên I60.x theo định nghĩa là xuất huyết dưới nhện KHÔNG do chấn thương. Văn bản hồ sơ 6 và 11 ghi rõ bệnh nhân BỊ NGÃ, kèm bầm dập nhu mô và tụ máu ngoài màng cứng cấp — hình thái chấn thương sọ não kinh điển. Bằng chứng nội tại: cùng câu, bản nền đã mã 'bầm dập nhu mô' = S06.3 và 'tụ máu ngoài màng cứng' = S06.4."
+  },
+  {
+   "text": "hẹp ống sống",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M48.0",
+   "proposed_code": "M48.09",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M48.0: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M48.09."
+  },
+  {
+   "text": "Giả gout",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M11.2",
+   "proposed_code": "M11.29",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M11.2: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M11.29."
+  },
+  {
+   "text": "viêm tủy xương",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M86.9",
+   "proposed_code": "M86.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M86.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M86.99."
+  },
+  {
+   "text": "bầm dập nhu mô",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "S06.3",
+   "proposed_code": "S06.30",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho S06.3: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" S06.30."
+  },
+  {
+   "text": "tụ máu ngoài màng cứng phải cấp tính",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "S06.4",
+   "proposed_code": "S06.40",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho S06.4: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" S06.40."
+  },
+  {
+   "text": "Bầm dập nhu mô",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "S06.3",
+   "proposed_code": "S06.30",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho S06.3: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" S06.30."
+  },
+  {
+   "text": "Tụ máu ngoài màng cứng phải cấp tính",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "S06.4",
+   "proposed_code": "S06.40",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho S06.4: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" S06.40."
+  },
+  {
+   "text": "viêm xương tủy",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M86.9",
+   "proposed_code": "M86.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M86.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M86.99."
+  },
+  {
+   "text": "bệnh gút",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M10.9",
+   "proposed_code": "M10.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M10.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M10.99."
+  },
+  {
+   "text": "bệnhgout",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M10.9",
+   "proposed_code": "M10.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M10.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M10.99."
+  },
+  {
+   "text": "bệnh gout mạn tính",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M10.9",
+   "proposed_code": "M10.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M10.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M10.99."
+  },
+  {
+   "text": "tắc hẹp 80% động mạch thận trái L",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "I70.1",
+   "proposed_code": "I70.10",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho I70.1: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" I70.10."
+  },
+  {
+   "text": "viêm khớp dạng thấp",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M06.9",
+   "proposed_code": "M06.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M06.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M06.99."
+  },
+  {
+   "text": "loãng xương",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M81.9",
+   "proposed_code": "M81.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M81.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M81.99."
+  },
+  {
+   "text": "xơ vữa động mạch",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "I70.9",
+   "proposed_code": "I70.90",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho I70.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" I70.90."
+  },
+  {
+   "text": "hẹp ống sống C4-5, C5-6, C6-7",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M48.0",
+   "proposed_code": "M48.09",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M48.0: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M48.09."
+  },
+  {
+   "text": "suy hô hấp",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "J96.9",
+   "proposed_code": "J96.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho J96.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" J96.99."
+  },
+  {
+   "text": "gãy xương",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "T14.2",
+   "proposed_code": "T14.20",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho T14.2: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" T14.20."
+  },
+  {
+   "text": "bệnh viêm tuỷ xương",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M86.9",
+   "proposed_code": "M86.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M86.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M86.99."
+  },
+  {
+   "text": "gout",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "M10.9",
+   "proposed_code": "M10.99",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho M10.9: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" M10.99."
+  },
+  {
+   "text": "Nhiễm khuẩn đường tiêu hóa",
+   "type": "CHẨN_ĐOÁN",
+   "current_code": "A09",
+   "proposed_code": "A09.9",
+   "reason": "Thông tư 06/2026/TT-BYT gắn cờ cột 26 cho A09: khong duoc dung vi da co ma 4 hoac 5 ky tu cu the hon. Thay bang ma con \"vi tri khong xac dinh\" A09.9."
+  }
+ ],
+ "_rejected": [
+  {
+   "text": "hội chứng ruột kích thích",
+   "current_code": "K58.8",
+   "proposed_code": "K58.9",
+   "verdict": "REVERTED_BY_OFFICIAL_CATALOGUE",
+   "reason": "Vòng thẩm định đề xuất sửa vì tin rằng K58.8 không tồn tại, dựa trên một trang tra cứu bên thứ ba. Đối chiếu với danh mục CHÍNH THỨC của Bộ Y Tế (Thông tư 06/2026/TT-BYT, phụ lục 15.844 mã) cho kết quả NGƯỢC LẠI: K58.8 CÓ tồn tại ('Hội chứng khác và/hoặc không xác định của ruột kích thích', dùng được làm bệnh chính), còn K58.9 KHÔNG tồn tại. Áp bản sửa này sẽ thay một mã hợp lệ bằng một mã không tồn tại. ĐÃ HỦY."
+  },
+  {
+   "text": "compazine",
+   "current_code": "203546",
+   "proposed_code": "8704",
+   "verdict": "CURRENT_IS_FINE",
+   "reason": "Văn bản viết nguyên văn 'compazine' — chính là tên biệt dược. RXCUI 203546 = Compazine (TTY=BN) là ánh xạ trung thực nhất với span. Đổi BN sang IN chính là kiểu thay đổi đã làm V47 mất điểm."
+  },
+  {
+   "text": "Hội chứng kháng enzym tổng hợp protein",
+   "current_code": "D89.8",
+   "proposed_code": "M35.8",
+   "verdict": "BOTH_DEFENSIBLE",
+   "reason": "Hội chứng kháng synthetase không có mã ICD-10 riêng ở bất kỳ phiên bản nào. Cả D89.8 lẫn M35.8 đều chỉ là ô residual. Đổi residual này lấy residual kia là cược đối xứng, tức rủi ro thuần túy."
+  }
+ ]
+}

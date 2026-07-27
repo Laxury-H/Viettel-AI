@@ -1,0 +1,658 @@
+[
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "béo phì",
+  "codes": [
+   "E66.9"
+  ],
+  "mentions": 11,
+  "docs": [
+   5,
+   12,
+   15,
+   33,
+   42,
+   51,
+   70,
+   75,
+   84,
+   85,
+   95
+  ],
+  "ndocs": 11
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm sung huyết hang vị dạ dày",
+  "codes": [
+   "K29.7"
+  ],
+  "mentions": 10,
+  "docs": [
+   35,
+   56,
+   67,
+   86,
+   94
+  ],
+  "ndocs": 5
+ },
+ {
+  "type": "THUỐC",
+  "text": "omeprazole",
+  "codes": [
+   "7646"
+  ],
+  "mentions": 10,
+  "docs": [
+   4,
+   21,
+   31,
+   82
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Phù gai thị",
+  "codes": [
+   "H47.1"
+  ],
+  "mentions": 5,
+  "docs": [
+   23,
+   27,
+   45,
+   50
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "MÀY đay MẠN",
+  "codes": [
+   "L50.8"
+  ],
+  "mentions": 4,
+  "docs": [
+   30,
+   44,
+   76,
+   83
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu máu",
+  "codes": [
+   "D64.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   1,
+   36,
+   66
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi mật",
+  "codes": [
+   "K80.2"
+  ],
+  "mentions": 3,
+  "docs": [
+   18,
+   36,
+   44
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng nhãn áp",
+  "codes": [
+   "H40.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   23,
+   45,
+   50
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "THUỐC",
+  "text": "suboxone",
+  "codes": [
+   "352364"
+  ],
+  "mentions": 6,
+  "docs": [
+   72,
+   98
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhịp nhanh trên thất",
+  "codes": [
+   "I47.1"
+  ],
+  "mentions": 4,
+  "docs": [
+   39,
+   47
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm phổi",
+  "codes": [
+   "J18.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   27,
+   40
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tụ máu ngoài màng cứng phải cấp tính",
+  "codes": [
+   "S06.4"
+  ],
+  "mentions": 2,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm mô tế bào",
+  "codes": [
+   "L03.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ngưng thở khi ngủ do tắc nghẽn",
+  "codes": [
+   "G47.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   17,
+   67
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư biểu mô tuyến đại tràng",
+  "codes": [
+   "C18.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   39,
+   47
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng cholesterol máu đơn thuần",
+  "codes": [
+   "E78.0"
+  ],
+  "mentions": 2,
+  "docs": [
+   43,
+   63
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ngừng thở khi ngủ",
+  "codes": [
+   "G47.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   51,
+   70
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm xương tủy",
+  "codes": [
+   "M86.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   59,
+   85
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh gan do rượu",
+  "codes": [
+   "K70.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   73,
+   74
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "liệt hai chi dưới",
+  "codes": [
+   "G82.2"
+  ],
+  "mentions": 2,
+  "docs": [
+   92,
+   99
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "doxycyclin",
+  "codes": [
+   "3640"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Torsemide",
+  "codes": [
+   "38413"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "glargine",
+  "codes": [
+   "274783"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh lý chất trắng",
+  "codes": [
+   "R90.8"
+  ],
+  "mentions": 5,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "coumadin",
+  "codes": [
+   "11289"
+  ],
+  "mentions": 3,
+  "docs": [
+   91
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ngoại tâm thu nhĩ",
+  "codes": [
+   "I49.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   10
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hội chứng thận hư",
+  "codes": [
+   "N04.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "acetaminophen 500mg",
+  "codes": [
+   "198440"
+  ],
+  "mentions": 2,
+  "docs": [
+   22
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bại não",
+  "codes": [
+   "G80.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư tuyến giáp",
+  "codes": [
+   "C73"
+  ],
+  "mentions": 1,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm cơ tim",
+  "codes": [
+   "I51.4"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "sâu răng",
+  "codes": [
+   "K02.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư cổ tử cung",
+  "codes": [
+   "C53.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   25
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhồi máu cơ tim ST chênh",
+  "codes": [
+   "I21.3"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Áp xe phổi",
+  "codes": [
+   "J85.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   27
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "vô sinh thứ phát",
+  "codes": [
+   "N46"
+  ],
+  "mentions": 1,
+  "docs": [
+   31
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm họng cấp",
+  "codes": [
+   "J02.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "phù phổi cấp",
+  "codes": [
+   "J81"
+  ],
+  "mentions": 1,
+  "docs": [
+   46
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng HA",
+  "codes": [
+   "I10"
+  ],
+  "mentions": 1,
+  "docs": [
+   58
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh vảy nến",
+  "codes": [
+   "L40.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   71
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng áp lực tĩnh mạch cửa",
+  "codes": [
+   "K76.6"
+  ],
+  "mentions": 1,
+  "docs": [
+   80
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "gãy xương",
+  "codes": [
+   "T14.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   85
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ngưng thở khi ngủ",
+  "codes": [
+   "G47.3"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng huyết",
+  "codes": [
+   "A41.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Cơn tim nhanh nhĩ",
+  "codes": [
+   "I47.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   99
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "aspirin 325mg x 1",
+  "codes": [
+   "212033"
+  ],
+  "mentions": 1,
+  "docs": [
+   10
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "morphine",
+  "codes": [
+   "7052"
+  ],
+  "mentions": 1,
+  "docs": [
+   20
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "methadone",
+  "codes": [
+   "6813"
+  ],
+  "mentions": 1,
+  "docs": [
+   30
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Omez 20mg x 1 viên, uống 8h sáng",
+  "codes": [
+   "198051"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Implanon",
+  "codes": [
+   "389221"
+  ],
+  "mentions": 1,
+  "docs": [
+   61
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Ceftriaxone 1 gram dùng 1 liều",
+  "codes": [
+   "1665021"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ }
+]

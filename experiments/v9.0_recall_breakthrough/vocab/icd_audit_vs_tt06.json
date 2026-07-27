@@ -1,0 +1,654 @@
+{
+ "invalid": [
+  {
+   "code": "B19.1",
+   "mentions": 1,
+   "texts": [
+    "nhiễm virus viêm gan B, C"
+   ]
+  },
+  {
+   "code": "B19.2",
+   "mentions": 1,
+   "texts": [
+    "nhiễm virus viêm gan B, C"
+   ]
+  }
+ ],
+ "superseded": [
+  {
+   "code": "M86.9",
+   "mentions": 7,
+   "name_vi": "Viêm xương tủy, không xác định",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "viêm tủy xương",
+    "viêm xương tủy"
+   ],
+   "children": [
+    {
+     "code": "M86.90",
+     "name_vi": "Viêm xương tủy, không xác định, nhiều vị trí"
+    },
+    {
+     "code": "M86.91",
+     "name_vi": "Viêm xương tủy, không xác định, vùng vai"
+    },
+    {
+     "code": "M86.92",
+     "name_vi": "Viêm xương tủy, không xác định, cánh tay trên"
+    },
+    {
+     "code": "M86.93",
+     "name_vi": "Viêm xương tủy, không xác định, cẳng tay"
+    },
+    {
+     "code": "M86.94",
+     "name_vi": "Viêm xương tủy, không xác định, bàn tay"
+    },
+    {
+     "code": "M86.95",
+     "name_vi": "Viêm xương tủy, không xác định, vùng chậu và/hoặc đùi"
+    },
+    {
+     "code": "M86.96",
+     "name_vi": "Viêm xương tủy, không xác định, cẳng chân"
+    },
+    {
+     "code": "M86.97",
+     "name_vi": "Viêm xương tủy, không xác định, cổ chân và/hoặc bàn chân"
+    },
+    {
+     "code": "M86.98",
+     "name_vi": "Viêm xương tủy, không xác định, vị trí khác"
+    },
+    {
+     "code": "M86.99",
+     "name_vi": "Viêm xương tủy, không xác định, vị trí không xác định"
+    }
+   ]
+  },
+  {
+   "code": "M10.9",
+   "mentions": 7,
+   "name_vi": "Bệnh gút, không xác định",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "bệnh gút",
+    "bệnhgout"
+   ],
+   "children": [
+    {
+     "code": "M10.90",
+     "name_vi": "Bệnh gút, không xác định, nhiều vị trí"
+    },
+    {
+     "code": "M10.91",
+     "name_vi": "Bệnh gút, không xác định, vùng vai"
+    },
+    {
+     "code": "M10.92",
+     "name_vi": "Bệnh gút, không xác định, cánh tay trên"
+    },
+    {
+     "code": "M10.93",
+     "name_vi": "Bệnh gút, không xác định, cẳng tay"
+    },
+    {
+     "code": "M10.94",
+     "name_vi": "Bệnh gút, không xác định, bàn tay"
+    },
+    {
+     "code": "M10.95",
+     "name_vi": "Bệnh gút, không xác định, vùng chậu và/hoặc đùi"
+    },
+    {
+     "code": "M10.96",
+     "name_vi": "Bệnh gút, không xác định, cẳng chân"
+    },
+    {
+     "code": "M10.97",
+     "name_vi": "Bệnh gút, không xác định, cổ chân và/hoặc bàn chân"
+    },
+    {
+     "code": "M10.98",
+     "name_vi": "Bệnh gút, không xác định, vị trí khác"
+    },
+    {
+     "code": "M10.99",
+     "name_vi": "Bệnh gút, không xác định, vị trí không xác định"
+    }
+   ]
+  },
+  {
+   "code": "M48.0",
+   "mentions": 5,
+   "name_vi": "Hẹp ống sống",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "hẹp ống sống",
+    "hẹp ống sống C4-5, C5-6, C6-7"
+   ],
+   "children": [
+    {
+     "code": "M48.00",
+     "name_vi": "Hẹp ống sống, nhiều vị trí của cột sống"
+    },
+    {
+     "code": "M48.01",
+     "name_vi": "Hẹp ống sống, vùng trục - đội - chẩm"
+    },
+    {
+     "code": "M48.02",
+     "name_vi": "Hẹp ống sống, vùng cổ"
+    },
+    {
+     "code": "M48.03",
+     "name_vi": "Hẹp ống sống, vùng cổ - ngực"
+    },
+    {
+     "code": "M48.04",
+     "name_vi": "Hẹp ống sống, vùng (lồng) ngực"
+    },
+    {
+     "code": "M48.05",
+     "name_vi": "Hẹp ống sống, vùng ngực - thắt lưng"
+    },
+    {
+     "code": "M48.06",
+     "name_vi": "Hẹp ống sống, vùng thắt lưng"
+    },
+    {
+     "code": "M48.07",
+     "name_vi": "Hẹp ống sống, vùng thắt lưng - cùng"
+    },
+    {
+     "code": "M48.08",
+     "name_vi": "Hẹp ống sống, vùng cùng và/hoặc cùng - cụt"
+    },
+    {
+     "code": "M48.09",
+     "name_vi": "Hẹp ống sống, vị trí không xác định"
+    }
+   ]
+  },
+  {
+   "code": "M11.2",
+   "mentions": 4,
+   "name_vi": "Bệnh vôi hóa sụn khớp khác",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "Giả gout"
+   ],
+   "children": [
+    {
+     "code": "M11.20",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, nhiều vị trí"
+    },
+    {
+     "code": "M11.21",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, vùng vai"
+    },
+    {
+     "code": "M11.22",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, cánh tay trên"
+    },
+    {
+     "code": "M11.23",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, cẳng tay"
+    },
+    {
+     "code": "M11.24",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, bàn tay"
+    },
+    {
+     "code": "M11.25",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, vùng chậu và/hoặc đùi"
+    },
+    {
+     "code": "M11.26",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, cẳng chân"
+    },
+    {
+     "code": "M11.27",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, cổ chân và/hoặc bàn chân"
+    },
+    {
+     "code": "M11.28",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, vị trí khác"
+    },
+    {
+     "code": "M11.29",
+     "name_vi": "Bệnh vôi hóa sụn khớp khác, vị trí không xác định"
+    }
+   ]
+  },
+  {
+   "code": "S06.3",
+   "mentions": 4,
+   "name_vi": "Tổn thương não khu trú",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "bầm dập nhu mô",
+    "Bầm dập nhu mô"
+   ],
+   "children": [
+    {
+     "code": "S06.30",
+     "name_vi": "Tổn thương não khu trú, không có vết thương nội sọ hở"
+    },
+    {
+     "code": "S06.31",
+     "name_vi": "Tổn thương não khu trú, có vết thương nội sọ hở"
+    }
+   ]
+  },
+  {
+   "code": "S06.4",
+   "mentions": 4,
+   "name_vi": "Xuất huyết ngoài màng cứng",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "tụ máu ngoài màng cứng phải cấp tính",
+    "Tụ máu ngoài màng cứng phải cấp tính"
+   ],
+   "children": [
+    {
+     "code": "S06.40",
+     "name_vi": "Xuất huyết ngoài màng cứng, không có vết thương nội sọ hở"
+    },
+    {
+     "code": "S06.41",
+     "name_vi": "Xuất huyết ngoài màng cứng, có vết thương nội sọ hở"
+    }
+   ]
+  },
+  {
+   "code": "I70.1",
+   "mentions": 2,
+   "name_vi": "Xơ vữa [xơ cứng] động mạch thận",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "tắc hẹp 80% động mạch thận trái L"
+   ],
+   "children": [
+    {
+     "code": "I70.10",
+     "name_vi": "Xơ vữa [xơ cứng] động mạch thận, không kèm hoại thư"
+    },
+    {
+     "code": "I70.11",
+     "name_vi": "Xơ vữa [xơ cứng] động mạch thận, kèm hoại thư"
+    }
+   ]
+  },
+  {
+   "code": "M06.9",
+   "mentions": 1,
+   "name_vi": "Viêm khớp dạng thấp, không xác định",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "viêm khớp dạng thấp"
+   ],
+   "children": [
+    {
+     "code": "M06.90",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, nhiều vị trí"
+    },
+    {
+     "code": "M06.91",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, vùng vai"
+    },
+    {
+     "code": "M06.92",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, cánh tay trên"
+    },
+    {
+     "code": "M06.93",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, cẳng tay"
+    },
+    {
+     "code": "M06.94",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, bàn tay"
+    },
+    {
+     "code": "M06.95",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, vùng chậu và/hoặc đùi"
+    },
+    {
+     "code": "M06.96",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, cẳng chân"
+    },
+    {
+     "code": "M06.97",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, cổ chân và/hoặc bàn chân"
+    },
+    {
+     "code": "M06.98",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, vị trí khác"
+    },
+    {
+     "code": "M06.99",
+     "name_vi": "Viêm khớp dạng thấp, không xác định, vị trí không xác định"
+    }
+   ]
+  },
+  {
+   "code": "M81.9",
+   "mentions": 1,
+   "name_vi": "Loãng xương, không xác định",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "loãng xương"
+   ],
+   "children": [
+    {
+     "code": "M81.90",
+     "name_vi": "Loãng xương, không xác định, nhiều vị trí"
+    },
+    {
+     "code": "M81.91",
+     "name_vi": "Loãng xương, không xác định, vùng vai"
+    },
+    {
+     "code": "M81.92",
+     "name_vi": "Loãng xương, không xác định, cánh tay trên"
+    },
+    {
+     "code": "M81.93",
+     "name_vi": "Loãng xương, không xác định, cẳng tay"
+    },
+    {
+     "code": "M81.94",
+     "name_vi": "Loãng xương, không xác định, bàn tay"
+    },
+    {
+     "code": "M81.95",
+     "name_vi": "Loãng xương, không xác định, vùng chậu và/hoặc đùi"
+    },
+    {
+     "code": "M81.96",
+     "name_vi": "Loãng xương, không xác định, cẳng chân"
+    },
+    {
+     "code": "M81.97",
+     "name_vi": "Loãng xương, không xác định, cổ chân và/hoặc bàn chân"
+    },
+    {
+     "code": "M81.98",
+     "name_vi": "Loãng xương, không xác định, vị trí khác"
+    },
+    {
+     "code": "M81.99",
+     "name_vi": "Loãng xương, không xác định, vị trí không xác định"
+    }
+   ]
+  },
+  {
+   "code": "I70.9",
+   "mentions": 1,
+   "name_vi": "Xơ vữa động mạch toàn thể và/hoặc xơ vữa động mạch không xác định",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "xơ vữa động mạch"
+   ],
+   "children": [
+    {
+     "code": "I70.90",
+     "name_vi": "Xơ vữa động mạch toàn thể và/hoặc xơ vữa động mạch không xác định, không kèm hoại thư"
+    },
+    {
+     "code": "I70.91",
+     "name_vi": "Xơ vữa động mạch toàn thể và/hoặc xơ vữa động mạch không xác định, kèm hoại thư"
+    }
+   ]
+  },
+  {
+   "code": "J96.9",
+   "mentions": 1,
+   "name_vi": "Suy hô hấp [tiến triển], tính không xác định",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "suy hô hấp"
+   ],
+   "children": [
+    {
+     "code": "J96.90",
+     "name_vi": "Suy hô hấp [tiến triển], tính không xác định, típ I [giảm oxy máu]"
+    },
+    {
+     "code": "J96.91",
+     "name_vi": "Suy hô hấp [tiến triển], tính không xác định, típ II [tăng CO2 máu]"
+    },
+    {
+     "code": "J96.99",
+     "name_vi": "Suy hô hấp [tiến triển], tính không xác định, típ không xác định"
+    }
+   ]
+  },
+  {
+   "code": "T14.2",
+   "mentions": 1,
+   "name_vi": "Gãy xương ở vùng cơ thể không xác định",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "gãy xương"
+   ],
+   "children": [
+    {
+     "code": "T14.20",
+     "name_vi": "Gãy xương ở vùng cơ thể không xác định, gãy kín"
+    },
+    {
+     "code": "T14.21",
+     "name_vi": "Gãy xương ở vùng cơ thể không xác định, gãy hở"
+    }
+   ]
+  },
+  {
+   "code": "A09",
+   "mentions": 1,
+   "name_vi": "Viêm dạ dày - ruột và/hoặc đại tràng do nhiễm trùng và/hoặc không xác định căn nguyên",
+   "flags": [
+    "co_ma_4_hoac_5_ky_tu_cu_the_hon"
+   ],
+   "texts": [
+    "Nhiễm khuẩn đường tiêu hóa"
+   ],
+   "children": [
+    {
+     "code": "A09.0",
+     "name_vi": "Viêm dạ dày - ruột và/hoặc đại tràng do nhiễm trùng khác và/hoặc không xác định"
+    },
+    {
+     "code": "A09.9",
+     "name_vi": "Viêm dạ dày - ruột và/hoặc đại tràng không xác định căn nguyên"
+    }
+   ]
+  }
+ ],
+ "info": [
+  {
+   "code": "C61",
+   "mentions": 5,
+   "name_vi": "U ác tính ở tuyến tiền liệt",
+   "flags": [
+    "chi_o_nam_gioi"
+   ],
+   "texts": [
+    "u ác của tuyến tiền liệt"
+   ],
+   "children": []
+  },
+  {
+   "code": "O14.9",
+   "mentions": 5,
+   "name_vi": "Tiền sản giật, không xác định",
+   "flags": [
+    "chi_o_nu_gioi"
+   ],
+   "texts": [
+    "tiền sản giật",
+    "tiền sản giật"
+   ],
+   "children": []
+  },
+  {
+   "code": "N40",
+   "mentions": 4,
+   "name_vi": "Phì đại [tăng sản] tuyến tiền liệt",
+   "flags": [
+    "chi_o_nam_gioi"
+   ],
+   "texts": [
+    "tăng sản tuyến tiền liệt"
+   ],
+   "children": []
+  },
+  {
+   "code": "N97.9",
+   "mentions": 3,
+   "name_vi": "Vô sinh ở nữ giới, không xác định",
+   "flags": [
+    "chi_o_nu_gioi"
+   ],
+   "texts": [
+    "vô sinh"
+   ],
+   "children": []
+  },
+  {
+   "code": "I86.1",
+   "mentions": 3,
+   "name_vi": "Giãn tĩnh mạch bìu",
+   "flags": [
+    "chi_o_nam_gioi"
+   ],
+   "texts": [
+    "giãn thừng tinh",
+    "Giãn thừng tinh"
+   ],
+   "children": []
+  },
+  {
+   "code": "C60.9",
+   "mentions": 2,
+   "name_vi": "U ác tính ở dương vật, không xác định",
+   "flags": [
+    "chi_o_nam_gioi"
+   ],
+   "texts": [
+    "Ung thư biểu mô tế bào vảy xâm nhập của dương vật"
+   ],
+   "children": []
+  },
+  {
+   "code": "G82.2",
+   "mentions": 2,
+   "name_vi": "Hội chứng liệt nửa người [dưới thắt lưng], không xác định",
+   "flags": [
+    "khong_khuyen_khich_benh_chinh"
+   ],
+   "texts": [
+    "liệt hai chi dưới"
+   ],
+   "children": []
+  },
+  {
+   "code": "E28.2",
+   "mentions": 1,
+   "name_vi": "Hội chứng buồng trứng đa nang",
+   "flags": [
+    "chi_o_nu_gioi"
+   ],
+   "texts": [
+    "Hội chứng buồng trứng đa nang"
+   ],
+   "children": []
+  },
+  {
+   "code": "N97.1",
+   "mentions": 1,
+   "name_vi": "Vô sinh ở nữ giới do nguyên nhân vòi trứng",
+   "flags": [
+    "chi_o_nu_gioi"
+   ],
+   "texts": [
+    "tắc ống dẫn trứng"
+   ],
+   "children": []
+  },
+  {
+   "code": "C53.9",
+   "mentions": 1,
+   "name_vi": "U ác tính ở cổ tử cung, không xác định",
+   "flags": [
+    "chi_o_nu_gioi"
+   ],
+   "texts": [
+    "ung thư cổ tử cung"
+   ],
+   "children": []
+  },
+  {
+   "code": "O00.9",
+   "mentions": 1,
+   "name_vi": "Thai ngoài tử cung, không xác định",
+   "flags": [
+    "chi_o_nu_gioi"
+   ],
+   "texts": [
+    "thai ngoài tử cung"
+   ],
+   "children": []
+  },
+  {
+   "code": "N46",
+   "mentions": 1,
+   "name_vi": "Vô sinh ở nam giới",
+   "flags": [
+    "chi_o_nam_gioi"
+   ],
+   "texts": [
+    "vô sinh thứ phát"
+   ],
+   "children": []
+  },
+  {
+   "code": "Q96.9",
+   "mentions": 1,
+   "name_vi": "Hội chứng Turner, không xác định",
+   "flags": [
+    "chi_o_nu_gioi"
+   ],
+   "texts": [
+    "hội chứng turner"
+   ],
+   "children": []
+  }
+ ]
+}

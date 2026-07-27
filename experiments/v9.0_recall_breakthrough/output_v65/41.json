@@ -1,0 +1,149 @@
+[
+  {
+    "text": "mụn trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      80,
+      92
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "Trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      681,
+      689
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      744,
+      752
+    ],
+    "assertions": []
+  },
+  {
+    "text": "mụn mủ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      780,
+      786
+    ],
+    "assertions": []
+  },
+  {
+    "text": "nốt sần",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      788,
+      795
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      808,
+      816
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "Nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      952,
+      960
+    ],
+    "assertions": []
+  },
+  {
+    "text": "Tretinoin",
+    "type": "THUỐC",
+    "position": [
+      962,
+      971
+    ],
+    "assertions": [],
+    "candidates": [
+      "10753"
+    ]
+  },
+  {
+    "text": "Trứng cá viêm",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      982,
+      995
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.0"
+    ]
+  },
+  {
+    "text": "đau ngực trái",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1115,
+      1128
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau sau xương ức lan ra sau lưng",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1141,
+      1173
+    ],
+    "assertions": []
+  },
+  {
+    "text": "trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1250,
+      1258
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "mụn trứng cá",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1333,
+      1345
+    ],
+    "assertions": [],
+    "candidates": [
+      "L70.9"
+    ]
+  },
+  {
+    "text": "nhân mụn",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1953,
+      1961
+    ],
+    "assertions": []
+  }
+]

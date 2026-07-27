@@ -1,0 +1,653 @@
+[
+ {
+  "type": "THUỐC",
+  "text": "gleevec",
+  "codes": [
+   "282386"
+  ],
+  "mentions": 18,
+  "docs": [
+   14,
+   32,
+   34,
+   38,
+   43,
+   54,
+   63
+  ],
+  "ndocs": 7
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy tim",
+  "codes": [
+   "I50.9"
+  ],
+  "mentions": 6,
+  "docs": [
+   2,
+   26,
+   46,
+   67,
+   77
+  ],
+  "ndocs": 5
+ },
+ {
+  "type": "THUỐC",
+  "text": "tylenol",
+  "codes": [
+   "202433"
+  ],
+  "mentions": 8,
+  "docs": [
+   19,
+   42,
+   62,
+   95
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Giả gout",
+  "codes": [
+   "M11.2"
+  ],
+  "mentions": 4,
+  "docs": [
+   14,
+   32,
+   38,
+   54
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh dại",
+  "codes": [
+   "A82.9"
+  ],
+  "mentions": 21,
+  "docs": [
+   13,
+   16,
+   20
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng kali máu",
+  "codes": [
+   "E87.5"
+  ],
+  "mentions": 4,
+  "docs": [
+   53,
+   57,
+   58
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn chuyển hóa tinh bột (amyloidosis)",
+  "codes": [
+   "E85.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   21,
+   32,
+   79
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng nhãn áp",
+  "codes": [
+   "H40.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   23,
+   27,
+   45
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nang màng nhện",
+  "codes": [
+   "G93.0"
+  ],
+  "mentions": 4,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "magie hydroxid",
+  "codes": [
+   "6581"
+  ],
+  "mentions": 4,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh tim mạch do xơ vữa động mạch",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "đại tràng giãn",
+  "codes": [
+   "K59.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   9,
+   93
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhiễm virus Herpes simplex",
+  "codes": [
+   "B00.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "đa u tủy",
+  "codes": [
+   "C90.0"
+  ],
+  "mentions": 2,
+  "docs": [
+   21,
+   79
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rung nhĩ",
+  "codes": [
+   "I48.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   39,
+   47
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng áp lực động mạch phổi",
+  "codes": [
+   "I27.2"
+  ],
+  "mentions": 2,
+  "docs": [
+   46,
+   77
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh ba thân động mạch vành nghiêm trọng",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   56,
+   68
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng chi dưới bên phải",
+  "codes": [
+   "L08.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   69,
+   71
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh gút",
+  "codes": [
+   "M10.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   80,
+   95
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Simethicon 100mg",
+  "codes": [
+   "9796"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "azithromycin",
+  "codes": [
+   "18631"
+  ],
+  "mentions": 2,
+  "docs": [
+   42,
+   62
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Rosuvastatin",
+  "codes": [
+   "301542"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "vancomycin",
+  "codes": [
+   "11124"
+  ],
+  "mentions": 2,
+  "docs": [
+   69,
+   71
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Thiếu men G6PD",
+  "codes": [
+   "D55.0"
+  ],
+  "mentions": 3,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tai biến mạch máu não",
+  "codes": [
+   "I64"
+  ],
+  "mentions": 2,
+  "docs": [
+   3
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tiểu đường",
+  "codes": [
+   "E11.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Thuyên tắc phổi",
+  "codes": [
+   "I26.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   91
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "THIẾU MEN G6PD",
+  "codes": [
+   "D55.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hẹp tắc mạch vành",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   2
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn cảm xúc (trầm cảm)",
+  "codes": [
+   "F32.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm gan cấp tính do virus B thể thông thường điển hình mức độ nặng giai đoạn toàn phát",
+  "codes": [
+   "B16.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   10
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tiểu đường",
+  "codes": [
+   "E11.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "xơ vữa động mạch",
+  "codes": [
+   "I70.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm tụy",
+  "codes": [
+   "K85.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+  "codes": [
+   "I48.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   29
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh đau nửa đầu Migraine",
+  "codes": [
+   "G43.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   34
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nốt sần tuyến giáp",
+  "codes": [
+   "E04.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư vú di căn",
+  "codes": [
+   "C50.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   49
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ghép thận thất bại",
+  "codes": [
+   "T86.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   60
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "u tuyến",
+  "codes": [
+   "D12.8"
+  ],
+  "mentions": 1,
+  "docs": [
+   75
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Thrombophilia",
+  "codes": [
+   "D68.5"
+  ],
+  "mentions": 1,
+  "docs": [
+   81
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Cơn đau thắt ngực không ổn định",
+  "codes": [
+   "I20.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   87
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng turner",
+  "codes": [
+   "Q96.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   91
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "chèn ép tim",
+  "codes": [
+   "I31.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   94
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tiền sản giật",
+  "codes": [
+   "O14.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   100
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "bumetanide 2mg iv",
+  "codes": [
+   "1808"
+  ],
+  "mentions": 1,
+  "docs": [
+   16
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Glucose 5% x 1000ml truyền tĩnh mạch",
+  "codes": [
+   "4850"
+  ],
+  "mentions": 1,
+  "docs": [
+   24
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "80mg lasix iv",
+  "codes": [
+   "4603"
+  ],
+  "mentions": 1,
+  "docs": [
+   33
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Ceftriaxone 1g",
+  "codes": [
+   "1665021"
+  ],
+  "mentions": 1,
+  "docs": [
+   40
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Nitramyl",
+  "codes": [
+   "4917"
+  ],
+  "mentions": 1,
+  "docs": [
+   64
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "4000 ml NS 0.9 %",
+  "codes": [
+   "9863"
+  ],
+  "mentions": 1,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ }
+]

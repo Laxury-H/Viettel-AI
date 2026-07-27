@@ -1,0 +1,192 @@
+{
+ "_doc": "Ung vien sua RXCUI, doi chieu RxNav/RxNorm 07/06/2026. old=dang dung, new=de xuat.",
+ "brand_mention_should_use_BN": [
+  {
+   "text": "suboxone",
+   "old": "352364",
+   "old_desc": "MIN buprenorphine / naloxone",
+   "new": "352990",
+   "new_desc": "BN Suboxone",
+   "mentions": 6
+  },
+  {
+   "text": "mucinex d",
+   "old": "214599",
+   "old_desc": "MIN guaifenesin / pseudoephedrine",
+   "new": null,
+   "new_desc": "KHONG SUA. 2388175 la concept MMSL \"NotCurrent\", khong phai BN RxNorm hop le. Khong co BN \"Mucinex D\" hien hanh -> giu MIN 214599.",
+   "mentions": 4
+  },
+  {
+   "text": "crestor / Crestor",
+   "old": "301542",
+   "old_desc": "IN rosuvastatin",
+   "new": "320864",
+   "new_desc": "BN Crestor",
+   "mentions": 6
+  },
+  {
+   "text": "klonopin",
+   "old": "2598",
+   "old_desc": "IN clonazepam",
+   "new": "202585",
+   "new_desc": "BN Klonopin",
+   "mentions": 3
+  },
+  {
+   "text": "coumadin",
+   "old": "11289",
+   "old_desc": "IN warfarin",
+   "new": "202421",
+   "new_desc": "BN Coumadin",
+   "mentions": 3
+  },
+  {
+   "text": "zosyn",
+   "old": "74169",
+   "old_desc": "MIN piperacillin / tazobactam",
+   "new": "74170",
+   "new_desc": "BN Zosyn",
+   "mentions": 3
+  },
+  {
+   "text": "Augmentin",
+   "old": "19711",
+   "old_desc": "MIN amoxicillin / clavulanate",
+   "new": "151392",
+   "new_desc": "BN Augmentin",
+   "mentions": 3
+  },
+  {
+   "text": "Medrol 16mg ...",
+   "old": "6902",
+   "old_desc": "IN methylprednisolone",
+   "new": "202702",
+   "new_desc": "BN Medrol",
+   "mentions": 1
+  },
+  {
+   "text": "Zestril 10mg ...",
+   "old": "29046",
+   "old_desc": "IN lisinopril",
+   "new": "196472",
+   "new_desc": "BN Zestril",
+   "mentions": 1
+  },
+  {
+   "text": "Implanon",
+   "old": "389221",
+   "old_desc": "SCD etonogestrel 68 MG Drug Implant",
+   "new": null,
+   "new_desc": "KHONG SUA. BN Implanon 194722 da OBSOLETE (het hieu luc 06/2020). Giu SCD 389221, hoac BN Nexplanon 1111008 neu van ban noi Nexplanon.",
+   "mentions": 1
+  }
+ ],
+ "level_inconsistency_lasix": {
+  "note": "Ba mention cua cung mot thuoc duoc gan ba muc TTY khac nhau -> chon mot quy uoc.",
+  "cases": [
+   {
+    "text": "lasix 40 mg once",
+    "code": "202991",
+    "tty": "BN Lasix"
+   },
+   {
+    "text": "80mg po lasix",
+    "code": "197732",
+    "tty": "SCD furosemide 80 MG Oral Tablet"
+   },
+   {
+    "text": "80mg lasix iv",
+    "code": "4603",
+    "tty": "IN furosemide"
+   }
+  ]
+ },
+ "wrong_level_SCDC": [
+  {
+   "text": "levofloxacin 750mg iv",
+   "old": "330371",
+   "old_desc": "SCDC 'levofloxacin 750 MG' - la COMPONENT, khong phai thuoc hoan chinh",
+   "suggest": "dung SCD dang tiem, hoac lui ve IN 82122 levofloxacin"
+  }
+ ],
+ "verified_correct_examples": [
+  {
+   "code": "7646",
+   "desc": "IN omeprazole - dung cho mention hoat chat"
+  },
+  {
+   "code": "151399",
+   "desc": "BN Bactrim - dung cho mention biet duoc"
+  },
+  {
+   "code": "202433",
+   "desc": "BN Tylenol"
+  },
+  {
+   "code": "282386",
+   "desc": "BN Gleevec"
+  },
+  {
+   "code": "519",
+   "desc": "IN allopurinol"
+  },
+  {
+   "code": "3640",
+   "desc": "IN doxycycline"
+  },
+  {
+   "code": "161",
+   "desc": "IN acetaminophen (= paracetamol, RxNorm co synonym 'paracetamol' -> 161)"
+  }
+ ],
+ "memory_error_found": {
+  "637188": "KHONG phai amoxicillin/clavulanate. Thuc te = SBD 'varenicline 0.5 MG Oral Tablet [Chantix]'. Ma dung cho amoxicillin/clavulanate: MIN 19711, BN Augmentin 151392."
+ },
+ "vietnam_brands_not_in_rxnorm": {
+  "note": "Tra RxNav (full RxNorm) - khong tim thay. Phai anh xa ve hoat chat goc.",
+  "absent": [
+   "Aquima",
+   "Simenic",
+   "Philpovin",
+   "Fortex",
+   "Vastarel",
+   "Berlthyrox",
+   "Omez",
+   "Nitramyl",
+   "Pimperan/Primperan"
+  ],
+  "current_fallbacks_are_reasonable": {
+   "Vastarel": "10826 IN trimetazidine (co trong full RxNorm, KHONG co trong prescribable subset)",
+   "Berlthyrox": "10582 IN levothyroxine",
+   "Nitramyl": "4917 IN nitroglycerin",
+   "Pimperan/Pimperam": "6915 IN metoclopramide",
+   "Omez 20mg": "198051 SCD omeprazole 20 MG DR Oral Capsule"
+  }
+ },
+ "inn_synonyms_confirmed_in_full_rxnorm_only": {
+  "paracetamol": "161",
+  "salbutamol": "435",
+  "glyceryl trinitrate": "4917",
+  "frusemide": "4603",
+  "adrenaline": "3992",
+  "noradrenaline": "7512",
+  "thiamine/vitamin B1": "10454",
+  "_note": "Cac ten INN/Anh nay KHONG co trong file Prescribable Content (chi co ten My). Muon match offline phai lay tu full release hoac hard-code."
+ },
+ "_verified_replacements": {
+  "320864": "BN Crestor",
+  "202585": "BN Klonopin",
+  "202421": "BN Coumadin",
+  "151392": "BN Augmentin",
+  "352990": "BN Suboxone",
+  "74170": "BN Zosyn",
+  "202702": "BN Medrol",
+  "196472": "BN Zestril",
+  "71767": "PIN alverine citrate"
+ },
+ "_rejected_replacements": {
+  "2388175": "MMSL NotCurrent, khong dung",
+  "194722": "BN Implanon OBSOLETE tu 06/2020"
+ }
+}

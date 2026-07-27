@@ -1,0 +1,655 @@
+[
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh lý mày đay vô căn",
+  "codes": [
+   "L50.1"
+  ],
+  "mentions": 8,
+  "docs": [
+   14,
+   19,
+   28,
+   30,
+   44,
+   52,
+   76,
+   83
+  ],
+  "ndocs": 8
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "mụn trứng cá",
+  "codes": [
+   "L70.9"
+  ],
+  "mentions": 7,
+  "docs": [
+   25,
+   33,
+   41,
+   59,
+   60
+  ],
+  "ndocs": 5
+ },
+ {
+  "type": "THUỐC",
+  "text": "bactrim",
+  "codes": [
+   "151399"
+  ],
+  "mentions": 8,
+  "docs": [
+   12,
+   15,
+   37,
+   92
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hẹp ống sống",
+  "codes": [
+   "M48.0"
+  ],
+  "mentions": 4,
+  "docs": [
+   14,
+   32,
+   38,
+   54
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "rối loạn lo âu",
+  "codes": [
+   "F41.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   69,
+   72,
+   90,
+   98
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "codes": [
+   "K80.5"
+  ],
+  "mentions": 4,
+  "docs": [
+   21,
+   31,
+   82
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "MÀY ĐAY MẠN TÍNH",
+  "codes": [
+   "L50.8"
+  ],
+  "mentions": 3,
+  "docs": [
+   19,
+   28,
+   52
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "não úng thủy",
+  "codes": [
+   "G91.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   23,
+   45,
+   50
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh Kawasaki",
+  "codes": [
+   "M30.3"
+  ],
+  "mentions": 5,
+  "docs": [
+   2,
+   8
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm tủy xương",
+  "codes": [
+   "M86.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   92,
+   99
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhồi máu cơ tim",
+  "codes": [
+   "I21.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   2,
+   26
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "trào ngược dạ dày thực quản",
+  "codes": [
+   "K21.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tịt ống tai ngoài bẩm sinh",
+  "codes": [
+   "Q16.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   48
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh mạch vành",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   18,
+   64
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "xẹp phổi",
+  "codes": [
+   "J98.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   39,
+   47
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hở chủ",
+  "codes": [
+   "I35.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   46,
+   77
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "giảm chức năng tâm thu thất trái",
+  "codes": [
+   "I51.8"
+  ],
+  "mentions": 2,
+  "docs": [
+   56,
+   68
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thuyên tắc phổi hai bên",
+  "codes": [
+   "I26.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   69,
+   71
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm nấm da",
+  "codes": [
+   "B35.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   75,
+   84
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Alverin citrate 40mg",
+  "codes": [
+   "17627"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "metoprolol",
+  "codes": [
+   "6918"
+  ],
+  "mentions": 2,
+  "docs": [
+   33,
+   91
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Isosorbide",
+  "codes": [
+   "6057"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Augmentin",
+  "codes": [
+   "19711"
+  ],
+  "mentions": 2,
+  "docs": [
+   68,
+   88
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "u nang tuyến vú",
+  "codes": [
+   "N60.0"
+  ],
+  "mentions": 5,
+  "docs": [
+   66
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu máu tan huyết",
+  "codes": [
+   "D55.0"
+  ],
+  "mentions": 2,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm nha chu",
+  "codes": [
+   "K05.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thrombophilia",
+  "codes": [
+   "D68.5"
+  ],
+  "mentions": 2,
+  "docs": [
+   81
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "vanco",
+  "codes": [
+   "11124"
+  ],
+  "mentions": 2,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "phình giãn động mạch vành",
+  "codes": [
+   "I25.4"
+  ],
+  "mentions": 1,
+  "docs": [
+   2
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hội chứng buồng trứng đa nang",
+  "codes": [
+   "E28.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   5
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm tuyến mồ hôi",
+  "codes": [
+   "L73.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   10
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thiếu hụt vitamin K",
+  "codes": [
+   "E56.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "BỆNH MẠCH VÀNH",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đau thắt ngực không ổn định",
+  "codes": [
+   "I20.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hẹp ống sống C4-5, C5-6, C6-7",
+  "codes": [
+   "M48.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   28
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh lý đau nửa đầu",
+  "codes": [
+   "G43.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   34
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm cầu thận mạn",
+  "codes": [
+   "N03.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Suy tim",
+  "codes": [
+   "I50.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   46
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng HA",
+  "codes": [
+   "I10"
+  ],
+  "mentions": 1,
+  "docs": [
+   58
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "u ác trực tràng",
+  "codes": [
+   "C20"
+  ],
+  "mentions": 1,
+  "docs": [
+   75
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng tăng đông",
+  "codes": [
+   "D68.5"
+  ],
+  "mentions": 1,
+  "docs": [
+   81
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "DVT",
+  "codes": [
+   "I80.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   85
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm phổi kẽ",
+  "codes": [
+   "J84.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng huyết đường vào tiết niệu",
+  "codes": [
+   "A41.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhịp chậm xoang",
+  "codes": [
+   "R00.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   99
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "metoclopramide",
+  "codes": [
+   "6915"
+  ],
+  "mentions": 1,
+  "docs": [
+   15
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "paracetamol viên",
+  "codes": [
+   "161"
+  ],
+  "mentions": 1,
+  "docs": [
+   24
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "asa",
+  "codes": [
+   "1191"
+  ],
+  "mentions": 1,
+  "docs": [
+   33
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Zestril 10mg x 1 viên, uống sáng",
+  "codes": [
+   "29046"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Nitramyl 2,5 mg/viên",
+  "codes": [
+   "4917"
+  ],
+  "mentions": 1,
+  "docs": [
+   64
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "albuterolipratropium nebs x2",
+  "codes": [
+   "214199"
+  ],
+  "mentions": 1,
+  "docs": [
+   91
+  ],
+  "ndocs": 1
+ }
+]

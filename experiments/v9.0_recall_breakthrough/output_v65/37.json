@@ -1,0 +1,119 @@
+[
+  {
+    "text": "không có lỗ tai",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      84,
+      99
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đo âm tai",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      213,
+      222
+    ],
+    "assertions": []
+  },
+  {
+    "text": "vành tai không phát triển đều",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      375,
+      404
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đau",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      990,
+      993
+    ],
+    "assertions": []
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1087,
+      1093
+    ],
+    "assertions": []
+  },
+  {
+    "text": "chảy mủ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1095,
+      1102
+    ],
+    "assertions": []
+  },
+  {
+    "text": "bactrim",
+    "type": "THUỐC",
+    "position": [
+      1211,
+      1218
+    ],
+    "assertions": [],
+    "candidates": [
+      "151399"
+    ]
+  },
+  {
+    "text": "doxycycline",
+    "type": "THUỐC",
+    "position": [
+      1222,
+      1233
+    ],
+    "assertions": [],
+    "candidates": [
+      "3640"
+    ]
+  },
+  {
+    "text": "Viêm mô tế bào",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      1256,
+      1270
+    ],
+    "assertions": [],
+    "candidates": [
+      "L03.9"
+    ]
+  },
+  {
+    "text": "ban đỏ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1310,
+      1316
+    ],
+    "assertions": []
+  },
+  {
+    "text": "dịch tiết có vẻ như mủ",
+    "type": "TRIỆU_CHỨNG",
+    "position": [
+      1323,
+      1345
+    ],
+    "assertions": []
+  },
+  {
+    "text": "đo thính lực",
+    "type": "TÊN_XÉT_NGHIỆM",
+    "position": [
+      1783,
+      1795
+    ],
+    "assertions": []
+  }
+]

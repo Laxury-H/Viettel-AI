@@ -1,0 +1,165 @@
+{
+ "_meta": {
+  "created": "2026-07-27",
+  "purpose": "Danh sach cap ma DANG NGO trong v63_code_pairs.json, xep theo do tin cay x so mention. Dung cho vong tham dinh tiep theo.",
+  "sources": {
+   "who_icd10_2019": "https://icd.who.int/browse10/2019/en (GetConcept / JsonGetChildrenConcepts, khong can dang ky)",
+   "vn_moh": "vocab/icd10_vn_tt06_2026.json (Thong tu 06/2026/TT-BYT, phu luc ICD-10 tieng Viet)",
+   "rxnorm": "https://rxnav.nlm.nih.gov/REST/ (RxNav API, public domain, khong can API key)"
+  },
+  "confidence_levels": {
+   "A": "Sai chac chan - co Excludes/dinh nghia chinh thuc bac bo ma hien tai",
+   "B": "Nghi ngo manh - noi bo mau thuan hoac ma khong khop dinh nghia",
+   "C": "Can nguoi doc lai ngu canh"
+  }
+ },
+
+ "icd10_suspects": [
+  {"rank": 1, "confidence": "A", "text": "u xơ tuyến vú", "doc": 66, "mentions": 5,
+   "current": "N60.2", "proposed": "D24",
+   "reason": "N60.2 = Fibroadenosis of breast (loan san vu lanh tinh / xo nang), KHAC voi fibroadenoma. WHO N60 co tieu de khoi 'Benign mammary dysplasia'. Fibroadenoma = D24 'Benign neoplasm of breast'. Ngu canh doc 66: 'u lành về tuyến vú như u xơ tuyến vú hay u nang tuyến vú' -> dung la u lanh (neoplasm).",
+   "evidence": "WHO GetConcept N60 + D24; AAPC/icd10data ghi Excludes2 giua D24 va N60.2"},
+
+  {"rank": 2, "confidence": "A", "text": "tụ máu dưới màng cứng mạn tính", "docs": [6, 11], "mentions": 4,
+   "current": "I62.0", "proposed": "S06.5",
+   "reason": "Khoi I60-I69 co Excl. ro rang: 'traumatic intracranial haemorrhage (S06.-)'. Ngu canh doc 11 la chan thuong dau (cung doc da co S06.3 bam dap nhu mo, S06.4 tu mau ngoai mang cung, xuat huyet duoi nhen vung tran). I62.0 chi dung cho xuat huyet duoi mang cung KHONG do chan thuong.",
+   "evidence": "WHO GetConcept I62.0 -> 'Excl.: traumatic intracranial haemorrhage ( S06.- )'"},
+
+  {"rank": 3, "confidence": "A", "text": "Hội chứng kháng enzym tổng hợp protein", "docs": [12, 15], "mentions": 2,
+   "current": "D89.8", "proposed": "M33.2",
+   "reason": "Day la antisynthetase syndrome (khang aminoacyl-tRNA synthetase). RxNav/ICD-10 liet ke 'Antisynthetase syndrome' la synonym cua M33.2 Polymyositis. Ngu canh doc 12 co 'Bệnh phổi kẽ' - bo doi ILD + viem co dac trung cua hoi chung nay. D89 co Excl.: 'autoimmune disease (systemic) NOS ( M35.9 )'.",
+   "evidence": "WHO GetConcept D89 Excludes; icd10data M33.20 liet antisynthetase syndrome la synonym"},
+
+  {"rank": 4, "confidence": "A", "text": "nhiễm virus viêm gan B, C", "doc": 24, "mentions": 1,
+   "current": ["B19.1", "B19.2"], "proposed": "B19.9 hoac bo han",
+   "reason": "HAI VAN DE. (1) B19.1 va B19.2 KHONG TON TAI trong WHO ICD-10 - B19 chi co B19.0 (co hon me gan) va B19.9 (khong hon me). Cau truc B19.1x/B19.2x la cua ICD-10-CM My. (2) Ngu canh doc 24 la 'Tiền sử gia đình: không ai bị nhiễm virus viêm gan B, C' - tien su gia dinh PHU DINH, khong phai chan doan cua benh nhan; can assertion phu dinh/family-history chu khong phai ma benh.",
+   "evidence": "WHO JsonGetChildrenConcepts B19 -> chi tra ve B19.0, B19.9"},
+
+  {"rank": 5, "confidence": "B", "text": "nhịp chậm xoang", "doc": 99, "mentions": 1,
+   "current": "R00.1", "proposed": "I49.8",
+   "reason": "R00 co Excl. minh thi: 'specified arrhythmias ( I47-I49 )'. Nhip cham XOANG la roi loan nhip da dinh danh -> chi muc ICD-10 dua bradycardia sinoatrial/sinus/vagal ve I49.8. R00.1 chi danh cho nhip cham khong dac hieu.",
+   "evidence": "WHO GetConcept R00 -> 'Excl.: specified arrhythmias ( I47-I49 )'"},
+
+  {"rank": 6, "confidence": "B", "text": "Bệnh thủy đậu/Zona", "docs": [12, 15], "mentions": 2,
+   "current": "B02.9", "proposed": "B01.9 + B02.9",
+   "reason": "Text ghep hai benh khac nhau. Thuy dau (varicella) = B01.9, Zona (zoster) = B02.9 - hai category rieng biet trong WHO. Ma hien tai chi phu nua sau. Neu chuan cho phep nhieu candidate thi nen dua ca hai.",
+   "evidence": "WHO JsonGetChildrenConcepts B01 va B02"},
+
+  {"rank": 7, "confidence": "C", "text": "bệnh lý chất trắng", "doc": 8, "mentions": 5,
+   "current": "R90.8", "proposed": "giu R90.8, nhung xem lai NHAN",
+   "reason": "Ngu canh: 'chụp ct sọ được phát hiện tình cờ ... phát hiện bệnh lý chất trắng', dang cho ket qua oligoclonal band de loai tru xo cung rai rac. Day la PHAT HIEN HINH ANH chua co chan doan - dung ban chat chuong R (R90-R94 'Abnormal findings on diagnostic imaging, WITHOUT diagnosis'). Ma R90.8 la dung nhat co the, nhung day la ung vien manh nhat cho viec nhan CHAN_DOAN co the sai (5 mention).",
+   "evidence": "WHO GetConcept R90.8 -> tieu de khoi 'Abnormal findings on diagnostic imaging and in function studies, without diagnosis'"},
+
+  {"rank": 8, "confidence": "C", "text": "cổ trướng", "doc": 80, "mentions": 1,
+   "current": "R18", "proposed": "giu R18, xem lai NHAN",
+   "reason": "Ngu canh: 'Bệnh nhân xơ gan mất bù có tăng áp lực tĩnh mạch cửa, cổ trướng và tràn dịch màng phổi' - co truong la BIEU HIEN cua xo gan mat bu (K74.6 da duoc ma hoa rieng trong cung doc). Theo huong dan ICD-10, trieu chung di kem thuong quy cua mot benh da xac dinh thi khong ma hoa rieng. Ma R18 hop le nhung nhan CHAN_DOAN dang ngo.",
+   "evidence": "AAPC / CMS ICD-10-CM Official Guidelines muc I.B.4-5 ve signs & symptoms"},
+
+  {"rank": 9, "confidence": "C", "text": "ăng huyết áp", "mentions": 2,
+   "current": "I10", "proposed": "sua TEXT thanh 'tăng huyết áp'",
+   "reason": "Loi TRICH XUAT chu khong phai loi ma: text bi cat mat chu 'T' dau (offset lech 1 ky tu). Ma I10 dung nhung span sai -> mat diem entity F1.",
+   "evidence": "so sanh voi 4 cap 'tăng huyết áp'/'Tăng huyết áp'/'tăng HA' khac cung map I10"},
+
+  {"rank": 10, "confidence": "C", "text": "Torsemide/ ngày", "mentions": 2,
+   "current": "38413", "proposed": "sua TEXT thanh 'Torsemide'",
+   "reason": "Loi trich xuat: span nuot ca dau '/' va tu 'ngay' cua lieu dung. Tuong tu cac cap co text lan lieu dung."},
+
+  {"rank": 11, "confidence": "C", "text": "chèn ép tim", "doc": 94, "mentions": 1,
+   "current": "I31.9", "proposed": "giu I31.9 (WHO) - CHI sua neu chuan cham la ICD-10-CM",
+   "reason": "Kiem tra cho thay WHO ICD-10 2019 KHONG co I31.4; I31 chi co .0 .1 .2 .3 .8 .9. Ma I31.4 'Cardiac tamponade' chi ton tai trong ICD-10-CM (My). Neu dap an vang theo BYT/WHO thi I31.9 dung; neu theo CM thi phai la I31.4. Day la diem can xac dinh CHUAN CHAM truoc.",
+   "evidence": "WHO JsonGetChildrenConcepts I31"},
+
+  {"rank": 12, "confidence": "C", "text": "vô sinh thứ phát", "mentions": 1,
+   "current": "N46", "proposed": "kiem tra gioi tinh benh nhan",
+   "reason": "N46 = vo sinh NAM (TT06 danh dau MALE_ONLY). Cung bang lai co 'vô sinh' -> N97.9 (vo sinh NU, FEMALE_ONLY). Hai cap nay mau thuan gioi tinh; can doc lai ho so."},
+
+  {"rank": 13, "confidence": "C", "text": "viêm sung huyết hang vị dạ dày / Viêm hang vị sung huyết", "mentions": 15,
+   "current": "K29.7", "proposed": "giu K29.7 hoac xet K29.6",
+   "reason": "K29.7 = 'Gastritis, unspecified'. Vi mo ta co dac diem (sung huyet hang vi) nen K29.6 'Other gastritis' cung kha di. Mention rat cao (15) nen dang gia kiem lai, du rui ro thap.",
+   "evidence": "WHO JsonGetChildrenConcepts K29"}
+ ],
+
+ "rxnorm_suspects": [
+  {"rank": 1, "confidence": "B", "issue": "MAU THUAN NOI BO VE MUC DO TTY - cung mot hoat chat duoc gan 2-4 RXCUI khac cap",
+   "detail": {
+    "furosemide": {"4603 IN": ["80mg lasix iv", "furosemide"], "197732 SCD": ["80mg po lasix"], "313988 SCD": ["Furosemid 40 mg x 1 viên, uống sáng"], "202991 BN": ["lasix 40 mg once"]},
+    "acetaminophen": {"161 IN": ["acetaminophen", "paracetamol viên"], "198440 SCD": ["acetaminophen 500mg"], "202433 BN": ["tylenol", "Tylenol 1 gram"]},
+    "aspirin": {"1191 IN": ["ASA", "asa", "aspirin"], "212033 SCD": ["aspirin 325mg", "aspirin 325mg x 1"]},
+    "vancomycin": {"11124 IN": ["vancomycin", "vanco", "Vancomycin truyền tĩnh mạch"], "1807513 SCD": ["vancomycin 1 gram"]},
+    "metoprolol": {"6918 IN": ["metoprolol"], "866924 SCD": ["metoprolol 25mg po bid"]},
+    "warfarin": {"11289 IN": ["coumadin"], "855318 SCD": ["coumadin 3.0 mg /ngày"]},
+    "omeprazole": {"7646 IN": ["omeprazole"], "198051 SCD": ["Omez 20mg x 1 viên, uống 8h sáng"]},
+    "methylprednisolone": {"6902 IN": ["Medrol 16mg..."], "1743704 SCD": ["methylprednisolone 125mg iv"]},
+    "levofloxacin": {"82122 IN": ["levafloxacin"], "330371 SCDC": ["levofloxacin 750mg iv"]}
+   },
+   "reason": "Toi da MOT quy uoc dung. Can chon 1 chien luoc dong nhat (khuyen nghi: IN/MIN cho moi mention, vi day la muc on dinh nhat va bao phu duoc ca ten thuong mai Viet Nam khong co trong RxNorm)."},
+
+  {"rank": 2, "confidence": "B", "issue": "TEN THUONG MAI My duoc gan RXCUI hoat chat, trong khi 10 ten thuong mai khac lai duoc gan BN",
+   "detail": [
+    {"text": "klonopin", "current": "2598 IN clonazepam", "bn_exists": "202585 BN Klonopin"},
+    {"text": "crestor / Crestor", "current": "301542 IN rosuvastatin", "bn_exists": "320864 BN Crestor"},
+    {"text": "coumadin", "current": "11289 IN warfarin", "bn_exists": "202421 BN Coumadin"},
+    {"text": "Medrol 16mg ...", "current": "6902 IN methylprednisolone", "bn_exists": "202702 BN Medrol"},
+    {"text": "Zestril 10mg ...", "current": "29046 IN lisinopril", "bn_exists": "196472 BN Zestril"},
+    {"text": "Augmentin", "current": "19711 MIN amoxicillin/clavulanate", "bn_exists": "151392 BN Augmentin"},
+    {"text": "suboxone", "current": "352364 MIN buprenorphine/naloxone", "bn_exists": "352990 BN Suboxone"},
+    {"text": "zosyn", "current": "74169 MIN piperacillin/tazobactam", "bn_exists": "74170 BN Zosyn"},
+    {"text": "mucinex d", "current": "214599 MIN guaifenesin/pseudoephedrine", "bn_exists": "352777 BN Mucinex (bien the 'Mucinex D' can tra them)"}
+   ],
+   "already_bn": ["gleevec 282386", "bactrim 151399", "tylenol 202433", "lasix 202991", "seroquel 83553", "compazine 203546", "aleve 215101", "eliquis 1364436", "dilaudid 224913"],
+   "reason": "9 ten thuong mai duoc ha ve hoat chat, 9 ten khac giu o BN. Mot trong hai nhom chac chan lech so voi dap an."},
+
+  {"rank": 3, "confidence": "B", "text": "levofloxacin 750mg iv", "current": "330371 SCDC",
+   "proposed": "82122 (IN) hoac mot SCD dang tiem",
+   "reason": "SCDC (Semantic Clinical Drug Component = hoat chat + ham luong, KHONG co dang bao che) la TTY duy nhat kieu nay trong ca bang 101 cap. Bat thuong ve mat quy uoc, va 'iv' trong text lai bi bo qua."},
+
+  {"rank": 4, "confidence": "C", "text": "Isosorbide / isosorbide", "docs": [53, 57, 58], "mentions": 6,
+   "current": "6057 IN isosorbide",
+   "reason": "RxNorm co BA khai niem: 6057 'isosorbide' (goc, la IN cha cua mononitrate), 6058 'isosorbide dinitrate', 28004 PIN 'isosorbide mononitrate'. Trong benh an tim mach Viet Nam 'Isosorbide' hau nhu luon la ISMN hoac ISDN. 6057 bao phu duoc mononitrate qua quan he cha-con nhung KHONG bao phu dinitrate. Can doc lai don thuoc de chot 6058 hay 28004.",
+   "evidence": "RxNav /rxcui/6057/related.json?tty=SCD tra ve cac SCD isosorbide mononitrate; 6058 tra ve cac SCD dinitrate"},
+
+  {"rank": 5, "confidence": "C", "text": "Vitamin 3B x 4 viên / vitamin 3b", "docs": [24, 66], "mentions": 3,
+   "current": "11251 IN vitamin B complex",
+   "reason": "Doc 66 ghi ro 'vitamin 3b b1 b6 b12'. 'Vitamin 3B' Viet Nam = B1+B6+B12 co dinh, hep hon 'vitamin B complex'. RxNorm khong co khai niem tuong duong chinh xac -> 11251 la xap xi chap nhan duoc, nhung neu dap an dung MIN thiamine/pyridoxine/cyanocobalamin thi lech."},
+
+  {"rank": 6, "confidence": "C", "text": "Glucose 5% x 1000ml / 4000 ml NS 0.9 %",
+   "current": ["4850 IN glucose", "9863 IN sodium chloride"],
+   "reason": "Dich truyen duoc ma o muc hoat chat trong khi cac thuoc tiem khac cung bang lai dung SCD (vd 1665021 ceftriaxone 1000 MG Injection). Lai la bieu hien cua mau thuan quy uoc o rank 1."},
+
+  {"rank": 7, "confidence": "C", "note": "DA XAC MINH DUNG - khong can sua",
+   "verified_ok": {
+    "Nitramyl 2,5 mg/viên -> 4917 nitroglycerin": "chinh van ban doc 64 ghi '(nitroglycerin)'",
+    "Pimperam / Pimperan -> 6915 metoclopramide": "ten thuong mai VN (Primperan), khong co trong RxNorm -> ha ve IN la dung",
+    "Vastarel -> 10826 trimetazidine": "khong co trong RxNorm (thuoc Servier, khong luu hanh My) -> ha ve IN la dung",
+    "Berlthyrox -> 10582 levothyroxine": "ten thuong mai Duc/VN, khong co trong RxNorm",
+    "Omez -> omeprazole": "ten thuong mai An Do, khong co trong RxNorm",
+    "cotrimoxazol -> 10831 MIN sulfamethoxazole/trimethoprim": "dung",
+    "nac -> 197 acetylcysteine": "dung",
+    "Alverin citrate 40mg -> 17627 alverine": "dung",
+    "Implanon -> 389221 SCD etonogestrel 68 MG Drug Implant": "dung ham luong; BN Implanon 194722 da bi rut khoi RxNorm hien hanh"
+   }},
+
+  {"rank": 8, "confidence": "A", "note": "TAT CA 70 RXCUI DEU TON TAI trong RxNorm hien hanh - khong co ma chet"}
+ ],
+
+ "icd10_verified_ok_high_mention": {
+  "A82.9 bệnh dại (41)": "WHO A82.9 Rabies, unspecified - dung",
+  "D55.0 thiếu men G6PD (17)": "WHO D55.0 Anaemia due to G6PD deficiency - dung",
+  "I10 tăng huyết áp (31)": "WHO I10 Essential (primary) hypertension - dung; khong co bang chung tang HA thu phat trong cac doc lien quan",
+  "E11.9 đái tháo đường (25)": "dung; luu y doc 327 'Tiểu đường loại 1' da duoc tach rieng E10.9 - phan biet dung",
+  "L50.1 mày đay vô căn (19)": "WHO L50.1 Idiopathic urticaria - dung; L50.8 cho 'mày đay mạn' cung dung",
+  "E85.x amyloidosis (24)": "phan tang dung: E85.9 khong dac hieu, E85.8 chuoi nhe (AL), E85.2 di truyen/gia dinh",
+  "A08.4 viêm dạ dày ruột do virus (11)": "dung",
+  "K29.4 viêm teo niêm mạc dạ dày": "WHO K29.4 Chronic atrophic gastritis - dung",
+  "K58.8 hội chứng ruột kích thích": "WHO 2019 da bo K58.0/K58.9, K58.8 = 'Other and unspecified IBS' - DUNG cho IBS khong dac hieu",
+  "N40 tăng sản tuyến tiền liệt": "WHO N40 khong chia nho (khac ICD-10-CM N40.0/N40.1) - dung ma 3 ky tu la CHINH XAC",
+  "I51.6 bệnh tim mạch": "WHO I51.6 con ton tai (ICD-10-CM da xoa) - dung neu cham theo WHO/BYT",
+  "T14.2 gãy xương": "WHO T14.2 con ton tai (ICD-10-CM da xoa) - dung neu cham theo WHO/BYT",
+  "I48.9 rung nhĩ": "WHO 2019 da chia I48.0-I48.4 + I48.9 - dung",
+  "E58 Thiếu canxi": "ngu canh doc 17 la THIEU CANXI DINH DUONG ('Thiếu canxi và vitamin... dễ gây loãng xương') -> E58 Dietary calcium deficiency DUNG, KHONG phai E83.5"
+ },
+
+ "chapter_z_check": "KHONG co ma chuong Z nao trong 409 cap - khong co rui ro nay.",
+ "chapter_r_codes": ["R90.8 (5 mention)", "R18 (1)", "R00.1 (1)"],
+ "chapter_str_codes": ["S06.3 (4)", "S06.4 (4)", "T86.1 (1)", "T14.2 (1)"]
+}

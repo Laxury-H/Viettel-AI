@@ -1,0 +1,676 @@
+[
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng huyết áp",
+  "codes": [
+   "I10"
+  ],
+  "mentions": 14,
+  "docs": [
+   29,
+   33,
+   42,
+   43,
+   46,
+   55,
+   77,
+   85,
+   89,
+   90,
+   95,
+   97
+  ],
+  "ndocs": 12
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tăng lipid máu",
+  "codes": [
+   "E78.5"
+  ],
+  "mentions": 7,
+  "docs": [
+   14,
+   32,
+   36,
+   38,
+   54,
+   64,
+   85
+  ],
+  "ndocs": 7
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm hang vị sung huyết",
+  "codes": [
+   "K29.7"
+  ],
+  "mentions": 5,
+  "docs": [
+   35,
+   56,
+   67,
+   86,
+   94
+  ],
+  "ndocs": 5
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh thoái hóa tinh bột",
+  "codes": [
+   "E85.9"
+  ],
+  "mentions": 6,
+  "docs": [
+   21,
+   32,
+   73,
+   79
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "codes": [
+   "J44.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   17,
+   39,
+   47,
+   67
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nấm bẹn",
+  "codes": [
+   "B35.6"
+  ],
+  "mentions": 5,
+  "docs": [
+   74,
+   75,
+   84
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Rối loạn lipid máu",
+  "codes": [
+   "E78.5"
+  ],
+  "mentions": 3,
+  "docs": [
+   6,
+   11,
+   26
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bệnh amyloidosis",
+  "codes": [
+   "E85.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   21,
+   32,
+   79
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "THUỐC",
+  "text": "klonopin",
+  "codes": [
+   "2598"
+  ],
+  "mentions": 3,
+  "docs": [
+   52,
+   72,
+   98
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "xơ gan do rượu",
+  "codes": [
+   "K70.3"
+  ],
+  "mentions": 4,
+  "docs": [
+   39,
+   47
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "carvedilol",
+  "codes": [
+   "20352"
+  ],
+  "mentions": 4,
+  "docs": [
+   57,
+   58
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tụ máu ngoài màng cứng phải cấp tính",
+  "codes": [
+   "S06.4"
+  ],
+  "mentions": 2,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng huyết áp nguyên phát",
+  "codes": [
+   "I10"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "đột quỵ",
+  "codes": [
+   "I64"
+  ],
+  "mentions": 2,
+  "docs": [
+   17,
+   34
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm phế quản",
+  "codes": [
+   "J40"
+  ],
+  "mentions": 2,
+  "docs": [
+   27,
+   85
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm phổi thùy dưới phải",
+  "codes": [
+   "J18.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   42,
+   62
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm da tiếp xúc dị ứng",
+  "codes": [
+   "L23.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   49,
+   65
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tràn dịch màng phổi hai bên",
+  "codes": [
+   "J90"
+  ],
+  "mentions": 2,
+  "docs": [
+   58,
+   66
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Lạm dụng chất kích thích, chất gây nghiện opioid",
+  "codes": [
+   "F11.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   72,
+   98
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng máu",
+  "codes": [
+   "A41.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   80,
+   95
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Nhôm hydroxid",
+  "codes": [
+   "612"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "albuterolipratropium nebulizer",
+  "codes": [
+   "214199"
+  ],
+  "mentions": 2,
+  "docs": [
+   51,
+   70
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Torsemide/ ngày",
+  "codes": [
+   "38413"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "đau nửa đầu",
+  "codes": [
+   "G43.9"
+  ],
+  "mentions": 6,
+  "docs": [
+   34
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm túi mật cấp",
+  "codes": [
+   "K81.0"
+  ],
+  "mentions": 3,
+  "docs": [
+   18
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "loét thực quản",
+  "codes": [
+   "K22.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thuyên tắc phổi",
+  "codes": [
+   "I26.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   29
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "metoprolol 25mg po bid",
+  "codes": [
+   "866924"
+  ],
+  "mentions": 2,
+  "docs": [
+   10
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy thận cấp",
+  "codes": [
+   "N17.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng Parkinson",
+  "codes": [
+   "G20"
+  ],
+  "mentions": 1,
+  "docs": [
+   3
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhồi máu cơ tim",
+  "codes": [
+   "I21.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Thiếu canxi",
+  "codes": [
+   "E58"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm virus viêm gan B, C",
+  "codes": [
+   "B19.1",
+   "B19.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   24
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đau thắt ngực ổn định",
+  "codes": [
+   "I20.8"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm phổi",
+  "codes": [
+   "J18.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   27
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bàn chân bẹt bẩm sinh",
+  "codes": [
+   "Q66.5"
+  ],
+  "mentions": 1,
+  "docs": [
+   29
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tổn thương cầu thận mạn tính",
+  "codes": [
+   "N03.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Xuất huyết tiêu hóa",
+  "codes": [
+   "K92.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   40
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ĐTD typ II",
+  "codes": [
+   "E11.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   53
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm teo niêm mạc dạ dày",
+  "codes": [
+   "K29.4"
+  ],
+  "mentions": 1,
+  "docs": [
+   66
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy thận mạn giai đoạn 5",
+  "codes": [
+   "N18.5"
+  ],
+  "mentions": 1,
+  "docs": [
+   77
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhiễm trùng đường tiết niệu",
+  "codes": [
+   "N39.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   85
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "áp xe",
+  "codes": [
+   "K65.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   88
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Sỏi niệu quản",
+  "codes": [
+   "N20.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   91
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đợt cấp COPD",
+  "codes": [
+   "J44.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   99
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Berlthyrox",
+  "codes": [
+   "10582"
+  ],
+  "mentions": 1,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "compazine",
+  "codes": [
+   "203546"
+  ],
+  "mentions": 1,
+  "docs": [
+   20
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "cephalexin",
+  "codes": [
+   "2231"
+  ],
+  "mentions": 1,
+  "docs": [
+   25
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "10mg iv diltiazem",
+  "codes": [
+   "3443"
+  ],
+  "mentions": 1,
+  "docs": [
+   33
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "nac",
+  "codes": [
+   "197"
+  ],
+  "mentions": 1,
+  "docs": [
+   44
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Albuterol",
+  "codes": [
+   "435"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "aspirin",
+  "codes": [
+   "1191"
+  ],
+  "mentions": 1,
+  "docs": [
+   100
+  ],
+  "ndocs": 1
+ }
+]

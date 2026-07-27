@@ -1,0 +1,49 @@
+{
+  "_note": "Chỉ giữ các mã SỐNG SÓT sau vòng phản biện đối kháng. Mỗi mục đều thuộc loại 'mã không tồn tại trong danh mục WHO/BYT' hoặc 'nhầm chương ICD' — KHÔNG có mục nào thuộc loại chuẩn hóa mức đặc hiệu (loại đã làm V47 mất 0.4884 điểm).",
+  "confirmed": [
+    {
+      "text": "nhiễm virus viêm gan B, C",
+      "type": "CHẨN_ĐOÁN",
+      "current_code": "B19.1",
+      "proposed_code": "B18.1",
+      "reason": "B19.1 KHÔNG tồn tại trong ICD-10 WHO. Nhóm B19 chỉ có B19.0 và B19.9. B19.1/B19.2 là mã ICD-10-CM Hoa Kỳ. Mã không tồn tại thì chắc chắn giao rỗng với đáp án nên hiện đang ăn 0 điểm; đổi sang mã WHO hợp lệ là cược một chiều, không thể lỗ."
+    },
+    {
+      "text": "nhiễm virus viêm gan B, C",
+      "type": "CHẨN_ĐOÁN",
+      "current_code": "B19.2",
+      "proposed_code": "B18.2",
+      "reason": "Tương tự B19.1. B18.1/B18.2 (viêm gan virus B/C mạn) là mã WHO hợp lệ và giữ được phân biệt B/C mà span nêu rõ."
+    },
+    {
+      "text": "xuất huyết dưới nhện",
+      "type": "CHẨN_ĐOÁN",
+      "current_code": "I60.9",
+      "proposed_code": "S06.6",
+      "reason": "Nhầm chương ICD và nhầm căn nguyên. Khối I60-I69 có ghi chú loại trừ tường minh 'Excludes: traumatic intracranial haemorrhage (S06.-)', nên I60.x theo định nghĩa là xuất huyết dưới nhện KHÔNG do chấn thương. Văn bản hồ sơ 6 và 11 ghi rõ bệnh nhân BỊ NGÃ, kèm bầm dập nhu mô và tụ máu ngoài màng cứng cấp — hình thái chấn thương sọ não kinh điển. Bằng chứng nội tại: cùng câu, bản nền đã mã 'bầm dập nhu mô' = S06.3 và 'tụ máu ngoài màng cứng' = S06.4."
+    }
+  ],
+  "_rejected": [
+    {
+      "text": "hội chứng ruột kích thích",
+      "current_code": "K58.8",
+      "proposed_code": "K58.9",
+      "verdict": "REVERTED_BY_OFFICIAL_CATALOGUE",
+      "reason": "Vòng thẩm định đề xuất sửa vì tin rằng K58.8 không tồn tại, dựa trên một trang tra cứu bên thứ ba. Đối chiếu với danh mục CHÍNH THỨC của Bộ Y Tế (Thông tư 06/2026/TT-BYT, phụ lục 15.844 mã) cho kết quả NGƯỢC LẠI: K58.8 CÓ tồn tại ('Hội chứng khác và/hoặc không xác định của ruột kích thích', dùng được làm bệnh chính), còn K58.9 KHÔNG tồn tại. Áp bản sửa này sẽ thay một mã hợp lệ bằng một mã không tồn tại. ĐÃ HỦY."
+    },
+    {
+      "text": "compazine",
+      "current_code": "203546",
+      "proposed_code": "8704",
+      "verdict": "CURRENT_IS_FINE",
+      "reason": "Văn bản viết nguyên văn 'compazine' — chính là tên biệt dược. RXCUI 203546 = Compazine (TTY=BN) là ánh xạ trung thực nhất với span. Đổi BN sang IN chính là kiểu thay đổi đã làm V47 mất điểm."
+    },
+    {
+      "text": "Hội chứng kháng enzym tổng hợp protein",
+      "current_code": "D89.8",
+      "proposed_code": "M35.8",
+      "verdict": "BOTH_DEFENSIBLE",
+      "reason": "Hội chứng kháng synthetase không có mã ICD-10 riêng ở bất kỳ phiên bản nào. Cả D89.8 lẫn M35.8 đều chỉ là ô residual. Đổi residual này lấy residual kia là cược đối xứng, tức rủi ro thuần túy."
+    }
+  ]
+}

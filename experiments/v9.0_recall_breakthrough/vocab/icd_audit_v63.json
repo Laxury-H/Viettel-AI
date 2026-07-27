@@ -1,0 +1,2474 @@
+[
+ {
+  "text": "Bệnh dại",
+  "code": "A82.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Rabies, unspecified",
+  "level": "subcategory",
+  "mentions": 21
+ },
+ {
+  "text": "bệnh dại",
+  "code": "A82.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Rabies, unspecified",
+  "level": "subcategory",
+  "mentions": 20
+ },
+ {
+  "text": "tăng huyết áp",
+  "code": "I10",
+  "in_who_icd10_2019": true,
+  "who_title": "Essential (primary) hypertension",
+  "level": "category",
+  "mentions": 14
+ },
+ {
+  "text": "thiếu men G6PD",
+  "code": "D55.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "level": "subcategory",
+  "mentions": 13
+ },
+ {
+  "text": "Tăng huyết áp",
+  "code": "I10",
+  "in_who_icd10_2019": true,
+  "who_title": "Essential (primary) hypertension",
+  "level": "category",
+  "mentions": 12
+ },
+ {
+  "text": "viêm dạ dày ruột do virus",
+  "code": "A08.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Viral intestinal infection, unspecified",
+  "level": "subcategory",
+  "mentions": 11
+ },
+ {
+  "text": "béo phì",
+  "code": "E66.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Obesity, unspecified",
+  "level": "subcategory",
+  "mentions": 11
+ },
+ {
+  "text": "Đái tháo đường",
+  "code": "E11.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 2 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 10
+ },
+ {
+  "text": "viêm sung huyết hang vị dạ dày",
+  "code": "K29.7",
+  "in_who_icd10_2019": true,
+  "who_title": "Gastritis, unspecified",
+  "level": "subcategory",
+  "mentions": 10
+ },
+ {
+  "text": "amyloidosis",
+  "code": "E85.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Amyloidosis, unspecified",
+  "level": "subcategory",
+  "mentions": 8
+ },
+ {
+  "text": "trầm cảm",
+  "code": "F32.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Depressive episode, unspecified",
+  "level": "subcategory",
+  "mentions": 8
+ },
+ {
+  "text": "bệnh lý mày đay vô căn",
+  "code": "L50.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Idiopathic urticaria",
+  "level": "subcategory",
+  "mentions": 8
+ },
+ {
+  "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+  "code": "N39.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Urinary tract infection, site not specified",
+  "level": "subcategory",
+  "mentions": 8
+ },
+ {
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "code": "C92.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic myeloid leukaemia [CML], BCR/ABL-positive",
+  "level": "subcategory",
+  "mentions": 7
+ },
+ {
+  "text": "tăng lipid máu",
+  "code": "E78.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Hyperlipidaemia, unspecified",
+  "level": "subcategory",
+  "mentions": 7
+ },
+ {
+  "text": "phù gai thị",
+  "code": "H47.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Papilloedema, unspecified",
+  "level": "subcategory",
+  "mentions": 7
+ },
+ {
+  "text": "mụn trứng cá",
+  "code": "L70.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acne, unspecified",
+  "level": "subcategory",
+  "mentions": 7
+ },
+ {
+  "text": "đái tháo đường",
+  "code": "E11.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 2 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 6
+ },
+ {
+  "text": "Bệnh thoái hóa tinh bột",
+  "code": "E85.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Amyloidosis, unspecified",
+  "level": "subcategory",
+  "mentions": 6
+ },
+ {
+  "text": "đau nửa đầu",
+  "code": "G43.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Migraine, unspecified",
+  "level": "subcategory",
+  "mentions": 6
+ },
+ {
+  "text": "suy tim",
+  "code": "I50.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Heart failure, unspecified",
+  "level": "subcategory",
+  "mentions": 6
+ },
+ {
+  "text": "xuất huyết dưới nhện",
+  "code": "I60.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Subarachnoid haemorrhage, unspecified",
+  "level": "subcategory",
+  "mentions": 6
+ },
+ {
+  "text": "nấm bẹn",
+  "code": "B35.6",
+  "in_who_icd10_2019": true,
+  "who_title": "Tinea inguinalis [Tinea cruris]",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "u ác của tuyến tiền liệt",
+  "code": "C61",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm of prostate",
+  "level": "category",
+  "mentions": 5
+ },
+ {
+  "text": "Đái tháo đường típ 2",
+  "code": "E11.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 2 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "Phù gai thị",
+  "code": "H47.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Papilloedema, unspecified",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "rung nhĩ",
+  "code": "I48.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Atrial fibrillation and atrial flutter, unspecified",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "loét tá tràng",
+  "code": "K26.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Duodenal ulcer : unspecified as acute or chronic, without haemorrhage or perforation",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "Viêm hang vị sung huyết",
+  "code": "K29.7",
+  "in_who_icd10_2019": true,
+  "who_title": "Gastritis, unspecified",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "viêm dạ dày",
+  "code": "K29.7",
+  "in_who_icd10_2019": true,
+  "who_title": "Gastritis, unspecified",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "Kawasaki",
+  "code": "M30.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "bệnh Kawasaki",
+  "code": "M30.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "bệnh thận mạn",
+  "code": "N18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic kidney disease, unspecified",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "u nang tuyến vú",
+  "code": "N60.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Solitary cyst of breast",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "u xơ tuyến vú",
+  "code": "N60.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Fibroadenosis of breast",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "bệnh lý chất trắng",
+  "code": "R90.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other abnormal findings on diagnostic imaging of central nervous system",
+  "level": "subcategory",
+  "mentions": 5
+ },
+ {
+  "text": "thiếu máu",
+  "code": "D64.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Anaemia, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "bệnh thoái hóa tinh bột",
+  "code": "E85.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Amyloidosis, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "tăng kali máu",
+  "code": "E87.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Hyperkalaemia",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "rối loạn lo âu",
+  "code": "F41.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Anxiety disorder, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "bệnh lý thần kinh ngoại biên",
+  "code": "G62.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Polyneuropathy, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "nang màng nhện",
+  "code": "G93.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Cerebral cysts",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "nhịp nhanh trên thất",
+  "code": "I47.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Supraventricular tachycardia",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "code": "I62.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Nontraumatic subdural haemorrhage",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "Viêm phổi bệnh viện",
+  "code": "J18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pneumonia, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "code": "J44.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic obstructive pulmonary disease, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "tràn dịch màng phổi",
+  "code": "J90",
+  "in_who_icd10_2019": true,
+  "who_title": "Pleural effusion, not elsewhere classified",
+  "level": "category",
+  "mentions": 4
+ },
+ {
+  "text": "xơ gan do rượu",
+  "code": "K70.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Alcoholic cirrhosis of liver",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "code": "K80.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Calculus of bile duct without cholangitis or cholecystitis",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "Viêm mô tế bào",
+  "code": "L03.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Cellulitis, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "Mày đay vô căn",
+  "code": "L50.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Idiopathic urticaria",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "MÀY đay VÔ CĂN",
+  "code": "L50.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Idiopathic urticaria",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "MÀY đay MẠN",
+  "code": "L50.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other urticaria",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "Giả gout",
+  "code": "M11.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Other chondrocalcinosis",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "hẹp ống sống",
+  "code": "M48.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Spinal stenosis",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "viêm tủy xương",
+  "code": "M86.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Osteomyelitis, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "tăng sản tuyến tiền liệt",
+  "code": "N40",
+  "in_who_icd10_2019": true,
+  "who_title": "Hyperplasia of prostate",
+  "level": "category",
+  "mentions": 4
+ },
+ {
+  "text": "tiền sản giật",
+  "code": "O14.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pre-eclampsia, unspecified",
+  "level": "subcategory",
+  "mentions": 4
+ },
+ {
+  "text": "u dây thần kinh số VIII",
+  "code": "D33.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Benign neoplasm: Cranial nerves",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Thiếu men G6PD",
+  "code": "D55.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Rối loạn lipid máu",
+  "code": "E78.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Hyperlipidaemia, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "amyloidosis di truyền hoặc gia đình",
+  "code": "E85.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Heredofamilial amyloidosis, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Bệnh amyloidosis chuỗi nhẹ",
+  "code": "E85.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other amyloidosis",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Rối loạn chuyển hóa tinh bột (amyloidosis)",
+  "code": "E85.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Amyloidosis, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "bệnh amyloidosis",
+  "code": "E85.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Amyloidosis, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Bệnh amyloidosis",
+  "code": "E85.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Amyloidosis, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "não úng thủy",
+  "code": "G91.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Hydrocephalus, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "tăng nhãn áp",
+  "code": "H40.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Glaucoma, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Tăng nhãn áp",
+  "code": "H40.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Glaucoma, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "suy tim, không đặc hiệu",
+  "code": "I50.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Heart failure, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Viêm phổi",
+  "code": "J18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pneumonia, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "hội chứng ruột kích thích",
+  "code": "K58.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other and unspecified irritable bowel syndrome",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "sỏi mật",
+  "code": "K80.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Calculus of gallbladder without cholecystitis",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "viêm túi mật cấp",
+  "code": "K81.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute cholecystitis",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "MÀY ĐAY VÔ CĂN",
+  "code": "L50.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Idiopathic urticaria",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "MÀY ĐAY MẠN TÍNH",
+  "code": "L50.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other urticaria",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "Bệnh Kawasaki",
+  "code": "M30.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "code": "N39.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Urinary tract infection, site not specified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "vô sinh",
+  "code": "N97.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Female infertility, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "não úng tuỷ từ thời kỳ sơ sinh",
+  "code": "Q03.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Congenital hydrocephalus, unspecified",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "bệnh bàn chân bẹt",
+  "code": "Q66.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Congenital pes planus",
+  "level": "subcategory",
+  "mentions": 3
+ },
+ {
+  "text": "nhiễm trùng máu",
+  "code": "A41.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Sepsis, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Nhiễm virus Herpes simplex",
+  "code": "B00.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Herpesviral infection, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "HSV",
+  "code": "B00.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Herpesviral infection, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh thủy đậu/Zona",
+  "code": "B02.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Zoster without complication",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Nấm bẹn",
+  "code": "B35.6",
+  "in_who_icd10_2019": true,
+  "who_title": "Tinea inguinalis [Tinea cruris]",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "nhiễm nấm da",
+  "code": "B35.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Dermatophytosis, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Ung thư biểu mô tuyến đại tràng",
+  "code": "C18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Colon, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "ung thư tuyến đại tràng",
+  "code": "C18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Colon, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+  "code": "C60.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Penis, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "đa u tủy",
+  "code": "C90.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Multiple myeloma",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "thiếu máu tan huyết",
+  "code": "D55.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "thrombophilia",
+  "code": "D68.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Primary thrombophilia",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Suy giảm miễn dịch do sử dụng corticoid kéo dài",
+  "code": "D84.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other specified immunodeficiencies",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Hội chứng kháng enzym tổng hợp protein",
+  "code": "D89.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other specified disorders involving the immune mechanism, not elsewhere classified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "tiểu đường",
+  "code": "E11.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 2 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "tăng cholesterol máu đơn thuần",
+  "code": "E78.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Pure hypercholesterolaemia",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "hội chứng nghiện rượu",
+  "code": "F10.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Mental and behavioural disorders due to use of alcohol : dependence syndrome",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Lạm dụng chất kích thích, chất gây nghiện opioid",
+  "code": "F11.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Mental and behavioural disorders due to use of opioids : harmful use",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Rối loạn lưỡng cực",
+  "code": "F31.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Bipolar affective disorder, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Rối loạn cảm xúc",
+  "code": "F39",
+  "in_who_icd10_2019": true,
+  "who_title": "Unspecified mood [affective] disorder",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "Ngưng thở khi ngủ do tắc nghẽn",
+  "code": "G47.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Sleep apnoea",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "ngưng thở khi ngủ do tắc nghẽn",
+  "code": "G47.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Sleep apnoea",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "ngừng thở khi ngủ",
+  "code": "G47.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Sleep apnoea",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "liệt hai chi dưới",
+  "code": "G82.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Paraplegia, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "ăng huyết áp",
+  "code": "I10",
+  "in_who_icd10_2019": true,
+  "who_title": "Essential (primary) hypertension",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "Tăng huyết áp nguyên phát",
+  "code": "I10",
+  "in_who_icd10_2019": true,
+  "who_title": "Essential (primary) hypertension",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "nhồi máu cơ tim",
+  "code": "I21.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute myocardial infarction, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh tim mạch do xơ vữa động mạch",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnh mạch vành",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnh ba thân động mạch vành nghiêm trọng",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnh động mạch vành",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh mạch vành",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "thuyên tắc phổi hai bên",
+  "code": "I26.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pulmonary embolism without mention of acute cor pulmonale",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "thuyên tắc phổi",
+  "code": "I26.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pulmonary embolism without mention of acute cor pulmonale",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Thuyên tắc phổi",
+  "code": "I26.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pulmonary embolism without mention of acute cor pulmonale",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Tăng áp lực động mạch phổi",
+  "code": "I27.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Other secondary pulmonary hypertension",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Hở hai lá",
+  "code": "I34.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Mitral (valve) insufficiency",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "HoHL",
+  "code": "I34.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Mitral (valve) insufficiency",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Hở chủ",
+  "code": "I35.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Aortic (valve) insufficiency",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Rung nhĩ",
+  "code": "I48.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Atrial fibrillation and atrial flutter, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "ngoại tâm thu nhĩ",
+  "code": "I49.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atrial premature depolarization",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "ngoại tâm thu thất",
+  "code": "I49.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Ventricular premature depolarization",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Suy tim không do thiếu máu cơ tim",
+  "code": "I50.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Heart failure, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnh tim mạch",
+  "code": "I51.6",
+  "in_who_icd10_2019": true,
+  "who_title": "Cardiovascular disease, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "tim to",
+  "code": "I51.7",
+  "in_who_icd10_2019": true,
+  "who_title": "Cardiomegaly",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "giảm chức năng tâm thu thất trái",
+  "code": "I51.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other ill-defined heart diseases",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "đột quỵ",
+  "code": "I64",
+  "in_who_icd10_2019": true,
+  "who_title": "Stroke, not specified as haemorrhage or infarction",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "tai biến mạch máu não",
+  "code": "I64",
+  "in_who_icd10_2019": true,
+  "who_title": "Stroke, not specified as haemorrhage or infarction",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "tắc hẹp 80% động mạch thận trái L",
+  "code": "I70.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerosis of renal artery",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnh mạch máu ngoại biên",
+  "code": "I73.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Peripheral vascular disease, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "giãn thừng tinh",
+  "code": "I86.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Scrotal varices",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "viêm phổi thùy dưới phải",
+  "code": "J18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pneumonia, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "RLL PNA",
+  "code": "J18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pneumonia, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "viêm phế quản",
+  "code": "J40",
+  "in_who_icd10_2019": true,
+  "who_title": "Bronchitis, not specified as acute or chronic",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "giãn phế quản",
+  "code": "J47",
+  "in_who_icd10_2019": true,
+  "who_title": "Bronchiectasis",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh phổi kẽ",
+  "code": "J84.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Interstitial pulmonary disease, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "áp xe phổi",
+  "code": "J85.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Abscess of lung without pneumonia",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "tràn dịch màng phổi hai bên",
+  "code": "J90",
+  "in_who_icd10_2019": true,
+  "who_title": "Pleural effusion, not elsewhere classified",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "xẹp phổi",
+  "code": "J98.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Pulmonary collapse",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Viêm nha chu",
+  "code": "K05.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic periodontitis",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "nhiễm trùng răng miệng",
+  "code": "K12.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Cellulitis and abscess of mouth",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Viêm thực quản độ C",
+  "code": "K20",
+  "in_who_icd10_2019": true,
+  "who_title": "Oesophagitis",
+  "level": "category",
+  "mentions": 2
+ },
+ {
+  "text": "trào ngược dạ dày thực quản",
+  "code": "K21.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Gastro-oesophageal reflux disease without oesophagitis",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "loét thực quản",
+  "code": "K22.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Ulcer of oesophagus",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Viêm loét đại tràng",
+  "code": "K51.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Ulcerative colitis, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "đại tràng giãn",
+  "code": "K59.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Megacolon, not elsewhere classified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh gan do rượu",
+  "code": "K70.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Alcoholic liver disease, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "sỏi ống dẫn mật chung đoạn cuối",
+  "code": "K80.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Calculus of bile duct without cholangitis or cholecystitis",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "viêm mô tế bào",
+  "code": "L03.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Cellulitis, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "nhiễm trùng chi dưới bên phải",
+  "code": "L08.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Local infection of skin and subcutaneous tissue, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "viêm da tiếp xúc dị ứng",
+  "code": "L23.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Allergic contact dermatitis, unspecified cause",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "viêm da tiếp xúc",
+  "code": "L25.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Unspecified contact dermatitis, unspecified cause",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "rụng tóc từng mảng",
+  "code": "L63.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Alopecia areata, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "rụng tóc từng vùng",
+  "code": "L63.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Alopecia areata, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "tàn nhang",
+  "code": "L81.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Freckles",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnh gút",
+  "code": "M10.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Gout, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnhgout",
+  "code": "M10.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Gout, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bệnh gout mạn tính",
+  "code": "M10.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Gout, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "viêm xương tủy",
+  "code": "M86.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Osteomyelitis, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Hội chứng thận hư",
+  "code": "N04.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Nephrotic syndrome : unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Suy thận mạn giai đoạn V",
+  "code": "N18.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic kidney disease, stage 5",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh thận mạn tính",
+  "code": "N18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic kidney disease, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "sỏi thận",
+  "code": "N20.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Calculus of kidney",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bàng quang thần kinh",
+  "code": "N31.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Neuromuscular dysfunction of bladder, unspecified",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "tịt ống tai ngoài bẩm sinh",
+  "code": "Q16.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Congenital absence, atresia and stricture of auditory canal (external)",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "dị tật thiểu sản vành tai",
+  "code": "Q17.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Microtia",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "bầm dập nhu mô",
+  "code": "S06.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Focal brain injury",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Bầm dập nhu mô",
+  "code": "S06.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Focal brain injury",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "tụ máu ngoài màng cứng phải cấp tính",
+  "code": "S06.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Epidural haemorrhage",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Tụ máu ngoài màng cứng phải cấp tính",
+  "code": "S06.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Epidural haemorrhage",
+  "level": "subcategory",
+  "mentions": 2
+ },
+ {
+  "text": "Nhiễm khuẩn đường tiêu hóa",
+  "code": "A09",
+  "in_who_icd10_2019": true,
+  "who_title": "Other gastroenteritis and colitis of infectious and unspecified origin",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+  "code": "A41.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Sepsis due to Staphylococcus aureus",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm trùng huyết",
+  "code": "A41.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Sepsis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm trùng huyết đường vào tiết niệu",
+  "code": "A41.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Sepsis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Viêm gan cấp tính do virus B thể thông thường điển hình mức độ nặng giai đoạn toàn phát",
+  "code": "B16.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute hepatitis B without delta-agent and without hepatic coma",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm virus viêm gan B, C",
+  "code": "B19.1",
+  "in_who_icd10_2019": false,
+  "who_title": "",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm virus viêm gan B, C",
+  "code": "B19.2",
+  "in_who_icd10_2019": false,
+  "who_title": "",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Ung thư đại tràng",
+  "code": "C18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Colon, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "khối u trực tràng",
+  "code": "C20",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm of rectum",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "u ác trực tràng",
+  "code": "C20",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm of rectum",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "ung thư biểu mô tế bào mật",
+  "code": "C22.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Intrahepatic bile duct carcinoma",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "ung thư đường mật",
+  "code": "C22.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Intrahepatic bile duct carcinoma",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Ung thư vú di căn",
+  "code": "C50.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Breast, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "ung thư cổ tử cung",
+  "code": "C53.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm: Cervix uteri, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "ung thư tuyến giáp",
+  "code": "C73",
+  "in_who_icd10_2019": true,
+  "who_title": "Malignant neoplasm of thyroid gland",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+  "code": "C78.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Secondary malignant neoplasm of lung",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "cml",
+  "code": "C92.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic myeloid leukaemia [CML], BCR/ABL-positive",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "u tuyến",
+  "code": "D12.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Benign neoplasm: Rectum",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "THIẾU MEN G6PD",
+  "code": "D55.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "thiếu hụt men G6PD",
+  "code": "D55.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "thiếu máu do tan huyết",
+  "code": "D55.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "hội chứng tăng đông",
+  "code": "D68.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Primary thrombophilia",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Thrombophilia",
+  "code": "D68.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Primary thrombophilia",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bệnh tăng đông máu",
+  "code": "D68.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Primary thrombophilia",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "nốt sần tuyến giáp",
+  "code": "E04.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Nontoxic single thyroid nodule",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bệnh Graves",
+  "code": "E05.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Thyrotoxicosis with diffuse goitre",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Tiểu đường loại 1 đái tháo đường",
+  "code": "E10.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 1 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Tiểu đường",
+  "code": "E11.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 2 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "ĐTD typ II",
+  "code": "E11.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 2 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Đái tháo đường typ II",
+  "code": "E11.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Type 2 diabetes mellitus without complications",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Hội chứng buồng trứng đa nang",
+  "code": "E28.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Polycystic ovarian syndrome",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "thiếu hụt vitamin K",
+  "code": "E56.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Deficiency of vitamin K",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Thiếu canxi",
+  "code": "E58",
+  "in_who_icd10_2019": true,
+  "who_title": "Dietary calcium deficiency",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "Béo phì",
+  "code": "E66.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Obesity, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "rối loạn lipid máu",
+  "code": "E78.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Hyperlipidaemia, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "rối loạn cảm xúc lưỡng cực",
+  "code": "F31.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Bipolar affective disorder, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Rối loạn cảm xúc (trầm cảm)",
+  "code": "F32.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Depressive episode, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "hội chứng Parkinson",
+  "code": "G20",
+  "in_who_icd10_2019": true,
+  "who_title": "Parkinson disease",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "Bệnh đa xơ cứng",
+  "code": "G35",
+  "in_who_icd10_2019": true,
+  "who_title": "Multiple sclerosis",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "đau nửa đầu",
+  "code": "G43.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Migraine, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Bệnh lý đau nửa đầu",
+  "code": "G43.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Migraine, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bệnh đau nửa đầu Migraine",
+  "code": "G43.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Migraine, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "ngưng thở khi ngủ",
+  "code": "G47.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Sleep apnoea",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bại não",
+  "code": "G80.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Cerebral palsy, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Bại não",
+  "code": "G80.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Cerebral palsy, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "suy thoái võng mạc",
+  "code": "H35.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Retinal disorder, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "tăng HA",
+  "code": "I10",
+  "in_who_icd10_2019": true,
+  "who_title": "Essential (primary) hypertension",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "Tăng HA",
+  "code": "I10",
+  "in_who_icd10_2019": true,
+  "who_title": "Essential (primary) hypertension",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "bệnh tăng HA vô căn",
+  "code": "I10",
+  "in_who_icd10_2019": true,
+  "who_title": "Essential (primary) hypertension",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "Đau thắt ngực không ổn định",
+  "code": "I20.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Unstable angina",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Cơn đau thắt ngực không ổn định",
+  "code": "I20.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Unstable angina",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "đau thắt ngực ổn định",
+  "code": "I20.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other forms of angina pectoris",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Đau thắt ngực ổn định",
+  "code": "I20.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other forms of angina pectoris",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Nhồi máu cơ tim ST chênh",
+  "code": "I21.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute transmural myocardial infarction of unspecified site",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Nhồi máu không ST chênh",
+  "code": "I21.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute subendocardial myocardial infarction",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Nhồi máu cơ tim",
+  "code": "I21.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute myocardial infarction, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Hội chứng vành cấp",
+  "code": "I24.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute ischaemic heart disease, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "hẹp tắc mạch vành",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "BỆNH MẠCH VÀNH",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Xơ vữa động mạch vành",
+  "code": "I25.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Atherosclerotic heart disease",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "phình giãn động mạch vành",
+  "code": "I25.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Coronary artery aneurysm and dissection",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Phình giãn động mạch vành",
+  "code": "I25.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Coronary artery aneurysm and dissection",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Thiếu máu cơ tim",
+  "code": "I25.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic ischaemic heart disease, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Suy vành mạn tính",
+  "code": "I25.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic ischaemic heart disease, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "thiếu máu cơ tim",
+  "code": "I25.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic ischaemic heart disease, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "thiếu máu cơ tim cục bộ",
+  "code": "I25.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic ischaemic heart disease, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Tâm phế mạn",
+  "code": "I27.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pulmonary heart disease, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Tràn dịch màng tim",
+  "code": "I31.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Pericardial effusion (noninflammatory)",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "tràn dịch màng ngoài tim",
+  "code": "I31.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Pericardial effusion (noninflammatory)",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "chèn ép tim",
+  "code": "I31.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Disease of pericardium, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Hở ba lá",
+  "code": "I36.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Nonrheumatic tricuspid (valve) insufficiency",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Cơn nhịp nhanh",
+  "code": "I47.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Supraventricular tachycardia",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Cơn tim nhanh nhĩ",
+  "code": "I47.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Supraventricular tachycardia",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+  "code": "I48.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Atrial fibrillation and atrial flutter, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Suy tim",
+  "code": "I50.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Heart failure, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Viêm cơ tim",
+  "code": "I51.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Myocarditis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bóng tim to",
+  "code": "I51.7",
+  "in_who_icd10_2019": true,
+  "who_title": "Cardiomegaly",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm tim",
+  "code": "I51.8",
+  "in_who_icd10_2019": true,
+  "who_title": "Other ill-defined heart diseases",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "xơ vữa động mạch",
+  "code": "I70.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Generalized and unspecified atherosclerosis",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bệnh viêm mạch máu",
+  "code": "I77.6",
+  "in_who_icd10_2019": true,
+  "who_title": "Arteritis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "huyết khối tĩnh mạch sâu",
+  "code": "I80.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Phlebitis and thrombophlebitis of other deep vessels of lower extremities",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "DVT",
+  "code": "I80.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Phlebitis and thrombophlebitis of other deep vessels of lower extremities",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Giãn thừng tinh",
+  "code": "I86.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Scrotal varices",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm họng cấp",
+  "code": "J02.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute pharyngitis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm trùng đường hô hấp trên",
+  "code": "J06.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute upper respiratory infection, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm phổi",
+  "code": "J18.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pneumonia, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm xoang",
+  "code": "J32.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic sinusitis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Đợt cấp COPD",
+  "code": "J44.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic obstructive pulmonary disease with acute exacerbation, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "phù phổi cấp",
+  "code": "J81",
+  "in_who_icd10_2019": true,
+  "who_title": "Pulmonary oedema",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "Phù phổi cấp",
+  "code": "J81",
+  "in_who_icd10_2019": true,
+  "who_title": "Pulmonary oedema",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "viêm phổi kẽ",
+  "code": "J84.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Interstitial pulmonary disease, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm phổi hoại tử",
+  "code": "J85.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Gangrene and necrosis of lung",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Viêm phổi hoại tử",
+  "code": "J85.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Gangrene and necrosis of lung",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Áp xe phổi",
+  "code": "J85.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Abscess of lung without pneumonia",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "áp-xe phổi",
+  "code": "J85.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Abscess of lung without pneumonia",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "suy hô hấp",
+  "code": "J96.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Respiratory failure, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "sâu răng",
+  "code": "K02.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Dental caries, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Viêm quanh răng",
+  "code": "K05.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic periodontitis",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm nha chu",
+  "code": "K05.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic periodontitis",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm teo niêm mạc dạ dày",
+  "code": "K29.4",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic atrophic gastritis",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Táo bón mãn tính",
+  "code": "K59.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Constipation",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "trĩ",
+  "code": "K64.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Haemorrhoids, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "áp xe",
+  "code": "K65.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute peritonitis",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "xơ gan mất bù",
+  "code": "K74.6",
+  "in_who_icd10_2019": true,
+  "who_title": "Other and unspecified cirrhosis of liver",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "tăng áp lực tĩnh mạch cửa",
+  "code": "K76.6",
+  "in_who_icd10_2019": true,
+  "who_title": "Portal hypertension",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "sỏi ống mật",
+  "code": "K80.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Calculus of bile duct without cholangitis or cholecystitis",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm tụy",
+  "code": "K85.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute pancreatitis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "XHTH",
+  "code": "K92.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Gastrointestinal haemorrhage, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Xuất huyết tiêu hóa",
+  "code": "K92.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Gastrointestinal haemorrhage, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm nhiễm ngoài da",
+  "code": "L08.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Local infection of skin and subcutaneous tissue, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bệnh vảy nến",
+  "code": "L40.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Psoriasis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm tuyến mồ hôi",
+  "code": "L73.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Hidradenitis suppurativa",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm nang lông",
+  "code": "L73.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Follicular disorder, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "loét tì đè giai đoạn IV mãn tính",
+  "code": "L89.3",
+  "in_who_icd10_2019": true,
+  "who_title": "Stage IV decubitus ulcer",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm khớp dạng thấp",
+  "code": "M06.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Rheumatoid arthritis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "gout",
+  "code": "M10.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Gout, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "hẹp ống sống C4-5, C5-6, C6-7",
+  "code": "M48.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Spinal stenosis",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "loãng xương",
+  "code": "M81.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Osteoporosis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bệnh viêm tuỷ xương",
+  "code": "M86.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Osteomyelitis, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Tổn thương cầu thận mạn tính",
+  "code": "N03.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic nephritic syndrome : unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Viêm cầu thận mạn",
+  "code": "N03.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic nephritic syndrome : unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "viêm bể thận",
+  "code": "N12",
+  "in_who_icd10_2019": true,
+  "who_title": "Tubulo-interstitial nephritis, not specified as acute or chronic",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "suy thận cấp",
+  "code": "N17.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Acute renal failure, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "suy thận mạn giai đoạn 5",
+  "code": "N18.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Chronic kidney disease, stage 5",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "suy thận",
+  "code": "N19",
+  "in_who_icd10_2019": true,
+  "who_title": "Unspecified kidney failure",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "Sỏi niệu quản",
+  "code": "N20.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Calculus of ureter",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Nhiễm trùng đường tiết niệu",
+  "code": "N39.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Urinary tract infection, site not specified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "vô sinh thứ phát",
+  "code": "N46",
+  "in_who_icd10_2019": true,
+  "who_title": "Male infertility",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "tắc ống dẫn trứng",
+  "code": "N97.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Female infertility of tubal origin",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "thai ngoài tử cung",
+  "code": "O00.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Ectopic pregnancy, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "tiền sản giật",
+  "code": "O14.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Pre-eclampsia, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "Dị tật còn ống động mạch",
+  "code": "Q25.0",
+  "in_who_icd10_2019": true,
+  "who_title": "Patent ductus arteriosus",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "bàn chân bẹt bẩm sinh",
+  "code": "Q66.5",
+  "in_who_icd10_2019": true,
+  "who_title": "Congenital pes planus",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "hội chứng turner",
+  "code": "Q96.9",
+  "in_who_icd10_2019": true,
+  "who_title": "Turner syndrome, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "nhịp chậm xoang",
+  "code": "R00.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Bradycardia, unspecified",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "cổ trướng",
+  "code": "R18",
+  "in_who_icd10_2019": true,
+  "who_title": "Ascites",
+  "level": "category",
+  "mentions": 1
+ },
+ {
+  "text": "gãy xương",
+  "code": "T14.2",
+  "in_who_icd10_2019": true,
+  "who_title": "Fracture of unspecified body region",
+  "level": "subcategory",
+  "mentions": 1
+ },
+ {
+  "text": "ghép thận thất bại",
+  "code": "T86.1",
+  "in_who_icd10_2019": true,
+  "who_title": "Kidney transplant failure and rejection",
+  "level": "subcategory",
+  "mentions": 1
+ }
+]

@@ -1,0 +1,3793 @@
+[
+ {
+  "text": "tăng huyết áp",
+  "code": "I10",
+  "system": "ICD-10",
+  "official": "Essential (primary) hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 14
+ },
+ {
+  "text": "Tăng huyết áp",
+  "code": "I10",
+  "system": "ICD-10",
+  "official": "Essential (primary) hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 12
+ },
+ {
+  "text": "béo phì",
+  "code": "E66.9",
+  "system": "ICD-10",
+  "official": "Obesity, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 11
+ },
+ {
+  "text": "Đái tháo đường",
+  "code": "E11.9",
+  "system": "ICD-10",
+  "official": "Type 2 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 10
+ },
+ {
+  "text": "bệnh lý mày đay vô căn",
+  "code": "L50.1",
+  "system": "ICD-10",
+  "official": "Idiopathic urticaria",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 8
+ },
+ {
+  "text": "gleevec",
+  "code": "282386",
+  "system": "RxNorm",
+  "official": "Gleevec",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 18
+ },
+ {
+  "text": "trầm cảm",
+  "code": "F32.9",
+  "system": "ICD-10",
+  "official": "Depressive episode, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 8
+ },
+ {
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "code": "C92.1",
+  "system": "ICD-10",
+  "official": "Chronic myeloid leukaemia [CML], BCR/ABL-positive",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 7
+ },
+ {
+  "text": "tăng lipid máu",
+  "code": "E78.5",
+  "system": "ICD-10",
+  "official": "Hyperlipidaemia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 7
+ },
+ {
+  "text": "đái tháo đường",
+  "code": "E11.9",
+  "system": "ICD-10",
+  "official": "Type 2 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 6
+ },
+ {
+  "text": "viêm sung huyết hang vị dạ dày",
+  "code": "K29.7",
+  "system": "ICD-10",
+  "official": "Gastritis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 10
+ },
+ {
+  "text": "amyloidosis",
+  "code": "E85.9",
+  "system": "ICD-10",
+  "official": "Amyloidosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 8
+ },
+ {
+  "text": "mụn trứng cá",
+  "code": "L70.9",
+  "system": "ICD-10",
+  "official": "Acne, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 7
+ },
+ {
+  "text": "suy tim",
+  "code": "I50.9",
+  "system": "ICD-10",
+  "official": "Heart failure, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 6
+ },
+ {
+  "text": "Đái tháo đường típ 2",
+  "code": "E11.9",
+  "system": "ICD-10",
+  "official": "Type 2 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "bệnh thận mạn",
+  "code": "N18.9",
+  "system": "ICD-10",
+  "official": "Chronic kidney disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "Viêm hang vị sung huyết",
+  "code": "K29.7",
+  "system": "ICD-10",
+  "official": "Gastritis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "bệnh dại",
+  "code": "A82.9",
+  "system": "ICD-10",
+  "official": "Rabies, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 20
+ },
+ {
+  "text": "omeprazole",
+  "code": "7646",
+  "system": "RxNorm",
+  "official": "omeprazole",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 10
+ },
+ {
+  "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+  "code": "N39.0",
+  "system": "ICD-10",
+  "official": "Urinary tract infection, site not specified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 8
+ },
+ {
+  "text": "bactrim",
+  "code": "151399",
+  "system": "RxNorm",
+  "official": "Bactrim",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 8
+ },
+ {
+  "text": "tylenol",
+  "code": "202433",
+  "system": "RxNorm",
+  "official": "Tylenol",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 8
+ },
+ {
+  "text": "phù gai thị",
+  "code": "H47.1",
+  "system": "ICD-10",
+  "official": "Papilloedema, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 7
+ },
+ {
+  "text": "doxycycline",
+  "code": "3640",
+  "system": "RxNorm",
+  "official": "doxycycline",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 7
+ },
+ {
+  "text": "Bệnh thoái hóa tinh bột",
+  "code": "E85.9",
+  "system": "ICD-10",
+  "official": "Amyloidosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 6
+ },
+ {
+  "text": "viêm dạ dày",
+  "code": "K29.7",
+  "system": "ICD-10",
+  "official": "Gastritis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "Phù gai thị",
+  "code": "H47.1",
+  "system": "ICD-10",
+  "official": "Papilloedema, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "rung nhĩ",
+  "code": "I48.9",
+  "system": "ICD-10",
+  "official": "Atrial fibrillation and atrial flutter, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "hẹp ống sống",
+  "code": "M48.0",
+  "system": "ICD-10",
+  "official": "Spinal stenosis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "Giả gout",
+  "code": "M11.2",
+  "system": "ICD-10",
+  "official": "Other chondrocalcinosis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "tăng sản tuyến tiền liệt",
+  "code": "N40",
+  "system": "ICD-10",
+  "official": "Hyperplasia of prostate",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "Mày đay vô căn",
+  "code": "L50.1",
+  "system": "ICD-10",
+  "official": "Idiopathic urticaria",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "code": "J44.9",
+  "system": "ICD-10",
+  "official": "Chronic obstructive pulmonary disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "MÀY đay VÔ CĂN",
+  "code": "L50.1",
+  "system": "ICD-10",
+  "official": "Idiopathic urticaria",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "MÀY đay MẠN",
+  "code": "L50.8",
+  "system": "ICD-10",
+  "official": "Other urticaria",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "tràn dịch màng phổi",
+  "code": "J90",
+  "system": "ICD-10",
+  "official": "Pleural effusion, not elsewhere classified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "rối loạn lo âu",
+  "code": "F41.9",
+  "system": "ICD-10",
+  "official": "Anxiety disorder, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "Bệnh dại",
+  "code": "A82.9",
+  "system": "ICD-10",
+  "official": "Rabies, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 21
+ },
+ {
+  "text": "allopurinol",
+  "code": "519",
+  "system": "RxNorm",
+  "official": "allopurinol",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 8
+ },
+ {
+  "text": "u ác của tuyến tiền liệt",
+  "code": "C61",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm of prostate",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "nấm bẹn",
+  "code": "B35.6",
+  "system": "ICD-10",
+  "official": "Tinea inguinalis [Tinea cruris]",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "clonidine",
+  "code": "2599",
+  "system": "RxNorm",
+  "official": "clonidine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 5
+ },
+ {
+  "text": "thiếu máu",
+  "code": "D64.9",
+  "system": "ICD-10",
+  "official": "Anaemia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "Viêm mô tế bào",
+  "code": "L03.9",
+  "system": "ICD-10",
+  "official": "Cellulitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "code": "K80.5",
+  "system": "ICD-10",
+  "official": "Calculus of bile duct without cholangitis or cholecystitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "tăng kali máu",
+  "code": "E87.5",
+  "system": "ICD-10",
+  "official": "Hyperkalaemia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "bệnh lý thần kinh ngoại biên",
+  "code": "G62.9",
+  "system": "ICD-10",
+  "official": "Polyneuropathy, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "mucinex d",
+  "code": "214599",
+  "system": "RxNorm",
+  "official": "guaifenesin / pseudoephedrine",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 4
+ },
+ {
+  "text": "Rối loạn lipid máu",
+  "code": "E78.5",
+  "system": "ICD-10",
+  "official": "Hyperlipidaemia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "bệnh bàn chân bẹt",
+  "code": "Q66.5",
+  "system": "ICD-10",
+  "official": "Congenital pes planus",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "sỏi mật",
+  "code": "K80.2",
+  "system": "ICD-10",
+  "official": "Calculus of gallbladder without cholecystitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "MÀY ĐAY VÔ CĂN",
+  "code": "L50.1",
+  "system": "ICD-10",
+  "official": "Idiopathic urticaria",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "MÀY ĐAY MẠN TÍNH",
+  "code": "L50.8",
+  "system": "ICD-10",
+  "official": "Other urticaria",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "Rối loạn chuyển hóa tinh bột (amyloidosis)",
+  "code": "E85.9",
+  "system": "ICD-10",
+  "official": "Amyloidosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "bệnh amyloidosis",
+  "code": "E85.9",
+  "system": "ICD-10",
+  "official": "Amyloidosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "Bệnh amyloidosis chuỗi nhẹ",
+  "code": "E85.8",
+  "system": "ICD-10",
+  "official": "Other amyloidosis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "Bệnh amyloidosis",
+  "code": "E85.9",
+  "system": "ICD-10",
+  "official": "Amyloidosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "amyloidosis di truyền hoặc gia đình",
+  "code": "E85.2",
+  "system": "ICD-10",
+  "official": "Heredofamilial amyloidosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "tăng nhãn áp",
+  "code": "H40.9",
+  "system": "ICD-10",
+  "official": "Glaucoma, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "não úng tuỷ từ thời kỳ sơ sinh",
+  "code": "Q03.9",
+  "system": "ICD-10",
+  "official": "Congenital hydrocephalus, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "não úng thủy",
+  "code": "G91.9",
+  "system": "ICD-10",
+  "official": "Hydrocephalus, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "Tăng nhãn áp",
+  "code": "H40.9",
+  "system": "ICD-10",
+  "official": "Glaucoma, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "suy tim, không đặc hiệu",
+  "code": "I50.9",
+  "system": "ICD-10",
+  "official": "Heart failure, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "u dây thần kinh số VIII",
+  "code": "D33.3",
+  "system": "ICD-10",
+  "official": "Benign neoplasm: Cranial nerves",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "klonopin",
+  "code": "2598",
+  "system": "RxNorm",
+  "official": "clonazepam",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 3
+ },
+ {
+  "text": "xuất huyết dưới nhện",
+  "code": "I60.9",
+  "system": "ICD-10",
+  "official": "Subarachnoid haemorrhage, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 6
+ },
+ {
+  "text": "suboxone",
+  "code": "352364",
+  "system": "RxNorm",
+  "official": "buprenorphine / naloxone",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 6
+ },
+ {
+  "text": "Kawasaki",
+  "code": "M30.3",
+  "system": "ICD-10",
+  "official": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "bệnh Kawasaki",
+  "code": "M30.3",
+  "system": "ICD-10",
+  "official": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "nang màng nhện",
+  "code": "G93.0",
+  "system": "ICD-10",
+  "official": "Cerebral cysts",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "code": "I62.0",
+  "system": "ICD-10",
+  "official": "Nontraumatic subdural haemorrhage",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "bệnh thoái hóa tinh bột",
+  "code": "E85.9",
+  "system": "ICD-10",
+  "official": "Amyloidosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "xơ gan do rượu",
+  "code": "K70.3",
+  "system": "ICD-10",
+  "official": "Alcoholic cirrhosis of liver",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "Viêm phổi bệnh viện",
+  "code": "J18.9",
+  "system": "ICD-10",
+  "official": "Pneumonia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "nhịp nhanh trên thất",
+  "code": "I47.1",
+  "system": "ICD-10",
+  "official": "Supraventricular tachycardia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "tiền sản giật",
+  "code": "O14.9",
+  "system": "ICD-10",
+  "official": "Pre-eclampsia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "viêm tủy xương",
+  "code": "M86.9",
+  "system": "ICD-10",
+  "official": "Osteomyelitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 4
+ },
+ {
+  "text": "magie hydroxid",
+  "code": "6581",
+  "system": "RxNorm",
+  "official": "magnesium hydroxide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 4
+ },
+ {
+  "text": "isosorbide",
+  "code": "6057",
+  "system": "RxNorm",
+  "official": "isosorbide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 4
+ },
+ {
+  "text": "crestor",
+  "code": "301542",
+  "system": "RxNorm",
+  "official": "rosuvastatin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 4
+ },
+ {
+  "text": "carvedilol",
+  "code": "20352",
+  "system": "RxNorm",
+  "official": "carvedilol",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 4
+ },
+ {
+  "text": "vô sinh",
+  "code": "N97.9",
+  "system": "ICD-10",
+  "official": "Female infertility, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "Viêm phổi",
+  "code": "J18.9",
+  "system": "ICD-10",
+  "official": "Pneumonia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "code": "N39.0",
+  "system": "ICD-10",
+  "official": "Urinary tract infection, site not specified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "nhồi máu cơ tim",
+  "code": "I21.9",
+  "system": "ICD-10",
+  "official": "Acute myocardial infarction, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh tim mạch do xơ vữa động mạch",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "ăng huyết áp",
+  "code": "I10",
+  "system": "ICD-10",
+  "official": "Essential (primary) hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bầm dập nhu mô",
+  "code": "S06.3",
+  "system": "ICD-10",
+  "official": "Focal brain injury",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tụ máu ngoài màng cứng phải cấp tính",
+  "code": "S06.4",
+  "system": "ICD-10",
+  "official": "Epidural haemorrhage",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Bầm dập nhu mô",
+  "code": "S06.3",
+  "system": "ICD-10",
+  "official": "Focal brain injury",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Tụ máu ngoài màng cứng phải cấp tính",
+  "code": "S06.4",
+  "system": "ICD-10",
+  "official": "Epidural haemorrhage",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "sỏi thận",
+  "code": "N20.0",
+  "system": "ICD-10",
+  "official": "Calculus of kidney",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "trào ngược dạ dày thực quản",
+  "code": "K21.9",
+  "system": "ICD-10",
+  "official": "Gastro-oesophageal reflux disease without oesophagitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "đại tràng giãn",
+  "code": "K59.3",
+  "system": "ICD-10",
+  "official": "Megacolon, not elsewhere classified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh phổi kẽ",
+  "code": "J84.9",
+  "system": "ICD-10",
+  "official": "Interstitial pulmonary disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Hội chứng kháng enzym tổng hợp protein",
+  "code": "D89.8",
+  "system": "ICD-10",
+  "official": "Other specified disorders involving the immune mechanism, not elsewhere classified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Tăng huyết áp nguyên phát",
+  "code": "I10",
+  "system": "ICD-10",
+  "official": "Essential (primary) hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Suy giảm miễn dịch do sử dụng corticoid kéo dài",
+  "code": "D84.8",
+  "system": "ICD-10",
+  "official": "Other specified immunodeficiencies",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "viêm mô tế bào",
+  "code": "L03.9",
+  "system": "ICD-10",
+  "official": "Cellulitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "dị tật thiểu sản vành tai",
+  "code": "Q17.2",
+  "system": "ICD-10",
+  "official": "Microtia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tịt ống tai ngoài bẩm sinh",
+  "code": "Q16.1",
+  "system": "ICD-10",
+  "official": "Congenital absence, atresia and stricture of auditory canal (external)",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Nhiễm virus Herpes simplex",
+  "code": "B00.9",
+  "system": "ICD-10",
+  "official": "Herpesviral infection, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "HSV",
+  "code": "B00.9",
+  "system": "ICD-10",
+  "official": "Herpesviral infection, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh thủy đậu/Zona",
+  "code": "B02.9",
+  "system": "ICD-10",
+  "official": "Zoster without complication",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "đột quỵ",
+  "code": "I64",
+  "system": "ICD-10",
+  "official": "Stroke, not specified as haemorrhage or infarction",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnh mạch máu ngoại biên",
+  "code": "I73.9",
+  "system": "ICD-10",
+  "official": "Peripheral vascular disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Ngưng thở khi ngủ do tắc nghẽn",
+  "code": "G47.3",
+  "system": "ICD-10",
+  "official": "Sleep apnoea",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+  "code": "C60.9",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Penis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnh mạch vành",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "đa u tủy",
+  "code": "C90.0",
+  "system": "ICD-10",
+  "official": "Multiple myeloma",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tàn nhang",
+  "code": "L81.2",
+  "system": "ICD-10",
+  "official": "Freckles",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnh tim mạch",
+  "code": "I51.6",
+  "system": "ICD-10",
+  "official": "Cardiovascular disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "viêm phế quản",
+  "code": "J40",
+  "system": "ICD-10",
+  "official": "Bronchitis, not specified as acute or chronic",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "sỏi ống dẫn mật chung đoạn cuối",
+  "code": "K80.5",
+  "system": "ICD-10",
+  "official": "Calculus of bile duct without cholangitis or cholecystitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Ung thư biểu mô tuyến đại tràng",
+  "code": "C18.9",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Colon, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "ung thư tuyến đại tràng",
+  "code": "C18.9",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Colon, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "xẹp phổi",
+  "code": "J98.1",
+  "system": "ICD-10",
+  "official": "Pulmonary collapse",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Rung nhĩ",
+  "code": "I48.9",
+  "system": "ICD-10",
+  "official": "Atrial fibrillation and atrial flutter, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "ngưng thở khi ngủ do tắc nghẽn",
+  "code": "G47.3",
+  "system": "ICD-10",
+  "official": "Sleep apnoea",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "giãn phế quản",
+  "code": "J47",
+  "system": "ICD-10",
+  "official": "Bronchiectasis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "viêm phổi thùy dưới phải",
+  "code": "J18.9",
+  "system": "ICD-10",
+  "official": "Pneumonia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "RLL PNA",
+  "code": "J18.9",
+  "system": "ICD-10",
+  "official": "Pneumonia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tăng cholesterol máu đơn thuần",
+  "code": "E78.0",
+  "system": "ICD-10",
+  "official": "Pure hypercholesterolaemia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Hở hai lá",
+  "code": "I34.0",
+  "system": "ICD-10",
+  "official": "Mitral (valve) insufficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Hở chủ",
+  "code": "I35.1",
+  "system": "ICD-10",
+  "official": "Aortic (valve) insufficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Tăng áp lực động mạch phổi",
+  "code": "I27.2",
+  "system": "ICD-10",
+  "official": "Other secondary pulmonary hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "rụng tóc từng mảng",
+  "code": "L63.9",
+  "system": "ICD-10",
+  "official": "Alopecia areata, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "rụng tóc từng vùng",
+  "code": "L63.9",
+  "system": "ICD-10",
+  "official": "Alopecia areata, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "viêm da tiếp xúc dị ứng",
+  "code": "L23.9",
+  "system": "ICD-10",
+  "official": "Allergic contact dermatitis, unspecified cause",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "viêm da tiếp xúc",
+  "code": "L25.9",
+  "system": "ICD-10",
+  "official": "Unspecified contact dermatitis, unspecified cause",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "ngừng thở khi ngủ",
+  "code": "G47.3",
+  "system": "ICD-10",
+  "official": "Sleep apnoea",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Suy thận mạn giai đoạn V",
+  "code": "N18.5",
+  "system": "ICD-10",
+  "official": "Chronic kidney disease, stage 5",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "giảm chức năng tâm thu thất trái",
+  "code": "I51.8",
+  "system": "ICD-10",
+  "official": "Other ill-defined heart diseases",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnh ba thân động mạch vành nghiêm trọng",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Suy tim không do thiếu máu cơ tim",
+  "code": "I50.9",
+  "system": "ICD-10",
+  "official": "Heart failure, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh thận mạn tính",
+  "code": "N18.9",
+  "system": "ICD-10",
+  "official": "Chronic kidney disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tràn dịch màng phổi hai bên",
+  "code": "J90",
+  "system": "ICD-10",
+  "official": "Pleural effusion, not elsewhere classified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tim to",
+  "code": "I51.7",
+  "system": "ICD-10",
+  "official": "Cardiomegaly",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "viêm xương tủy",
+  "code": "M86.9",
+  "system": "ICD-10",
+  "official": "Osteomyelitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnh động mạch vành",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "thuyên tắc phổi hai bên",
+  "code": "I26.9",
+  "system": "ICD-10",
+  "official": "Pulmonary embolism without mention of acute cor pulmonale",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "nhiễm trùng chi dưới bên phải",
+  "code": "L08.9",
+  "system": "ICD-10",
+  "official": "Local infection of skin and subcutaneous tissue, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Rối loạn cảm xúc",
+  "code": "F39",
+  "system": "ICD-10",
+  "official": "Unspecified mood [affective] disorder",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Rối loạn lưỡng cực",
+  "code": "F31.9",
+  "system": "ICD-10",
+  "official": "Bipolar affective disorder, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Lạm dụng chất kích thích, chất gây nghiện opioid",
+  "code": "F11.1",
+  "system": "ICD-10",
+  "official": "Mental and behavioural disorders due to use of opioids : harmful use",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Viêm loét đại tràng",
+  "code": "K51.9",
+  "system": "ICD-10",
+  "official": "Ulcerative colitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh gan do rượu",
+  "code": "K70.9",
+  "system": "ICD-10",
+  "official": "Alcoholic liver disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Nấm bẹn",
+  "code": "B35.6",
+  "system": "ICD-10",
+  "official": "Tinea inguinalis [Tinea cruris]",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "nhiễm nấm da",
+  "code": "B35.9",
+  "system": "ICD-10",
+  "official": "Dermatophytosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnh gút",
+  "code": "M10.9",
+  "system": "ICD-10",
+  "official": "Gout, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnhgout",
+  "code": "M10.9",
+  "system": "ICD-10",
+  "official": "Gout, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bệnh gout mạn tính",
+  "code": "M10.9",
+  "system": "ICD-10",
+  "official": "Gout, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "nhiễm trùng máu",
+  "code": "A41.9",
+  "system": "ICD-10",
+  "official": "Sepsis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "bàng quang thần kinh",
+  "code": "N31.9",
+  "system": "ICD-10",
+  "official": "Neuromuscular dysfunction of bladder, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "liệt hai chi dưới",
+  "code": "G82.2",
+  "system": "ICD-10",
+  "official": "Paraplegia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "nhôm hydroxid",
+  "code": "612",
+  "system": "RxNorm",
+  "official": "aluminum hydroxide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Alverin citrate 40mg",
+  "code": "17627",
+  "system": "RxNorm",
+  "official": null,
+  "tty": null,
+  "who_valid": null,
+  "in_us_prescribable": false,
+  "mentions": 2
+ },
+ {
+  "text": "Simethicon 100mg",
+  "code": "9796",
+  "system": "RxNorm",
+  "official": "simethicone",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Pimperam",
+  "code": "6915",
+  "system": "RxNorm",
+  "official": "metoclopramide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "metoclopramide 10mg",
+  "code": "6915",
+  "system": "RxNorm",
+  "official": "metoclopramide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Nhôm hydroxid",
+  "code": "612",
+  "system": "RxNorm",
+  "official": "aluminum hydroxide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "cotrimoxazol",
+  "code": "10831",
+  "system": "RxNorm",
+  "official": "sulfamethoxazole / trimethoprim",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "doxycyclin",
+  "code": "3640",
+  "system": "RxNorm",
+  "official": "doxycycline",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "nitroglycerin",
+  "code": "4917",
+  "system": "RxNorm",
+  "official": "nitroglycerin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "metoprolol",
+  "code": "6918",
+  "system": "RxNorm",
+  "official": "metoprolol",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "azithromycin",
+  "code": "18631",
+  "system": "RxNorm",
+  "official": "azithromycin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "furosemide",
+  "code": "4603",
+  "system": "RxNorm",
+  "official": "furosemide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "aspirin 325mg",
+  "code": "212033",
+  "system": "RxNorm",
+  "official": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "albuterolipratropium nebulizer",
+  "code": "214199",
+  "system": "RxNorm",
+  "official": "albuterol / ipratropium",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "methylprednisolone 125mg iv",
+  "code": "1743704",
+  "system": "RxNorm",
+  "official": "methylprednisolone 125 MG Injection",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Torsemide",
+  "code": "38413",
+  "system": "RxNorm",
+  "official": "torsemide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Insulin glargine",
+  "code": "274783",
+  "system": "RxNorm",
+  "official": "insulin glargine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Isosorbide",
+  "code": "6057",
+  "system": "RxNorm",
+  "official": "isosorbide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Rosuvastatin",
+  "code": "301542",
+  "system": "RxNorm",
+  "official": "rosuvastatin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Crestor",
+  "code": "301542",
+  "system": "RxNorm",
+  "official": "rosuvastatin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Carvedilol",
+  "code": "20352",
+  "system": "RxNorm",
+  "official": "carvedilol",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Torsemide/ ngày",
+  "code": "38413",
+  "system": "RxNorm",
+  "official": "torsemide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "torsemide",
+  "code": "38413",
+  "system": "RxNorm",
+  "official": "torsemide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "glargine",
+  "code": "274783",
+  "system": "RxNorm",
+  "official": "insulin glargine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "lasix 40 mg once",
+  "code": "202991",
+  "system": "RxNorm",
+  "official": "Lasix",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Augmentin",
+  "code": "19711",
+  "system": "RxNorm",
+  "official": "amoxicillin / clavulanate",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "vancomycin",
+  "code": "11124",
+  "system": "RxNorm",
+  "official": "vancomycin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "thiếu men G6PD",
+  "code": "D55.0",
+  "system": "ICD-10",
+  "official": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 13
+ },
+ {
+  "text": "viêm dạ dày ruột do virus",
+  "code": "A08.4",
+  "system": "ICD-10",
+  "official": "Viral intestinal infection, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 11
+ },
+ {
+  "text": "đau nửa đầu",
+  "code": "G43.9",
+  "system": "ICD-10",
+  "official": "Migraine, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 6
+ },
+ {
+  "text": "loét tá tràng",
+  "code": "K26.9",
+  "system": "ICD-10",
+  "official": "Duodenal ulcer : unspecified as acute or chronic, without haemorrhage or perforation",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "bệnh lý chất trắng",
+  "code": "R90.8",
+  "system": "ICD-10",
+  "official": "Other abnormal findings on diagnostic imaging of central nervous system",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "u xơ tuyến vú",
+  "code": "N60.2",
+  "system": "ICD-10",
+  "official": "Fibroadenosis of breast",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "u nang tuyến vú",
+  "code": "N60.0",
+  "system": "ICD-10",
+  "official": "Solitary cyst of breast",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 5
+ },
+ {
+  "text": "Thiếu men G6PD",
+  "code": "D55.0",
+  "system": "ICD-10",
+  "official": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "Bệnh Kawasaki",
+  "code": "M30.3",
+  "system": "ICD-10",
+  "official": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "hội chứng ruột kích thích",
+  "code": "K58.8",
+  "system": "ICD-10",
+  "official": "Other and unspecified irritable bowel syndrome",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "viêm túi mật cấp",
+  "code": "K81.0",
+  "system": "ICD-10",
+  "official": "Acute cholecystitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 3
+ },
+ {
+  "text": "ntg",
+  "code": "4917",
+  "system": "RxNorm",
+  "official": "nitroglycerin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 3
+ },
+ {
+  "text": "coumadin",
+  "code": "11289",
+  "system": "RxNorm",
+  "official": "warfarin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 3
+ },
+ {
+  "text": "zosyn",
+  "code": "74169",
+  "system": "RxNorm",
+  "official": "piperacillin / tazobactam",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 3
+ },
+ {
+  "text": "thiếu máu tan huyết",
+  "code": "D55.0",
+  "system": "ICD-10",
+  "official": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tai biến mạch máu não",
+  "code": "I64",
+  "system": "ICD-10",
+  "official": "Stroke, not specified as haemorrhage or infarction",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "nhiễm trùng răng miệng",
+  "code": "K12.2",
+  "system": "ICD-10",
+  "official": "Cellulitis and abscess of mouth",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Viêm thực quản độ C",
+  "code": "K20",
+  "system": "ICD-10",
+  "official": "Oesophagitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "loét thực quản",
+  "code": "K22.1",
+  "system": "ICD-10",
+  "official": "Ulcer of oesophagus",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "hội chứng nghiện rượu",
+  "code": "F10.2",
+  "system": "ICD-10",
+  "official": "Mental and behavioural disorders due to use of alcohol : dependence syndrome",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "ngoại tâm thu nhĩ",
+  "code": "I49.1",
+  "system": "ICD-10",
+  "official": "Atrial premature depolarization",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "ngoại tâm thu thất",
+  "code": "I49.3",
+  "system": "ICD-10",
+  "official": "Ventricular premature depolarization",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Viêm nha chu",
+  "code": "K05.3",
+  "system": "ICD-10",
+  "official": "Chronic periodontitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tiểu đường",
+  "code": "E11.9",
+  "system": "ICD-10",
+  "official": "Type 2 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Bệnh mạch vành",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "áp xe phổi",
+  "code": "J85.2",
+  "system": "ICD-10",
+  "official": "Abscess of lung without pneumonia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "thuyên tắc phổi",
+  "code": "I26.9",
+  "system": "ICD-10",
+  "official": "Pulmonary embolism without mention of acute cor pulmonale",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "giãn thừng tinh",
+  "code": "I86.1",
+  "system": "ICD-10",
+  "official": "Scrotal varices",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Hội chứng thận hư",
+  "code": "N04.9",
+  "system": "ICD-10",
+  "official": "Nephrotic syndrome : unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "HoHL",
+  "code": "I34.0",
+  "system": "ICD-10",
+  "official": "Mitral (valve) insufficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "thrombophilia",
+  "code": "D68.5",
+  "system": "ICD-10",
+  "official": "Primary thrombophilia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "Thuyên tắc phổi",
+  "code": "I26.9",
+  "system": "ICD-10",
+  "official": "Pulmonary embolism without mention of acute cor pulmonale",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "tắc hẹp 80% động mạch thận trái L",
+  "code": "I70.1",
+  "system": "ICD-10",
+  "official": "Atherosclerosis of renal artery",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 2
+ },
+ {
+  "text": "levothyroxine",
+  "code": "10582",
+  "system": "RxNorm",
+  "official": "levothyroxine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "metoprolol 25mg po bid",
+  "code": "866924",
+  "system": "RxNorm",
+  "official": "metoprolol tartrate 25 MG Oral Tablet",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "atenolol",
+  "code": "1202",
+  "system": "RxNorm",
+  "official": "atenolol",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "acetaminophen 500mg",
+  "code": "198440",
+  "system": "RxNorm",
+  "official": "acetaminophen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "Vastarel",
+  "code": "10826",
+  "system": "RxNorm",
+  "official": null,
+  "tty": null,
+  "who_valid": null,
+  "in_us_prescribable": false,
+  "mentions": 2
+ },
+ {
+  "text": "vanco",
+  "code": "11124",
+  "system": "RxNorm",
+  "official": "vancomycin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 2
+ },
+ {
+  "text": "THIẾU MEN G6PD",
+  "code": "D55.0",
+  "system": "ICD-10",
+  "official": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "thiếu hụt men G6PD",
+  "code": "D55.0",
+  "system": "ICD-10",
+  "official": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "thiếu máu do tan huyết",
+  "code": "D55.0",
+  "system": "ICD-10",
+  "official": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "suy thận cấp",
+  "code": "N17.9",
+  "system": "ICD-10",
+  "official": "Acute renal failure, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bại não",
+  "code": "G80.9",
+  "system": "ICD-10",
+  "official": "Cerebral palsy, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Bại não",
+  "code": "G80.9",
+  "system": "ICD-10",
+  "official": "Cerebral palsy, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm tim",
+  "code": "I51.8",
+  "system": "ICD-10",
+  "official": "Other ill-defined heart diseases",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "phình giãn động mạch vành",
+  "code": "I25.4",
+  "system": "ICD-10",
+  "official": "Coronary artery aneurysm and dissection",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "hẹp tắc mạch vành",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bệnh viêm mạch máu",
+  "code": "I77.6",
+  "system": "ICD-10",
+  "official": "Arteritis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Bệnh đa xơ cứng",
+  "code": "G35",
+  "system": "ICD-10",
+  "official": "Multiple sclerosis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "hội chứng Parkinson",
+  "code": "G20",
+  "system": "ICD-10",
+  "official": "Parkinson disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "đau thắt ngực ổn định",
+  "code": "I20.8",
+  "system": "ICD-10",
+  "official": "Other forms of angina pectoris",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ung thư tuyến giáp",
+  "code": "C73",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm of thyroid gland",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ung thư biểu mô tế bào mật",
+  "code": "C22.1",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Intrahepatic bile duct carcinoma",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Hội chứng buồng trứng đa nang",
+  "code": "E28.2",
+  "system": "ICD-10",
+  "official": "Polycystic ovarian syndrome",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Rối loạn cảm xúc (trầm cảm)",
+  "code": "F32.9",
+  "system": "ICD-10",
+  "official": "Depressive episode, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Phình giãn động mạch vành",
+  "code": "I25.4",
+  "system": "ICD-10",
+  "official": "Coronary artery aneurysm and dissection",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Thiếu máu cơ tim",
+  "code": "I25.9",
+  "system": "ICD-10",
+  "official": "Chronic ischaemic heart disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Nhồi máu cơ tim",
+  "code": "I21.9",
+  "system": "ICD-10",
+  "official": "Acute myocardial infarction, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Suy vành mạn tính",
+  "code": "I25.9",
+  "system": "ICD-10",
+  "official": "Chronic ischaemic heart disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Viêm cơ tim",
+  "code": "I51.4",
+  "system": "ICD-10",
+  "official": "Myocarditis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tràn dịch màng tim",
+  "code": "I31.3",
+  "system": "ICD-10",
+  "official": "Pericardial effusion (noninflammatory)",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm tuyến mồ hôi",
+  "code": "L73.2",
+  "system": "ICD-10",
+  "official": "Hidradenitis suppurativa",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Viêm gan cấp tính do virus B thể thông thường điển hình mức độ nặng giai đoạn toàn phát",
+  "code": "B16.9",
+  "system": "ICD-10",
+  "official": "Acute hepatitis B without delta-agent and without hepatic coma",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Viêm quanh răng",
+  "code": "K05.3",
+  "system": "ICD-10",
+  "official": "Chronic periodontitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm khớp dạng thấp",
+  "code": "M06.9",
+  "system": "ICD-10",
+  "official": "Rheumatoid arthritis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Thiếu canxi",
+  "code": "E58",
+  "system": "ICD-10",
+  "official": "Dietary calcium deficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "loãng xương",
+  "code": "M81.9",
+  "system": "ICD-10",
+  "official": "Osteoporosis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "sâu răng",
+  "code": "K02.9",
+  "system": "ICD-10",
+  "official": "Dental caries, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm nha chu",
+  "code": "K05.3",
+  "system": "ICD-10",
+  "official": "Chronic periodontitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "thiếu hụt vitamin K",
+  "code": "E56.1",
+  "system": "ICD-10",
+  "official": "Deficiency of vitamin K",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tiểu đường",
+  "code": "E11.9",
+  "system": "ICD-10",
+  "official": "Type 2 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "thiếu máu cơ tim",
+  "code": "I25.9",
+  "system": "ICD-10",
+  "official": "Chronic ischaemic heart disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "sỏi ống mật",
+  "code": "K80.5",
+  "system": "ICD-10",
+  "official": "Calculus of bile duct without cholangitis or cholecystitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm virus viêm gan B, C",
+  "code": "B19.1",
+  "system": "ICD-10",
+  "official": "Unspecified viral hepatitis B",
+  "source": "ICD-10-CM FY2026 (CHUA xac nhan WHO)",
+  "who_valid": null,
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm virus viêm gan B, C",
+  "code": "B19.2",
+  "system": "ICD-10",
+  "official": "Unspecified viral hepatitis C",
+  "source": "ICD-10-CM FY2026 (CHUA xac nhan WHO)",
+  "who_valid": null,
+  "mentions": 1
+ },
+ {
+  "text": "tắc ống dẫn trứng",
+  "code": "N97.1",
+  "system": "ICD-10",
+  "official": "Female infertility of tubal origin",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ung thư cổ tử cung",
+  "code": "C53.9",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Cervix uteri, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "thai ngoài tử cung",
+  "code": "O00.9",
+  "system": "ICD-10",
+  "official": "Ectopic pregnancy, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "BỆNH MẠCH VÀNH",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "xơ vữa động mạch",
+  "code": "I70.9",
+  "system": "ICD-10",
+  "official": "Generalized and unspecified atherosclerosis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Xơ vữa động mạch vành",
+  "code": "I25.1",
+  "system": "ICD-10",
+  "official": "Atherosclerotic heart disease",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Béo phì",
+  "code": "E66.9",
+  "system": "ICD-10",
+  "official": "Obesity, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Đau thắt ngực ổn định",
+  "code": "I20.8",
+  "system": "ICD-10",
+  "official": "Other forms of angina pectoris",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Hội chứng vành cấp",
+  "code": "I24.9",
+  "system": "ICD-10",
+  "official": "Acute ischaemic heart disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Nhồi máu cơ tim ST chênh",
+  "code": "I21.3",
+  "system": "ICD-10",
+  "official": "Acute transmural myocardial infarction of unspecified site",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Nhồi máu không ST chênh",
+  "code": "I21.4",
+  "system": "ICD-10",
+  "official": "Acute subendocardial myocardial infarction",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Đau thắt ngực không ổn định",
+  "code": "I20.0",
+  "system": "ICD-10",
+  "official": "Unstable angina",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm tụy",
+  "code": "K85.9",
+  "system": "ICD-10",
+  "official": "Acute pancreatitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "rối loạn cảm xúc lưỡng cực",
+  "code": "F31.9",
+  "system": "ICD-10",
+  "official": "Bipolar affective disorder, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm phổi hoại tử",
+  "code": "J85.0",
+  "system": "ICD-10",
+  "official": "Gangrene and necrosis of lung",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm phổi",
+  "code": "J18.9",
+  "system": "ICD-10",
+  "official": "Pneumonia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Viêm phổi hoại tử",
+  "code": "J85.0",
+  "system": "ICD-10",
+  "official": "Gangrene and necrosis of lung",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Áp xe phổi",
+  "code": "J85.2",
+  "system": "ICD-10",
+  "official": "Abscess of lung without pneumonia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "áp-xe phổi",
+  "code": "J85.2",
+  "system": "ICD-10",
+  "official": "Abscess of lung without pneumonia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "hẹp ống sống C4-5, C5-6, C6-7",
+  "code": "M48.0",
+  "system": "ICD-10",
+  "official": "Spinal stenosis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+  "code": "I48.9",
+  "system": "ICD-10",
+  "official": "Atrial fibrillation and atrial flutter, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "suy hô hấp",
+  "code": "J96.9",
+  "system": "ICD-10",
+  "official": "Respiratory failure, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+  "code": "A41.0",
+  "system": "ICD-10",
+  "official": "Sepsis due to Staphylococcus aureus",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bàn chân bẹt bẩm sinh",
+  "code": "Q66.5",
+  "system": "ICD-10",
+  "official": "Congenital pes planus",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Giãn thừng tinh",
+  "code": "I86.1",
+  "system": "ICD-10",
+  "official": "Scrotal varices",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "vô sinh thứ phát",
+  "code": "N46",
+  "system": "ICD-10",
+  "official": "Male infertility",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "đau nửa đầu",
+  "code": "G43.9",
+  "system": "ICD-10",
+  "official": "Migraine, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Bệnh lý đau nửa đầu",
+  "code": "G43.9",
+  "system": "ICD-10",
+  "official": "Migraine, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bệnh đau nửa đầu Migraine",
+  "code": "G43.9",
+  "system": "ICD-10",
+  "official": "Migraine, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm xoang",
+  "code": "J32.9",
+  "system": "ICD-10",
+  "official": "Chronic sinusitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "suy thoái võng mạc",
+  "code": "H35.9",
+  "system": "ICD-10",
+  "official": "Retinal disorder, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tổn thương cầu thận mạn tính",
+  "code": "N03.9",
+  "system": "ICD-10",
+  "official": "Chronic nephritic syndrome : unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "suy thận",
+  "code": "N19",
+  "system": "ICD-10",
+  "official": "Unspecified kidney failure",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm họng cấp",
+  "code": "J02.9",
+  "system": "ICD-10",
+  "official": "Acute pharyngitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm nhiễm ngoài da",
+  "code": "L08.9",
+  "system": "ICD-10",
+  "official": "Local infection of skin and subcutaneous tissue, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Viêm cầu thận mạn",
+  "code": "N03.9",
+  "system": "ICD-10",
+  "official": "Chronic nephritic syndrome : unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "nốt sần tuyến giáp",
+  "code": "E04.1",
+  "system": "ICD-10",
+  "official": "Nontoxic single thyroid nodule",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "cml",
+  "code": "C92.1",
+  "system": "ICD-10",
+  "official": "Chronic myeloid leukaemia [CML], BCR/ABL-positive",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "XHTH",
+  "code": "K92.2",
+  "system": "ICD-10",
+  "official": "Gastrointestinal haemorrhage, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Xuất huyết tiêu hóa",
+  "code": "K92.2",
+  "system": "ICD-10",
+  "official": "Gastrointestinal haemorrhage, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Dị tật còn ống động mạch",
+  "code": "Q25.0",
+  "system": "ICD-10",
+  "official": "Patent ductus arteriosus",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "phù phổi cấp",
+  "code": "J81",
+  "system": "ICD-10",
+  "official": "Pulmonary oedema",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Phù phổi cấp",
+  "code": "J81",
+  "system": "ICD-10",
+  "official": "Pulmonary oedema",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Suy tim",
+  "code": "I50.9",
+  "system": "ICD-10",
+  "official": "Heart failure, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Ung thư vú di căn",
+  "code": "C50.9",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Breast, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "tràn dịch màng ngoài tim",
+  "code": "I31.3",
+  "system": "ICD-10",
+  "official": "Pericardial effusion (noninflammatory)",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+  "code": "C78.0",
+  "system": "ICD-10",
+  "official": "Secondary malignant neoplasm of lung",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ĐTD typ II",
+  "code": "E11.9",
+  "system": "ICD-10",
+  "official": "Type 2 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "rối loạn lipid máu",
+  "code": "E78.5",
+  "system": "ICD-10",
+  "official": "Hyperlipidaemia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "tăng HA",
+  "code": "I10",
+  "system": "ICD-10",
+  "official": "Essential (primary) hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Đái tháo đường typ II",
+  "code": "E11.9",
+  "system": "ICD-10",
+  "official": "Type 2 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tăng HA",
+  "code": "I10",
+  "system": "ICD-10",
+  "official": "Essential (primary) hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ghép thận thất bại",
+  "code": "T86.1",
+  "system": "ICD-10",
+  "official": "Kidney transplant failure and rejection",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bệnh Graves",
+  "code": "E05.0",
+  "system": "ICD-10",
+  "official": "Thyrotoxicosis with diffuse goitre",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "thiếu máu cơ tim cục bộ",
+  "code": "I25.9",
+  "system": "ICD-10",
+  "official": "Chronic ischaemic heart disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm teo niêm mạc dạ dày",
+  "code": "K29.4",
+  "system": "ICD-10",
+  "official": "Chronic atrophic gastritis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm nang lông",
+  "code": "L73.9",
+  "system": "ICD-10",
+  "official": "Follicular disorder, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bệnh vảy nến",
+  "code": "L40.9",
+  "system": "ICD-10",
+  "official": "Psoriasis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "khối u trực tràng",
+  "code": "C20",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm of rectum",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "u ác trực tràng",
+  "code": "C20",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm of rectum",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "u tuyến",
+  "code": "D12.8",
+  "system": "ICD-10",
+  "official": "Benign neoplasm: Rectum",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Hở ba lá",
+  "code": "I36.1",
+  "system": "ICD-10",
+  "official": "Nonrheumatic tricuspid (valve) insufficiency",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bóng tim to",
+  "code": "I51.7",
+  "system": "ICD-10",
+  "official": "Cardiomegaly",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "suy thận mạn giai đoạn 5",
+  "code": "N18.5",
+  "system": "ICD-10",
+  "official": "Chronic kidney disease, stage 5",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "xơ gan mất bù",
+  "code": "K74.6",
+  "system": "ICD-10",
+  "official": "Other and unspecified cirrhosis of liver",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "tăng áp lực tĩnh mạch cửa",
+  "code": "K76.6",
+  "system": "ICD-10",
+  "official": "Portal hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "cổ trướng",
+  "code": "R18",
+  "system": "ICD-10",
+  "official": "Ascites",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "hội chứng tăng đông",
+  "code": "D68.5",
+  "system": "ICD-10",
+  "official": "Primary thrombophilia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Thrombophilia",
+  "code": "D68.5",
+  "system": "ICD-10",
+  "official": "Primary thrombophilia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bệnh tăng đông máu",
+  "code": "D68.5",
+  "system": "ICD-10",
+  "official": "Primary thrombophilia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tiểu đường loại 1 đái tháo đường",
+  "code": "E10.9",
+  "system": "ICD-10",
+  "official": "Type 1 diabetes mellitus without complications",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Nhiễm trùng đường tiết niệu",
+  "code": "N39.0",
+  "system": "ICD-10",
+  "official": "Urinary tract infection, site not specified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm bể thận",
+  "code": "N12",
+  "system": "ICD-10",
+  "official": "Tubulo-interstitial nephritis, not specified as acute or chronic",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "gãy xương",
+  "code": "T14.2",
+  "system": "ICD-10",
+  "official": "Fracture of unspecified body region",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "huyết khối tĩnh mạch sâu",
+  "code": "I80.2",
+  "system": "ICD-10",
+  "official": "Phlebitis and thrombophlebitis of other deep vessels of lower extremities",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "DVT",
+  "code": "I80.2",
+  "system": "ICD-10",
+  "official": "Phlebitis and thrombophlebitis of other deep vessels of lower extremities",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Cơn đau thắt ngực không ổn định",
+  "code": "I20.0",
+  "system": "ICD-10",
+  "official": "Unstable angina",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bệnh tăng HA vô căn",
+  "code": "I10",
+  "system": "ICD-10",
+  "official": "Essential (primary) hypertension",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ung thư đường mật",
+  "code": "C22.1",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Intrahepatic bile duct carcinoma",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "áp xe",
+  "code": "K65.0",
+  "system": "ICD-10",
+  "official": "Acute peritonitis",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Táo bón mãn tính",
+  "code": "K59.0",
+  "system": "ICD-10",
+  "official": "Constipation",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ngưng thở khi ngủ",
+  "code": "G47.3",
+  "system": "ICD-10",
+  "official": "Sleep apnoea",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm trùng đường hô hấp trên",
+  "code": "J06.9",
+  "system": "ICD-10",
+  "official": "Acute upper respiratory infection, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "viêm phổi kẽ",
+  "code": "J84.9",
+  "system": "ICD-10",
+  "official": "Interstitial pulmonary disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "hội chứng turner",
+  "code": "Q96.9",
+  "system": "ICD-10",
+  "official": "Turner syndrome, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Ung thư đại tràng",
+  "code": "C18.9",
+  "system": "ICD-10",
+  "official": "Malignant neoplasm: Colon, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Cơn nhịp nhanh",
+  "code": "I47.1",
+  "system": "ICD-10",
+  "official": "Supraventricular tachycardia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Sỏi niệu quản",
+  "code": "N20.1",
+  "system": "ICD-10",
+  "official": "Calculus of ureter",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "loét tì đè giai đoạn IV mãn tính",
+  "code": "L89.3",
+  "system": "ICD-10",
+  "official": "Stage IV decubitus ulcer",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm trùng huyết",
+  "code": "A41.9",
+  "system": "ICD-10",
+  "official": "Sepsis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "bệnh viêm tuỷ xương",
+  "code": "M86.9",
+  "system": "ICD-10",
+  "official": "Osteomyelitis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "nhiễm trùng huyết đường vào tiết niệu",
+  "code": "A41.9",
+  "system": "ICD-10",
+  "official": "Sepsis, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "chèn ép tim",
+  "code": "I31.9",
+  "system": "ICD-10",
+  "official": "Disease of pericardium, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "gout",
+  "code": "M10.9",
+  "system": "ICD-10",
+  "official": "Gout, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "trĩ",
+  "code": "K64.9",
+  "system": "ICD-10",
+  "official": "Haemorrhoids, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Đợt cấp COPD",
+  "code": "J44.1",
+  "system": "ICD-10",
+  "official": "Chronic obstructive pulmonary disease with acute exacerbation, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tâm phế mạn",
+  "code": "I27.9",
+  "system": "ICD-10",
+  "official": "Pulmonary heart disease, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Cơn tim nhanh nhĩ",
+  "code": "I47.1",
+  "system": "ICD-10",
+  "official": "Supraventricular tachycardia",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "Nhiễm khuẩn đường tiêu hóa",
+  "code": "A09",
+  "system": "ICD-10",
+  "official": "Other gastroenteritis and colitis of infectious and unspecified origin",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "nhịp chậm xoang",
+  "code": "R00.1",
+  "system": "ICD-10",
+  "official": "Bradycardia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "tiền sản giật",
+  "code": "O14.9",
+  "system": "ICD-10",
+  "official": "Pre-eclampsia, unspecified",
+  "source": "WHO ICD-10 2019",
+  "who_valid": true,
+  "mentions": 1
+ },
+ {
+  "text": "ASA",
+  "code": "1191",
+  "system": "RxNorm",
+  "official": "aspirin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Vastarel (trimetazidin)",
+  "code": "10826",
+  "system": "RxNorm",
+  "official": null,
+  "tty": null,
+  "who_valid": null,
+  "in_us_prescribable": false,
+  "mentions": 1
+ },
+ {
+  "text": "Berlthyrox",
+  "code": "10582",
+  "system": "RxNorm",
+  "official": "levothyroxine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "seroquel",
+  "code": "83553",
+  "system": "RxNorm",
+  "official": "Seroquel",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "aspirin 325mg x 1",
+  "code": "212033",
+  "system": "RxNorm",
+  "official": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Pimperan",
+  "code": "6915",
+  "system": "RxNorm",
+  "official": "metoclopramide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "metoclopramide",
+  "code": "6915",
+  "system": "RxNorm",
+  "official": "metoclopramide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "bumetanide 2mg iv",
+  "code": "1808",
+  "system": "RxNorm",
+  "official": "bumetanide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "vancomycin 1 gram",
+  "code": "1807513",
+  "system": "RxNorm",
+  "official": "vancomycin 1000 MG Injection",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "levofloxacin 750mg iv",
+  "code": "330371",
+  "system": "RxNorm",
+  "official": "levofloxacin 750 MG",
+  "tty": "SCDC",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "compazine",
+  "code": "203546",
+  "system": "RxNorm",
+  "official": "Compazine",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "aleve",
+  "code": "215101",
+  "system": "RxNorm",
+  "official": "Aleve",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "morphine",
+  "code": "7052",
+  "system": "RxNorm",
+  "official": "morphine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "lorazepam",
+  "code": "6470",
+  "system": "RxNorm",
+  "official": "lorazepam",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "paracetamol viên",
+  "code": "161",
+  "system": "RxNorm",
+  "official": "acetaminophen",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Glucose 5% x 1000ml truyền tĩnh mạch",
+  "code": "4850",
+  "system": "RxNorm",
+  "official": "glucose",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Vitamin 3B x 4 viên",
+  "code": "11251",
+  "system": "RxNorm",
+  "official": "vitamin B complex",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "levafloxacin",
+  "code": "82122",
+  "system": "RxNorm",
+  "official": "levofloxacin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "cephalexin",
+  "code": "2231",
+  "system": "RxNorm",
+  "official": "cephalexin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "eliquis",
+  "code": "1364436",
+  "system": "RxNorm",
+  "official": "Eliquis",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "methadone",
+  "code": "6813",
+  "system": "RxNorm",
+  "official": "methadone",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "80mg po lasix",
+  "code": "197732",
+  "system": "RxNorm",
+  "official": "furosemide 80 MG Oral Tablet",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "asa",
+  "code": "1191",
+  "system": "RxNorm",
+  "official": "aspirin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "80mg lasix iv",
+  "code": "4603",
+  "system": "RxNorm",
+  "official": "furosemide",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "8mg morphine",
+  "code": "7052",
+  "system": "RxNorm",
+  "official": "morphine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "1mg dilaudid",
+  "code": "224913",
+  "system": "RxNorm",
+  "official": "Dilaudid",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "10mg iv diltiazem",
+  "code": "3443",
+  "system": "RxNorm",
+  "official": "diltiazem",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Medrol 16mg x 3 viên, uống 8h sáng sau ăn no",
+  "code": "6902",
+  "system": "RxNorm",
+  "official": "methylprednisolone",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Omez 20mg x 1 viên, uống 8h sáng",
+  "code": "198051",
+  "system": "RxNorm",
+  "official": "omeprazole 20 MG Delayed Release Oral Capsule",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Furosemid 40 mg x 1 viên, uống sáng",
+  "code": "313988",
+  "system": "RxNorm",
+  "official": "furosemide 40 MG Oral Tablet",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Zestril 10mg x 1 viên, uống sáng",
+  "code": "29046",
+  "system": "RxNorm",
+  "official": "lisinopril",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Ceftriaxone 1g",
+  "code": "1665021",
+  "system": "RxNorm",
+  "official": "ceftriaxone 1000 MG Injection",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tretinoin",
+  "code": "10753",
+  "system": "RxNorm",
+  "official": "tretinoin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "acetaminophen",
+  "code": "161",
+  "system": "RxNorm",
+  "official": "acetaminophen",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "nac",
+  "code": "197",
+  "system": "RxNorm",
+  "official": "acetylcysteine",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "coumadin 3.0 mg /ngày",
+  "code": "855318",
+  "system": "RxNorm",
+  "official": "warfarin sodium 3 MG Oral Tablet",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Implanon",
+  "code": "389221",
+  "system": "RxNorm",
+  "official": "etonogestrel 68 MG Drug Implant",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "trimetazidine",
+  "code": "10826",
+  "system": "RxNorm",
+  "official": null,
+  "tty": null,
+  "who_valid": null,
+  "in_us_prescribable": false,
+  "mentions": 1
+ },
+ {
+  "text": "Nitramyl 2,5 mg/viên",
+  "code": "4917",
+  "system": "RxNorm",
+  "official": "nitroglycerin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Nitramyl",
+  "code": "4917",
+  "system": "RxNorm",
+  "official": "nitroglycerin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "vitamin 3b",
+  "code": "11251",
+  "system": "RxNorm",
+  "official": "vitamin B complex",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Augmentin (amoxicillin/acid clavulanic)",
+  "code": "19711",
+  "system": "RxNorm",
+  "official": "amoxicillin / clavulanate",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Albuterol",
+  "code": "435",
+  "system": "RxNorm",
+  "official": "albuterol",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Ipratropium 1 lần",
+  "code": "7213",
+  "system": "RxNorm",
+  "official": "ipratropium",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Ceftriaxone 1 gram dùng 1 liều",
+  "code": "1665021",
+  "system": "RxNorm",
+  "official": "ceftriaxone 1000 MG Injection",
+  "tty": "SCD",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Tylenol 1 gram",
+  "code": "202433",
+  "system": "RxNorm",
+  "official": "Tylenol",
+  "tty": "BN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "albuterolipratropium nebs x2",
+  "code": "214199",
+  "system": "RxNorm",
+  "official": "albuterol / ipratropium",
+  "tty": "MIN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "4000 ml NS 0.9 %",
+  "code": "9863",
+  "system": "RxNorm",
+  "official": "sodium chloride",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Cefepim",
+  "code": "20481",
+  "system": "RxNorm",
+  "official": "cefepime",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "Vancomycin truyền tĩnh mạch",
+  "code": "11124",
+  "system": "RxNorm",
+  "official": "vancomycin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ },
+ {
+  "text": "aspirin",
+  "code": "1191",
+  "system": "RxNorm",
+  "official": "aspirin",
+  "tty": "IN",
+  "who_valid": null,
+  "in_us_prescribable": true,
+  "mentions": 1
+ }
+]

@@ -1,0 +1,955 @@
+{
+ "A08.4": {
+  "found": true,
+  "title": "Viral intestinal infection, unspecified",
+  "parent": "A08"
+ },
+ "A09": {
+  "found": true,
+  "title": "Other gastroenteritis and colitis of infectious and unspecified origin",
+  "parent": "A00-A09"
+ },
+ "A41.0": {
+  "found": true,
+  "title": "Sepsis due to Staphylococcus aureus",
+  "parent": "A41"
+ },
+ "A41.9": {
+  "found": true,
+  "title": "Sepsis, unspecified",
+  "parent": "A41"
+ },
+ "A82.9": {
+  "found": true,
+  "title": "Rabies, unspecified",
+  "parent": "A82"
+ },
+ "B00.9": {
+  "found": true,
+  "title": "Herpesviral infection, unspecified",
+  "parent": "B00"
+ },
+ "B02.9": {
+  "found": true,
+  "title": "Zoster without complication",
+  "parent": "B02"
+ },
+ "B16.9": {
+  "found": true,
+  "title": "Acute hepatitis B without delta-agent and without hepatic coma",
+  "parent": "B16"
+ },
+ "B19.1": {
+  "found": false,
+  "title": null,
+  "parent": "B19",
+  "siblings": [
+   "B19.0",
+   "B19.9"
+  ]
+ },
+ "B19.2": {
+  "found": false,
+  "title": null,
+  "parent": "B19",
+  "siblings": [
+   "B19.0",
+   "B19.9"
+  ]
+ },
+ "B35.6": {
+  "found": true,
+  "title": "Tinea inguinalis [Tinea cruris]",
+  "parent": "B35"
+ },
+ "B35.9": {
+  "found": true,
+  "title": "Dermatophytosis, unspecified",
+  "parent": "B35"
+ },
+ "C18.9": {
+  "found": true,
+  "title": "Malignant neoplasm: Colon, unspecified",
+  "parent": "C18"
+ },
+ "C20": {
+  "found": true,
+  "title": "Malignant neoplasm of rectum",
+  "parent": "C15-C26"
+ },
+ "C22.1": {
+  "found": true,
+  "title": "Malignant neoplasm: Intrahepatic bile duct carcinoma",
+  "parent": "C22"
+ },
+ "C50.9": {
+  "found": true,
+  "title": "Malignant neoplasm: Breast, unspecified",
+  "parent": "C50"
+ },
+ "C53.9": {
+  "found": true,
+  "title": "Malignant neoplasm: Cervix uteri, unspecified",
+  "parent": "C53"
+ },
+ "C60.9": {
+  "found": true,
+  "title": "Malignant neoplasm: Penis, unspecified",
+  "parent": "C60"
+ },
+ "C61": {
+  "found": true,
+  "title": "Malignant neoplasm of prostate",
+  "parent": "C60-C63"
+ },
+ "C73": {
+  "found": true,
+  "title": "Malignant neoplasm of thyroid gland",
+  "parent": "C73-C75"
+ },
+ "C78.0": {
+  "found": true,
+  "title": "Secondary malignant neoplasm of lung",
+  "parent": "C78"
+ },
+ "C90.0": {
+  "found": true,
+  "title": "Multiple myeloma",
+  "parent": "C90"
+ },
+ "C92.1": {
+  "found": true,
+  "title": "Chronic myeloid leukaemia [CML], BCR/ABL-positive",
+  "parent": "C92"
+ },
+ "D12.8": {
+  "found": true,
+  "title": "Benign neoplasm: Rectum",
+  "parent": "D12"
+ },
+ "D33.3": {
+  "found": true,
+  "title": "Benign neoplasm: Cranial nerves",
+  "parent": "D33"
+ },
+ "D55.0": {
+  "found": true,
+  "title": "Anaemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "parent": "D55"
+ },
+ "D64.9": {
+  "found": true,
+  "title": "Anaemia, unspecified",
+  "parent": "D64"
+ },
+ "D68.5": {
+  "found": true,
+  "title": "Primary thrombophilia",
+  "parent": "D68"
+ },
+ "D84.8": {
+  "found": true,
+  "title": "Other specified immunodeficiencies",
+  "parent": "D84"
+ },
+ "D89.8": {
+  "found": true,
+  "title": "Other specified disorders involving the immune mechanism, not elsewhere classified",
+  "parent": "D89"
+ },
+ "E04.1": {
+  "found": true,
+  "title": "Nontoxic single thyroid nodule",
+  "parent": "E04"
+ },
+ "E05.0": {
+  "found": true,
+  "title": "Thyrotoxicosis with diffuse goitre",
+  "parent": "E05"
+ },
+ "E10.9": {
+  "found": true,
+  "title": "Type 1 diabetes mellitus without complications",
+  "parent": "E10"
+ },
+ "E11.9": {
+  "found": true,
+  "title": "Type 2 diabetes mellitus without complications",
+  "parent": "E11"
+ },
+ "E28.2": {
+  "found": true,
+  "title": "Polycystic ovarian syndrome",
+  "parent": "E28"
+ },
+ "E56.1": {
+  "found": true,
+  "title": "Deficiency of vitamin K",
+  "parent": "E56"
+ },
+ "E58": {
+  "found": true,
+  "title": "Dietary calcium deficiency",
+  "parent": "E50-E64"
+ },
+ "E66.9": {
+  "found": true,
+  "title": "Obesity, unspecified",
+  "parent": "E66"
+ },
+ "E78.0": {
+  "found": true,
+  "title": "Pure hypercholesterolaemia",
+  "parent": "E78"
+ },
+ "E78.5": {
+  "found": true,
+  "title": "Hyperlipidaemia, unspecified",
+  "parent": "E78"
+ },
+ "E85.2": {
+  "found": true,
+  "title": "Heredofamilial amyloidosis, unspecified",
+  "parent": "E85"
+ },
+ "E85.8": {
+  "found": true,
+  "title": "Other amyloidosis",
+  "parent": "E85"
+ },
+ "E85.9": {
+  "found": true,
+  "title": "Amyloidosis, unspecified",
+  "parent": "E85"
+ },
+ "E87.5": {
+  "found": true,
+  "title": "Hyperkalaemia",
+  "parent": "E87"
+ },
+ "F10.2": {
+  "found": true,
+  "title": "Mental and behavioural disorders due to use of alcohol : dependence syndrome",
+  "parent": "F10"
+ },
+ "F11.1": {
+  "found": true,
+  "title": "Mental and behavioural disorders due to use of opioids : harmful use",
+  "parent": "F11"
+ },
+ "F31.9": {
+  "found": true,
+  "title": "Bipolar affective disorder, unspecified",
+  "parent": "F31"
+ },
+ "F32.9": {
+  "found": true,
+  "title": "Depressive episode, unspecified",
+  "parent": "F32"
+ },
+ "F39": {
+  "found": true,
+  "title": "Unspecified mood [affective] disorder",
+  "parent": "F30-F39"
+ },
+ "F41.9": {
+  "found": true,
+  "title": "Anxiety disorder, unspecified",
+  "parent": "F41"
+ },
+ "G20": {
+  "found": true,
+  "title": "Parkinson disease",
+  "parent": "G20-G26"
+ },
+ "G35": {
+  "found": true,
+  "title": "Multiple sclerosis",
+  "parent": "G35-G37"
+ },
+ "G43.9": {
+  "found": true,
+  "title": "Migraine, unspecified",
+  "parent": "G43"
+ },
+ "G47.3": {
+  "found": true,
+  "title": "Sleep apnoea",
+  "parent": "G47"
+ },
+ "G62.9": {
+  "found": true,
+  "title": "Polyneuropathy, unspecified",
+  "parent": "G62"
+ },
+ "G80.9": {
+  "found": true,
+  "title": "Cerebral palsy, unspecified",
+  "parent": "G80"
+ },
+ "G82.2": {
+  "found": true,
+  "title": "Paraplegia, unspecified",
+  "parent": "G82"
+ },
+ "G91.9": {
+  "found": true,
+  "title": "Hydrocephalus, unspecified",
+  "parent": "G91"
+ },
+ "G93.0": {
+  "found": true,
+  "title": "Cerebral cysts",
+  "parent": "G93"
+ },
+ "H35.9": {
+  "found": true,
+  "title": "Retinal disorder, unspecified",
+  "parent": "H35"
+ },
+ "H40.9": {
+  "found": true,
+  "title": "Glaucoma, unspecified",
+  "parent": "H40"
+ },
+ "H47.1": {
+  "found": true,
+  "title": "Papilloedema, unspecified",
+  "parent": "H47"
+ },
+ "I10": {
+  "found": true,
+  "title": "Essential (primary) hypertension",
+  "parent": "I10-I15"
+ },
+ "I20.0": {
+  "found": true,
+  "title": "Unstable angina",
+  "parent": "I20"
+ },
+ "I20.8": {
+  "found": true,
+  "title": "Other forms of angina pectoris",
+  "parent": "I20"
+ },
+ "I21.3": {
+  "found": true,
+  "title": "Acute transmural myocardial infarction of unspecified site",
+  "parent": "I21"
+ },
+ "I21.4": {
+  "found": true,
+  "title": "Acute subendocardial myocardial infarction",
+  "parent": "I21"
+ },
+ "I21.9": {
+  "found": true,
+  "title": "Acute myocardial infarction, unspecified",
+  "parent": "I21"
+ },
+ "I24.9": {
+  "found": true,
+  "title": "Acute ischaemic heart disease, unspecified",
+  "parent": "I24"
+ },
+ "I25.1": {
+  "found": true,
+  "title": "Atherosclerotic heart disease",
+  "parent": "I25"
+ },
+ "I25.4": {
+  "found": true,
+  "title": "Coronary artery aneurysm and dissection",
+  "parent": "I25"
+ },
+ "I25.9": {
+  "found": true,
+  "title": "Chronic ischaemic heart disease, unspecified",
+  "parent": "I25"
+ },
+ "I26.9": {
+  "found": true,
+  "title": "Pulmonary embolism without mention of acute cor pulmonale",
+  "parent": "I26"
+ },
+ "I27.2": {
+  "found": true,
+  "title": "Other secondary pulmonary hypertension",
+  "parent": "I27"
+ },
+ "I27.9": {
+  "found": true,
+  "title": "Pulmonary heart disease, unspecified",
+  "parent": "I27"
+ },
+ "I31.3": {
+  "found": true,
+  "title": "Pericardial effusion (noninflammatory)",
+  "parent": "I31"
+ },
+ "I31.9": {
+  "found": true,
+  "title": "Disease of pericardium, unspecified",
+  "parent": "I31"
+ },
+ "I34.0": {
+  "found": true,
+  "title": "Mitral (valve) insufficiency",
+  "parent": "I34"
+ },
+ "I35.1": {
+  "found": true,
+  "title": "Aortic (valve) insufficiency",
+  "parent": "I35"
+ },
+ "I36.1": {
+  "found": true,
+  "title": "Nonrheumatic tricuspid (valve) insufficiency",
+  "parent": "I36"
+ },
+ "I47.1": {
+  "found": true,
+  "title": "Supraventricular tachycardia",
+  "parent": "I47"
+ },
+ "I48.9": {
+  "found": true,
+  "title": "Atrial fibrillation and atrial flutter, unspecified",
+  "parent": "I48"
+ },
+ "I49.1": {
+  "found": true,
+  "title": "Atrial premature depolarization",
+  "parent": "I49"
+ },
+ "I49.3": {
+  "found": true,
+  "title": "Ventricular premature depolarization",
+  "parent": "I49"
+ },
+ "I50.9": {
+  "found": true,
+  "title": "Heart failure, unspecified",
+  "parent": "I50"
+ },
+ "I51.4": {
+  "found": true,
+  "title": "Myocarditis, unspecified",
+  "parent": "I51"
+ },
+ "I51.6": {
+  "found": true,
+  "title": "Cardiovascular disease, unspecified",
+  "parent": "I51"
+ },
+ "I51.7": {
+  "found": true,
+  "title": "Cardiomegaly",
+  "parent": "I51"
+ },
+ "I51.8": {
+  "found": true,
+  "title": "Other ill-defined heart diseases",
+  "parent": "I51"
+ },
+ "I60.9": {
+  "found": true,
+  "title": "Subarachnoid haemorrhage, unspecified",
+  "parent": "I60"
+ },
+ "I62.0": {
+  "found": true,
+  "title": "Nontraumatic subdural haemorrhage",
+  "parent": "I62"
+ },
+ "I64": {
+  "found": true,
+  "title": "Stroke, not specified as haemorrhage or infarction",
+  "parent": "I60-I69"
+ },
+ "I70.1": {
+  "found": true,
+  "title": "Atherosclerosis of renal artery",
+  "parent": "I70"
+ },
+ "I70.9": {
+  "found": true,
+  "title": "Generalized and unspecified atherosclerosis",
+  "parent": "I70"
+ },
+ "I73.9": {
+  "found": true,
+  "title": "Peripheral vascular disease, unspecified",
+  "parent": "I73"
+ },
+ "I77.6": {
+  "found": true,
+  "title": "Arteritis, unspecified",
+  "parent": "I77"
+ },
+ "I80.2": {
+  "found": true,
+  "title": "Phlebitis and thrombophlebitis of other deep vessels of lower extremities",
+  "parent": "I80"
+ },
+ "I86.1": {
+  "found": true,
+  "title": "Scrotal varices",
+  "parent": "I86"
+ },
+ "J02.9": {
+  "found": true,
+  "title": "Acute pharyngitis, unspecified",
+  "parent": "J02"
+ },
+ "J06.9": {
+  "found": true,
+  "title": "Acute upper respiratory infection, unspecified",
+  "parent": "J06"
+ },
+ "J18.9": {
+  "found": true,
+  "title": "Pneumonia, unspecified",
+  "parent": "J18"
+ },
+ "J32.9": {
+  "found": true,
+  "title": "Chronic sinusitis, unspecified",
+  "parent": "J32"
+ },
+ "J40": {
+  "found": true,
+  "title": "Bronchitis, not specified as acute or chronic",
+  "parent": "J40-J47"
+ },
+ "J44.1": {
+  "found": true,
+  "title": "Chronic obstructive pulmonary disease with acute exacerbation, unspecified",
+  "parent": "J44"
+ },
+ "J44.9": {
+  "found": true,
+  "title": "Chronic obstructive pulmonary disease, unspecified",
+  "parent": "J44"
+ },
+ "J47": {
+  "found": true,
+  "title": "Bronchiectasis",
+  "parent": "J40-J47"
+ },
+ "J81": {
+  "found": true,
+  "title": "Pulmonary oedema",
+  "parent": "J80-J84"
+ },
+ "J84.9": {
+  "found": true,
+  "title": "Interstitial pulmonary disease, unspecified",
+  "parent": "J84"
+ },
+ "J85.0": {
+  "found": true,
+  "title": "Gangrene and necrosis of lung",
+  "parent": "J85"
+ },
+ "J85.2": {
+  "found": true,
+  "title": "Abscess of lung without pneumonia",
+  "parent": "J85"
+ },
+ "J90": {
+  "found": true,
+  "title": "Pleural effusion, not elsewhere classified",
+  "parent": "J90-J94"
+ },
+ "J96.9": {
+  "found": true,
+  "title": "Respiratory failure, unspecified",
+  "parent": "J96"
+ },
+ "J98.1": {
+  "found": true,
+  "title": "Pulmonary collapse",
+  "parent": "J98"
+ },
+ "K02.9": {
+  "found": true,
+  "title": "Dental caries, unspecified",
+  "parent": "K02"
+ },
+ "K05.3": {
+  "found": true,
+  "title": "Chronic periodontitis",
+  "parent": "K05"
+ },
+ "K12.2": {
+  "found": true,
+  "title": "Cellulitis and abscess of mouth",
+  "parent": "K12"
+ },
+ "K20": {
+  "found": true,
+  "title": "Oesophagitis",
+  "parent": "K20-K31"
+ },
+ "K21.9": {
+  "found": true,
+  "title": "Gastro-oesophageal reflux disease without oesophagitis",
+  "parent": "K21"
+ },
+ "K22.1": {
+  "found": true,
+  "title": "Ulcer of oesophagus",
+  "parent": "K22"
+ },
+ "K26.9": {
+  "found": true,
+  "title": "Duodenal ulcer : unspecified as acute or chronic, without haemorrhage or perforation",
+  "parent": "K26"
+ },
+ "K29.4": {
+  "found": true,
+  "title": "Chronic atrophic gastritis",
+  "parent": "K29"
+ },
+ "K29.7": {
+  "found": true,
+  "title": "Gastritis, unspecified",
+  "parent": "K29"
+ },
+ "K51.9": {
+  "found": true,
+  "title": "Ulcerative colitis, unspecified",
+  "parent": "K51"
+ },
+ "K58.8": {
+  "found": true,
+  "title": "Other and unspecified irritable bowel syndrome",
+  "parent": "K58"
+ },
+ "K59.0": {
+  "found": true,
+  "title": "Constipation",
+  "parent": "K59"
+ },
+ "K59.3": {
+  "found": true,
+  "title": "Megacolon, not elsewhere classified",
+  "parent": "K59"
+ },
+ "K64.9": {
+  "found": true,
+  "title": "Haemorrhoids, unspecified",
+  "parent": "K64"
+ },
+ "K65.0": {
+  "found": true,
+  "title": "Acute peritonitis",
+  "parent": "K65"
+ },
+ "K70.3": {
+  "found": true,
+  "title": "Alcoholic cirrhosis of liver",
+  "parent": "K70"
+ },
+ "K70.9": {
+  "found": true,
+  "title": "Alcoholic liver disease, unspecified",
+  "parent": "K70"
+ },
+ "K74.6": {
+  "found": true,
+  "title": "Other and unspecified cirrhosis of liver",
+  "parent": "K74"
+ },
+ "K76.6": {
+  "found": true,
+  "title": "Portal hypertension",
+  "parent": "K76"
+ },
+ "K80.2": {
+  "found": true,
+  "title": "Calculus of gallbladder without cholecystitis",
+  "parent": "K80"
+ },
+ "K80.5": {
+  "found": true,
+  "title": "Calculus of bile duct without cholangitis or cholecystitis",
+  "parent": "K80"
+ },
+ "K81.0": {
+  "found": true,
+  "title": "Acute cholecystitis",
+  "parent": "K81"
+ },
+ "K85.9": {
+  "found": true,
+  "title": "Acute pancreatitis, unspecified",
+  "parent": "K85"
+ },
+ "K92.2": {
+  "found": true,
+  "title": "Gastrointestinal haemorrhage, unspecified",
+  "parent": "K92"
+ },
+ "L03.9": {
+  "found": true,
+  "title": "Cellulitis, unspecified",
+  "parent": "L03"
+ },
+ "L08.9": {
+  "found": true,
+  "title": "Local infection of skin and subcutaneous tissue, unspecified",
+  "parent": "L08"
+ },
+ "L23.9": {
+  "found": true,
+  "title": "Allergic contact dermatitis, unspecified cause",
+  "parent": "L23"
+ },
+ "L25.9": {
+  "found": true,
+  "title": "Unspecified contact dermatitis, unspecified cause",
+  "parent": "L25"
+ },
+ "L40.9": {
+  "found": true,
+  "title": "Psoriasis, unspecified",
+  "parent": "L40"
+ },
+ "L50.1": {
+  "found": true,
+  "title": "Idiopathic urticaria",
+  "parent": "L50"
+ },
+ "L50.8": {
+  "found": true,
+  "title": "Other urticaria",
+  "parent": "L50"
+ },
+ "L63.9": {
+  "found": true,
+  "title": "Alopecia areata, unspecified",
+  "parent": "L63"
+ },
+ "L70.9": {
+  "found": true,
+  "title": "Acne, unspecified",
+  "parent": "L70"
+ },
+ "L73.2": {
+  "found": true,
+  "title": "Hidradenitis suppurativa",
+  "parent": "L73"
+ },
+ "L73.9": {
+  "found": true,
+  "title": "Follicular disorder, unspecified",
+  "parent": "L73"
+ },
+ "L81.2": {
+  "found": true,
+  "title": "Freckles",
+  "parent": "L81"
+ },
+ "L89.3": {
+  "found": true,
+  "title": "Stage IV decubitus ulcer",
+  "parent": "L89"
+ },
+ "M06.9": {
+  "found": true,
+  "title": "Rheumatoid arthritis, unspecified",
+  "parent": "M06"
+ },
+ "M10.9": {
+  "found": true,
+  "title": "Gout, unspecified",
+  "parent": "M10"
+ },
+ "M11.2": {
+  "found": true,
+  "title": "Other chondrocalcinosis",
+  "parent": "M11"
+ },
+ "M30.3": {
+  "found": true,
+  "title": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "parent": "M30"
+ },
+ "M48.0": {
+  "found": true,
+  "title": "Spinal stenosis",
+  "parent": "M48"
+ },
+ "M81.9": {
+  "found": true,
+  "title": "Osteoporosis, unspecified",
+  "parent": "M81"
+ },
+ "M86.9": {
+  "found": true,
+  "title": "Osteomyelitis, unspecified",
+  "parent": "M86"
+ },
+ "N03.9": {
+  "found": true,
+  "title": "Chronic nephritic syndrome : unspecified",
+  "parent": "N03"
+ },
+ "N04.9": {
+  "found": true,
+  "title": "Nephrotic syndrome : unspecified",
+  "parent": "N04"
+ },
+ "N12": {
+  "found": true,
+  "title": "Tubulo-interstitial nephritis, not specified as acute or chronic",
+  "parent": "N10-N16"
+ },
+ "N17.9": {
+  "found": true,
+  "title": "Acute renal failure, unspecified",
+  "parent": "N17"
+ },
+ "N18.5": {
+  "found": true,
+  "title": "Chronic kidney disease, stage 5",
+  "parent": "N18"
+ },
+ "N18.9": {
+  "found": true,
+  "title": "Chronic kidney disease, unspecified",
+  "parent": "N18"
+ },
+ "N19": {
+  "found": true,
+  "title": "Unspecified kidney failure",
+  "parent": "N17-N19"
+ },
+ "N20.0": {
+  "found": true,
+  "title": "Calculus of kidney",
+  "parent": "N20"
+ },
+ "N20.1": {
+  "found": true,
+  "title": "Calculus of ureter",
+  "parent": "N20"
+ },
+ "N31.9": {
+  "found": true,
+  "title": "Neuromuscular dysfunction of bladder, unspecified",
+  "parent": "N31"
+ },
+ "N39.0": {
+  "found": true,
+  "title": "Urinary tract infection, site not specified",
+  "parent": "N39"
+ },
+ "N40": {
+  "found": true,
+  "title": "Hyperplasia of prostate",
+  "parent": "N40-N51"
+ },
+ "N46": {
+  "found": true,
+  "title": "Male infertility",
+  "parent": "N40-N51"
+ },
+ "N60.0": {
+  "found": true,
+  "title": "Solitary cyst of breast",
+  "parent": "N60"
+ },
+ "N60.2": {
+  "found": true,
+  "title": "Fibroadenosis of breast",
+  "parent": "N60"
+ },
+ "N97.1": {
+  "found": true,
+  "title": "Female infertility of tubal origin",
+  "parent": "N97"
+ },
+ "N97.9": {
+  "found": true,
+  "title": "Female infertility, unspecified",
+  "parent": "N97"
+ },
+ "O00.9": {
+  "found": true,
+  "title": "Ectopic pregnancy, unspecified",
+  "parent": "O00"
+ },
+ "O14.9": {
+  "found": true,
+  "title": "Pre-eclampsia, unspecified",
+  "parent": "O14"
+ },
+ "Q03.9": {
+  "found": true,
+  "title": "Congenital hydrocephalus, unspecified",
+  "parent": "Q03"
+ },
+ "Q16.1": {
+  "found": true,
+  "title": "Congenital absence, atresia and stricture of auditory canal (external)",
+  "parent": "Q16"
+ },
+ "Q17.2": {
+  "found": true,
+  "title": "Microtia",
+  "parent": "Q17"
+ },
+ "Q25.0": {
+  "found": true,
+  "title": "Patent ductus arteriosus",
+  "parent": "Q25"
+ },
+ "Q66.5": {
+  "found": true,
+  "title": "Congenital pes planus",
+  "parent": "Q66"
+ },
+ "Q96.9": {
+  "found": true,
+  "title": "Turner syndrome, unspecified",
+  "parent": "Q96"
+ },
+ "R00.1": {
+  "found": true,
+  "title": "Bradycardia, unspecified",
+  "parent": "R00"
+ },
+ "R18": {
+  "found": true,
+  "title": "Ascites",
+  "parent": "R10-R19"
+ },
+ "R90.8": {
+  "found": true,
+  "title": "Other abnormal findings on diagnostic imaging of central nervous system",
+  "parent": "R90"
+ },
+ "S06.3": {
+  "found": true,
+  "title": "Focal brain injury",
+  "parent": "S06"
+ },
+ "S06.4": {
+  "found": true,
+  "title": "Epidural haemorrhage",
+  "parent": "S06"
+ },
+ "T14.2": {
+  "found": true,
+  "title": "Fracture of unspecified body region",
+  "parent": "T14"
+ },
+ "T86.1": {
+  "found": true,
+  "title": "Kidney transplant failure and rejection",
+  "parent": "T86"
+ }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "text": "Nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      114,
+      121
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  },
+  {
+    "text": "béo phì",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      306,
+      313
+    ],
+    "assertions": [],
+    "candidates": [
+      "E66.9"
+    ]
+  },
+  {
+    "text": "nhiễm nấm da",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      347,
+      359
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.9"
+    ]
+  },
+  {
+    "text": "nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      385,
+      392
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  },
+  {
+    "text": "nấm bẹn",
+    "type": "CHẨN_ĐOÁN",
+    "position": [
+      585,
+      592
+    ],
+    "assertions": [],
+    "candidates": [
+      "B35.6"
+    ]
+  }
+]

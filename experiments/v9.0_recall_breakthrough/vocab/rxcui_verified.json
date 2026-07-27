@@ -1,0 +1,352 @@
+{
+ "161": {
+  "name": "acetaminophen",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "197": {
+  "name": "acetylcysteine",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "435": {
+  "name": "albuterol",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "519": {
+  "name": "allopurinol",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "612": {
+  "name": "aluminum hydroxide",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "1191": {
+  "name": "aspirin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "1202": {
+  "name": "atenolol",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "1808": {
+  "name": "bumetanide",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "2231": {
+  "name": "cephalexin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "2598": {
+  "name": "clonazepam",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "2599": {
+  "name": "clonidine",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "3443": {
+  "name": "diltiazem",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "3640": {
+  "name": "doxycycline",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "4603": {
+  "name": "furosemide",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "4850": {
+  "name": "glucose",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "4917": {
+  "name": "nitroglycerin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "6057": {
+  "name": "isosorbide",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "6470": {
+  "name": "lorazepam",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "6581": {
+  "name": "magnesium hydroxide",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "6813": {
+  "name": "methadone",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "6902": {
+  "name": "methylprednisolone",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "6915": {
+  "name": "metoclopramide",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "6918": {
+  "name": "metoprolol",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "7052": {
+  "name": "morphine",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "7213": {
+  "name": "ipratropium",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "7646": {
+  "name": "omeprazole",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "9796": {
+  "name": "simethicone",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "9863": {
+  "name": "sodium chloride",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "10582": {
+  "name": "levothyroxine",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "10753": {
+  "name": "tretinoin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "10826": {
+  "name": "trimetazidine",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "10831": {
+  "name": "sulfamethoxazole / trimethoprim",
+  "tty": "MIN",
+  "suppress": "N"
+ },
+ "11124": {
+  "name": "vancomycin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "11251": {
+  "name": "vitamin B complex",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "11289": {
+  "name": "warfarin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "17627": {
+  "name": "alverine",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "18631": {
+  "name": "azithromycin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "19711": {
+  "name": "amoxicillin / clavulanate",
+  "tty": "MIN",
+  "suppress": "N"
+ },
+ "20352": {
+  "name": "carvedilol",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "20481": {
+  "name": "cefepime",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "29046": {
+  "name": "lisinopril",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "38413": {
+  "name": "torsemide",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "74169": {
+  "name": "piperacillin / tazobactam",
+  "tty": "MIN",
+  "suppress": "N"
+ },
+ "82122": {
+  "name": "levofloxacin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "83553": {
+  "name": "Seroquel",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "151399": {
+  "name": "Bactrim",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "197732": {
+  "name": "furosemide 80 MG Oral Tablet",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "198051": {
+  "name": "omeprazole 20 MG Delayed Release Oral Capsule",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "198440": {
+  "name": "acetaminophen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "202433": {
+  "name": "Tylenol",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "202991": {
+  "name": "Lasix",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "203546": {
+  "name": "Compazine",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "212033": {
+  "name": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "214199": {
+  "name": "albuterol / ipratropium",
+  "tty": "MIN",
+  "suppress": "N"
+ },
+ "214599": {
+  "name": "guaifenesin / pseudoephedrine",
+  "tty": "MIN",
+  "suppress": "N"
+ },
+ "215101": {
+  "name": "Aleve",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "224913": {
+  "name": "Dilaudid",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "274783": {
+  "name": "insulin glargine",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "282386": {
+  "name": "Gleevec",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "301542": {
+  "name": "rosuvastatin",
+  "tty": "IN",
+  "suppress": "N"
+ },
+ "313988": {
+  "name": "furosemide 40 MG Oral Tablet",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "330371": {
+  "name": "levofloxacin 750 MG",
+  "tty": "SCDC",
+  "suppress": "N"
+ },
+ "352364": {
+  "name": "buprenorphine / naloxone",
+  "tty": "MIN",
+  "suppress": "N"
+ },
+ "389221": {
+  "name": "etonogestrel 68 MG Drug Implant",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "855318": {
+  "name": "warfarin sodium 3 MG Oral Tablet",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "866924": {
+  "name": "metoprolol tartrate 25 MG Oral Tablet",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "1364436": {
+  "name": "Eliquis",
+  "tty": "BN",
+  "suppress": "N"
+ },
+ "1665021": {
+  "name": "ceftriaxone 1000 MG Injection",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "1743704": {
+  "name": "methylprednisolone 125 MG Injection",
+  "tty": "SCD",
+  "suppress": "N"
+ },
+ "1807513": {
+  "name": "vancomycin 1000 MG Injection",
+  "tty": "SCD",
+  "suppress": "N"
+ }
+}

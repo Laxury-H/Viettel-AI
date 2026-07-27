@@ -1,0 +1,656 @@
+[
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường",
+  "codes": [
+   "E11.9"
+  ],
+  "mentions": 10,
+  "docs": [
+   6,
+   11,
+   26,
+   39,
+   40,
+   47,
+   57,
+   58,
+   89
+  ],
+  "ndocs": 9
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "amyloidosis",
+  "codes": [
+   "E85.9"
+  ],
+  "mentions": 8,
+  "docs": [
+   21,
+   32,
+   73,
+   79,
+   82
+  ],
+  "ndocs": 5
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+  "codes": [
+   "N39.0"
+  ],
+  "mentions": 8,
+  "docs": [
+   34,
+   43,
+   63,
+   85
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "rung nhĩ",
+  "codes": [
+   "I48.9"
+  ],
+  "mentions": 5,
+  "docs": [
+   26,
+   33,
+   39,
+   47
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tràn dịch màng phổi",
+  "codes": [
+   "J90"
+  ],
+  "mentions": 4,
+  "docs": [
+   39,
+   47,
+   49,
+   80
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm mô tế bào",
+  "codes": [
+   "L03.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   12,
+   15,
+   37
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "MÀY ĐAY VÔ CĂN",
+  "codes": [
+   "L50.1"
+  ],
+  "mentions": 3,
+  "docs": [
+   19,
+   28,
+   52
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "não úng tuỷ từ thời kỳ sơ sinh",
+  "codes": [
+   "Q03.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   23,
+   45,
+   50
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Kawasaki",
+  "codes": [
+   "M30.3"
+  ],
+  "mentions": 5,
+  "docs": [
+   2,
+   8
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tiền sản giật",
+  "codes": [
+   "O14.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   81,
+   100
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "codes": [
+   "N39.0"
+  ],
+  "mentions": 3,
+  "docs": [
+   59,
+   92
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi thận",
+  "codes": [
+   "N20.0"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "dị tật thiểu sản vành tai",
+  "codes": [
+   "Q17.2"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   48
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+  "codes": [
+   "C60.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   17,
+   67
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư tuyến đại tràng",
+  "codes": [
+   "C18.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   39,
+   47
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hở hai lá",
+  "codes": [
+   "I34.0"
+  ],
+  "mentions": 2,
+  "docs": [
+   46,
+   77
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Suy thận mạn giai đoạn V",
+  "codes": [
+   "N18.5"
+  ],
+  "mentions": 2,
+  "docs": [
+   55,
+   97
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh động mạch vành",
+  "codes": [
+   "I25.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   64,
+   68
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nấm bẹn",
+  "codes": [
+   "B35.6"
+  ],
+  "mentions": 2,
+  "docs": [
+   75,
+   84
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "nhôm hydroxid",
+  "codes": [
+   "612"
+  ],
+  "mentions": 2,
+  "docs": [
+   7,
+   9
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "nitroglycerin",
+  "codes": [
+   "4917"
+  ],
+  "mentions": 2,
+  "docs": [
+   26,
+   64
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "Insulin glargine",
+  "codes": [
+   "274783"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "lasix 40 mg once",
+  "codes": [
+   "202991"
+  ],
+  "mentions": 2,
+  "docs": [
+   57,
+   58
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "u xơ tuyến vú",
+  "codes": [
+   "N60.2"
+  ],
+  "mentions": 5,
+  "docs": [
+   66
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "zosyn",
+  "codes": [
+   "74169"
+  ],
+  "mentions": 3,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ngoại tâm thu thất",
+  "codes": [
+   "I49.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   10
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "HoHL",
+  "codes": [
+   "I34.0"
+  ],
+  "mentions": 2,
+  "docs": [
+   46
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Vastarel",
+  "codes": [
+   "10826"
+  ],
+  "mentions": 2,
+  "docs": [
+   64
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm tim",
+  "codes": [
+   "I51.8"
+  ],
+  "mentions": 1,
+  "docs": [
+   2
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "ung thư biểu mô tế bào mật",
+  "codes": [
+   "C22.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   5
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tràn dịch màng tim",
+  "codes": [
+   "I31.3"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm nha chu",
+  "codes": [
+   "K05.3"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "thai ngoài tử cung",
+  "codes": [
+   "O00.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   25
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhồi máu không ST chênh",
+  "codes": [
+   "I21.4"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "áp-xe phổi",
+  "codes": [
+   "J85.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   27
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "đau nửa đầu",
+  "codes": [
+   "G43.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   34
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm nhiễm ngoài da",
+  "codes": [
+   "L08.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Phù phổi cấp",
+  "codes": [
+   "J81"
+  ],
+  "mentions": 1,
+  "docs": [
+   46
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Đái tháo đường typ II",
+  "codes": [
+   "E11.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   58
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "khối u trực tràng",
+  "codes": [
+   "C20"
+  ],
+  "mentions": 1,
+  "docs": [
+   75
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "cổ trướng",
+  "codes": [
+   "R18"
+  ],
+  "mentions": 1,
+  "docs": [
+   80
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "huyết khối tĩnh mạch sâu",
+  "codes": [
+   "I80.2"
+  ],
+  "mentions": 1,
+  "docs": [
+   85
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "nhiễm trùng đường hô hấp trên",
+  "codes": [
+   "J06.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh viêm tuỷ xương",
+  "codes": [
+   "M86.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Nhiễm khuẩn đường tiêu hóa",
+  "codes": [
+   "A09"
+  ],
+  "mentions": 1,
+  "docs": [
+   99
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Pimperan",
+  "codes": [
+   "6915"
+  ],
+  "mentions": 1,
+  "docs": [
+   15
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "lorazepam",
+  "codes": [
+   "6470"
+  ],
+  "mentions": 1,
+  "docs": [
+   20
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "80mg po lasix",
+  "codes": [
+   "197732"
+  ],
+  "mentions": 1,
+  "docs": [
+   33
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Furosemid 40 mg x 1 viên, uống sáng",
+  "codes": [
+   "313988"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "trimetazidine",
+  "codes": [
+   "10826"
+  ],
+  "mentions": 1,
+  "docs": [
+   64
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Tylenol 1 gram",
+  "codes": [
+   "202433"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ }
+]

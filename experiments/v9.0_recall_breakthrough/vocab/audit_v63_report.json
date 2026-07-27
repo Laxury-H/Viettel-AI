@@ -1,0 +1,4102 @@
+[
+ {
+  "text": "tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I10",
+  "system": "ICD-10-CM",
+  "mentions": 14,
+  "official_name": "Essential (primary) hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I10",
+  "system": "ICD-10-CM",
+  "mentions": 12,
+  "official_name": "Essential (primary) hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "béo phì",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E66.9",
+  "system": "ICD-10-CM",
+  "mentions": 11,
+  "official_name": "Obesity, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Đái tháo đường",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E11.9",
+  "system": "ICD-10-CM",
+  "mentions": 10,
+  "official_name": "Type 2 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh lý mày đay vô căn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L50.1",
+  "system": "ICD-10-CM",
+  "mentions": 8,
+  "official_name": "Idiopathic urticaria",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "gleevec",
+  "type": "THUỐC",
+  "code": "282386",
+  "system": "RxNorm",
+  "mentions": 18,
+  "official_name": "Gleevec",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "trầm cảm",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F32.9",
+  "system": "ICD-10-CM",
+  "mentions": 8,
+  "official_name": "Major depressive disorder, single episode, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh bạch cầu dòng tủy mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C92.1",
+  "system": "ICD-10-CM",
+  "mentions": 7,
+  "official_name": "Chronic myeloid leukemia, BCR/ABL-positive",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tăng lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E78.5",
+  "system": "ICD-10-CM",
+  "mentions": 7,
+  "official_name": "Hyperlipidemia, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "đái tháo đường",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E11.9",
+  "system": "ICD-10-CM",
+  "mentions": 6,
+  "official_name": "Type 2 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm sung huyết hang vị dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K29.7",
+  "system": "ICD-10-CM",
+  "mentions": 10,
+  "official_name": "Gastritis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "amyloidosis",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.9",
+  "system": "ICD-10-CM",
+  "mentions": 8,
+  "official_name": "Amyloidosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "mụn trứng cá",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L70.9",
+  "system": "ICD-10-CM",
+  "mentions": 7,
+  "official_name": "Acne, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suy tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I50.9",
+  "system": "ICD-10-CM",
+  "mentions": 6,
+  "official_name": "Heart failure, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Đái tháo đường típ 2",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E11.9",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Type 2 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh thận mạn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N18.9",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Chronic kidney disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm hang vị sung huyết",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K29.7",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Gastritis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh dại",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A82.9",
+  "system": "ICD-10-CM",
+  "mentions": 20,
+  "official_name": "Rabies, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "omeprazole",
+  "type": "THUỐC",
+  "code": "7646",
+  "system": "RxNorm",
+  "mentions": 10,
+  "official_name": "omeprazole",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "nhiễm khuẩn đường tiết niệu, vị trí không xác định",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N39.0",
+  "system": "ICD-10-CM",
+  "mentions": 8,
+  "official_name": "Urinary tract infection, site not specified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bactrim",
+  "type": "THUỐC",
+  "code": "151399",
+  "system": "RxNorm",
+  "mentions": 8,
+  "official_name": "Bactrim",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "tylenol",
+  "type": "THUỐC",
+  "code": "202433",
+  "system": "RxNorm",
+  "mentions": 8,
+  "official_name": "Tylenol",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "phù gai thị",
+  "type": "CHẨN_ĐOÁN",
+  "code": "H47.1",
+  "system": "ICD-10-CM",
+  "mentions": 7,
+  "official_name": "Papilledema",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "doxycycline",
+  "type": "THUỐC",
+  "code": "3640",
+  "system": "RxNorm",
+  "mentions": 7,
+  "official_name": "doxycycline",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Bệnh thoái hóa tinh bột",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.9",
+  "system": "ICD-10-CM",
+  "mentions": 6,
+  "official_name": "Amyloidosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K29.7",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Gastritis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Phù gai thị",
+  "type": "CHẨN_ĐOÁN",
+  "code": "H47.1",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Papilledema",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "rung nhĩ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I48.9",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Unspecified atrial fibrillation and atrial flutter",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hẹp ống sống",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M48.0",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Spinal stenosis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Giả gout",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M11.2",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Other chondrocalcinosis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tăng sản tuyến tiền liệt",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N40",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Benign prostatic hyperplasia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Mày đay vô căn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L50.1",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Idiopathic urticaria",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh phổi tắc nghẽn mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J44.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Chronic obstructive pulmonary disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "MÀY đay VÔ CĂN",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L50.1",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Idiopathic urticaria",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "MÀY đay MẠN",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L50.8",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Other urticaria",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tràn dịch màng phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J90",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Pleural effusion, not elsewhere classified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "rối loạn lo âu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F41.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Anxiety disorder, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh dại",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A82.9",
+  "system": "ICD-10-CM",
+  "mentions": 21,
+  "official_name": "Rabies, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "allopurinol",
+  "type": "THUỐC",
+  "code": "519",
+  "system": "RxNorm",
+  "mentions": 8,
+  "official_name": "allopurinol",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "u ác của tuyến tiền liệt",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C61",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Malignant neoplasm of prostate",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nấm bẹn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B35.6",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Tinea cruris",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "clonidine",
+  "type": "THUỐC",
+  "code": "2599",
+  "system": "RxNorm",
+  "mentions": 5,
+  "official_name": "clonidine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "thiếu máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D64.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Anemia, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm mô tế bào",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L03.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Cellulitis and acute lymphangitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "sỏi đoạn cuối ống mật chủ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K80.5",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Calculus of bile duct without cholangitis or cholecystitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tăng kali máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E87.5",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Hyperkalemia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh lý thần kinh ngoại biên",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G62.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Polyneuropathy, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "mucinex d",
+  "type": "THUỐC",
+  "code": "214599",
+  "system": "RxNorm",
+  "mentions": 4,
+  "official_name": "guaifenesin / pseudoephedrine",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "Rối loạn lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E78.5",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Hyperlipidemia, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh bàn chân bẹt",
+  "type": "CHẨN_ĐOÁN",
+  "code": "Q66.5",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Congenital pes planus",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "sỏi mật",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K80.2",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Calculus of gallbladder without cholecystitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "MÀY ĐAY VÔ CĂN",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L50.1",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Idiopathic urticaria",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "MÀY ĐAY MẠN TÍNH",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L50.8",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Other urticaria",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Rối loạn chuyển hóa tinh bột (amyloidosis)",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Amyloidosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh amyloidosis",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Amyloidosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh amyloidosis chuỗi nhẹ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.8",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Other amyloidosis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh amyloidosis",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Amyloidosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "amyloidosis di truyền hoặc gia đình",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.2",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Heredofamilial amyloidosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tăng nhãn áp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "H40.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Unspecified glaucoma",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "não úng tuỷ từ thời kỳ sơ sinh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "Q03.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Congenital hydrocephalus, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "não úng thủy",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G91.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Hydrocephalus, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tăng nhãn áp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "H40.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Unspecified glaucoma",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suy tim, không đặc hiệu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I50.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Heart failure, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "u dây thần kinh số VIII",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D33.3",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Benign neoplasm of cranial nerves",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "klonopin",
+  "type": "THUỐC",
+  "code": "2598",
+  "system": "RxNorm",
+  "mentions": 3,
+  "official_name": "clonazepam",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "xuất huyết dưới nhện",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I60.9",
+  "system": "ICD-10-CM",
+  "mentions": 6,
+  "official_name": "Nontraumatic subarachnoid hemorrhage, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suboxone",
+  "type": "THUỐC",
+  "code": "352364",
+  "system": "RxNorm",
+  "mentions": 6,
+  "official_name": "buprenorphine / naloxone",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "Kawasaki",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M30.3",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh Kawasaki",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M30.3",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nang màng nhện",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G93.0",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Cerebral cysts",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tụ máu dưới màng cứng mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I62.0",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Nontraumatic subdural hemorrhage",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh thoái hóa tinh bột",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E85.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Amyloidosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "xơ gan do rượu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K70.3",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Alcoholic cirrhosis of liver",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm phổi bệnh viện",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J18.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Pneumonia, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhịp nhanh trên thất",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I47.1",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Supraventricular tachycardia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tiền sản giật",
+  "type": "CHẨN_ĐOÁN",
+  "code": "O14.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Unspecified pre-eclampsia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm tủy xương",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M86.9",
+  "system": "ICD-10-CM",
+  "mentions": 4,
+  "official_name": "Osteomyelitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "magie hydroxid",
+  "type": "THUỐC",
+  "code": "6581",
+  "system": "RxNorm",
+  "mentions": 4,
+  "official_name": "magnesium hydroxide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "isosorbide",
+  "type": "THUỐC",
+  "code": "6057",
+  "system": "RxNorm",
+  "mentions": 4,
+  "official_name": "isosorbide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "crestor",
+  "type": "THUỐC",
+  "code": "301542",
+  "system": "RxNorm",
+  "mentions": 4,
+  "official_name": "rosuvastatin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "carvedilol",
+  "type": "THUỐC",
+  "code": "20352",
+  "system": "RxNorm",
+  "mentions": 4,
+  "official_name": "carvedilol",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "vô sinh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N97.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Female infertility, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J18.9",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Pneumonia, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm khuẩn đường tiết niệu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N39.0",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Urinary tract infection, site not specified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhồi máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I21.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Acute myocardial infarction, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh tim mạch do xơ vữa động mạch",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ăng huyết áp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I10",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Essential (primary) hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bầm dập nhu mô",
+  "type": "CHẨN_ĐOÁN",
+  "code": "S06.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Focal traumatic brain injury",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tụ máu ngoài màng cứng phải cấp tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "S06.4",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Epidural hemorrhage",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bầm dập nhu mô",
+  "type": "CHẨN_ĐOÁN",
+  "code": "S06.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Focal traumatic brain injury",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tụ máu ngoài màng cứng phải cấp tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "S06.4",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Epidural hemorrhage",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "sỏi thận",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N20.0",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Calculus of kidney",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "trào ngược dạ dày thực quản",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K21.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Gastro-esophageal reflux disease without esophagitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "đại tràng giãn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K59.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Megacolon, not elsewhere classified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh phổi kẽ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J84.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Interstitial pulmonary disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Hội chứng kháng enzym tổng hợp protein",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D89.8",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Other specified disorders involving the immune mechanism, not elsewhere classified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tăng huyết áp nguyên phát",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I10",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Essential (primary) hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Suy giảm miễn dịch do sử dụng corticoid kéo dài",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D84.8",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Other specified immunodeficiencies",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm mô tế bào",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L03.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Cellulitis and acute lymphangitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "dị tật thiểu sản vành tai",
+  "type": "CHẨN_ĐOÁN",
+  "code": "Q17.2",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Microtia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tịt ống tai ngoài bẩm sinh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "Q16.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Congenital absence, atresia and stricture of auditory canal (external)",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Nhiễm virus Herpes simplex",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B00.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Herpesviral infection, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "HSV",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B00.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Herpesviral infection, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh thủy đậu/Zona",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B02.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Zoster without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "đột quỵ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I64",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "bệnh mạch máu ngoại biên",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I73.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Peripheral vascular disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Ngưng thở khi ngủ do tắc nghẽn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G47.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Sleep apnea",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Ung thư biểu mô tế bào vảy xâm nhập của dương vật",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C60.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Malignant neoplasm of penis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "đa u tủy",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C90.0",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Multiple myeloma",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tàn nhang",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L81.2",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Freckles",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh tim mạch",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I51.6",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "viêm phế quản",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J40",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Bronchitis, not specified as acute or chronic",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "sỏi ống dẫn mật chung đoạn cuối",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K80.5",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Calculus of bile duct without cholangitis or cholecystitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Ung thư biểu mô tuyến đại tràng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C18.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Malignant neoplasm of colon, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ung thư tuyến đại tràng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C18.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Malignant neoplasm of colon, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "xẹp phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J98.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pulmonary collapse",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Rung nhĩ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I48.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Unspecified atrial fibrillation and atrial flutter",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ngưng thở khi ngủ do tắc nghẽn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G47.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Sleep apnea",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "giãn phế quản",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J47",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Bronchiectasis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm phổi thùy dưới phải",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J18.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pneumonia, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "RLL PNA",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J18.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pneumonia, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tăng cholesterol máu đơn thuần",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E78.0",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pure hypercholesterolemia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Hở hai lá",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I34.0",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Nonrheumatic mitral (valve) insufficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Hở chủ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I35.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Nonrheumatic aortic (valve) insufficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tăng áp lực động mạch phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I27.2",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Other secondary pulmonary hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "rụng tóc từng mảng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L63.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Alopecia areata, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "rụng tóc từng vùng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L63.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Alopecia areata, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm da tiếp xúc dị ứng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L23.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Allergic contact dermatitis, unspecified cause",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm da tiếp xúc",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L25.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Unspecified contact dermatitis, unspecified cause",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ngừng thở khi ngủ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G47.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Sleep apnea",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Suy thận mạn giai đoạn V",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N18.5",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Chronic kidney disease, stage 5",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "giảm chức năng tâm thu thất trái",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I51.8",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Other ill-defined heart diseases",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh ba thân động mạch vành nghiêm trọng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Suy tim không do thiếu máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I50.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Heart failure, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh thận mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N18.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Chronic kidney disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tràn dịch màng phổi hai bên",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J90",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pleural effusion, not elsewhere classified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tim to",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I51.7",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Cardiomegaly",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm xương tủy",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M86.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Osteomyelitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thuyên tắc phổi hai bên",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I26.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pulmonary embolism without acute cor pulmonale",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm trùng chi dưới bên phải",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L08.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Local infection of the skin and subcutaneous tissue, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Rối loạn cảm xúc",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F39",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Unspecified mood [affective] disorder",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Rối loạn lưỡng cực",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F31.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Bipolar disorder, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Lạm dụng chất kích thích, chất gây nghiện opioid",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F11.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Opioid abuse",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm loét đại tràng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K51.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Ulcerative colitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh gan do rượu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K70.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Alcoholic liver disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Nấm bẹn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B35.6",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Tinea cruris",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm nấm da",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B35.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Dermatophytosis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh gút",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M10.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Gout, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnhgout",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M10.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Gout, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh gout mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M10.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Gout, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm trùng máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A41.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Sepsis, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bàng quang thần kinh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N31.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Neuromuscular dysfunction of bladder, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "liệt hai chi dưới",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G82.2",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Paraplegia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhôm hydroxid",
+  "type": "THUỐC",
+  "code": "612",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "aluminum hydroxide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Alverin citrate 40mg",
+  "type": "THUỐC",
+  "code": "17627",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "Simethicon 100mg",
+  "type": "THUỐC",
+  "code": "9796",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "simethicone",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Pimperam",
+  "type": "THUỐC",
+  "code": "6915",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "metoclopramide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "metoclopramide 10mg",
+  "type": "THUỐC",
+  "code": "6915",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "metoclopramide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Nhôm hydroxid",
+  "type": "THUỐC",
+  "code": "612",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "aluminum hydroxide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "cotrimoxazol",
+  "type": "THUỐC",
+  "code": "10831",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "sulfamethoxazole / trimethoprim",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "doxycyclin",
+  "type": "THUỐC",
+  "code": "3640",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "doxycycline",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "nitroglycerin",
+  "type": "THUỐC",
+  "code": "4917",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "nitroglycerin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "metoprolol",
+  "type": "THUỐC",
+  "code": "6918",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "metoprolol",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "azithromycin",
+  "type": "THUỐC",
+  "code": "18631",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "azithromycin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "furosemide",
+  "type": "THUỐC",
+  "code": "4603",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "furosemide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "aspirin 325mg",
+  "type": "THUỐC",
+  "code": "212033",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "albuterolipratropium nebulizer",
+  "type": "THUỐC",
+  "code": "214199",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "albuterol / ipratropium",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "methylprednisolone 125mg iv",
+  "type": "THUỐC",
+  "code": "1743704",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "methylprednisolone 125 MG Injection",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Torsemide",
+  "type": "THUỐC",
+  "code": "38413",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "torsemide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Insulin glargine",
+  "type": "THUỐC",
+  "code": "274783",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "insulin glargine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Isosorbide",
+  "type": "THUỐC",
+  "code": "6057",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "isosorbide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Rosuvastatin",
+  "type": "THUỐC",
+  "code": "301542",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "rosuvastatin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Crestor",
+  "type": "THUỐC",
+  "code": "301542",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "rosuvastatin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Carvedilol",
+  "type": "THUỐC",
+  "code": "20352",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "carvedilol",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Torsemide/ ngày",
+  "type": "THUỐC",
+  "code": "38413",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "torsemide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "torsemide",
+  "type": "THUỐC",
+  "code": "38413",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "torsemide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "glargine",
+  "type": "THUỐC",
+  "code": "274783",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "insulin glargine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "lasix 40 mg once",
+  "type": "THUỐC",
+  "code": "202991",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "Lasix",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "Augmentin",
+  "type": "THUỐC",
+  "code": "19711",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "amoxicillin / clavulanate",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "vancomycin",
+  "type": "THUỐC",
+  "code": "11124",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "vancomycin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "thiếu men G6PD",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D55.0",
+  "system": "ICD-10-CM",
+  "mentions": 13,
+  "official_name": "Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm dạ dày ruột do virus",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A08.4",
+  "system": "ICD-10-CM",
+  "mentions": 11,
+  "official_name": "Viral intestinal infection, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "đau nửa đầu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G43.9",
+  "system": "ICD-10-CM",
+  "mentions": 6,
+  "official_name": "Migraine, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "loét tá tràng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K26.9",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh lý chất trắng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "R90.8",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Other abnormal findings on diagnostic imaging of central nervous system",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "u xơ tuyến vú",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N60.2",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Fibroadenosis of breast",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "u nang tuyến vú",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N60.0",
+  "system": "ICD-10-CM",
+  "mentions": 5,
+  "official_name": "Solitary cyst of breast",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Thiếu men G6PD",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D55.0",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh Kawasaki",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M30.3",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Mucocutaneous lymph node syndrome [Kawasaki]",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hội chứng ruột kích thích",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K58.8",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Other irritable bowel syndrome",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm túi mật cấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K81.0",
+  "system": "ICD-10-CM",
+  "mentions": 3,
+  "official_name": "Acute cholecystitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ntg",
+  "type": "THUỐC",
+  "code": "4917",
+  "system": "RxNorm",
+  "mentions": 3,
+  "official_name": "nitroglycerin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "coumadin",
+  "type": "THUỐC",
+  "code": "11289",
+  "system": "RxNorm",
+  "mentions": 3,
+  "official_name": "warfarin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "zosyn",
+  "type": "THUỐC",
+  "code": "74169",
+  "system": "RxNorm",
+  "mentions": 3,
+  "official_name": "piperacillin / tazobactam",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "thiếu máu tan huyết",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D55.0",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tai biến mạch máu não",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I64",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "nhiễm trùng răng miệng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K12.2",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Cellulitis and abscess of mouth",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm thực quản độ C",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K20",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Esophagitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "loét thực quản",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K22.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Ulcer of esophagus",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hội chứng nghiện rượu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F10.2",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Alcohol dependence",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ngoại tâm thu nhĩ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I49.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Atrial premature depolarization",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ngoại tâm thu thất",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I49.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Ventricular premature depolarization",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm nha chu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K05.3",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Chronic periodontitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tiểu đường",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E11.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Type 2 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "áp xe phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J85.2",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Abscess of lung without pneumonia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thuyên tắc phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I26.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pulmonary embolism without acute cor pulmonale",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "giãn thừng tinh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I86.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Scrotal varices",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Hội chứng thận hư",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N04.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Nephrotic syndrome with unspecified morphologic changes",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "HoHL",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I34.0",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Nonrheumatic mitral (valve) insufficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thrombophilia",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D68.5",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Primary thrombophilia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Thuyên tắc phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I26.9",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Pulmonary embolism without acute cor pulmonale",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tắc hẹp 80% động mạch thận trái L",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I70.1",
+  "system": "ICD-10-CM",
+  "mentions": 2,
+  "official_name": "Atherosclerosis of renal artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "levothyroxine",
+  "type": "THUỐC",
+  "code": "10582",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "levothyroxine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "metoprolol 25mg po bid",
+  "type": "THUỐC",
+  "code": "866924",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "metoprolol tartrate 25 MG Oral Tablet",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "atenolol",
+  "type": "THUỐC",
+  "code": "1202",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "atenolol",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "acetaminophen 500mg",
+  "type": "THUỐC",
+  "code": "198440",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "acetaminophen 500 MG Oral Tablet",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Vastarel",
+  "type": "THUỐC",
+  "code": "10826",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "vanco",
+  "type": "THUỐC",
+  "code": "11124",
+  "system": "RxNorm",
+  "mentions": 2,
+  "official_name": "vancomycin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "THIẾU MEN G6PD",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D55.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thiếu hụt men G6PD",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D55.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thiếu máu do tan huyết",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D55.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suy thận cấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N17.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Acute kidney failure, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bại não",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G80.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Cerebral palsy, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bại não",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G80.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Cerebral palsy, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I51.8",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Other ill-defined heart diseases",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "phình giãn động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.4",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Coronary artery aneurysm and dissection",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hẹp tắc mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh viêm mạch máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I77.6",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Arteritis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh đa xơ cứng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G35",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Multiple sclerosis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hội chứng Parkinson",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G20",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Parkinson's disease",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "đau thắt ngực ổn định",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I20.8",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Other forms of angina pectoris",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ung thư tuyến giáp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C73",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Malignant neoplasm of thyroid gland",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ung thư biểu mô tế bào mật",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C22.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Intrahepatic bile duct carcinoma",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Hội chứng buồng trứng đa nang",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E28.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Polycystic ovarian syndrome",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Rối loạn cảm xúc (trầm cảm)",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F32.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Major depressive disorder, single episode, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Phình giãn động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.4",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Coronary artery aneurysm and dissection",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Thiếu máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic ischemic heart disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Nhồi máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I21.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Acute myocardial infarction, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Suy vành mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic ischemic heart disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I51.4",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Myocarditis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tràn dịch màng tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I31.3",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Pericardial effusion (noninflammatory)",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm tuyến mồ hôi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L73.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Hidradenitis suppurativa",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm gan cấp tính do virus B thể thông thường điển hình mức độ nặng giai đoạn toàn phát",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B16.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Acute hepatitis B without delta-agent and without hepatic coma",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm quanh răng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K05.3",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic periodontitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm khớp dạng thấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M06.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Rheumatoid arthritis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Thiếu canxi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E58",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Dietary calcium deficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "loãng xương",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M81.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "sâu răng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K02.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Dental caries, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm nha chu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K05.3",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic periodontitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thiếu hụt vitamin K",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E56.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Deficiency of vitamin K",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tiểu đường",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E11.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Type 2 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thiếu máu cơ tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic ischemic heart disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "sỏi ống mật",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K80.5",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Calculus of bile duct without cholangitis or cholecystitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm virus viêm gan B, C",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B19.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unspecified viral hepatitis B",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm virus viêm gan B, C",
+  "type": "CHẨN_ĐOÁN",
+  "code": "B19.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unspecified viral hepatitis C",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tắc ống dẫn trứng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N97.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Female infertility of tubal origin",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ung thư cổ tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C53.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Malignant neoplasm of cervix uteri, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thai ngoài tử cung",
+  "type": "CHẨN_ĐOÁN",
+  "code": "O00.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Ectopic pregnancy, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "BỆNH MẠCH VÀNH",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "xơ vữa động mạch",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I70.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Other and unspecified atherosclerosis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Xơ vữa động mạch vành",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Atherosclerotic heart disease of native coronary artery",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Béo phì",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E66.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Obesity, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Đau thắt ngực ổn định",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I20.8",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Other forms of angina pectoris",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Hội chứng vành cấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I24.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Acute ischemic heart disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Nhồi máu cơ tim ST chênh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I21.3",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "ST elevation (STEMI) myocardial infarction of unspecified site",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Nhồi máu không ST chênh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I21.4",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Non-ST elevation (NSTEMI) myocardial infarction",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Đau thắt ngực không ổn định",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I20.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unstable angina",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm tụy",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K85.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Acute pancreatitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "rối loạn cảm xúc lưỡng cực",
+  "type": "CHẨN_ĐOÁN",
+  "code": "F31.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Bipolar disorder, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm phổi hoại tử",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J85.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Gangrene and necrosis of lung",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J18.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Pneumonia, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm phổi hoại tử",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J85.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Gangrene and necrosis of lung",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Áp xe phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J85.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Abscess of lung without pneumonia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "áp-xe phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J85.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Abscess of lung without pneumonia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hẹp ống sống C4-5, C5-6, C6-7",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M48.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Spinal stenosis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Rung nhĩ kèm đáp ứng thất nhanh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I48.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unspecified atrial fibrillation and atrial flutter",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suy hô hấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J96.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Respiratory failure, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm khuẩn huyết do tụ cầu vàng nhạy cảm methicillin",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A41.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Sepsis due to Staphylococcus aureus",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bàn chân bẹt bẩm sinh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "Q66.5",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Congenital pes planus",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Giãn thừng tinh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I86.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Scrotal varices",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "vô sinh thứ phát",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N46",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Male infertility",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "đau nửa đầu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G43.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Migraine, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Bệnh lý đau nửa đầu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G43.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Migraine, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh đau nửa đầu Migraine",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G43.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Migraine, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm xoang",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J32.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic sinusitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suy thoái võng mạc",
+  "type": "CHẨN_ĐOÁN",
+  "code": "H35.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unspecified retinal disorder",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tổn thương cầu thận mạn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N03.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic nephritic syndrome with unspecified morphologic changes",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suy thận",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N19",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unspecified kidney failure",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm họng cấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J02.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Acute pharyngitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm nhiễm ngoài da",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L08.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Local infection of the skin and subcutaneous tissue, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Viêm cầu thận mạn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N03.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic nephritic syndrome with unspecified morphologic changes",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nốt sần tuyến giáp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E04.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Nontoxic single thyroid nodule",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "cml",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C92.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic myeloid leukemia, BCR/ABL-positive",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "XHTH",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K92.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Gastrointestinal hemorrhage, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Xuất huyết tiêu hóa",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K92.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Gastrointestinal hemorrhage, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Dị tật còn ống động mạch",
+  "type": "CHẨN_ĐOÁN",
+  "code": "Q25.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Patent ductus arteriosus",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "phù phổi cấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J81",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Pulmonary edema",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Phù phổi cấp",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J81",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Pulmonary edema",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Suy tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I50.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Heart failure, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Ung thư vú di căn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C50.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Malignant neoplasm of breast of unspecified site",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tràn dịch màng ngoài tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I31.3",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Pericardial effusion (noninflammatory)",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ung thư di căn theo đường bạch huyết ở hai phổi",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C78.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Secondary malignant neoplasm of lung",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ĐTD typ II",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E11.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Type 2 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "rối loạn lipid máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E78.5",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Hyperlipidemia, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tăng HA",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I10",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Essential (primary) hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Đái tháo đường typ II",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E11.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Type 2 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tăng HA",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I10",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Essential (primary) hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ghép thận thất bại",
+  "type": "CHẨN_ĐOÁN",
+  "code": "T86.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Complications of kidney transplant",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh Graves",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E05.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Thyrotoxicosis with diffuse goiter",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "thiếu máu cơ tim cục bộ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I25.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic ischemic heart disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm teo niêm mạc dạ dày",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K29.4",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic atrophic gastritis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm nang lông",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L73.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Follicular disorder, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh vảy nến",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L40.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Psoriasis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "khối u trực tràng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C20",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Malignant neoplasm of rectum",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "u ác trực tràng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C20",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Malignant neoplasm of rectum",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "u tuyến",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D12.8",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Benign neoplasm of rectum",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Hở ba lá",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I36.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Nonrheumatic tricuspid (valve) insufficiency",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bóng tim to",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I51.7",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Cardiomegaly",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "suy thận mạn giai đoạn 5",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N18.5",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic kidney disease, stage 5",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "xơ gan mất bù",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K74.6",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Other and unspecified cirrhosis of liver",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tăng áp lực tĩnh mạch cửa",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K76.6",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Portal hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "cổ trướng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "R18",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Ascites",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hội chứng tăng đông",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D68.5",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Primary thrombophilia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Thrombophilia",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D68.5",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Primary thrombophilia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh tăng đông máu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "D68.5",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Primary thrombophilia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tiểu đường loại 1 đái tháo đường",
+  "type": "CHẨN_ĐOÁN",
+  "code": "E10.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Type 1 diabetes mellitus without complications",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Nhiễm trùng đường tiết niệu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N39.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Urinary tract infection, site not specified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm bể thận",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N12",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Tubulo-interstitial nephritis, not specified as acute or chronic",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "gãy xương",
+  "type": "CHẨN_ĐOÁN",
+  "code": "T14.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "huyết khối tĩnh mạch sâu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I80.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Phlebitis and thrombophlebitis of other and unspecified deep vessels of lower extremities",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "DVT",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I80.2",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Phlebitis and thrombophlebitis of other and unspecified deep vessels of lower extremities",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Cơn đau thắt ngực không ổn định",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I20.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unstable angina",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh tăng HA vô căn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I10",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Essential (primary) hypertension",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ung thư đường mật",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C22.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Intrahepatic bile duct carcinoma",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "áp xe",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K65.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Generalized (acute) peritonitis",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Táo bón mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K59.0",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Constipation",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ngưng thở khi ngủ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "G47.3",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Sleep apnea",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm trùng đường hô hấp trên",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J06.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Acute upper respiratory infection, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "viêm phổi kẽ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J84.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Interstitial pulmonary disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "hội chứng turner",
+  "type": "CHẨN_ĐOÁN",
+  "code": "Q96.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Turner's syndrome, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Ung thư đại tràng",
+  "type": "CHẨN_ĐOÁN",
+  "code": "C18.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Malignant neoplasm of colon, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Cơn nhịp nhanh",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I47.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Supraventricular tachycardia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Sỏi niệu quản",
+  "type": "CHẨN_ĐOÁN",
+  "code": "N20.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Calculus of ureter",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "loét tì đè giai đoạn IV mãn tính",
+  "type": "CHẨN_ĐOÁN",
+  "code": "L89.3",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Pressure ulcer of buttock",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm trùng huyết",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A41.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Sepsis, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "bệnh viêm tuỷ xương",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M86.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Osteomyelitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhiễm trùng huyết đường vào tiết niệu",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A41.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Sepsis, unspecified organism",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "chèn ép tim",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I31.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Disease of pericardium, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "gout",
+  "type": "CHẨN_ĐOÁN",
+  "code": "M10.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Gout, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "trĩ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "K64.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unspecified hemorrhoids",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Đợt cấp COPD",
+  "type": "CHẨN_ĐOÁN",
+  "code": "J44.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Chronic obstructive pulmonary disease with (acute) exacerbation",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Tâm phế mạn",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I27.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Pulmonary heart disease, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Cơn tim nhanh nhĩ",
+  "type": "CHẨN_ĐOÁN",
+  "code": "I47.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Supraventricular tachycardia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "Nhiễm khuẩn đường tiêu hóa",
+  "type": "CHẨN_ĐOÁN",
+  "code": "A09",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Infectious gastroenteritis and colitis, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "nhịp chậm xoang",
+  "type": "CHẨN_ĐOÁN",
+  "code": "R00.1",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Bradycardia, unspecified",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "tiền sản giật",
+  "type": "CHẨN_ĐOÁN",
+  "code": "O14.9",
+  "system": "ICD-10-CM",
+  "mentions": 1,
+  "official_name": "Unspecified pre-eclampsia",
+  "tty": null,
+  "found": true
+ },
+ {
+  "text": "ASA",
+  "type": "THUỐC",
+  "code": "1191",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "aspirin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Vastarel (trimetazidin)",
+  "type": "THUỐC",
+  "code": "10826",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "Berlthyrox",
+  "type": "THUỐC",
+  "code": "10582",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "levothyroxine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "seroquel",
+  "type": "THUỐC",
+  "code": "83553",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "Seroquel",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "aspirin 325mg x 1",
+  "type": "THUỐC",
+  "code": "212033",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "aspirin 325 MG Oral Tablet",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Pimperan",
+  "type": "THUỐC",
+  "code": "6915",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "metoclopramide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "metoclopramide",
+  "type": "THUỐC",
+  "code": "6915",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "metoclopramide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "bumetanide 2mg iv",
+  "type": "THUỐC",
+  "code": "1808",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "bumetanide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "vancomycin 1 gram",
+  "type": "THUỐC",
+  "code": "1807513",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "vancomycin 1000 MG Injection",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "levofloxacin 750mg iv",
+  "type": "THUỐC",
+  "code": "330371",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "levofloxacin 750 MG",
+  "tty": "SCDC",
+  "found": true
+ },
+ {
+  "text": "compazine",
+  "type": "THUỐC",
+  "code": "203546",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "Compazine",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "aleve",
+  "type": "THUỐC",
+  "code": "215101",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "Aleve",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "morphine",
+  "type": "THUỐC",
+  "code": "7052",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "morphine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "lorazepam",
+  "type": "THUỐC",
+  "code": "6470",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "lorazepam",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "paracetamol viên",
+  "type": "THUỐC",
+  "code": "161",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "acetaminophen",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Glucose 5% x 1000ml truyền tĩnh mạch",
+  "type": "THUỐC",
+  "code": "4850",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "glucose",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Vitamin 3B x 4 viên",
+  "type": "THUỐC",
+  "code": "11251",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "vitamin B complex",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "levafloxacin",
+  "type": "THUỐC",
+  "code": "82122",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "levofloxacin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "cephalexin",
+  "type": "THUỐC",
+  "code": "2231",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "cephalexin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "eliquis",
+  "type": "THUỐC",
+  "code": "1364436",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "Eliquis",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "methadone",
+  "type": "THUỐC",
+  "code": "6813",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "methadone",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "80mg po lasix",
+  "type": "THUỐC",
+  "code": "197732",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "furosemide 80 MG Oral Tablet",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "asa",
+  "type": "THUỐC",
+  "code": "1191",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "aspirin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "80mg lasix iv",
+  "type": "THUỐC",
+  "code": "4603",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "furosemide",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "8mg morphine",
+  "type": "THUỐC",
+  "code": "7052",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "morphine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "1mg dilaudid",
+  "type": "THUỐC",
+  "code": "224913",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "Dilaudid",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "10mg iv diltiazem",
+  "type": "THUỐC",
+  "code": "3443",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "diltiazem",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Medrol 16mg x 3 viên, uống 8h sáng sau ăn no",
+  "type": "THUỐC",
+  "code": "6902",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "methylprednisolone",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Omez 20mg x 1 viên, uống 8h sáng",
+  "type": "THUỐC",
+  "code": "198051",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "omeprazole 20 MG Delayed Release Oral Capsule",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Furosemid 40 mg x 1 viên, uống sáng",
+  "type": "THUỐC",
+  "code": "313988",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "furosemide 40 MG Oral Tablet",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Zestril 10mg x 1 viên, uống sáng",
+  "type": "THUỐC",
+  "code": "29046",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "lisinopril",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Ceftriaxone 1g",
+  "type": "THUỐC",
+  "code": "1665021",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "ceftriaxone 1000 MG Injection",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Tretinoin",
+  "type": "THUỐC",
+  "code": "10753",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "tretinoin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "acetaminophen",
+  "type": "THUỐC",
+  "code": "161",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "acetaminophen",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "nac",
+  "type": "THUỐC",
+  "code": "197",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "acetylcysteine",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "coumadin 3.0 mg /ngày",
+  "type": "THUỐC",
+  "code": "855318",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "warfarin sodium 3 MG Oral Tablet",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Implanon",
+  "type": "THUỐC",
+  "code": "389221",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "etonogestrel 68 MG Drug Implant",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "trimetazidine",
+  "type": "THUỐC",
+  "code": "10826",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": null,
+  "tty": null,
+  "found": false
+ },
+ {
+  "text": "Nitramyl 2,5 mg/viên",
+  "type": "THUỐC",
+  "code": "4917",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "nitroglycerin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Nitramyl",
+  "type": "THUỐC",
+  "code": "4917",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "nitroglycerin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "vitamin 3b",
+  "type": "THUỐC",
+  "code": "11251",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "vitamin B complex",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Augmentin (amoxicillin/acid clavulanic)",
+  "type": "THUỐC",
+  "code": "19711",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "amoxicillin / clavulanate",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "Albuterol",
+  "type": "THUỐC",
+  "code": "435",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "albuterol",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Ipratropium 1 lần",
+  "type": "THUỐC",
+  "code": "7213",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "ipratropium",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Ceftriaxone 1 gram dùng 1 liều",
+  "type": "THUỐC",
+  "code": "1665021",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "ceftriaxone 1000 MG Injection",
+  "tty": "SCD",
+  "found": true
+ },
+ {
+  "text": "Tylenol 1 gram",
+  "type": "THUỐC",
+  "code": "202433",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "Tylenol",
+  "tty": "BN",
+  "found": true
+ },
+ {
+  "text": "albuterolipratropium nebs x2",
+  "type": "THUỐC",
+  "code": "214199",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "albuterol / ipratropium",
+  "tty": "MIN",
+  "found": true
+ },
+ {
+  "text": "4000 ml NS 0.9 %",
+  "type": "THUỐC",
+  "code": "9863",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "sodium chloride",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Cefepim",
+  "type": "THUỐC",
+  "code": "20481",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "cefepime",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "Vancomycin truyền tĩnh mạch",
+  "type": "THUỐC",
+  "code": "11124",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "vancomycin",
+  "tty": "IN",
+  "found": true
+ },
+ {
+  "text": "aspirin",
+  "type": "THUỐC",
+  "code": "1191",
+  "system": "RxNorm",
+  "mentions": 1,
+  "official_name": "aspirin",
+  "tty": "IN",
+  "found": true
+ }
+]

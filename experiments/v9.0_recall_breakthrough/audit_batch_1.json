@@ -1,0 +1,660 @@
+[
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tăng huyết áp",
+  "codes": [
+   "I10"
+  ],
+  "mentions": 12,
+  "docs": [
+   14,
+   26,
+   29,
+   32,
+   38,
+   46,
+   54,
+   57,
+   58,
+   89,
+   91,
+   99
+  ],
+  "ndocs": 12
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "đái tháo đường",
+  "codes": [
+   "E11.9"
+  ],
+  "mentions": 6,
+  "docs": [
+   42,
+   51,
+   55,
+   70,
+   95,
+   97
+  ],
+  "ndocs": 6
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh dại",
+  "codes": [
+   "A82.9"
+  ],
+  "mentions": 20,
+  "docs": [
+   13,
+   16,
+   20,
+   70
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm dạ dày",
+  "codes": [
+   "K29.7"
+  ],
+  "mentions": 5,
+  "docs": [
+   7,
+   21,
+   31,
+   82
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "MÀY đay VÔ CĂN",
+  "codes": [
+   "L50.1"
+  ],
+  "mentions": 4,
+  "docs": [
+   30,
+   44,
+   76,
+   83
+  ],
+  "ndocs": 4
+ },
+ {
+  "type": "THUỐC",
+  "text": "clonidine",
+  "codes": [
+   "2599"
+  ],
+  "mentions": 5,
+  "docs": [
+   52,
+   72,
+   98
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh bàn chân bẹt",
+  "codes": [
+   "Q66.5"
+  ],
+  "mentions": 3,
+  "docs": [
+   11,
+   29,
+   39
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "amyloidosis di truyền hoặc gia đình",
+  "codes": [
+   "E85.2"
+  ],
+  "mentions": 3,
+  "docs": [
+   21,
+   32,
+   73
+  ],
+  "ndocs": 3
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "xuất huyết dưới nhện",
+  "codes": [
+   "I60.9"
+  ],
+  "mentions": 6,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm phổi bệnh viện",
+  "codes": [
+   "J18.9"
+  ],
+  "mentions": 4,
+  "docs": [
+   39,
+   47
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "vô sinh",
+  "codes": [
+   "N97.9"
+  ],
+  "mentions": 3,
+  "docs": [
+   5,
+   25
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Bầm dập nhu mô",
+  "codes": [
+   "S06.3"
+  ],
+  "mentions": 2,
+  "docs": [
+   6,
+   11
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Suy giảm miễn dịch do sử dụng corticoid kéo dài",
+  "codes": [
+   "D84.8"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bệnh mạch máu ngoại biên",
+  "codes": [
+   "I73.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   17,
+   67
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "sỏi ống dẫn mật chung đoạn cuối",
+  "codes": [
+   "K80.5"
+  ],
+  "mentions": 2,
+  "docs": [
+   31,
+   82
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "RLL PNA",
+  "codes": [
+   "J18.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   42,
+   62
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm da tiếp xúc",
+  "codes": [
+   "L25.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   49,
+   65
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tim to",
+  "codes": [
+   "I51.7"
+  ],
+  "mentions": 2,
+  "docs": [
+   58,
+   66
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm loét đại tràng",
+  "codes": [
+   "K51.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   73,
+   74
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bàng quang thần kinh",
+  "codes": [
+   "N31.9"
+  ],
+  "mentions": 2,
+  "docs": [
+   92,
+   99
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "cotrimoxazol",
+  "codes": [
+   "10831"
+  ],
+  "mentions": 2,
+  "docs": [
+   12,
+   15
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "methylprednisolone 125mg iv",
+  "codes": [
+   "1743704"
+  ],
+  "mentions": 2,
+  "docs": [
+   51,
+   70
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "THUỐC",
+  "text": "torsemide",
+  "codes": [
+   "38413"
+  ],
+  "mentions": 2,
+  "docs": [
+   53,
+   57
+  ],
+  "ndocs": 2
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "loét tá tràng",
+  "codes": [
+   "K26.9"
+  ],
+  "mentions": 5,
+  "docs": [
+   4
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "ntg",
+  "codes": [
+   "4917"
+  ],
+  "mentions": 3,
+  "docs": [
+   33
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "hội chứng nghiện rượu",
+  "codes": [
+   "F10.2"
+  ],
+  "mentions": 2,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "giãn thừng tinh",
+  "codes": [
+   "I86.1"
+  ],
+  "mentions": 2,
+  "docs": [
+   31
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "atenolol",
+  "codes": [
+   "1202"
+  ],
+  "mentions": 2,
+  "docs": [
+   10
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "bại não",
+  "codes": [
+   "G80.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   1
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "đau thắt ngực ổn định",
+  "codes": [
+   "I20.8"
+  ],
+  "mentions": 1,
+  "docs": [
+   3
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Suy vành mạn tính",
+  "codes": [
+   "I25.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "loãng xương",
+  "codes": [
+   "M81.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   17
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "tắc ống dẫn trứng",
+  "codes": [
+   "N97.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   25
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Hội chứng vành cấp",
+  "codes": [
+   "I24.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Viêm phổi hoại tử",
+  "codes": [
+   "J85.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   27
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Giãn thừng tinh",
+  "codes": [
+   "I86.1"
+  ],
+  "mentions": 1,
+  "docs": [
+   31
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "suy thận",
+  "codes": [
+   "N19"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Dị tật còn ống động mạch",
+  "codes": [
+   "Q25.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   45
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "rối loạn lipid máu",
+  "codes": [
+   "E78.5"
+  ],
+  "mentions": 1,
+  "docs": [
+   53
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm nang lông",
+  "codes": [
+   "L73.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   71
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "xơ gan mất bù",
+  "codes": [
+   "K74.6"
+  ],
+  "mentions": 1,
+  "docs": [
+   80
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "viêm bể thận",
+  "codes": [
+   "N12"
+  ],
+  "mentions": 1,
+  "docs": [
+   85
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Táo bón mãn tính",
+  "codes": [
+   "K59.0"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "loét tì đè giai đoạn IV mãn tính",
+  "codes": [
+   "L89.3"
+  ],
+  "mentions": 1,
+  "docs": [
+   92
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "CHẨN_ĐOÁN",
+  "text": "Tâm phế mạn",
+  "codes": [
+   "I27.9"
+  ],
+  "mentions": 1,
+  "docs": [
+   99
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "seroquel",
+  "codes": [
+   "83553"
+  ],
+  "mentions": 1,
+  "docs": [
+   8
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "aleve",
+  "codes": [
+   "215101"
+  ],
+  "mentions": 1,
+  "docs": [
+   20
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "eliquis",
+  "codes": [
+   "1364436"
+  ],
+  "mentions": 1,
+  "docs": [
+   26
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Medrol 16mg x 3 viên, uống 8h sáng sau ăn no",
+  "codes": [
+   "6902"
+  ],
+  "mentions": 1,
+  "docs": [
+   36
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "coumadin 3.0 mg /ngày",
+  "codes": [
+   "855318"
+  ],
+  "mentions": 1,
+  "docs": [
+   60
+  ],
+  "ndocs": 1
+ },
+ {
+  "type": "THUỐC",
+  "text": "Ipratropium 1 lần",
+  "codes": [
+   "7213"
+  ],
+  "mentions": 1,
+  "docs": [
+   90
+  ],
+  "ndocs": 1
+ }
+]
